@@ -8,12 +8,14 @@
 
 /* Begin PBXBuildFile section */
 		AE3DB3AF2DA192BC0032901D /* REAApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE3DB3AE2DA192BC0032901D /* REAApp.swift */; };
-		AE3DB3B12DA192BC0032901D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE3DB3B02DA192BC0032901D /* ContentView.swift */; };
 		AE3DB3B32DA192BF0032901D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AE3DB3B22DA192BF0032901D /* Assets.xcassets */; };
 		AE3DB3B72DA192BF0032901D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AE3DB3B62DA192BF0032901D /* Preview Assets.xcassets */; };
 		AE3DB3C12DA192C00032901D /* REATests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE3DB3C02DA192C00032901D /* REATests.swift */; };
 		AE3DB3CB2DA192C00032901D /* REAUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE3DB3CA2DA192C00032901D /* REAUITests.swift */; };
 		AE3DB3CD2DA192C00032901D /* REAUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE3DB3CC2DA192C00032901D /* REAUITestsLaunchTests.swift */; };
+		AE3DB3DD2DA193E30032901D /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE3DB3DC2DA193E30032901D /* Question.swift */; };
+		AE3DB3DF2DA194030032901D /* QuestionViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE3DB3DE2DA194030032901D /* QuestionViewModel.swift */; };
+		AE3DB3E12DA194140032901D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE3DB3E02DA194140032901D /* ContentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,7 +38,6 @@
 /* Begin PBXFileReference section */
 		AE3DB3AB2DA192BC0032901D /* REA.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = REA.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AE3DB3AE2DA192BC0032901D /* REAApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = REAApp.swift; sourceTree = "<group>"; };
-		AE3DB3B02DA192BC0032901D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		AE3DB3B22DA192BF0032901D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AE3DB3B42DA192BF0032901D /* REA.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = REA.entitlements; sourceTree = "<group>"; };
 		AE3DB3B62DA192BF0032901D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -45,6 +46,9 @@
 		AE3DB3C62DA192C00032901D /* REAUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = REAUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AE3DB3CA2DA192C00032901D /* REAUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = REAUITests.swift; sourceTree = "<group>"; };
 		AE3DB3CC2DA192C00032901D /* REAUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = REAUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		AE3DB3DC2DA193E30032901D /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
+		AE3DB3DE2DA194030032901D /* QuestionViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionViewModel.swift; sourceTree = "<group>"; };
+		AE3DB3E02DA194140032901D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,8 +99,10 @@
 		AE3DB3AD2DA192BC0032901D /* REA */ = {
 			isa = PBXGroup;
 			children = (
+				AE3DB3DB2DA193AD0032901D /* Views */,
+				AE3DB3DA2DA193A40032901D /* ViewModels */,
+				AE3DB3D92DA193940032901D /* Models */,
 				AE3DB3AE2DA192BC0032901D /* REAApp.swift */,
-				AE3DB3B02DA192BC0032901D /* ContentView.swift */,
 				AE3DB3B22DA192BF0032901D /* Assets.xcassets */,
 				AE3DB3B42DA192BF0032901D /* REA.entitlements */,
 				AE3DB3B52DA192BF0032901D /* Preview Content */,
@@ -127,6 +133,30 @@
 				AE3DB3CC2DA192C00032901D /* REAUITestsLaunchTests.swift */,
 			);
 			path = REAUITests;
+			sourceTree = "<group>";
+		};
+		AE3DB3D92DA193940032901D /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				AE3DB3DC2DA193E30032901D /* Question.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		AE3DB3DA2DA193A40032901D /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				AE3DB3DE2DA194030032901D /* QuestionViewModel.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		AE3DB3DB2DA193AD0032901D /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				AE3DB3E02DA194140032901D /* ContentView.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -259,7 +289,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AE3DB3B12DA192BC0032901D /* ContentView.swift in Sources */,
+				AE3DB3DD2DA193E30032901D /* Question.swift in Sources */,
+				AE3DB3E12DA194140032901D /* ContentView.swift in Sources */,
+				AE3DB3DF2DA194030032901D /* QuestionViewModel.swift in Sources */,
 				AE3DB3AF2DA192BC0032901D /* REAApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
