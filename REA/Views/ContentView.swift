@@ -5,28 +5,53 @@ struct ContentView: View {
     
     var body: some View {
         NavigationStack {
-            if viewModel.showingResults {
+            if viewModel.isSelectionViewActive {
+                SelectionView(viewModel: viewModel)
+                    .navigationTitle("Bible Quiz")
+            } else if viewModel.showingResults {
                 resultsView
             } else {
                 questionView
             }
         }
-        .frame(maxWidth: .infinity, maxHeight: .infinity)
-        .background(Color.primary.opacity(0.05)) // Using SwiftUI native colors
     }
     
     var questionView: some View {
-        VStack(spacing: 24) {
+        VStack(spacing: 20) {
             // Progress bar
             ProgressView(value: viewModel.progressValue)
                 .tint(Color.blue)
                 .padding(.horizontal)
                 .scaleEffect(x: 1, y: 1.5, anchor: .center)
             
-            // Question counter
-            Text("Question \(viewModel.currentQuestionIndex + 1) of \(viewModel.questions.count)")
-                .font(.headline)
-                .foregroundColor(.secondary)
+            // Question counter and book/difficulty
+            HStack {
+                Text("Q\(viewModel.currentQuestionIndex + 1)/\(viewModel.questions.count)")
+                    .font(.subheadline)
+                    .foregroundColor(.secondary)
+                
+                Spacer()
+                
+                // Display book and difficulty
+                HStack(spacing: 5) {
+                    Text(viewModel.currentQuestion.book.rawValue)
+                        .font(.subheadline)
+                        .padding(.horizontal, 8)
+                        .padding(.vertical, 4)
+                        .background(Color.blue.opacity(0.1))
+                        .foregroundColor(.blue)
+                        .cornerRadius(8)
+                    
+                    Text(viewModel.currentQuestion.difficulty.rawValue)
+                        .font(.subheadline)
+                        .padding(.horizontal, 8)
+                        .padding(.vertical, 4)
+                        .background(difficultyColor(viewModel.currentQuestion.difficulty).opacity(0.1))
+                        .foregroundColor(difficultyColor(viewModel.currentQuestion.difficulty))
+                        .cornerRadius(8)
+                }
+            }
+            .padding(.horizontal)
             
             // Question text
             Text(viewModel.currentQuestion.text)
@@ -36,13 +61,23 @@ struct ContentView: View {
                 .padding(.horizontal)
                 .frame(maxWidth: .infinity)
             
+            // Verse reference
+            Text(viewModel.currentQuestion.verseReference)
+                .font(.footnote)
+                .italic()
+                .foregroundColor(.secondary)
+                .multilineTextAlignment(.center)
+                .padding(.horizontal)
+            
             Spacer(minLength: 10)
             
             // Answer options
             VStack(spacing: 14) {
                 ForEach(0..<viewModel.currentQuestion.options.count, id: \.self) { index in
                     Button(action: {
-                        viewModel.selectAnswer(index)
+                        if !viewModel.showingFeedback {
+                            viewModel.selectAnswer(index)
+                        }
                     }) {
                         Text(viewModel.currentQuestion.options[index])
                             .font(.system(size: 16, weight: .medium))
@@ -50,20 +85,111 @@ struct ContentView: View {
                             .padding(.vertical, 16)
                             .background(
                                 RoundedRectangle(cornerRadius: 12)
-                                    .fill(Color.blue.opacity(0.1))
-                                    .shadow(color: Color.black.opacity(0.05), radius: 2, x: 0, y: 1)
+                                    .fill(answerBackgroundColor(for: index))
                             )
-                            .foregroundColor(.primary)
+                            .foregroundColor(answerTextColor(for: index))
                     }
+                    .disabled(viewModel.showingFeedback)
                 }
             }
             .padding(.horizontal)
             
+            if viewModel.showingFeedback {
+                // Feedback message
+                Text(viewModel.isLastAnswerCorrect ? "Correct!" : "Incorrect!")
+                    .font(.title)
+                    .fontWeight(.bold)
+                    .foregroundColor(viewModel.isLastAnswerCorrect ? .green : .red)
+                    .padding()
+                
+                if !viewModel.isLastAnswerCorrect {
+                    Text("The correct answer is: \(viewModel.currentQuestion.options[viewModel.currentQuestion.correctAnswerIndex])")
+                        .font(.headline)
+                        .foregroundColor(.secondary)
+                        .multilineTextAlignment(.center)
+                        .padding(.horizontal)
+                }
+                
+                // Display the Bible verse text
+                VStack(spacing: 8) {
+                    Text(viewModel.currentQuestion.verseReference)
+                        .font(.headline)
+                        .fontWeight(.medium)
+                    
+                    Text(viewModel.currentQuestion.verseText)
+                        .font(.body)
+                        .italic()
+                        .multilineTextAlignment(.center)
+                        .foregroundColor(.secondary)
+                        .padding(.horizontal)
+                }
+                .padding()
+                .background(Color.gray.opacity(0.1))
+                .cornerRadius(10)
+                .padding(.horizontal)
+                
+                // Next button
+                Button(action: {
+                    viewModel.proceedToNextQuestion()
+                }) {
+                    Text("Next Question")
+                        .font(.headline)
+                        .frame(maxWidth: .infinity)
+                        .padding()
+                        .background(Color.blue)
+                        .foregroundColor(.white)
+                        .cornerRadius(12)
+                }
+                .padding(.horizontal)
+                .padding(.top, 10)
+            }
+            
             Spacer()
         }
-        .navigationTitle("Question Bank")
+        .navigationTitle("Question")
+        #if os(iOS)
+        .navigationBarTitleDisplayMode(.inline)
+        #endif
+        .toolbar {
+            #if os(iOS)
+            ToolbarItem(placement: .navigationBarLeading) {
+                Button("Menu") {
+                    viewModel.returnToSelection()
+                }
+            }
+            #else
+            ToolbarItem(placement: .automatic) {
+                Button("Menu") {
+                    viewModel.returnToSelection()
+                }
+            }
+            #endif
+        }
         .padding()
         .frame(maxWidth: .infinity, maxHeight: .infinity)
+    }
+    
+    // New helper functions for answer styling
+    func answerBackgroundColor(for index: Int) -> Color {
+        if viewModel.showingFeedback {
+            if index == viewModel.currentQuestion.correctAnswerIndex {
+                return Color.green.opacity(0.2)
+            } else if index == viewModel.lastSelectedAnswerIndex {
+                return viewModel.isLastAnswerCorrect ? Color.green.opacity(0.2) : Color.red.opacity(0.2)
+            }
+        }
+        return Color.blue.opacity(0.1)
+    }
+    
+    func answerTextColor(for index: Int) -> Color {
+        if viewModel.showingFeedback {
+            if index == viewModel.currentQuestion.correctAnswerIndex {
+                return Color.green
+            } else if index == viewModel.lastSelectedAnswerIndex && !viewModel.isLastAnswerCorrect {
+                return Color.red
+            }
+        }
+        return .primary
     }
     
     var resultsView: some View {
@@ -74,6 +200,37 @@ struct ContentView: View {
                     Text("Quiz Complete!")
                         .font(.largeTitle)
                         .fontWeight(.bold)
+                    
+                    // Book and difficulty
+                    if let book = viewModel.selectedBook {
+                        HStack {
+                            Text(book.rawValue)
+                                .font(.subheadline)
+                                .padding(.horizontal, 10)
+                                .padding(.vertical, 5)
+                                .background(Color.blue.opacity(0.1))
+                                .foregroundColor(.blue)
+                                .cornerRadius(10)
+                            
+                            if let difficulty = viewModel.selectedDifficulty {
+                                Text(difficulty.rawValue)
+                                    .font(.subheadline)
+                                    .padding(.horizontal, 10)
+                                    .padding(.vertical, 5)
+                                    .background(difficultyColor(difficulty).opacity(0.1))
+                                    .foregroundColor(difficultyColor(difficulty))
+                                    .cornerRadius(10)
+                            } else {
+                                Text("All Levels")
+                                    .font(.subheadline)
+                                    .padding(.horizontal, 10)
+                                    .padding(.vertical, 5)
+                                    .background(Color.purple.opacity(0.1))
+                                    .foregroundColor(.purple)
+                                    .cornerRadius(10)
+                            }
+                        }
+                    }
                     
                     Text("Your score: \(viewModel.score) out of \(viewModel.questions.count)")
                         .font(.title3)
@@ -107,7 +264,7 @@ struct ContentView: View {
                         .padding(.leading)
                     
                     ForEach(viewModel.questions) { question in
-                        HStack(alignment: .top) {
+                        HStack(alignment: .top, spacing: 12) {
                             if question.isAnsweredCorrectly == true {
                                 Image(systemName: "checkmark.circle.fill")
                                     .foregroundColor(.green)
@@ -118,37 +275,84 @@ struct ContentView: View {
                                     .font(.system(size: 20))
                             }
                             
-                            Text(question.text)
-                                .fontWeight(.medium)
+                            VStack(alignment: .leading, spacing: 5) {
+                                Text(question.text)
+                                    .fontWeight(.medium)
+                                
+                                Text(question.verseReference)
+                                    .font(.footnote)
+                                    .italic()
+                                    .foregroundColor(.secondary)
+                                
+                                if !question.verseText.isEmpty {
+                                    Text(question.verseText)
+                                        .font(.caption)
+                                        .italic()
+                                        .foregroundColor(.secondary)
+                                        .padding(.top, 2)
+                                }
+                                
+                                Text("Correct answer: \(question.options[question.correctAnswerIndex])")
+                                    .font(.subheadline)
+                                    .foregroundColor(.secondary)
+                            }
                         }
                         .padding()
                         .background(
                             RoundedRectangle(cornerRadius: 10)
-                                .fill(Color.gray.opacity(0.1)) // Using SwiftUI native colors
+                                .fill(Color.gray.opacity(0.1))
                         )
                         .padding(.horizontal)
                     }
                 }
                 
-                // Restart button
-                Button(action: {
-                    viewModel.restartQuiz()
-                }) {
-                    Text("Restart Quiz")
-                        .font(.headline)
-                        .frame(maxWidth: .infinity)
-                        .padding()
-                        .background(Color.blue)
-                        .foregroundColor(.white)
-                        .cornerRadius(12)
+                HStack(spacing: 20) {
+                    // Restart button
+                    Button(action: {
+                        viewModel.restartQuiz()
+                    }) {
+                        Text("Restart Quiz")
+                            .font(.headline)
+                            .frame(maxWidth: .infinity)
+                            .padding()
+                            .background(Color.blue)
+                            .foregroundColor(.white)
+                            .cornerRadius(12)
+                    }
+                    
+                    // Return to menu button
+                    Button(action: {
+                        viewModel.returnToSelection()
+                    }) {
+                        Text("Back to Menu")
+                            .font(.headline)
+                            .frame(maxWidth: .infinity)
+                            .padding()
+                            .background(Color.secondary)
+                            .foregroundColor(.white)
+                            .cornerRadius(12)
+                    }
                 }
                 .padding(.horizontal)
                 .padding(.top, 10)
+                .padding(.bottom, 30)
             }
             .padding(.vertical)
         }
         .navigationTitle("Results")
+        #if os(iOS)
+        .navigationBarTitleDisplayMode(.inline)
+        #endif
+        .navigationBarBackButtonHidden(true)
         .frame(maxWidth: .infinity, maxHeight: .infinity)
+    }
+    
+    func difficultyColor(_ difficulty: Difficulty) -> Color {
+        switch difficulty {
+        case .easy: return .green
+        case .medium: return .orange
+        case .hard: return .red
+        }
     }
 }
 
