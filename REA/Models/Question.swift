@@ -24,12 +24,31 @@ enum Difficulty: String, CaseIterable {
 struct Question: Identifiable {
     let id = UUID()
     let text: String
-    let options: [String]
-    let correctAnswerIndex: Int
+    var options: [String]
+    var correctAnswerIndex: Int
     let book: BibleBook
     let difficulty: Difficulty
     let verseReference: String // Reference like "Exodus 3:10"
     let verseText: String      // The actual ESV Bible verse text
     
     var isAnsweredCorrectly: Bool?
+    
+    // New method to create a shuffled copy of this question
+    func withShuffledOptions() -> Question {
+        // Get the correct answer text before shuffling
+        let correctAnswer = options[correctAnswerIndex]
+        
+        // Create a shuffled copy of options
+        var shuffledOptions = options
+        shuffledOptions.shuffle()
+        
+        // Find the new index of the correct answer
+        let newCorrectIndex = shuffledOptions.firstIndex(of: correctAnswer) ?? correctAnswerIndex
+        
+        // Create a new question with shuffled options
+        var newQuestion = self
+        newQuestion.options = shuffledOptions
+        newQuestion.correctAnswerIndex = newCorrectIndex
+        return newQuestion
+    }
 }

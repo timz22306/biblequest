@@ -81,6 +81,9 @@ class QuestionViewModel: ObservableObject {
             allQuestions = Array(allQuestions.prefix(count))
         }
         
+        // Shuffle the options for each question to randomize answer order
+        allQuestions = allQuestions.map { $0.withShuffledOptions() }
+        
         self.questions = allQuestions
         
         // Reset quiz state
