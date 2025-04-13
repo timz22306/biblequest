@@ -26,6 +26,9 @@ struct SelectionView: View {
                         ForEach(viewModel.availableBooks, id: \.self) { book in
                             Button(action: {
                                 viewModel.selectedBook = book
+                                // Reset subsequent selections when book changes
+                                viewModel.selectedDifficulty = nil
+                                viewModel.selectedQuestionCount = nil
                             }) {
                                 Text(book.rawValue)
                                     .padding(.vertical, 8)
@@ -57,6 +60,7 @@ struct SelectionView: View {
                         ForEach(Difficulty.allCases, id: \.self) { difficulty in
                             Button(action: {
                                 viewModel.selectedDifficulty = difficulty
+                                viewModel.selectedQuestionCount = nil
                             }) {
                                 Text(difficulty.rawValue)
                                     .padding(.vertical, 8)
@@ -75,6 +79,7 @@ struct SelectionView: View {
                         
                         Button(action: {
                             viewModel.selectedDifficulty = nil
+                            viewModel.selectedQuestionCount = nil
                         }) {
                             Text("All")
                                 .padding(.vertical, 8)
@@ -94,6 +99,56 @@ struct SelectionView: View {
                 .padding(.horizontal)
             }
             
+            // Question Count Selection
+            if viewModel.selectedBook != nil && viewModel.availableQuestionCounts.count > 0 {
+                VStack(alignment: .leading, spacing: 8) {
+                    Text("How many questions?")
+                        .font(.headline)
+                    
+                    ScrollView(.horizontal, showsIndicators: false) {
+                        HStack(spacing: 12) {
+                            ForEach(viewModel.availableQuestionCounts, id: \.self) { count in
+                                Button(action: {
+                                    viewModel.selectedQuestionCount = count
+                                }) {
+                                    Text("\(count)")
+                                        .padding(.vertical, 8)
+                                        .padding(.horizontal, 16)
+                                        .background(
+                                            viewModel.selectedQuestionCount == count ?
+                                            Color.teal : Color.teal.opacity(0.1)
+                                        )
+                                        .foregroundColor(
+                                            viewModel.selectedQuestionCount == count ?
+                                            Color.white : Color.teal
+                                        )
+                                        .cornerRadius(20)
+                                }
+                            }
+                            
+                            Button(action: {
+                                viewModel.selectedQuestionCount = nil
+                            }) {
+                                Text("All")
+                                    .padding(.vertical, 8)
+                                    .padding(.horizontal, 16)
+                                    .background(
+                                        viewModel.selectedQuestionCount == nil && viewModel.selectedBook != nil ?
+                                        Color.indigo : Color.indigo.opacity(0.1)
+                                    )
+                                    .foregroundColor(
+                                        viewModel.selectedQuestionCount == nil && viewModel.selectedBook != nil ?
+                                        Color.white : Color.indigo
+                                    )
+                                    .cornerRadius(20)
+                            }
+                        }
+                        .padding(.horizontal, 5)
+                    }
+                }
+                .padding(.horizontal)
+            }
+            
             Spacer()
             
             // Info display (question count)
@@ -102,6 +157,13 @@ struct SelectionView: View {
                     .font(.headline)
                     .foregroundColor(.secondary)
                     .padding(.bottom, 5)
+                
+                if viewModel.selectedQuestionCount != nil {
+                    Text("You selected \(viewModel.selectedQuestionCount!) questions")
+                        .font(.subheadline)
+                        .foregroundColor(.secondary)
+                        .padding(.bottom, 5)
+                }
             }
             
             // Start Button
@@ -109,7 +171,8 @@ struct SelectionView: View {
                 Button(action: {
                     viewModel.loadQuestions(
                         book: viewModel.selectedBook,
-                        difficulty: viewModel.selectedDifficulty
+                        difficulty: viewModel.selectedDifficulty,
+                        count: viewModel.selectedQuestionCount
                     )
                 }) {
                     Text("Start Quiz")

@@ -15,6 +15,7 @@ class QuestionViewModel: ObservableObject {
     @Published var selectedBook: BibleBook?
     @Published var selectedDifficulty: Difficulty?
     @Published var isSelectionViewActive = true
+    @Published var selectedQuestionCount: Int? // nil means all questions
     
     // New properties for feedback
     @Published var showingFeedback = false
@@ -45,14 +46,42 @@ class QuestionViewModel: ObservableObject {
         BibleQuestionBank.getQuestions(for: selectedBook, difficulty: selectedDifficulty).count
     }
     
+    // New method to get available question count options
+    var availableQuestionCounts: [Int] {
+        let totalQuestions = questionCount
+        
+        if totalQuestions == 0 {
+            return []
+        } else if totalQuestions <= 5 {
+            return [totalQuestions]
+        } else if totalQuestions <= 10 {
+            return [5, totalQuestions]
+        } else if totalQuestions <= 20 {
+            return [5, 10, totalQuestions]
+        } else {
+            return [5, 10, 20, totalQuestions]
+        }
+    }
+    
     init() {
         // Initialize empty for selection screen
     }
     
-    func loadQuestions(book: BibleBook? = nil, difficulty: Difficulty? = nil) {
+    func loadQuestions(book: BibleBook? = nil, difficulty: Difficulty? = nil, count: Int? = nil) {
         self.selectedBook = book
         self.selectedDifficulty = difficulty
-        self.questions = BibleQuestionBank.getQuestions(for: book, difficulty: difficulty)
+        self.selectedQuestionCount = count
+        
+        // Get all matching questions
+        var allQuestions = BibleQuestionBank.getQuestions(for: book, difficulty: difficulty)
+        
+        // Limit to selected count if specified
+        if let count = count, count < allQuestions.count {
+            allQuestions.shuffle() // Randomize before limiting
+            allQuestions = Array(allQuestions.prefix(count))
+        }
+        
+        self.questions = allQuestions
         
         // Reset quiz state
         currentQuestionIndex = 0
@@ -80,7 +109,6 @@ class QuestionViewModel: ObservableObject {
         showingFeedback = true
     }
     
-    // New method to proceed after feedback
     func proceedToNextQuestion() {
         showingFeedback = false
         lastSelectedAnswerIndex = nil
@@ -110,6 +138,7 @@ class QuestionViewModel: ObservableObject {
         questions = []
         selectedBook = nil
         selectedDifficulty = nil
+        selectedQuestionCount = nil
         showingResults = false
         isSelectionViewActive = true
         showingFeedback = false

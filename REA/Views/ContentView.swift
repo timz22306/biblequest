@@ -229,6 +229,16 @@ struct ContentView: View {
                                     .foregroundColor(.purple)
                                     .cornerRadius(10)
                             }
+                            
+                            if let count = viewModel.selectedQuestionCount {
+                                Text("\(count) Questions")
+                                    .font(.subheadline)
+                                    .padding(.horizontal, 10)
+                                    .padding(.vertical, 5)
+                                    .background(Color.teal.opacity(0.1))
+                                    .foregroundColor(.teal)
+                                    .cornerRadius(10)
+                            }
                         }
                     }
                     
