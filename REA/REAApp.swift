@@ -9,10 +9,16 @@ import SwiftUI
 
 @main
 struct REAApp: App {
+    @State private var showSplashScreen = true
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
-                .accentColor(Color("AccentColor")) // Changed to use named color directly until AppColors is available
+            if showSplashScreen {
+                SplashScreenView()
+            } else {
+                ContentView()
+                    .accentColor(Color("AccentColor"))
+            }
         }
     }
 }

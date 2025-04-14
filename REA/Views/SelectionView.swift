@@ -93,12 +93,14 @@ struct SelectionView: View {
     @ObservedObject var viewModel: QuestionViewModel
     @Environment(\.colorScheme) var colorScheme
     @State private var animateButtons = false
+    @State private var animateQuestionOptions = false
+    @State private var previousDifficulty: Difficulty? = nil
     
     var body: some View {
         GeometryReader { geometry in
             ScrollView {
-                VStack(spacing: AppLayout.wideSpacing) {
-                    // App title with logo image
+                VStack(alignment: .leading, spacing: AppLayout.wideSpacing) {
+                    // App title with logo image - Keep this centered
                     VStack(spacing: AppLayout.tightSpacing) {
                         Image("biblequest_logo")
                             .resizable()
@@ -106,7 +108,7 @@ struct SelectionView: View {
                             .frame(width: 120, height: 120)
                             .shadow(color: Color.black.opacity(0.1), radius: 5, x: 0, y: 2)
                         
-                        Text("Bible Quiz")
+                        Text("BibleQuest")
                             .font(AppFonts.largeTitle)
                             .padding(.bottom, 5)
                         
@@ -115,12 +117,13 @@ struct SelectionView: View {
                             .foregroundColor(.secondary)
                             .multilineTextAlignment(.center)
                     }
+                    .frame(maxWidth: .infinity) // Keep header centered
                     .padding(.top)
                     
-                    // Bible Book Selection
+                    // Bible Book Selection - Left aligned with increased padding
                     selectionGroup(title: "Select a Book:", icon: "book") {
                         ScrollView(.horizontal, showsIndicators: false) {
-                            HStack(spacing: AppLayout.standardSpacing) {
+                            HStack(alignment: .center, spacing: AppLayout.standardSpacing) {
                                 ForEach(viewModel.availableBooks, id: \.self) { book in
                                     Button(action: {
                                         withAnimation(AppAnimation.quick) {
@@ -131,7 +134,7 @@ struct SelectionView: View {
                                         }
                                     }) {
                                         Text(book.rawValue)
-                                            .padding(.vertical, 8)
+                                            .padding(.vertical, 10)
                                             .padding(.horizontal, 16)
                                             .background(
                                                 RoundedRectangle(cornerRadius: AppLayout.largeCornerRadius)
@@ -158,6 +161,7 @@ struct SelectionView: View {
                                             )
                                     }
                                     .buttonStyle(PlainButtonStyle())
+                                    .padding(.vertical, 4)
                                     .offset(y: animateButtons ? -5 : 0)
                                     .animation(
                                         AppAnimation.bounce.delay(Double(viewModel.availableBooks.firstIndex(of: book) ?? 0) * 0.05),
@@ -165,19 +169,53 @@ struct SelectionView: View {
                                     )
                                 }
                             }
-                            .padding(.horizontal, 5)
+                            .padding(.leading)
+                            .padding(.trailing, 5)
+                            .padding(.vertical, 8)
                         }
+                        .padding(.top, 12)
+                        .padding(.bottom, 8)
                     }
                     
-                    // Difficulty Selection
+                    // Difficulty Selection - Left aligned
                     if viewModel.selectedBook != nil {
                         selectionGroup(title: "Select Difficulty:", icon: "speedometer") {
-                            HStack(spacing: AppLayout.standardSpacing) {
+                            HStack(alignment: .top, spacing: AppLayout.standardSpacing) {
                                 ForEach(Difficulty.allCases, id: \.self) { difficulty in
                                     Button(action: {
-                                        withAnimation(AppAnimation.quick) {
-                                            viewModel.selectedDifficulty = difficulty
-                                            viewModel.selectedQuestionCount = nil
+                                        // Store previous difficulty for animation trigger
+                                        previousDifficulty = viewModel.selectedDifficulty
+                                        
+                                        // If changing difficulty, animate question options refresh
+                                        if viewModel.selectedDifficulty != nil && viewModel.selectedDifficulty != difficulty {
+                                            withAnimation(AppAnimation.quick) {
+                                                animateQuestionOptions = false
+                                                viewModel.selectedQuestionCount = nil
+                                            }
+                                            
+                                            // Set new difficulty after a slight delay
+                                            DispatchQueue.main.asyncAfter(deadline: .now() + 0.3) {
+                                                withAnimation(AppAnimation.quick) {
+                                                    viewModel.selectedDifficulty = difficulty
+                                                }
+                                                
+                                                // Animate the options back in
+                                                withAnimation(AppAnimation.bounce.delay(0.1)) {
+                                                    animateQuestionOptions = true
+                                                }
+                                            }
+                                        } else {
+                                            withAnimation(AppAnimation.quick) {
+                                                viewModel.selectedDifficulty = difficulty
+                                                // Only reset question count if we're changing difficulty
+                                                if previousDifficulty != difficulty {
+                                                    viewModel.selectedQuestionCount = nil
+                                                }
+                                            }
+                                            
+                                            withAnimation(AppAnimation.bounce.delay(0.1)) {
+                                                animateQuestionOptions = true
+                                            }
                                         }
                                     }) {
                                         HStack {
@@ -215,9 +253,33 @@ struct SelectionView: View {
                                 }
                                 
                                 Button(action: {
-                                    withAnimation(AppAnimation.quick) {
-                                        viewModel.selectedDifficulty = nil
-                                        viewModel.selectedQuestionCount = nil
+                                    previousDifficulty = viewModel.selectedDifficulty
+                                    
+                                    // If changing from a specific difficulty to "All", animate question options refresh
+                                    if viewModel.selectedDifficulty != nil {
+                                        withAnimation(AppAnimation.quick) {
+                                            animateQuestionOptions = false
+                                            viewModel.selectedQuestionCount = nil
+                                        }
+                                        
+                                        DispatchQueue.main.asyncAfter(deadline: .now() + 0.3) {
+                                            withAnimation(AppAnimation.quick) {
+                                                viewModel.selectedDifficulty = nil
+                                            }
+                                            
+                                            withAnimation(AppAnimation.bounce.delay(0.1)) {
+                                                animateQuestionOptions = true
+                                            }
+                                        }
+                                    } else {
+                                        withAnimation(AppAnimation.quick) {
+                                            viewModel.selectedDifficulty = nil
+                                            viewModel.selectedQuestionCount = nil
+                                        }
+                                        
+                                        withAnimation(AppAnimation.bounce.delay(0.1)) {
+                                            animateQuestionOptions = true
+                                        }
                                     }
                                 }) {
                                     HStack {
@@ -253,15 +315,17 @@ struct SelectionView: View {
                                 }
                                 .buttonStyle(PlainButtonStyle())
                             }
+                            .padding(.leading) // Add leading padding to align with title
+                            .padding(.trailing, 5)
                         }
                         .transition(.move(edge: .leading).combined(with: .opacity))
                     }
                     
-                    // Question Count Selection
+                    // Question Count Selection - Left aligned
                     if viewModel.selectedBook != nil && viewModel.availableQuestionCounts.count > 0 {
                         selectionGroup(title: "How many questions?", icon: "number.circle") {
                             ScrollView(.horizontal, showsIndicators: false) {
-                                HStack(spacing: AppLayout.standardSpacing) {
+                                HStack(alignment: .top, spacing: AppLayout.standardSpacing) {
                                     ForEach(viewModel.availableQuestionCounts, id: \.self) { count in
                                         Button(action: {
                                             withAnimation(AppAnimation.quick) {
@@ -296,6 +360,12 @@ struct SelectionView: View {
                                                 )
                                         }
                                         .buttonStyle(PlainButtonStyle())
+                                        .scaleEffect(animateQuestionOptions ? 1 : 0.7)
+                                        .opacity(animateQuestionOptions ? 1 : 0)
+                                        .animation(
+                                            AppAnimation.bounce.delay(Double(viewModel.availableQuestionCounts.firstIndex(of: count) ?? 0) * 0.05),
+                                            value: animateQuestionOptions
+                                        )
                                     }
                                     
                                     Button(action: {
@@ -331,8 +401,15 @@ struct SelectionView: View {
                                             )
                                     }
                                     .buttonStyle(PlainButtonStyle())
+                                    .scaleEffect(animateQuestionOptions ? 1 : 0.7)
+                                    .opacity(animateQuestionOptions ? 1 : 0)
+                                    .animation(
+                                        AppAnimation.bounce.delay(Double(viewModel.availableQuestionCounts.count) * 0.05),
+                                        value: animateQuestionOptions
+                                    )
                                 }
-                                .padding(.horizontal, 5)
+                                .padding(.leading) // Add leading padding to align with title
+                                .padding(.trailing, 5)
                             }
                         }
                         .transition(.move(edge: .leading).combined(with: .opacity))
@@ -340,85 +417,104 @@ struct SelectionView: View {
                     
                     Spacer()
                     
-                    // Info display (question count)
-                    if viewModel.selectedBook != nil {
-                        VStack(spacing: AppLayout.tightSpacing) {
-                            HStack {
-                                Image(systemName: "info.circle")
-                                    .foregroundColor(AppColors.info)
-                                Text("\(viewModel.questionCount) Questions Available")
-                                    .font(AppFonts.headline)
-                                    .foregroundColor(.secondary)
+                    // Info display and Start Button - Keep these centered
+                    VStack(spacing: AppLayout.standardSpacing) {
+                        // Info display (question count)
+                        if viewModel.selectedBook != nil {
+                            VStack(spacing: AppLayout.tightSpacing) {
+                                HStack {
+                                    Image(systemName: "info.circle")
+                                        .foregroundColor(AppColors.info)
+                                    Text("\(viewModel.questionCount) Questions Available")
+                                        .font(AppFonts.headline)
+                                        .foregroundColor(.secondary)
+                                }
+                                
+                                if viewModel.selectedQuestionCount != nil {
+                                    Text("You selected \(viewModel.selectedQuestionCount!) questions")
+                                        .font(AppFonts.subheadline)
+                                        .foregroundColor(.secondary)
+                                }
                             }
-                            
-                            if viewModel.selectedQuestionCount != nil {
-                                Text("You selected \(viewModel.selectedQuestionCount!) questions")
-                                    .font(AppFonts.subheadline)
-                                    .foregroundColor(.secondary)
-                            }
+                            .padding()
+                            .background(
+                                RoundedRectangle(cornerRadius: AppLayout.cornerRadius)
+                                    .fill(colorScheme == .dark ? Color.black.opacity(0.3) : Color.black.opacity(0.03))
+                            )
+                            .padding(.horizontal)
+                            .transition(.scale.combined(with: .opacity))
                         }
-                        .padding()
-                        .background(
-                            RoundedRectangle(cornerRadius: AppLayout.cornerRadius)
-                                .fill(colorScheme == .dark ? Color.black.opacity(0.3) : Color.black.opacity(0.03))
-                        )
-                        .padding(.horizontal)
-                        .transition(.scale.combined(with: .opacity))
-                    }
-                    
-                    // Start Button
-                    if viewModel.selectedBook != nil {
-                        Button(action: {
-                            withAnimation(AppAnimation.standard) {
-                                viewModel.loadQuestions(
-                                    book: viewModel.selectedBook,
-                                    difficulty: viewModel.selectedDifficulty,
-                                    count: viewModel.selectedQuestionCount
-                                )
+                        
+                        // Start Button
+                        if viewModel.selectedBook != nil {
+                            Button(action: {
+                                withAnimation(AppAnimation.standard) {
+                                    viewModel.loadQuestions(
+                                        book: viewModel.selectedBook,
+                                        difficulty: viewModel.selectedDifficulty,
+                                        count: viewModel.selectedQuestionCount
+                                    )
+                                }
+                            }) {
+                                HStack {
+                                    Text("Start Quiz")
+                                    Image(systemName: "play.fill")
+                                }
+                                .primaryButtonStyle()
                             }
-                        }) {
-                            HStack {
-                                Text("Start Quiz")
-                                Image(systemName: "play.fill")
-                            }
-                            .primaryButtonStyle()
+                            .buttonStyle(PlainButtonStyle())
+                            .padding(.horizontal)
+                            .padding(.bottom)
+                            .disabled(viewModel.questionCount == 0)
+                            .opacity(viewModel.questionCount == 0 ? 0.5 : 1)
+                            .transition(.scale.combined(with: .opacity))
                         }
-                        .buttonStyle(PlainButtonStyle())
-                        .padding(.horizontal)
-                        .padding(.bottom)
-                        .disabled(viewModel.questionCount == 0)
-                        .opacity(viewModel.questionCount == 0 ? 0.5 : 1)
-                        .transition(.scale.combined(with: .opacity))
                     }
+                    .frame(maxWidth: .infinity) // Keep footer content centered
                 }
-                .frame(minHeight: geometry.size.height)
+                .padding(.horizontal)
+                .frame(minHeight: geometry.size.height, alignment: .leading) // Set left alignment
             }
         }
         .onAppear {
             withAnimation(AppAnimation.standard.delay(0.3)) {
                 animateButtons = true
             }
+            // Reset animation state for question options
+            DispatchQueue.main.async {
+                if viewModel.selectedDifficulty != nil {
+                    animateQuestionOptions = true
+                }
+            }
+        }
+        .onChange(of: viewModel.selectedBook) { _ in
+            // Reset animations when book changes
+            animateQuestionOptions = false
         }
         .background(AppColors.background.edgesIgnoringSafeArea(.all))
     }
     
-    // Helper function to create consistent selection groups
+    // Helper function to create consistent selection groups - Updated to fix cropping
     private func selectionGroup<Content: View>(
         title: String, 
         icon: String, 
         @ViewBuilder content: @escaping () -> Content
     ) -> some View {
-        VStack(alignment: .leading, spacing: AppLayout.tightSpacing) {
+        VStack(alignment: .leading, spacing: AppLayout.standardSpacing) {
             HStack(spacing: 8) {
                 Image(systemName: icon)
                     .foregroundColor(AppColors.primary)
                 Text(title)
                     .font(AppFonts.headline)
             }
-            .padding(.horizontal)
+            .padding(.horizontal, 20)
+            .padding(.bottom, 6)
             
             content()
+                .padding(.top, 2)
         }
+        .padding(.vertical, 4)
+        .frame(maxWidth: .infinity, alignment: .leading)
     }
     
     private func difficultyColor(_ difficulty: Difficulty) -> Color {
