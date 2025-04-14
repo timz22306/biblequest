@@ -98,20 +98,13 @@ struct SelectionView: View {
         GeometryReader { geometry in
             ScrollView {
                 VStack(spacing: AppLayout.wideSpacing) {
-                    // App title with icon
+                    // App title with logo image
                     VStack(spacing: AppLayout.tightSpacing) {
-                        Image(systemName: "book.fill")
-                            .font(.system(size: 50))
-                            .foregroundColor(AppColors.primary)
-                            .padding()
-                            .background(
-                                Circle()
-                                    .fill(AppColors.primary.opacity(0.1))
-                            )
-                            .overlay(
-                                Circle()
-                                    .stroke(AppColors.primary.opacity(0.2), lineWidth: 2)
-                            )
+                        Image("biblequest_logo")
+                            .resizable()
+                            .scaledToFit()
+                            .frame(width: 120, height: 120)
+                            .shadow(color: Color.black.opacity(0.1), radius: 5, x: 0, y: 2)
                         
                         Text("Bible Quiz")
                             .font(AppFonts.largeTitle)
