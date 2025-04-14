@@ -194,6 +194,7 @@ struct ContentView: View {
                                             (index == viewModel.lastSelectedAnswerIndex && viewModel.isLastAnswerCorrect) : nil
                                     )
                             }
+                            .buttonStyle(PlainButtonStyle())
                             .disabled(viewModel.showingFeedback)
                             .animation(AppAnimation.quick, value: viewModel.showingFeedback)
                         }
@@ -302,6 +303,7 @@ struct ContentView: View {
                 }
                 .primaryButtonStyle()
             }
+            .buttonStyle(PlainButtonStyle())
             .padding(.horizontal)
             .padding(.top, 10)
         }
@@ -432,6 +434,7 @@ struct ContentView: View {
                         }
                         .primaryButtonStyle()
                     }
+                    .buttonStyle(PlainButtonStyle())
                     
                     // Return to menu button
                     Button(action: {
@@ -445,6 +448,7 @@ struct ContentView: View {
                         }
                         .secondaryButtonStyle()
                     }
+                    .buttonStyle(PlainButtonStyle())
                 }
                 .padding(.horizontal)
                 .padding(.top, 10)

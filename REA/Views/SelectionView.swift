@@ -164,6 +164,7 @@ struct SelectionView: View {
                                                     )
                                             )
                                     }
+                                    .buttonStyle(PlainButtonStyle())
                                     .offset(y: animateButtons ? -5 : 0)
                                     .animation(
                                         AppAnimation.bounce.delay(Double(viewModel.availableBooks.firstIndex(of: book) ?? 0) * 0.05),
@@ -217,6 +218,7 @@ struct SelectionView: View {
                                                 )
                                         )
                                     }
+                                    .buttonStyle(PlainButtonStyle())
                                 }
                                 
                                 Button(action: {
@@ -256,6 +258,7 @@ struct SelectionView: View {
                                             )
                                     )
                                 }
+                                .buttonStyle(PlainButtonStyle())
                             }
                         }
                         .transition(.move(edge: .leading).combined(with: .opacity))
@@ -299,6 +302,7 @@ struct SelectionView: View {
                                                         )
                                                 )
                                         }
+                                        .buttonStyle(PlainButtonStyle())
                                     }
                                     
                                     Button(action: {
@@ -333,6 +337,7 @@ struct SelectionView: View {
                                                     )
                                             )
                                     }
+                                    .buttonStyle(PlainButtonStyle())
                                 }
                                 .padding(.horizontal, 5)
                             }
@@ -385,6 +390,7 @@ struct SelectionView: View {
                             }
                             .primaryButtonStyle()
                         }
+                        .buttonStyle(PlainButtonStyle())
                         .padding(.horizontal)
                         .padding(.bottom)
                         .disabled(viewModel.questionCount == 0)
