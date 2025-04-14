@@ -12,6 +12,7 @@ struct REAApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .accentColor(Color("AccentColor")) // Changed to use named color directly until AppColors is available
         }
     }
 }
