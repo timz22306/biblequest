@@ -22,6 +22,10 @@ class QuestionViewModel: ObservableObject {
     @Published var lastSelectedAnswerIndex: Int?
     @Published var isLastAnswerCorrect = false
     
+    @Published var isLoading = false
+    
+    @Published var isReviewingQuestions = false
+    
     var currentQuestion: Question {
         questions.isEmpty ? Question(
             text: "", 
@@ -137,6 +141,13 @@ class QuestionViewModel: ObservableObject {
         }
     }
     
+    func reviewQuestions() {
+        // Set state for reviewing questions
+        isReviewingQuestions = true
+        showingResults = false
+        // You could also add navigation logic here if needed
+    }
+    
     func returnToSelection() {
         questions = []
         selectedBook = nil
@@ -146,5 +157,6 @@ class QuestionViewModel: ObservableObject {
         isSelectionViewActive = true
         showingFeedback = false
         lastSelectedAnswerIndex = nil
+        isReviewingQuestions = false
     }
 }

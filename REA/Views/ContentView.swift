@@ -55,7 +55,7 @@ extension View {
             .foregroundColor(textColor(isSelected: isSelected, isCorrect: isCorrect))
     }
     
-    func primaryButtonStyle() -> some View {
+    func primaryButtonStyle(backgroundColor: Color = Color("PrimaryColor")) -> some View {
         self
             .font(.headline.weight(.semibold))
             .foregroundColor(.white)
@@ -63,12 +63,12 @@ extension View {
             .frame(height: 50)
             .background(
                 LinearGradient(
-                    gradient: Gradient(colors: [Color("PrimaryColor"), Color("PrimaryColor").opacity(0.8)]),
+                    gradient: Gradient(colors: [backgroundColor, backgroundColor.opacity(0.8)]),
                     startPoint: .topLeading,
                     endPoint: .bottomTrailing
                 )
                 .cornerRadius(12)
-                .shadow(color: Color("PrimaryColor").opacity(0.3), radius: 5, x: 0, y: 2)
+                .shadow(color: backgroundColor.opacity(0.3), radius: 5, x: 0, y: 2)
             )
             .contentShape(Rectangle())
     }
@@ -89,6 +89,18 @@ extension View {
                     )
             )
             .contentShape(Rectangle())
+    }
+    
+    func appearWithBounce(delay: Double = 0) -> some View {
+        self.scaleEffect(1)
+            .transition(
+                .asymmetric(
+                    insertion: .scale(scale: 0.7)
+                        .combined(with: .opacity)
+                        .animation(.spring(response: 0.4, dampingFraction: 0.65).delay(delay)),
+                    removal: .opacity.animation(.easeOut(duration: 0.2))
+                )
+            )
     }
     
     private func color(isCorrect: Bool?) -> Color {
@@ -125,6 +137,8 @@ struct ContentView: View {
                     .background(Color.appBackground)
             } else if viewModel.showingResults {
                 resultsView
+            } else if viewModel.isReviewingQuestions {
+                reviewView
             } else {
                 questionView
             }
@@ -248,34 +262,58 @@ struct ContentView: View {
     }
     
     var feedbackView: some View {
-        VStack(spacing: AppLayout.standardSpacing) {
-            // Feedback message with icon
-            HStack(spacing: AppLayout.tightSpacing) {
-                Image(systemName: viewModel.isLastAnswerCorrect ? "checkmark.circle.fill" : "xmark.circle.fill")
-                    .font(.system(size: 24))
-                    .foregroundColor(viewModel.isLastAnswerCorrect ? AppColors.success : AppColors.error)
+        VStack(spacing: AppLayout.wideSpacing) {
+            // Feedback content
+            VStack(spacing: AppLayout.standardSpacing) {
+                // Feedback header
+                if viewModel.isLastAnswerCorrect {
+                    HStack {
+                        Image(systemName: "checkmark.circle.fill")
+                            .foregroundColor(.green)
+                            .scaleEffect(1.5)
+                        Text("Correct!")
+                            .font(AppFonts.headline)
+                            .foregroundColor(.green)
+                    }
+                    .padding()
+                    .background(Color.green.opacity(0.1))
+                    .cornerRadius(AppLayout.cornerRadius)
+                    .onAppear {
+                        // Conditionally use haptics to avoid compilation errors
+                        #if os(iOS)
+                        HapticManager.shared.successFeedback()
+                        #endif
+                    }
+                    .transition(.scale.combined(with: .opacity))
+                } else {
+                    HStack {
+                        Image(systemName: "xmark.circle.fill")
+                            .foregroundColor(.red)
+                            .scaleEffect(1.5)
+                        Text("Incorrect")
+                            .font(AppFonts.headline)
+                            .foregroundColor(.red)
+                    }
+                    .padding()
+                    .background(Color.red.opacity(0.1))
+                    .cornerRadius(AppLayout.cornerRadius)
+                    .onAppear {
+                        // Conditionally use haptics to avoid compilation errors
+                        #if os(iOS)
+                        HapticManager.shared.errorFeedback()
+                        #endif
+                    }
+                    .transition(.scale.combined(with: .opacity))
+                }
                 
-                Text(viewModel.isLastAnswerCorrect ? "Correct!" : "Incorrect!")
-                    .font(AppFonts.title)
-                    .foregroundColor(viewModel.isLastAnswerCorrect ? AppColors.success : AppColors.error)
-            }
-            .padding(.top)
-            
-            if !viewModel.isLastAnswerCorrect {
-                Text("The correct answer is:")
-                    .font(AppFonts.subheadline)
-                    .foregroundColor(.secondary)
-                
-                Text(viewModel.currentQuestion.options[viewModel.currentQuestion.correctAnswerIndex])
-                    .font(AppFonts.headline)
-                    .multilineTextAlignment(.center)
-                    .padding(.horizontal)
-            }
-            
-            // Display the Bible verse text
-            VStack(spacing: 8) {
+                // Verse reference
                 Text(viewModel.currentQuestion.verseReference)
                     .font(AppFonts.headline)
+                    .transition(.asymmetric(
+                        insertion: .scale.combined(with: .opacity),
+                        removal: .opacity
+                    ))
+                    .animation(.easeInOut(duration: 0.5).delay(0.1), value: viewModel.showingFeedback)
                 
                 Text(viewModel.currentQuestion.verseText)
                     .font(AppFonts.body)
@@ -283,11 +321,17 @@ struct ContentView: View {
                     .multilineTextAlignment(.center)
                     .foregroundColor(.secondary)
                     .padding(.horizontal)
+                    .transition(.asymmetric(
+                        insertion: .scale.combined(with: .opacity),
+                        removal: .opacity
+                    ))
+                    .animation(.easeInOut(duration: 0.5).delay(0.2), value: viewModel.showingFeedback)
             }
             .padding()
             .background(
                 RoundedRectangle(cornerRadius: AppLayout.cornerRadius)
                     .fill(colorScheme == .dark ? Color.black.opacity(0.3) : Color.black.opacity(0.05))
+                    .shadow(radius: 5)
             )
             .padding(.horizontal)
             
@@ -306,8 +350,12 @@ struct ContentView: View {
             .buttonStyle(PlainButtonStyle())
             .padding(.horizontal)
             .padding(.top, 10)
+            .transition(.asymmetric(
+                insertion: .move(edge: .bottom).combined(with: .opacity),
+                removal: .opacity
+            ))
+            .animation(.easeInOut(duration: 0.5).delay(0.3), value: viewModel.showingFeedback)
         }
-        .transition(.move(edge: .bottom).combined(with: .opacity))
     }
     
     var resultsView: some View {
@@ -317,151 +365,183 @@ struct ContentView: View {
                 VStack(spacing: AppLayout.standardSpacing) {
                     Text("Quiz Complete!")
                         .font(AppFonts.largeTitle)
+                        .transition(.scale.combined(with: .opacity))
+                        .id("quiz-complete-title") // Force animation
                     
                     // Book and difficulty
                     if let book = viewModel.selectedBook {
                         HStack {
                             Text(book.rawValue)
                                 .tagStyle(color: AppColors.info)
+                                .transition(.asymmetric(
+                                    insertion: .scale.combined(with: .opacity),
+                                    removal: .opacity
+                                ))
+                                .animation(.easeInOut(duration: 0.5).delay(0.2), value: viewModel.showingResults)
                             
                             if let difficulty = viewModel.selectedDifficulty {
                                 Text(difficulty.rawValue)
                                     .tagStyle(color: AppColors.difficultyColor(difficulty))
+                                    .transition(.asymmetric(
+                                        insertion: .scale.combined(with: .opacity),
+                                        removal: .opacity
+                                    ))
+                                    .animation(.easeInOut(duration: 0.5).delay(0.3), value: viewModel.showingResults)
                             } else {
                                 Text("All Levels")
                                     .tagStyle(color: Color.purple)
+                                    .transition(.asymmetric(
+                                        insertion: .scale.combined(with: .opacity),
+                                        removal: .opacity
+                                    ))
+                                    .animation(.easeInOut(duration: 0.5).delay(0.3), value: viewModel.showingResults)
                             }
                             
                             if let count = viewModel.selectedQuestionCount {
                                 Text("\(count) Questions")
                                     .tagStyle(color: Color.teal)
+                                    .transition(.asymmetric(
+                                        insertion: .scale.combined(with: .opacity),
+                                        removal: .opacity
+                                    ))
+                                    .animation(.easeInOut(duration: 0.5).delay(0.4), value: viewModel.showingResults)
                             }
+                        }
+                        .onAppear {
+                            // Conditionally use haptics to avoid compilation errors
+                            #if os(iOS)
+                            HapticManager.shared.completionFeedback()
+                            #endif
                         }
                     }
                     
                     Text("Your score: \(viewModel.score) out of \(viewModel.questions.count)")
                         .font(AppFonts.headline)
                         .foregroundColor(.secondary)
+                        .transition(.scale.combined(with: .opacity))
+                        .id("score-text") // Force animation
                     
-                    // Score circle
+                    // Score circle with animation
                     ZStack {
                         Circle()
                             .stroke(Color.gray.opacity(0.2), lineWidth: 15)
                             .frame(width: 150, height: 150)
                         
                         Circle()
-                            .trim(from: 0, to: CGFloat(viewModel.score) / CGFloat(viewModel.questions.count))
-                            .stroke(
-                                scoreGradient,
-                                style: StrokeStyle(lineWidth: 15, lineCap: .round)
-                            )
+                            .trim(from: 0, to: CGFloat(viewModel.score) / CGFloat(max(1, viewModel.questions.count)))
+                            .stroke(scoreColor, style: StrokeStyle(lineWidth: 15, lineCap: .round))
                             .frame(width: 150, height: 150)
                             .rotationEffect(.degrees(-90))
-                            .animation(AppAnimation.standard, value: viewModel.score)
+                            .animation(.easeInOut(duration: 1.5).delay(0.5), value: viewModel.score)
                         
-                        VStack(spacing: 4) {
-                            Text("\(Int((Double(viewModel.score) / Double(viewModel.questions.count)) * 100))%")
-                                .font(.system(size: 36, weight: .bold))
-                                .foregroundColor(scoreColor)
-                            
-                            Text("Score")
-                                .font(AppFonts.caption)
-                                .foregroundColor(.secondary)
-                        }
+                        Text("\(Int(Double(viewModel.score) / Double(max(1, viewModel.questions.count)) * 100))%")
+                            .font(AppFonts.largeTitle)
+                            .fontWeight(.bold)
+                            .foregroundColor(scoreColor)
+                            .transition(.scale)
+                            .animation(.spring().delay(1.0), value: viewModel.score)
                     }
-                    .padding(.vertical)
+                    .padding()
                 }
                 
-                // Question results
-                VStack(alignment: .leading, spacing: AppLayout.standardSpacing) {
-                    Text("Question Summary")
-                        .font(AppFonts.headline)
-                        .padding(.leading)
-                    
-                    ForEach(viewModel.questions) { question in
-                        HStack(alignment: .top, spacing: AppLayout.standardSpacing) {
-                            if question.isAnsweredCorrectly == true {
-                                Image(systemName: "checkmark.circle.fill")
-                                    .foregroundColor(AppColors.success)
-                                    .font(.system(size: 20))
-                            } else {
-                                Image(systemName: "xmark.circle.fill")
-                                    .foregroundColor(AppColors.error)
-                                    .font(.system(size: 20))
-                            }
-                            
-                            VStack(alignment: .leading, spacing: 5) {
-                                Text(question.text)
-                                    .font(AppFonts.subheadline)
-                                
-                                Text(question.verseReference)
-                                    .font(AppFonts.caption)
-                                    .italic()
-                                    .foregroundColor(.secondary)
-                                
-                                if !question.verseText.isEmpty {
-                                    Text(question.verseText)
-                                        .font(AppFonts.caption)
-                                        .italic()
-                                        .foregroundColor(.secondary)
-                                        .padding(.top, 2)
-                                }
-                                
-                                Text("Correct answer: \(question.options[question.correctAnswerIndex])")
-                                    .font(AppFonts.caption)
-                                    .foregroundColor(.secondary)
-                            }
-                        }
-                        .padding()
-                        .background(
-                            RoundedRectangle(cornerRadius: AppLayout.cornerRadius)
-                                .fill(colorScheme == .dark ? Color.black.opacity(0.2) : Color.black.opacity(0.03))
-                        )
-                        .padding(.horizontal)
-                    }
-                }
-                
-                HStack(spacing: AppLayout.standardSpacing) {
-                    // Restart button
-                    Button(action: {
-                        withAnimation(AppAnimation.standard) {
-                            viewModel.restartQuiz()
-                        }
-                    }) {
-                        HStack {
-                            Image(systemName: "arrow.clockwise")
-                            Text("Restart Quiz")
-                        }
-                        .primaryButtonStyle()
-                    }
-                    .buttonStyle(PlainButtonStyle())
-                    
-                    // Return to menu button
+                // Buttons
+                VStack(spacing: AppLayout.standardSpacing) {
                     Button(action: {
                         withAnimation(AppAnimation.standard) {
                             viewModel.returnToSelection()
                         }
                     }) {
                         HStack {
-                            Image(systemName: "house")
-                            Text("Back to Menu")
+                            Image(systemName: "arrow.left")
+                            Text("New Quiz")
                         }
-                        .secondaryButtonStyle()
+                        .primaryButtonStyle()
                     }
                     .buttonStyle(PlainButtonStyle())
+                    .appearWithBounce(delay: 0.7)
+                    
+                    Button(action: {
+                        withAnimation(AppAnimation.standard) {
+                            viewModel.reviewQuestions()
+                        }
+                    }) {
+                        HStack {
+                            Image(systemName: "list.bullet")
+                            Text("Review Questions")
+                        }
+                        .primaryButtonStyle(backgroundColor: AppColors.secondary)
+                    }
+                    .buttonStyle(PlainButtonStyle())
+                    .appearWithBounce(delay: 0.9)
                 }
-                .padding(.horizontal)
-                .padding(.top, 10)
-                .padding(.bottom, 30)
+                .padding()
+            }
+            .padding()
+            .transition(.asymmetric(
+                insertion: .move(edge: .bottom).combined(with: .opacity),
+                removal: .move(edge: .bottom).combined(with: .opacity)
+            ))
+        }
+    }
+    
+    var reviewView: some View {
+        ScrollView {
+            VStack(spacing: 20) {
+                Text("Review Your Answers")
+                    .font(AppFonts.largeTitle)
+                    .padding()
+                
+                // Display each question and whether it was answered correctly
+                ForEach(0..<viewModel.questions.count, id: \.self) { index in
+                    let question = viewModel.questions[index]
+                    VStack(alignment: .leading, spacing: 10) {
+                        Text("Question \(index + 1):")
+                            .font(AppFonts.headline)
+                        
+                        Text(question.text)
+                            .font(AppFonts.body)
+                            .padding(.bottom, 5)
+                        
+                        if let isCorrect = question.isAnsweredCorrectly {
+                            HStack {
+                                Image(systemName: isCorrect ? "checkmark.circle.fill" : "xmark.circle.fill")
+                                    .foregroundColor(isCorrect ? .green : .red)
+                                
+                                Text(isCorrect ? "Correct" : "Incorrect")
+                                    .foregroundColor(isCorrect ? .green : .red)
+                            }
+                        }
+                        
+                        Text("Correct answer: \(question.options[question.correctAnswerIndex])")
+                            .font(AppFonts.caption)
+                            .foregroundColor(.secondary)
+                    }
+                    .padding()
+                    .background(
+                        RoundedRectangle(cornerRadius: AppLayout.cornerRadius)
+                            .fill(colorScheme == .dark ? Color.black.opacity(0.3) : Color.white)
+                            .shadow(color: Color.black.opacity(0.1), radius: 3, x: 0, y: 2)
+                    )
+                    .padding(.horizontal)
+                }
+                
+                Button(action: {
+                    withAnimation(AppAnimation.standard) {
+                        viewModel.showingResults = true
+                        viewModel.isReviewingQuestions = false
+                    }
+                }) {
+                    HStack {
+                        Image(systemName: "arrow.left")
+                        Text("Back to Results")
+                    }
+                    .primaryButtonStyle()
+                }
+                .buttonStyle(PlainButtonStyle())
+                .padding()
             }
             .padding(.vertical)
         }
-        .navigationTitle("Results")
-        #if os(iOS)
-        .navigationBarTitleDisplayMode(.inline)
-        #endif
-        .navigationBarBackButtonHidden(true)
-        .background(AppColors.background.edgesIgnoringSafeArea(.all))
     }
     
     // MARK: - Helper Properties

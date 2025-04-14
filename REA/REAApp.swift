@@ -13,11 +13,23 @@ struct REAApp: App {
     
     var body: some Scene {
         WindowGroup {
-            if showSplashScreen {
-                SplashScreenView()
-            } else {
+            ZStack {
                 ContentView()
                     .accentColor(Color("AccentColor"))
+                    .opacity(showSplashScreen ? 0 : 1)
+                
+                if showSplashScreen {
+                    SplashScreenView()
+                        .transition(.opacity)
+                }
+            }
+            .onAppear {
+                // Add a slight delay before transitioning from splash screen
+                DispatchQueue.main.asyncAfter(deadline: .now() + 2.5) {
+                    withAnimation(.easeInOut(duration: 0.7)) {
+                        showSplashScreen = false
+                    }
+                }
             }
         }
     }

@@ -89,6 +89,34 @@ enum AppLayout {
     static let standardPadding: CGFloat = 16
 }
 
+// MARK: - Loading Animation
+struct LoadingView: View {
+    @State private var isAnimating = false
+    let color: Color
+    
+    init(color: Color = AppColors.primary) {
+        self.color = color
+    }
+    
+    var body: some View {
+        ZStack {
+            Circle()
+                .stroke(color.opacity(0.2), lineWidth: 8)
+                .frame(width: 60, height: 60)
+            
+            Circle()
+                .trim(from: 0, to: 0.7)
+                .stroke(color, lineWidth: 8)
+                .frame(width: 60, height: 60)
+                .rotationEffect(Angle(degrees: isAnimating ? 360 : 0))
+                .animation(Animation.linear(duration: 1).repeatForever(autoreverses: false), value: isAnimating)
+                .onAppear {
+                    isAnimating = true
+                }
+        }
+    }
+}
+
 struct SelectionView: View {
     @ObservedObject var viewModel: QuestionViewModel
     @Environment(\.colorScheme) var colorScheme
@@ -107,15 +135,31 @@ struct SelectionView: View {
                             .scaledToFit()
                             .frame(width: 120, height: 120)
                             .shadow(color: Color.black.opacity(0.1), radius: 5, x: 0, y: 2)
+                            .rotationEffect(Angle(degrees: animateButtons ? 0 : -5))
+                            .animation(
+                                Animation.easeInOut(duration: 0.6).delay(0.2),
+                                value: animateButtons
+                            )
                         
                         Text("BibleQuest")
                             .font(AppFonts.largeTitle)
                             .padding(.bottom, 5)
+                            .scaleEffect(animateButtons ? 1 : 0.8)
+                            .opacity(animateButtons ? 1 : 0)
+                            .animation(
+                                Animation.spring(response: 0.6, dampingFraction: 0.7).delay(0.3),
+                                value: animateButtons
+                            )
                         
                         Text("Test your knowledge of the Bible")
                             .font(AppFonts.subheadline)
                             .foregroundColor(.secondary)
                             .multilineTextAlignment(.center)
+                            .opacity(animateButtons ? 1 : 0)
+                            .animation(
+                                Animation.easeIn.delay(0.5),
+                                value: animateButtons
+                            )
                     }
                     .frame(maxWidth: .infinity) // Keep header centered
                     .padding(.top)
@@ -445,29 +489,56 @@ struct SelectionView: View {
                             .transition(.scale.combined(with: .opacity))
                         }
                         
-                        // Start Button
-                        if viewModel.selectedBook != nil {
-                            Button(action: {
-                                withAnimation(AppAnimation.standard) {
-                                    viewModel.loadQuestions(
-                                        book: viewModel.selectedBook,
-                                        difficulty: viewModel.selectedDifficulty,
-                                        count: viewModel.selectedQuestionCount
-                                    )
+                        // Start Quiz Button with loading state
+                        VStack {
+                            if viewModel.isLoading {
+                                LoadingView(color: AppColors.primary)
+                                    .padding(.vertical)
+                                    .transition(.opacity)
+                            } else if viewModel.selectedBook != nil {
+                                Button(action: {
+                                    #if os(iOS)
+                                    HapticManager.shared.selectionFeedback()
+                                    #endif
+                                    
+                                    // Show loading state
+                                    withAnimation {
+                                        viewModel.isLoading = true
+                                    }
+                                    
+                                    // Delayed start to show loading animation
+                                    DispatchQueue.main.asyncAfter(deadline: .now() + 0.8) {
+                                        withAnimation(AppAnimation.standard) {
+                                            viewModel.loadQuestions(
+                                                book: viewModel.selectedBook,
+                                                difficulty: viewModel.selectedDifficulty,
+                                                count: viewModel.selectedQuestionCount
+                                            )
+                                            viewModel.isLoading = false
+                                        }
+                                    }
+                                }) {
+                                    HStack {
+                                        Text("Start Quiz")
+                                        Image(systemName: "play.fill")
+                                    }
+                                    .primaryButtonStyle()
                                 }
-                            }) {
-                                HStack {
-                                    Text("Start Quiz")
-                                    Image(systemName: "play.fill")
-                                }
-                                .primaryButtonStyle()
+                                .buttonStyle(PlainButtonStyle())
+                                .padding(.horizontal)
+                                .padding(.bottom)
+                                .disabled(viewModel.questionCount == 0)
+                                .opacity(viewModel.questionCount == 0 ? 0.5 : 1)
+                                .transition(.asymmetric(
+                                    insertion: .scale.combined(with: .opacity),
+                                    removal: .opacity
+                                ))
+                                .scaleEffect(animateButtons ? 1 : 0.8)
+                                .animation(
+                                    Animation.spring(response: 0.6, dampingFraction: 0.7).delay(0.7),
+                                    value: animateButtons
+                                )
                             }
-                            .buttonStyle(PlainButtonStyle())
-                            .padding(.horizontal)
-                            .padding(.bottom)
-                            .disabled(viewModel.questionCount == 0)
-                            .opacity(viewModel.questionCount == 0 ? 0.5 : 1)
-                            .transition(.scale.combined(with: .opacity))
                         }
                     }
                     .frame(maxWidth: .infinity) // Keep footer content centered

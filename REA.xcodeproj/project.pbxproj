@@ -22,6 +22,7 @@
 		AE3DB3EF2DACA20B0032901D /* SplashScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE3DB3EE2DACA20B0032901D /* SplashScreenView.swift */; };
 		AE3DB3F12DACA2330032901D /* Resources in Resources */ = {isa = PBXBuildFile; fileRef = AE3DB3F02DACA2330032901D /* Resources */; };
 		AE3DB3F32DACA2610032901D /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = AE3DB3F22DACA2610032901D /* Info.plist */; };
+		AE3DB3F52DACAEF40032901D /* OptionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE3DB3F42DACAEF30032901D /* OptionView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,6 +62,7 @@
 		AE3DB3EE2DACA20B0032901D /* SplashScreenView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SplashScreenView.swift; sourceTree = "<group>"; };
 		AE3DB3F02DACA2330032901D /* Resources */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Resources; sourceTree = "<group>"; };
 		AE3DB3F22DACA2610032901D /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AE3DB3F42DACAEF30032901D /* OptionView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OptionView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -170,6 +172,7 @@
 		AE3DB3DB2DA193AD0032901D /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				AE3DB3F42DACAEF30032901D /* OptionView.swift */,
 				AE3DB3EE2DACA20B0032901D /* SplashScreenView.swift */,
 				AE3DB3E02DA194140032901D /* ContentView.swift */,
 				AE3DB3E42DA1BA750032901D /* SelectionView.swift */,
@@ -317,6 +320,7 @@
 				AE3DB3E32DA1B8B10032901D /* BibleQuestionBank.swift in Sources */,
 				AE3DB3AF2DA192BC0032901D /* REAApp.swift in Sources */,
 				AE3DB3E52DA1BA750032901D /* SelectionView.swift in Sources */,
+				AE3DB3F52DACAEF40032901D /* OptionView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
