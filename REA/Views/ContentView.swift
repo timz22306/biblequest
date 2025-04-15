@@ -133,7 +133,6 @@ struct ContentView: View {
         NavigationStack {
             if viewModel.isSelectionViewActive {
                 SelectionView(viewModel: viewModel)
-                    .navigationTitle("Bible Quiz")
                     .background(Color.appBackground)
             } else if viewModel.showingResults {
                 resultsView

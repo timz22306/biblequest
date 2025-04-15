@@ -131,13 +131,6 @@ struct SelectionView: View {
             
             ScrollView {
                 VStack(alignment: .leading, spacing: AppLayout.wideSpacing) {
-                    // Simplified header with title text only
-                    Text("BibleQuest")
-                        .font(AppFonts.largeTitle)
-                        .frame(maxWidth: .infinity, alignment: .center)
-                        .padding(.top, 20)
-                        .padding(.bottom, 10)
-                    
                     // Bible Book Selection - Adaptive grid layout
                     selectionGroup(title: "Select a Book:", icon: "book") {
                         ScrollView(.horizontal, showsIndicators: false) {
