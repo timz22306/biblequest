@@ -20,8 +20,6 @@
 		AE3DB3E52DA1BA750032901D /* SelectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE3DB3E42DA1BA750032901D /* SelectionView.swift */; };
 		AE3DB3E92DABFE670032901D /* Utils in Resources */ = {isa = PBXBuildFile; fileRef = AE3DB3E82DABFE670032901D /* Utils */; };
 		AE3DB3EF2DACA20B0032901D /* SplashScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE3DB3EE2DACA20B0032901D /* SplashScreenView.swift */; };
-		AE3DB3F12DACA2330032901D /* Resources in Resources */ = {isa = PBXBuildFile; fileRef = AE3DB3F02DACA2330032901D /* Resources */; };
-		AE3DB3F32DACA2610032901D /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = AE3DB3F22DACA2610032901D /* Info.plist */; };
 		AE3DB3F52DACAEF40032901D /* OptionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE3DB3F42DACAEF30032901D /* OptionView.swift */; };
 /* End PBXBuildFile section */
 
@@ -60,7 +58,6 @@
 		AE3DB3E42DA1BA750032901D /* SelectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectionView.swift; sourceTree = "<group>"; };
 		AE3DB3E82DABFE670032901D /* Utils */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Utils; sourceTree = "<group>"; };
 		AE3DB3EE2DACA20B0032901D /* SplashScreenView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SplashScreenView.swift; sourceTree = "<group>"; };
-		AE3DB3F02DACA2330032901D /* Resources */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Resources; sourceTree = "<group>"; };
 		AE3DB3F22DACA2610032901D /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AE3DB3F42DACAEF30032901D /* OptionView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OptionView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -114,7 +111,6 @@
 			isa = PBXGroup;
 			children = (
 				AE3DB3F22DACA2610032901D /* Info.plist */,
-				AE3DB3F02DACA2330032901D /* Resources */,
 				AE3DB3E82DABFE670032901D /* Utils */,
 				AE3DB3DB2DA193AD0032901D /* Views */,
 				AE3DB3DA2DA193A40032901D /* ViewModels */,
@@ -284,10 +280,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AE3DB3F12DACA2330032901D /* Resources in Resources */,
 				AE3DB3E92DABFE670032901D /* Utils in Resources */,
 				AE3DB3B72DA192BF0032901D /* Preview Assets.xcassets in Resources */,
-				AE3DB3F32DACA2610032901D /* Info.plist in Resources */,
 				AE3DB3B32DA192BF0032901D /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

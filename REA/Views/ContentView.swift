@@ -278,12 +278,6 @@ struct ContentView: View {
                     .padding()
                     .background(Color.green.opacity(0.1))
                     .cornerRadius(AppLayout.cornerRadius)
-                    .onAppear {
-                        // Conditionally use haptics to avoid compilation errors
-                        #if os(iOS)
-                        HapticManager.shared.successFeedback()
-                        #endif
-                    }
                     .transition(.scale.combined(with: .opacity))
                 } else {
                     HStack {
@@ -297,12 +291,6 @@ struct ContentView: View {
                     .padding()
                     .background(Color.red.opacity(0.1))
                     .cornerRadius(AppLayout.cornerRadius)
-                    .onAppear {
-                        // Conditionally use haptics to avoid compilation errors
-                        #if os(iOS)
-                        HapticManager.shared.errorFeedback()
-                        #endif
-                    }
                     .transition(.scale.combined(with: .opacity))
                 }
                 
@@ -406,12 +394,6 @@ struct ContentView: View {
                                     ))
                                     .animation(.easeInOut(duration: 0.5).delay(0.4), value: viewModel.showingResults)
                             }
-                        }
-                        .onAppear {
-                            // Conditionally use haptics to avoid compilation errors
-                            #if os(iOS)
-                            HapticManager.shared.completionFeedback()
-                            #endif
                         }
                     }
                     

@@ -126,6 +126,9 @@ struct SelectionView: View {
     
     var body: some View {
         GeometryReader { geometry in
+            let screenWidth = geometry.size.width
+            let itemWidth = min(max(screenWidth / 4 - 20, 80), 120) // Adaptive width based on screen size
+            
             ScrollView {
                 VStack(alignment: .leading, spacing: AppLayout.wideSpacing) {
                     // Simplified header with title text only
@@ -135,13 +138,15 @@ struct SelectionView: View {
                         .padding(.top, 20)
                         .padding(.bottom, 10)
                     
-                    // Bible Book Selection - Expanded view 
+                    // Bible Book Selection - Adaptive grid layout
                     selectionGroup(title: "Select a Book:", icon: "book") {
                         ScrollView(.horizontal, showsIndicators: false) {
-                            LazyHGrid(rows: [
-                                GridItem(.flexible()),
-                                GridItem(.flexible())
-                            ], spacing: 12) {
+                            let columns = [
+                                GridItem(.adaptive(minimum: min(screenWidth / 3 - 20, 120), maximum: 150), spacing: 12),
+                                GridItem(.adaptive(minimum: min(screenWidth / 3 - 20, 120), maximum: 150), spacing: 12)
+                            ]
+                            
+                            LazyHGrid(rows: columns, spacing: 12) {
                                 ForEach(viewModel.availableBooks, id: \.self) { book in
                                     Button(action: {
                                         withAnimation(AppAnimation.quick) {
@@ -195,10 +200,14 @@ struct SelectionView: View {
                         }
                     }
                     
-                    // Difficulty Selection - Improved layout
+                    // Difficulty Selection - Adaptive layout
                     if viewModel.selectedBook != nil {
                         selectionGroup(title: "Select Difficulty:", icon: "speedometer") {
-                            HStack(alignment: .center, spacing: AppLayout.standardSpacing) {
+                            let difficultyLayout = viewModel.selectedDifficulty == nil ? 
+                                AnyLayout(HStackLayout(alignment: .center, spacing: 8)) : 
+                                AnyLayout(FlowLayout(spacing: 8, minWidth: itemWidth))
+                            
+                            difficultyLayout {
                                 ForEach(Difficulty.allCases, id: \.self) { difficulty in
                                     Button(action: {
                                         previousDifficulty = viewModel.selectedDifficulty
@@ -238,7 +247,7 @@ struct SelectionView: View {
                                             Text(difficulty.rawValue)
                                                 .font(AppFonts.subheadline)
                                         }
-                                        .frame(minWidth: 80, minHeight: 80)
+                                        .frame(minWidth: itemWidth, minHeight: itemWidth)
                                         .padding(.vertical, 8)
                                         .padding(.horizontal, 8)
                                         .background(
@@ -305,7 +314,7 @@ struct SelectionView: View {
                                         Text("All")
                                             .font(AppFonts.subheadline)
                                     }
-                                    .frame(minWidth: 80, minHeight: 80)
+                                    .frame(minWidth: itemWidth, minHeight: itemWidth)
                                     .padding(.vertical, 8)
                                     .padding(.horizontal, 8)
                                     .background(
@@ -334,16 +343,16 @@ struct SelectionView: View {
                                 }
                                 .buttonStyle(PlainButtonStyle())
                             }
-                            .padding(.horizontal)
-                            .frame(maxWidth: .infinity, alignment: .center)
+                            .padding(.horizontal, screenWidth > 400 ? 16 : 8)
+                            .frame(maxWidth: .infinity)
                         }
                         .transition(.move(edge: .leading).combined(with: .opacity))
                     }
                     
-                    // Question Count Selection - Improved layout
+                    // Question Count Selection - Adaptive layout
                     if viewModel.selectedBook != nil && viewModel.availableQuestionCounts.count > 0 {
                         selectionGroup(title: "How many questions?", icon: "number.circle") {
-                            HStack(spacing: AppLayout.standardSpacing) {
+                            FlowLayout(spacing: 8, minWidth: itemWidth) {
                                 ForEach(viewModel.availableQuestionCounts, id: \.self) { count in
                                     Button(action: {
                                         withAnimation(AppAnimation.quick) {
@@ -356,7 +365,7 @@ struct SelectionView: View {
                                             Text("Questions")
                                                 .font(.caption)
                                         }
-                                        .frame(minWidth: 80, minHeight: 80)
+                                        .frame(minWidth: itemWidth, minHeight: itemWidth)
                                         .padding(.vertical, 8)
                                         .padding(.horizontal, 8)
                                         .background(
@@ -404,7 +413,7 @@ struct SelectionView: View {
                                         Text("Questions")
                                             .font(.caption)
                                     }
-                                    .frame(minWidth: 80, minHeight: 80)
+                                    .frame(minWidth: itemWidth, minHeight: itemWidth)
                                     .padding(.vertical, 8)
                                     .padding(.horizontal, 8)
                                     .background(
@@ -439,8 +448,7 @@ struct SelectionView: View {
                                     value: animateQuestionOptions
                                 )
                             }
-                            .padding(.horizontal)
-                            .frame(maxWidth: .infinity, alignment: .center)
+                            .padding(.horizontal, screenWidth > 400 ? 16 : 8)
                         }
                         .transition(.move(edge: .leading).combined(with: .opacity))
                     }
@@ -483,10 +491,6 @@ struct SelectionView: View {
                                     .transition(.opacity)
                             } else if viewModel.selectedBook != nil {
                                 Button(action: {
-                                    #if os(iOS)
-                                    HapticManager.shared.selectionFeedback()
-                                    #endif
-                                    
                                     // Show loading state
                                     withAnimation {
                                         viewModel.isLoading = true
@@ -541,7 +545,7 @@ struct SelectionView: View {
                     }
                     .frame(maxWidth: .infinity) // Keep footer content centered
                 }
-                .padding(.horizontal)
+                .padding(.horizontal, screenWidth > 400 ? 16 : 10)
                 .frame(minHeight: geometry.size.height, alignment: .leading) // Set left alignment
             }
         }
@@ -593,6 +597,65 @@ struct SelectionView: View {
         case .easy: return "tortoise"
         case .medium: return "hare"
         case .hard: return "flame"
+        }
+    }
+}
+
+// FlowLayout to wrap content based on available width
+struct FlowLayout: Layout {
+    var spacing: CGFloat
+    var minWidth: CGFloat
+    
+    func sizeThatFits(proposal: ProposedViewSize, subviews: Subviews, cache: inout Void) -> CGSize {
+        let width = proposal.width ?? 0
+        var height: CGFloat = 0
+        var rowWidth: CGFloat = 0
+        var rowHeight: CGFloat = 0
+        
+        for subview in subviews {
+            let viewSize = subview.sizeThatFits(.unspecified)
+            
+            if rowWidth + viewSize.width + spacing > width {
+                // Start a new row
+                height += rowHeight + spacing
+                rowWidth = viewSize.width
+                rowHeight = viewSize.height
+            } else {
+                // Add to current row
+                rowWidth += viewSize.width + spacing
+                rowHeight = max(rowHeight, viewSize.height)
+            }
+        }
+        
+        // Add last row
+        height += rowHeight
+        
+        return CGSize(width: width, height: height)
+    }
+    
+    func placeSubviews(in bounds: CGRect, proposal: ProposedViewSize, subviews: Subviews, cache: inout Void) {
+        let width = bounds.width
+        var rowX: CGFloat = bounds.minX
+        var rowY: CGFloat = bounds.minY
+        var rowHeight: CGFloat = 0
+        
+        for subview in subviews {
+            let viewSize = subview.sizeThatFits(.unspecified)
+            
+            if rowX + viewSize.width > bounds.maxX {
+                // Start a new row
+                rowX = bounds.minX
+                rowY += rowHeight + spacing
+                rowHeight = 0
+            }
+            
+            subview.place(
+                at: CGPoint(x: rowX, y: rowY),
+                proposal: ProposedViewSize(width: viewSize.width, height: viewSize.height)
+            )
+            
+            rowX += viewSize.width + spacing
+            rowHeight = max(rowHeight, viewSize.height)
         }
     }
 }

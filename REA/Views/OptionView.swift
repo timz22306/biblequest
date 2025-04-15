@@ -35,10 +35,6 @@ struct OptionView: View {
     
     var body: some View {
         Button(action: {
-            #if os(iOS)
-            HapticManager.shared.selectionFeedback()
-            #endif
-            
             withAnimation(.spring(response: 0.3, dampingFraction: 0.7)) {
                 isPressed = true
             }
