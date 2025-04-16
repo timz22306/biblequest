@@ -1,0 +1,20 @@
+[
+    {
+        "text": "Who led the Israelites out of Egypt?",
+        "options": ["Aaron", "Joshua", "Moses", "Joseph"],
+        "correctAnswerIndex": 2,
+        "book": "Exodus",
+        "difficulty": "Easy",
+        "verseReference": "Exodus 3:10",
+        "verseText": "Come, I will send you to Pharaoh that you may bring my people, the children of Israel, out of Egypt. (ESV)"
+    },
+    {
+        "text": "What river was Moses placed into as a baby?",
+        "options": ["Jordan", "Tigris", "Nile", "Euphrates"],
+        "correctAnswerIndex": 2,
+        "book": "Exodus",
+        "difficulty": "Easy",
+        "verseReference": "Exodus 2:3",
+        "verseText": "When she could hide him no longer, she took for him a basket made of bulrushes and daubed it with bitumen and pitch. She put the child in it and placed it among the reeds by the river bank. (ESV)"
+    }
+]

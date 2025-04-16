@@ -25,6 +25,8 @@
 		AEA276162DAF2F77007618C1 /* AppTheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEA276152DAF2F77007618C1 /* AppTheme.swift */; };
 		AEA276182DAF2F7A007618C1 /* AnimationUtils.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEA276172DAF2F7A007618C1 /* AnimationUtils.swift */; };
 		AEA2761A2DAF2FB4007618C1 /* Utils in Resources */ = {isa = PBXBuildFile; fileRef = AEA276192DAF2FB4007618C1 /* Utils */; };
+		AEA276272DAF3C1F007618C1 /* QuestionsDataLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEA276252DAF3C1F007618C1 /* QuestionsDataLoader.swift */; };
+		AEA276282DAF3C1F007618C1 /* exodus.json in Resources */ = {isa = PBXBuildFile; fileRef = AEA276262DAF3C1F007618C1 /* exodus.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -68,6 +70,8 @@
 		AEA276152DAF2F77007618C1 /* AppTheme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppTheme.swift; sourceTree = "<group>"; };
 		AEA276172DAF2F7A007618C1 /* AnimationUtils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationUtils.swift; sourceTree = "<group>"; };
 		AEA276192DAF2FB4007618C1 /* Utils */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Utils; sourceTree = "<group>"; };
+		AEA276252DAF3C1F007618C1 /* QuestionsDataLoader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = QuestionsDataLoader.swift; path = REA/Data/QuestionsDataLoader.swift; sourceTree = SOURCE_ROOT; };
+		AEA276262DAF3C1F007618C1 /* exodus.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = exodus.json; path = REA/Data/exodus.json; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +122,7 @@
 		AE3DB3AD2DA192BC0032901D /* REA */ = {
 			isa = PBXGroup;
 			children = (
+				AEA276242DAF3BF8007618C1 /* BookData */,
 				AE3DB3F22DACA2610032901D /* Info.plist */,
 				AEA276192DAF2FB4007618C1 /* Utils */,
 				AE3DB3DB2DA193AD0032901D /* Views */,
@@ -186,6 +191,15 @@
 				AE3DB3E42DA1BA750032901D /* SelectionView.swift */,
 			);
 			path = Views;
+			sourceTree = "<group>";
+		};
+		AEA276242DAF3BF8007618C1 /* BookData */ = {
+			isa = PBXGroup;
+			children = (
+				AEA276262DAF3C1F007618C1 /* exodus.json */,
+				AEA276252DAF3C1F007618C1 /* QuestionsDataLoader.swift */,
+			);
+			path = BookData;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -295,6 +309,7 @@
 				AEA2761A2DAF2FB4007618C1 /* Utils in Resources */,
 				AE3DB3B72DA192BF0032901D /* Preview Assets.xcassets in Resources */,
 				AE3DB3B32DA192BF0032901D /* Assets.xcassets in Resources */,
+				AEA276282DAF3C1F007618C1 /* exodus.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -329,6 +344,7 @@
 				AE3DB3E32DA1B8B10032901D /* BibleQuestionBank.swift in Sources */,
 				AEA276182DAF2F7A007618C1 /* AnimationUtils.swift in Sources */,
 				AE3DB3AF2DA192BC0032901D /* REAApp.swift in Sources */,
+				AEA276272DAF3C1F007618C1 /* QuestionsDataLoader.swift in Sources */,
 				AE3DB3E52DA1BA750032901D /* SelectionView.swift in Sources */,
 				AE3DB3F52DACAEF40032901D /* OptionView.swift in Sources */,
 			);
