@@ -1,5 +1,7 @@
 import SwiftUI
 import CoreHaptics
+import Foundation
+// Ensure AppColors is accessible in this file
 
 // MARK: - Haptic Feedback
 
@@ -155,10 +157,12 @@ extension View {
     
     // Add a shimmer effect (useful for loading states)
     func shimmer(isActive: Bool = true, speed: Double = 0.15, angle: Angle = .degrees(70)) -> some View {
-        if isActive {
-            return self.modifier(ShimmerEffect(speed: speed, angle: angle))
-        } else {
-            return self
+        Group {
+            if isActive {
+                self.modifier(ShimmerEffect(speed: speed, angle: angle))
+            } else {
+                self
+            }
         }
     }
 }
@@ -204,7 +208,7 @@ struct ShimmerEffect: ViewModifier {
 
 struct SlideWithOpacityTransition: ViewModifier {
     let edge: Edge
-    
+
     func body(content: Content) -> some View {
         content
             .transition(
@@ -224,7 +228,7 @@ extension AnyTransition {
             removal: .move(edge: .leading).combined(with: .opacity)
         )
     }
-    
+
     static var scaleWithOpacity: AnyTransition {
         AnyTransition.asymmetric(
             insertion: .scale.combined(with: .opacity),

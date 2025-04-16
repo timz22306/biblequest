@@ -6,104 +6,21 @@
 //
 import SwiftUI
 
-// Temporary AppColors struct until the real one is recognized by Xcode
-struct AppColors {
-    // Primary colors
-    static let primary = Color("PrimaryColor")
-    static let secondary = Color("SecondaryColor")
-    static let accent = Color("AccentColor")
-    
-    // Semantic colors
-    static let success = Color.green
-    static let warning = Color.orange
-    static let error = Color.red
-    static let info = Color.blue
-    
-    // Background colors
-    static let background = Color("BackgroundColor")
-    static let cardBackground = Color("CardBackgroundColor")
-    
-    // Difficulty colors
-    static func difficultyColor(_ difficulty: Difficulty) -> Color {
-        switch difficulty {
-        case .easy: return success
-        case .medium: return warning
-        case .hard: return error
-        }
-    }
-    
-    // Gradient presets
-    static let primaryGradient = LinearGradient(
-        gradient: Gradient(colors: [primary, primary.opacity(0.8)]),
-        startPoint: .topLeading,
-        endPoint: .bottomTrailing
-    )
-    
-    static let accentGradient = LinearGradient(
-        gradient: Gradient(colors: [accent, accent.opacity(0.8)]),
-        startPoint: .topLeading,
-        endPoint: .bottomTrailing
-    )
-}
-
-// Temporary AppFonts struct until the real one is recognized by Xcode
-struct AppFonts {
-    // Size and weight combinations
-    static let largeTitle = Font.largeTitle.weight(.bold)
-    static let title = Font.title.weight(.semibold)
-    static let headline = Font.headline.weight(.semibold)
-    static let subheadline = Font.subheadline.weight(.medium)
-    static let body = Font.body
-    static let caption = Font.caption
-    
-    // Special text styles
-    static let questionTitle = Font.title2.weight(.bold)
-    static let optionText = Font.body.weight(.medium)
-    static let buttonLabel = Font.headline.weight(.semibold)
-}
-
-// Temporary Animation struct until the real one is recognized by Xcode
-struct AppAnimation {
-    static let standard = Animation.easeInOut(duration: 0.3)
-    static let quick = Animation.easeOut(duration: 0.2)
-    static let bounce = Animation.spring(response: 0.4, dampingFraction: 0.6)
-}
-
-// Remove this extension once AppTheme is properly linked
-extension Font {
-    static let appLargeTitle = Font.largeTitle.weight(.bold)
-    static let appTitle = Font.title.weight(.semibold)
-    static let appHeadline = Font.headline.weight(.semibold)
-    static let appSubheadline = Font.subheadline.weight(.medium)
-    static let appCaption = Font.caption
-}
-
-// Remove this once AppLayout is properly linked
-enum AppLayout {
-    static let standardSpacing: CGFloat = 16
-    static let tightSpacing: CGFloat = 8
-    static let wideSpacing: CGFloat = 24
-    static let cornerRadius: CGFloat = 12
-    static let largeCornerRadius: CGFloat = 16
-    static let buttonHeight: CGFloat = 50
-    static let standardPadding: CGFloat = 16
-}
-
 // MARK: - Loading Animation
-struct LoadingView: View {
+struct LoadingSpinnerView: View {
     @State private var isAnimating = false
     let color: Color
-    
+
     init(color: Color = AppColors.primary) {
         self.color = color
     }
-    
+
     var body: some View {
         ZStack {
             Circle()
                 .stroke(color.opacity(0.2), lineWidth: 8)
                 .frame(width: 60, height: 60)
-            
+
             Circle()
                 .trim(from: 0, to: 0.7)
                 .stroke(color, lineWidth: 8)
@@ -177,7 +94,7 @@ struct SelectionView: View {
                                                     )
                                             )
                                     }
-                                    .buttonStyle(PlainButtonStyle())
+                                    .primaryButtonStyle()
                                     .padding(.vertical, 4)
                                     .offset(y: animateButtons ? 0 : 5)
                                     .animation(
@@ -267,7 +184,7 @@ struct SelectionView: View {
                                                 )
                                         )
                                     }
-                                    .buttonStyle(PlainButtonStyle())
+                                    .primaryButtonStyle()
                                 }
                                 
                                 // "All" difficulty button
@@ -334,7 +251,7 @@ struct SelectionView: View {
                                             )
                                     )
                                 }
-                                .buttonStyle(PlainButtonStyle())
+                                .primaryButtonStyle()
                             }
                             .padding(.horizontal, screenWidth > 400 ? 16 : 8)
                             .frame(maxWidth: .infinity)
@@ -385,7 +302,7 @@ struct SelectionView: View {
                                                 )
                                         )
                                     }
-                                    .buttonStyle(PlainButtonStyle())
+                                    .primaryButtonStyle()
                                     .scaleEffect(animateQuestionOptions ? 1 : 0.7)
                                     .opacity(animateQuestionOptions ? 1 : 0)
                                     .animation(
@@ -433,7 +350,7 @@ struct SelectionView: View {
                                             )
                                     )
                                 }
-                                .buttonStyle(PlainButtonStyle())
+                                .primaryButtonStyle()
                                 .scaleEffect(animateQuestionOptions ? 1 : 0.7)
                                 .opacity(animateQuestionOptions ? 1 : 0)
                                 .animation(
@@ -479,7 +396,7 @@ struct SelectionView: View {
                         // Start Quiz Button with loading state - Enlarged
                         VStack {
                             if viewModel.isLoading {
-                                LoadingView(color: AppColors.primary)
+                                LoadingSpinnerView(color: AppColors.primary)
                                     .padding(.vertical)
                                     .transition(.opacity)
                             } else if viewModel.selectedBook != nil {
@@ -519,7 +436,7 @@ struct SelectionView: View {
                                     )
                                     .foregroundColor(.white)
                                 }
-                                .buttonStyle(PlainButtonStyle())
+                                .primaryButtonStyle()
                                 .padding(.horizontal)
                                 .padding(.bottom)
                                 .disabled(viewModel.questionCount == 0)

@@ -17,114 +17,6 @@ extension Color {
     }
 }
 
-// MARK: - Temporary View Modifiers
-
-// Temporary Tag Style
-struct TagStyle: ViewModifier {
-    var color: Color
-    
-    func body(content: Content) -> some View {
-        content
-            .font(.caption)
-            .padding(.horizontal, 10)
-            .padding(.vertical, 5)
-            .background(color.opacity(0.15))
-            .foregroundColor(color)
-            .cornerRadius(8)
-    }
-}
-
-// Add extension for the tagStyle modifier
-extension View {
-    func tagStyle(color: Color) -> some View {
-        self.modifier(TagStyle(color: color))
-    }
-    
-    func optionButtonStyle(isSelected: Bool, isCorrect: Bool? = nil) -> some View {
-        self
-            .font(.body.weight(.medium))
-            .frame(maxWidth: .infinity)
-            .padding(16)
-            .background(
-                RoundedRectangle(cornerRadius: 12)
-                    .fill(isSelected ? color(isCorrect: isCorrect) : Color.white)
-                    .shadow(color: shadowColor(isSelected: isSelected, isCorrect: isCorrect), 
-                            radius: isSelected ? 5 : 2,
-                            x: 0, y: isSelected ? 2 : 1)
-            )
-            .foregroundColor(textColor(isSelected: isSelected, isCorrect: isCorrect))
-    }
-    
-    func primaryButtonStyle(backgroundColor: Color = Color("PrimaryColor")) -> some View {
-        self
-            .font(.headline.weight(.semibold))
-            .foregroundColor(.white)
-            .frame(maxWidth: .infinity)
-            .frame(height: 50)
-            .background(
-                LinearGradient(
-                    gradient: Gradient(colors: [backgroundColor, backgroundColor.opacity(0.8)]),
-                    startPoint: .topLeading,
-                    endPoint: .bottomTrailing
-                )
-                .cornerRadius(12)
-                .shadow(color: backgroundColor.opacity(0.3), radius: 5, x: 0, y: 2)
-            )
-            .contentShape(Rectangle())
-    }
-    
-    func secondaryButtonStyle() -> some View {
-        self
-            .font(.headline.weight(.semibold))
-            .foregroundColor(Color("PrimaryColor"))
-            .frame(maxWidth: .infinity)
-            .frame(height: 50)
-            .background(
-                RoundedRectangle(cornerRadius: 12)
-                    .fill(Color.white)
-                    .shadow(color: Color.black.opacity(0.1), radius: 5, x: 0, y: 2)
-                    .overlay(
-                        RoundedRectangle(cornerRadius: 12)
-                            .stroke(Color("PrimaryColor"), lineWidth: 1.5)
-                    )
-            )
-            .contentShape(Rectangle())
-    }
-    
-    func appearWithBounce(delay: Double = 0) -> some View {
-        self.scaleEffect(1)
-            .transition(
-                .asymmetric(
-                    insertion: .scale(scale: 0.7)
-                        .combined(with: .opacity)
-                        .animation(.spring(response: 0.4, dampingFraction: 0.65).delay(delay)),
-                    removal: .opacity.animation(.easeOut(duration: 0.2))
-                )
-            )
-    }
-    
-    private func color(isCorrect: Bool?) -> Color {
-        if let isCorrect = isCorrect {
-            return isCorrect ? Color.green.opacity(0.15) : Color.red.opacity(0.15)
-        }
-        return Color("AccentColor").opacity(0.2)
-    }
-    
-    private func textColor(isSelected: Bool, isCorrect: Bool?) -> Color {
-        if let isCorrect = isCorrect, isSelected {
-            return isCorrect ? .green : .red
-        }
-        return isSelected ? Color("AccentColor") : .primary
-    }
-    
-    private func shadowColor(isSelected: Bool, isCorrect: Bool?) -> Color {
-        if let isCorrect = isCorrect, isSelected {
-            return (isCorrect ? Color.green : Color.red).opacity(0.2)
-        }
-        return Color.black.opacity(0.05)
-    }
-}
-
 struct ContentView: View {
     @StateObject private var viewModel = QuestionViewModel()
     @Environment(\.colorScheme) var colorScheme
@@ -200,14 +92,8 @@ struct ContentView: View {
                                 }
                             }) {
                                 Text(viewModel.currentQuestion.options[index])
-                                    .optionButtonStyle(
-                                        isSelected: viewModel.lastSelectedAnswerIndex == index,
-                                        isCorrect: viewModel.showingFeedback ? 
-                                            (index == viewModel.currentQuestion.correctAnswerIndex) ||
-                                            (index == viewModel.lastSelectedAnswerIndex && viewModel.isLastAnswerCorrect) : nil
-                                    )
                             }
-                            .buttonStyle(PlainButtonStyle())
+                            .primaryButtonStyle()
                             .disabled(viewModel.showingFeedback)
                             .animation(AppAnimation.quick, value: viewModel.showingFeedback)
                         }
@@ -240,6 +126,7 @@ struct ContentView: View {
                             Text("Menu")
                         }
                     }
+                    .primaryButtonStyle()
                 }
                 #else
                 ToolbarItem(placement: .automatic) {
@@ -253,6 +140,7 @@ struct ContentView: View {
                             Text("Menu")
                         }
                     }
+                    .primaryButtonStyle()
                 }
                 #endif
             }
@@ -332,9 +220,8 @@ struct ContentView: View {
                     Text("Next Question")
                     Image(systemName: "arrow.right")
                 }
-                .primaryButtonStyle()
             }
-            .buttonStyle(PlainButtonStyle())
+            .primaryButtonStyle()
             .padding(.horizontal)
             .padding(.top, 10)
             .transition(.asymmetric(
@@ -436,9 +323,8 @@ struct ContentView: View {
                             Image(systemName: "arrow.left")
                             Text("New Quiz")
                         }
-                        .primaryButtonStyle()
                     }
-                    .buttonStyle(PlainButtonStyle())
+                    .primaryButtonStyle()
                     .appearWithBounce(delay: 0.7)
                     
                     Button(action: {
@@ -450,9 +336,8 @@ struct ContentView: View {
                             Image(systemName: "list.bullet")
                             Text("Review Questions")
                         }
-                        .primaryButtonStyle(backgroundColor: AppColors.secondary)
                     }
-                    .buttonStyle(PlainButtonStyle())
+                    .primaryButtonStyle(backgroundColor: AppColors.secondary)
                     .appearWithBounce(delay: 0.9)
                 }
                 .padding()
@@ -516,9 +401,8 @@ struct ContentView: View {
                         Image(systemName: "arrow.left")
                         Text("Back to Results")
                     }
-                    .primaryButtonStyle()
                 }
-                .buttonStyle(PlainButtonStyle())
+                .primaryButtonStyle()
                 .padding()
             }
             .padding(.vertical)

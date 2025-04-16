@@ -18,9 +18,13 @@
 		AE3DB3E12DA194140032901D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE3DB3E02DA194140032901D /* ContentView.swift */; };
 		AE3DB3E32DA1B8B10032901D /* BibleQuestionBank.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE3DB3E22DA1B8B10032901D /* BibleQuestionBank.swift */; };
 		AE3DB3E52DA1BA750032901D /* SelectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE3DB3E42DA1BA750032901D /* SelectionView.swift */; };
-		AE3DB3E92DABFE670032901D /* Utils in Resources */ = {isa = PBXBuildFile; fileRef = AE3DB3E82DABFE670032901D /* Utils */; };
 		AE3DB3EF2DACA20B0032901D /* SplashScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE3DB3EE2DACA20B0032901D /* SplashScreenView.swift */; };
 		AE3DB3F52DACAEF40032901D /* OptionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE3DB3F42DACAEF30032901D /* OptionView.swift */; };
+		AEA276122DAF2F36007618C1 /* ButtonStyles.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEA276112DAF2F36007618C1 /* ButtonStyles.swift */; };
+		AEA276142DAF2F67007618C1 /* ViewModifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEA276132DAF2F67007618C1 /* ViewModifiers.swift */; };
+		AEA276162DAF2F77007618C1 /* AppTheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEA276152DAF2F77007618C1 /* AppTheme.swift */; };
+		AEA276182DAF2F7A007618C1 /* AnimationUtils.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEA276172DAF2F7A007618C1 /* AnimationUtils.swift */; };
+		AEA2761A2DAF2FB4007618C1 /* Utils in Resources */ = {isa = PBXBuildFile; fileRef = AEA276192DAF2FB4007618C1 /* Utils */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,10 +60,14 @@
 		AE3DB3E02DA194140032901D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		AE3DB3E22DA1B8B10032901D /* BibleQuestionBank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BibleQuestionBank.swift; sourceTree = "<group>"; };
 		AE3DB3E42DA1BA750032901D /* SelectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectionView.swift; sourceTree = "<group>"; };
-		AE3DB3E82DABFE670032901D /* Utils */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Utils; sourceTree = "<group>"; };
 		AE3DB3EE2DACA20B0032901D /* SplashScreenView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SplashScreenView.swift; sourceTree = "<group>"; };
 		AE3DB3F22DACA2610032901D /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AE3DB3F42DACAEF30032901D /* OptionView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OptionView.swift; sourceTree = "<group>"; };
+		AEA276112DAF2F36007618C1 /* ButtonStyles.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ButtonStyles.swift; sourceTree = "<group>"; };
+		AEA276132DAF2F67007618C1 /* ViewModifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModifiers.swift; sourceTree = "<group>"; };
+		AEA276152DAF2F77007618C1 /* AppTheme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppTheme.swift; sourceTree = "<group>"; };
+		AEA276172DAF2F7A007618C1 /* AnimationUtils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationUtils.swift; sourceTree = "<group>"; };
+		AEA276192DAF2FB4007618C1 /* Utils */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Utils; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,7 +119,7 @@
 			isa = PBXGroup;
 			children = (
 				AE3DB3F22DACA2610032901D /* Info.plist */,
-				AE3DB3E82DABFE670032901D /* Utils */,
+				AEA276192DAF2FB4007618C1 /* Utils */,
 				AE3DB3DB2DA193AD0032901D /* Views */,
 				AE3DB3DA2DA193A40032901D /* ViewModels */,
 				AE3DB3D92DA193940032901D /* Models */,
@@ -168,6 +176,10 @@
 		AE3DB3DB2DA193AD0032901D /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				AEA276172DAF2F7A007618C1 /* AnimationUtils.swift */,
+				AEA276152DAF2F77007618C1 /* AppTheme.swift */,
+				AEA276132DAF2F67007618C1 /* ViewModifiers.swift */,
+				AEA276112DAF2F36007618C1 /* ButtonStyles.swift */,
 				AE3DB3F42DACAEF30032901D /* OptionView.swift */,
 				AE3DB3EE2DACA20B0032901D /* SplashScreenView.swift */,
 				AE3DB3E02DA194140032901D /* ContentView.swift */,
@@ -280,7 +292,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AE3DB3E92DABFE670032901D /* Utils in Resources */,
+				AEA2761A2DAF2FB4007618C1 /* Utils in Resources */,
 				AE3DB3B72DA192BF0032901D /* Preview Assets.xcassets in Resources */,
 				AE3DB3B32DA192BF0032901D /* Assets.xcassets in Resources */,
 			);
@@ -308,10 +320,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				AE3DB3EF2DACA20B0032901D /* SplashScreenView.swift in Sources */,
+				AEA276162DAF2F77007618C1 /* AppTheme.swift in Sources */,
 				AE3DB3DD2DA193E30032901D /* Question.swift in Sources */,
 				AE3DB3E12DA194140032901D /* ContentView.swift in Sources */,
 				AE3DB3DF2DA194030032901D /* QuestionViewModel.swift in Sources */,
+				AEA276122DAF2F36007618C1 /* ButtonStyles.swift in Sources */,
+				AEA276142DAF2F67007618C1 /* ViewModifiers.swift in Sources */,
 				AE3DB3E32DA1B8B10032901D /* BibleQuestionBank.swift in Sources */,
+				AEA276182DAF2F7A007618C1 /* AnimationUtils.swift in Sources */,
 				AE3DB3AF2DA192BC0032901D /* REAApp.swift in Sources */,
 				AE3DB3E52DA1BA750032901D /* SelectionView.swift in Sources */,
 				AE3DB3F52DACAEF40032901D /* OptionView.swift in Sources */,
