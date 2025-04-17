@@ -1,22 +1,5 @@
 import SwiftUI
 
-// Temporary helper until the full AppTheme is recognized by Xcode
-extension Color {
-    static let appPrimary = Color("PrimaryColor")
-    static let appSecondary = Color("SecondaryColor") 
-    static let appAccent = Color("AccentColor")
-    static let appBackground = Color("BackgroundColor")
-    static let appCardBackground = Color("CardBackgroundColor")
-    
-    static func difficultyColor(_ difficulty: Difficulty) -> Color {
-        switch difficulty {
-        case .easy: return .green
-        case .medium: return .orange
-        case .hard: return .red
-        }
-    }
-}
-
 struct ContentView: View {
     @StateObject private var viewModel = QuestionViewModel()
     @Environment(\.colorScheme) var colorScheme
@@ -25,7 +8,7 @@ struct ContentView: View {
         NavigationStack {
             if viewModel.isSelectionViewActive {
                 SelectionView(viewModel: viewModel)
-                    .background(Color.appBackground)
+                    .background(AppColors.background)
             } else if viewModel.showingResults {
                 resultsView
             } else if viewModel.isReviewingQuestions {

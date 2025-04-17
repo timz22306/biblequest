@@ -67,34 +67,14 @@ struct SelectionView: View {
                                         }
                                     }) {
                                         Text(book.rawValue)
+                                            .font(AppFonts.subheadline)
                                             .padding(.vertical, 10)
                                             .padding(.horizontal, 16)
-                                            .frame(minWidth: 100)
-                                            .background(
-                                                RoundedRectangle(cornerRadius: AppLayout.cornerRadius)
-                                                    .fill(viewModel.selectedBook == book ? 
-                                                         AppColors.primary : 
-                                                         (colorScheme == .dark ? Color.black.opacity(0.3) : Color.white))
-                                                    .shadow(
-                                                        color: viewModel.selectedBook == book ? 
-                                                            AppColors.primary.opacity(0.3) : Color.black.opacity(0.05),
-                                                        radius: viewModel.selectedBook == book ? 5 : 2,
-                                                        x: 0, y: 2
-                                                    )
-                                            )
-                                            .foregroundColor(
-                                                viewModel.selectedBook == book ?
-                                                Color.white : AppColors.primary
-                                            )
-                                            .overlay(
-                                                RoundedRectangle(cornerRadius: AppLayout.cornerRadius)
-                                                    .stroke(
-                                                        viewModel.selectedBook == book ? Color.clear : AppColors.primary.opacity(0.5),
-                                                        lineWidth: 1
-                                                    )
-                                            )
                                     }
-                                    .primaryButtonStyle()
+                                    .selectionButtonStyle(
+                                        isSelected: viewModel.selectedBook == book,
+                                        selectedColor: AppColors.primary
+                                    )
                                     .padding(.vertical, 4)
                                     .offset(y: animateButtons ? 0 : 5)
                                     .animation(
@@ -186,72 +166,6 @@ struct SelectionView: View {
                                     }
                                     .primaryButtonStyle()
                                 }
-                                
-                                // "All" difficulty button
-                                Button(action: {
-                                    previousDifficulty = viewModel.selectedDifficulty
-                                    
-                                    if viewModel.selectedDifficulty != nil {
-                                        withAnimation(AppAnimation.quick) {
-                                            animateQuestionOptions = false
-                                            viewModel.selectedQuestionCount = nil
-                                        }
-                                        
-                                        DispatchQueue.main.asyncAfter(deadline: .now() + 0.3) {
-                                            withAnimation(AppAnimation.quick) {
-                                                viewModel.selectedDifficulty = nil
-                                            }
-                                            
-                                            withAnimation(AppAnimation.bounce.delay(0.1)) {
-                                                animateQuestionOptions = true
-                                            }
-                                        }
-                                    } else {
-                                        withAnimation(AppAnimation.quick) {
-                                            viewModel.selectedDifficulty = nil
-                                            viewModel.selectedQuestionCount = nil
-                                        }
-                                        
-                                        withAnimation(AppAnimation.bounce.delay(0.1)) {
-                                            animateQuestionOptions = true
-                                        }
-                                    }
-                                }) {
-                                    VStack {
-                                        Image(systemName: "arrow.up.and.down")
-                                            .font(.system(size: 24))
-                                            .padding(.bottom, 5)
-                                        Text("All")
-                                            .font(AppFonts.subheadline)
-                                    }
-                                    .frame(minWidth: itemWidth, minHeight: itemWidth)
-                                    .padding(.vertical, 8)
-                                    .padding(.horizontal, 8)
-                                    .background(
-                                        RoundedRectangle(cornerRadius: AppLayout.cornerRadius)
-                                            .fill(viewModel.selectedDifficulty == nil && viewModel.selectedBook != nil ? 
-                                                 Color.purple : 
-                                                 (colorScheme == .dark ? Color.black.opacity(0.3) : Color.white))
-                                            .shadow(
-                                                color: viewModel.selectedDifficulty == nil && viewModel.selectedBook != nil ? 
-                                                    Color.purple.opacity(0.3) : Color.black.opacity(0.05),
-                                                radius: viewModel.selectedDifficulty == nil && viewModel.selectedBook != nil ? 5 : 2,
-                                                x: 0, y: 2
-                                            )
-                                    )
-                                    .foregroundColor(
-                                        viewModel.selectedDifficulty == nil && viewModel.selectedBook != nil ?
-                                        Color.white : Color.purple
-                                    )
-                                    .overlay(
-                                        RoundedRectangle(cornerRadius: AppLayout.cornerRadius)
-                                            .stroke(
-                                                viewModel.selectedDifficulty == nil && viewModel.selectedBook != nil ? Color.clear : Color.purple.opacity(0.5),
-                                                lineWidth: 1
-                                            )
-                                    )
-                                }
-                                .primaryButtonStyle()
                             }
                             .padding(.horizontal, screenWidth > 400 ? 16 : 8)
                             .frame(maxWidth: .infinity)
