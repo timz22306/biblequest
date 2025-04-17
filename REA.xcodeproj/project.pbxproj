@@ -18,7 +18,7 @@
 		AE3DB3E12DA194140032901D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE3DB3E02DA194140032901D /* ContentView.swift */; };
 		AE3DB3E32DA1B8B10032901D /* BibleQuestionBank.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE3DB3E22DA1B8B10032901D /* BibleQuestionBank.swift */; };
 		AE3DB3E52DA1BA750032901D /* SelectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE3DB3E42DA1BA750032901D /* SelectionView.swift */; };
-		AE3DB3EF2DACA20B0032901D /* SplashScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE3DB3EE2DACA20B0032901D /* SplashScreenView.swift */; };
+		AE3DB3EF2DACA20B0032901D /* LaunchScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE3DB3EE2DACA20B0032901D /* LaunchScreenView.swift */; };
 		AE3DB3F52DACAEF40032901D /* OptionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE3DB3F42DACAEF30032901D /* OptionView.swift */; };
 		AEA276122DAF2F36007618C1 /* ButtonStyles.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEA276112DAF2F36007618C1 /* ButtonStyles.swift */; };
 		AEA276142DAF2F67007618C1 /* ViewModifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEA276132DAF2F67007618C1 /* ViewModifiers.swift */; };
@@ -62,7 +62,7 @@
 		AE3DB3E02DA194140032901D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		AE3DB3E22DA1B8B10032901D /* BibleQuestionBank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BibleQuestionBank.swift; sourceTree = "<group>"; };
 		AE3DB3E42DA1BA750032901D /* SelectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectionView.swift; sourceTree = "<group>"; };
-		AE3DB3EE2DACA20B0032901D /* SplashScreenView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SplashScreenView.swift; sourceTree = "<group>"; };
+		AE3DB3EE2DACA20B0032901D /* LaunchScreenView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LaunchScreenView.swift; sourceTree = "<group>"; };
 		AE3DB3F22DACA2610032901D /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AE3DB3F42DACAEF30032901D /* OptionView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OptionView.swift; sourceTree = "<group>"; };
 		AEA276112DAF2F36007618C1 /* ButtonStyles.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ButtonStyles.swift; sourceTree = "<group>"; };
@@ -186,7 +186,7 @@
 				AEA276132DAF2F67007618C1 /* ViewModifiers.swift */,
 				AEA276112DAF2F36007618C1 /* ButtonStyles.swift */,
 				AE3DB3F42DACAEF30032901D /* OptionView.swift */,
-				AE3DB3EE2DACA20B0032901D /* SplashScreenView.swift */,
+				AE3DB3EE2DACA20B0032901D /* LaunchScreenView.swift */,
 				AE3DB3E02DA194140032901D /* ContentView.swift */,
 				AE3DB3E42DA1BA750032901D /* SelectionView.swift */,
 			);
@@ -334,7 +334,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AE3DB3EF2DACA20B0032901D /* SplashScreenView.swift in Sources */,
+				AE3DB3EF2DACA20B0032901D /* LaunchScreenView.swift in Sources */,
 				AEA276162DAF2F77007618C1 /* AppTheme.swift in Sources */,
 				AE3DB3DD2DA193E30032901D /* Question.swift in Sources */,
 				AE3DB3E12DA194140032901D /* ContentView.swift in Sources */,

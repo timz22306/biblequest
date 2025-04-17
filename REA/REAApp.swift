@@ -9,25 +9,25 @@ import SwiftUI
 
 @main
 struct REAApp: App {
-    @State private var showSplashScreen = true
+    @State private var showLaunchScreen = true // Updated variable name
     
     var body: some Scene {
         WindowGroup {
             ZStack {
                 ContentView()
                     .accentColor(Color("AccentColor"))
-                    .opacity(showSplashScreen ? 0 : 1)
+                    .opacity(showLaunchScreen ? 0 : 1) // Updated variable name
                 
-                if showSplashScreen {
-                    SplashScreenView()
+                if showLaunchScreen { // Updated variable name
+                    LaunchScreenView() // Updated from SplashScreenView to LaunchScreenView
                         .transition(.opacity)
                 }
             }
             .onAppear {
-                // Add a slight delay before transitioning from splash screen
-                DispatchQueue.main.asyncAfter(deadline: .now() + 2.5) {
-                    withAnimation(.easeInOut(duration: 0.7)) {
-                        showSplashScreen = false
+                // Increased delay and made transition slower
+                DispatchQueue.main.asyncAfter(deadline: .now() + 3.5) { // Increased delay to 3.5 seconds
+                    withAnimation(.easeInOut(duration: 1.5)) { // Slower transition duration of 1.5 seconds
+                        showLaunchScreen = false // Updated variable name
                     }
                 }
             }
