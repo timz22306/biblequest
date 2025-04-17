@@ -164,7 +164,6 @@ struct SelectionView: View {
                                                 )
                                         )
                                     }
-                                    .primaryButtonStyle()
                                 }
                             }
                             .padding(.horizontal, screenWidth > 400 ? 16 : 8)
