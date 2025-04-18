@@ -79,6 +79,7 @@ struct ContentView: View {
                             .primaryButtonStyle()
                             .disabled(viewModel.showingFeedback)
                             .animation(AppAnimation.quick, value: viewModel.showingFeedback)
+                            .frame(maxWidth: 270) // Set a maximum width for the buttons
                         }
                     }
                     .padding(.horizontal, AppLayout.tightSpacing)
@@ -205,6 +206,7 @@ struct ContentView: View {
                 }
             }
             .primaryButtonStyle()
+            .frame(maxWidth: 150) // Set a maximum width for the "Next" button
             .padding(.horizontal, AppLayout.tightSpacing)
             .padding(.top, 5)
             .transition(.asymmetric(
@@ -346,10 +348,12 @@ struct ContentView: View {
                     VStack(alignment: .leading, spacing: 10) {
                         Text("Question \(index + 1):")
                             .font(AppFonts.headline)
+                            .frame(maxWidth: .infinity, alignment: .leading) // Ensure consistent width
                         
                         Text(question.text)
                             .font(AppFonts.body)
                             .padding(.bottom, 5)
+                            .frame(maxWidth: .infinity, alignment: .leading) // Ensure consistent width
                         
                         if let isCorrect = question.isAnsweredCorrectly {
                             HStack {
@@ -359,11 +363,13 @@ struct ContentView: View {
                                 Text(isCorrect ? "Correct" : "Incorrect")
                                     .foregroundColor(isCorrect ? .green : .red)
                             }
+                            .frame(maxWidth: .infinity, alignment: .leading) // Ensure consistent width
                         }
                         
                         Text("Correct answer: \(question.options[question.correctAnswerIndex])")
                             .font(AppFonts.caption)
                             .foregroundColor(.secondary)
+                            .frame(maxWidth: .infinity, alignment: .leading) // Ensure consistent width
                     }
                     .padding()
                     .background(
