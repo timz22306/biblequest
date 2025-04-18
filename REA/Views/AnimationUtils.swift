@@ -165,6 +165,18 @@ extension View {
             }
         }
     }
+    
+    // MARK: - Glowing Effect Modifier
+    func glowingEffect(color: Color = AppColors.accent, radius: CGFloat = 20, speed: Double = 1.5) -> some View {
+        self.overlay(
+            Circle()
+                .stroke(color.opacity(0.6), lineWidth: 4)
+                .shadow(color: color.opacity(0.8), radius: radius)
+                .scaleEffect(1.1)
+                .opacity(0.8)
+                .animation(Animation.easeInOut(duration: speed).repeatForever(autoreverses: true))
+        )
+    }
 }
 
 // Shimmer effect modifier

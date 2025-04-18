@@ -66,6 +66,7 @@ struct SelectionButtonStyle: ViewModifier {
                 RoundedRectangle(cornerRadius: cornerRadius)
                     .stroke(isSelected ? Color.clear : selectedColor.opacity(0.5), lineWidth: 1)
             )
+            .contentShape(Rectangle())
     }
 }
 
@@ -84,6 +85,7 @@ struct OptionButtonStyle: ViewModifier {
                     .shadow(color: shadowColor, radius: isSelected ? 5 : 2, x: 0, y: isSelected ? 2 : 1)
             )
             .foregroundColor(textColor)
+            .contentShape(Rectangle())
     }
     private var backgroundColor: Color {
         if let isCorrect = isCorrect {

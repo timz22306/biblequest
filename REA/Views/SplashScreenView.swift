@@ -22,6 +22,7 @@ struct LaunchScreenView: View {
                     .resizable()
                     .scaledToFit()
                     .frame(width: 160, height: 160)
+                    .glowingEffect(color: AppColors.accent, radius: 15, speed: 2.0) // Added glowing effect
                 
                 // Title
                 Text("BibleQuest")

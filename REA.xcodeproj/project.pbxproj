@@ -20,6 +20,7 @@
 		AE3DB3E52DA1BA750032901D /* SelectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE3DB3E42DA1BA750032901D /* SelectionView.swift */; };
 		AE3DB3EF2DACA20B0032901D /* LaunchScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE3DB3EE2DACA20B0032901D /* LaunchScreenView.swift */; };
 		AE3DB3F52DACAEF40032901D /* OptionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE3DB3F42DACAEF30032901D /* OptionView.swift */; };
+		AE68B9112DB29A870010C529 /* biblequest_logo2.png in Resources */ = {isa = PBXBuildFile; fileRef = AE68B9102DB29A870010C529 /* biblequest_logo2.png */; };
 		AEA276122DAF2F36007618C1 /* ButtonStyles.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEA276112DAF2F36007618C1 /* ButtonStyles.swift */; };
 		AEA276142DAF2F67007618C1 /* ViewModifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEA276132DAF2F67007618C1 /* ViewModifiers.swift */; };
 		AEA276162DAF2F77007618C1 /* AppTheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEA276152DAF2F77007618C1 /* AppTheme.swift */; };
@@ -64,6 +65,7 @@
 		AE3DB3EE2DACA20B0032901D /* LaunchScreenView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LaunchScreenView.swift; sourceTree = "<group>"; };
 		AE3DB3F22DACA2610032901D /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AE3DB3F42DACAEF30032901D /* OptionView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OptionView.swift; sourceTree = "<group>"; };
+		AE68B9102DB29A870010C529 /* biblequest_logo2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = biblequest_logo2.png; sourceTree = "<group>"; };
 		AEA276112DAF2F36007618C1 /* ButtonStyles.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ButtonStyles.swift; sourceTree = "<group>"; };
 		AEA276132DAF2F67007618C1 /* ViewModifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModifiers.swift; sourceTree = "<group>"; };
 		AEA276152DAF2F77007618C1 /* AppTheme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppTheme.swift; sourceTree = "<group>"; };
@@ -120,6 +122,7 @@
 		AE3DB3AD2DA192BC0032901D /* REA */ = {
 			isa = PBXGroup;
 			children = (
+				AE68B9102DB29A870010C529 /* biblequest_logo2.png */,
 				AEA276242DAF3BF8007618C1 /* BookData */,
 				AE3DB3F22DACA2610032901D /* Info.plist */,
 				AE3DB3DB2DA193AD0032901D /* Views */,
@@ -304,6 +307,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AE3DB3B72DA192BF0032901D /* Preview Assets.xcassets in Resources */,
+				AE68B9112DB29A870010C529 /* biblequest_logo2.png in Resources */,
 				AE3DB3B32DA192BF0032901D /* Assets.xcassets in Resources */,
 				AEA276282DAF3C1F007618C1 /* exodus.json in Resources */,
 			);
@@ -503,6 +507,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"REA/Preview Content\"";
+				DEVELOPMENT_TEAM = NL5NDPT4V7;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
@@ -543,6 +548,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"REA/Preview Content\"";
+				DEVELOPMENT_TEAM = NL5NDPT4V7;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
