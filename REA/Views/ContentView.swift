@@ -22,11 +22,11 @@ struct ContentView: View {
     var questionView: some View {
         GeometryReader { geometry in
             ScrollView {
-                VStack(spacing: AppLayout.standardSpacing) {
+                VStack(spacing: AppLayout.tightSpacing) {
                     // Progress bar
                     ProgressView(value: viewModel.progressValue)
                         .tint(AppColors.primary)
-                        .padding(.horizontal)
+                        .padding(.horizontal, AppLayout.tightSpacing)
                         .scaleEffect(x: 1, y: 1.5, anchor: .center)
                     
                     // Question counter and book/difficulty
@@ -38,7 +38,7 @@ struct ContentView: View {
                         Spacer()
                         
                         // Display book and difficulty
-                        HStack(spacing: 5) {
+                        HStack(spacing: 3) {
                             Text(viewModel.currentQuestion.book.rawValue)
                                 .tagStyle(color: AppColors.info)
                             
@@ -46,13 +46,13 @@ struct ContentView: View {
                                 .tagStyle(color: AppColors.difficultyColor(viewModel.currentQuestion.difficulty))
                         }
                     }
-                    .padding(.horizontal)
+                    .padding(.horizontal, AppLayout.tightSpacing)
                     
                     // Question text
                     Text(viewModel.currentQuestion.text)
                         .font(AppFonts.questionTitle)
                         .multilineTextAlignment(.center)
-                        .padding(.horizontal)
+                        .padding(.horizontal, AppLayout.tightSpacing)
                         .frame(maxWidth: .infinity)
                     
                     // Verse reference
@@ -62,7 +62,7 @@ struct ContentView: View {
                         .foregroundColor(.secondary)
                         .multilineTextAlignment(.center)
                     
-                    Spacer(minLength: AppLayout.standardSpacing)
+                    Spacer(minLength: AppLayout.tightSpacing)
                     
                     // Answer options
                     VStack(spacing: AppLayout.tightSpacing) {
@@ -81,13 +81,13 @@ struct ContentView: View {
                             .animation(AppAnimation.quick, value: viewModel.showingFeedback)
                         }
                     }
-                    .padding(.horizontal)
+                    .padding(.horizontal, AppLayout.tightSpacing)
                     
                     if viewModel.showingFeedback {
                         feedbackView
                     }
                     
-                    Spacer()
+                    Spacer(minLength: AppLayout.tightSpacing)
                 }
                 .padding()
                 .frame(minHeight: geometry.size.height)
@@ -132,7 +132,7 @@ struct ContentView: View {
     }
     
     var feedbackView: some View {
-        VStack(spacing: AppLayout.wideSpacing) {
+        VStack(spacing: AppLayout.standardSpacing) {
             // Feedback content
             VStack(spacing: AppLayout.standardSpacing) {
                 // Feedback header
@@ -140,12 +140,12 @@ struct ContentView: View {
                     HStack {
                         Image(systemName: "checkmark.circle.fill")
                             .foregroundColor(.green)
-                            .scaleEffect(1.5)
+                            .scaleEffect(1.2)
                         Text("Correct!")
-                            .font(AppFonts.headline)
+                            .font(AppFonts.subheadline)
                             .foregroundColor(.green)
                     }
-                    .padding()
+                    .padding(AppLayout.tightSpacing)
                     .background(Color.green.opacity(0.1))
                     .cornerRadius(AppLayout.cornerRadius)
                     .transition(.scale.combined(with: .opacity))
@@ -153,12 +153,12 @@ struct ContentView: View {
                     HStack {
                         Image(systemName: "xmark.circle.fill")
                             .foregroundColor(.red)
-                            .scaleEffect(1.5)
+                            .scaleEffect(1.2)
                         Text("Incorrect")
-                            .font(AppFonts.headline)
+                            .font(AppFonts.subheadline)
                             .foregroundColor(.red)
                     }
-                    .padding()
+                    .padding(AppLayout.tightSpacing)
                     .background(Color.red.opacity(0.1))
                     .cornerRadius(AppLayout.cornerRadius)
                     .transition(.scale.combined(with: .opacity))
@@ -166,7 +166,7 @@ struct ContentView: View {
                 
                 // Verse reference
                 Text(viewModel.currentQuestion.verseReference)
-                    .font(AppFonts.headline)
+                    .font(AppFonts.subheadline)
                     .transition(.asymmetric(
                         insertion: .scale.combined(with: .opacity),
                         removal: .opacity
@@ -174,11 +174,11 @@ struct ContentView: View {
                     .animation(.easeInOut(duration: 0.5).delay(0.1), value: viewModel.showingFeedback)
                 
                 Text(viewModel.currentQuestion.verseText)
-                    .font(AppFonts.body)
+                    .font(AppFonts.caption)
                     .italic()
                     .multilineTextAlignment(.center)
                     .foregroundColor(.secondary)
-                    .padding(.horizontal)
+                    .padding(.horizontal, AppLayout.tightSpacing)
                     .transition(.asymmetric(
                         insertion: .scale.combined(with: .opacity),
                         removal: .opacity
@@ -200,13 +200,13 @@ struct ContentView: View {
                 }
             }) {
                 HStack {
-                    Text("Next Question")
+                    Text("Next")
                     Image(systemName: "arrow.right")
                 }
             }
             .primaryButtonStyle()
-            .padding(.horizontal)
-            .padding(.top, 10)
+            .padding(.horizontal, AppLayout.tightSpacing)
+            .padding(.top, 5)
             .transition(.asymmetric(
                 insertion: .move(edge: .bottom).combined(with: .opacity),
                 removal: .opacity

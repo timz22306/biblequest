@@ -175,7 +175,10 @@ struct SelectionView: View {
                     // Question Count Selection - Adaptive layout
                     if viewModel.selectedBook != nil && viewModel.availableQuestionCounts.count > 0 {
                         selectionGroup(title: "How many questions?", icon: "number.circle") {
-                            FlowLayout(spacing: 8, minWidth: itemWidth) {
+                            let buttonWidth = min(max(screenWidth / CGFloat(viewModel.availableQuestionCounts.count + 1) - 10, 60), 100)
+                            let buttonHeight = buttonWidth * 0.42 // Reduce height to ensure spacing between rows
+                            
+                            FlowLayout(spacing: 8, minWidth: buttonWidth) {
                                 ForEach(viewModel.availableQuestionCounts, id: \.self) { count in
                                     Button(action: {
                                         withAnimation(AppAnimation.quick) {
@@ -184,11 +187,11 @@ struct SelectionView: View {
                                     }) {
                                         VStack {
                                             Text("\(count)")
-                                                .font(.system(size: 24, weight: .bold))
+                                                .font(.system(size: 20, weight: .bold))
                                             Text("Questions")
                                                 .font(.caption)
                                         }
-                                        .frame(minWidth: itemWidth, minHeight: itemWidth)
+                                        .frame(minWidth: buttonWidth, minHeight: buttonHeight)
                                         .padding(.vertical, 8)
                                         .padding(.horizontal, 8)
                                         .background(
@@ -232,11 +235,11 @@ struct SelectionView: View {
                                 }) {
                                     VStack {
                                         Text("All")
-                                            .font(.system(size: 24, weight: .bold))
+                                            .font(.system(size: 20, weight: .bold))
                                         Text("Questions")
                                             .font(.caption)
                                     }
-                                    .frame(minWidth: itemWidth, minHeight: itemWidth)
+                                    .frame(minWidth: buttonWidth, minHeight: buttonHeight)
                                     .padding(.vertical, 8)
                                     .padding(.horizontal, 8)
                                     .background(
