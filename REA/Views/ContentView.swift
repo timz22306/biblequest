@@ -75,6 +75,12 @@ struct ContentView: View {
                                 }
                             }) {
                                 Text(viewModel.currentQuestion.options[index])
+                                    .font(AppFonts.optionText) // Use a consistent font style
+                                    .multilineTextAlignment(.center) // Allow text to wrap
+                                    .lineLimit(nil) // No line limit
+                                    .minimumScaleFactor(0.8) // Shrink text size if needed
+                                    .frame(maxWidth: .infinity) // Ensure the text fills the button width
+                                    .padding(.horizontal, AppLayout.standardPadding)
                             }
                             .primaryButtonStyle()
                             .disabled(viewModel.showingFeedback)
@@ -175,10 +181,10 @@ struct ContentView: View {
                     .animation(.easeInOut(duration: 0.5).delay(0.1), value: viewModel.showingFeedback)
                 
                 Text(viewModel.currentQuestion.verseText)
-                    .font(AppFonts.caption)
+                    .font(AppFonts.body)
                     .italic()
                     .multilineTextAlignment(.center)
-                    .foregroundColor(.secondary)
+                    .foregroundColor(.primary)
                     .padding(.horizontal, AppLayout.tightSpacing)
                     .transition(.asymmetric(
                         insertion: .scale.combined(with: .opacity),

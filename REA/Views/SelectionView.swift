@@ -50,43 +50,52 @@ struct SelectionView: View {
                 VStack(alignment: .leading, spacing: AppLayout.wideSpacing) {
                     // Bible Book Selection - Adaptive grid layout
                     selectionGroup(title: "Select a Book:", icon: "book") {
-                        ScrollView(.horizontal, showsIndicators: false) {
-                            let columns = [
-                                GridItem(.adaptive(minimum: min(screenWidth / 3 - 20, 120), maximum: 150), spacing: 12),
-                                GridItem(.adaptive(minimum: min(screenWidth / 3 - 20, 120), maximum: 150), spacing: 12)
-                            ]
-                            
-                            LazyHGrid(rows: columns, spacing: 12) {
-                                ForEach(viewModel.availableBooks, id: \.self) { book in
-                                    Button(action: {
-                                        withAnimation(AppAnimation.quick) {
-                                            viewModel.selectedBook = book
-                                            // Reset subsequent selections when book changes
-                                            viewModel.selectedDifficulty = nil
-                                            viewModel.selectedQuestionCount = nil
-                                        }
-                                    }) {
-                                        Text(book.rawValue)
-                                            .font(AppFonts.subheadline)
-                                            .padding(.vertical, 10)
-                                            .padding(.horizontal, 16)
+                        LazyVGrid(
+                            columns: [
+                                GridItem(.adaptive(minimum: 80, maximum: 120), spacing: 12)
+                            ],
+                            spacing: 12
+                        ) {
+                            ForEach(viewModel.availableBooks, id: \.self) { book in
+                                Button(action: {
+                                    withAnimation(AppAnimation.quick) {
+                                        viewModel.selectedBook = book
+                                        // Reset subsequent selections when book changes
+                                        viewModel.selectedDifficulty = nil
+                                        viewModel.selectedQuestionCount = nil
                                     }
-                                    .selectionButtonStyle(
-                                        isSelected: viewModel.selectedBook == book,
-                                        selectedColor: AppColors.primary
-                                    )
-                                    .padding(.vertical, 4)
-                                    .offset(y: animateButtons ? 0 : 5)
-                                    .animation(
-                                        AppAnimation.bounce.delay(Double(viewModel.availableBooks.firstIndex(of: book) ?? 0) * 0.03),
-                                        value: animateButtons
-                                    )
+                                }) {
+                                    Text(book.abbreviation)
+                                        .font(AppFonts.subheadline)
+                                        .padding(.vertical, 10)
+                                        .padding(.horizontal, 16)
                                 }
+                                .selectionButtonStyle(
+                                    isSelected: viewModel.selectedBook == book,
+                                    selectedColor: AppColors.primary
+                                )
+                                .padding(.vertical, 4)
+                                .offset(y: animateButtons ? 0 : 5)
+                                .animation(
+                                    AppAnimation.bounce.delay(Double(viewModel.availableBooks.firstIndex(of: book) ?? 0) * 0.03),
+                                    value: animateButtons
+                                )
                             }
-                            .padding(.leading)
-                            .padding(.trailing, 5)
-                            .padding(.vertical, 8)
-                            .frame(height: 120) // Fixed height for the grid
+                        }
+                        .padding(.horizontal)
+                        .padding(.vertical, 8)
+                        
+                        // Display full book name dynamically
+                        if let selectedBook = viewModel.selectedBook {
+                            HStack(spacing: 8) {
+                                Image(systemName: "book.fill")
+                                    .foregroundColor(AppColors.primary)
+                                Text("\(selectedBook.rawValue)")
+                                    .font(AppFonts.headline)
+                                    .foregroundColor(.blue) // Changed color to blue
+                            }
+                            .padding(.top, 12)
+                            .padding(.horizontal, 20) // Align with other sections
                         }
                     }
                     
