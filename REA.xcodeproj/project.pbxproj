@@ -27,6 +27,10 @@
 		AEA276182DAF2F7A007618C1 /* AnimationUtils.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEA276172DAF2F7A007618C1 /* AnimationUtils.swift */; };
 		AEA276272DAF3C1F007618C1 /* QuestionsDataLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEA276252DAF3C1F007618C1 /* QuestionsDataLoader.swift */; };
 		AEA276282DAF3C1F007618C1 /* exodus.json in Resources */ = {isa = PBXBuildFile; fileRef = AEA276262DAF3C1F007618C1 /* exodus.json */; };
+		AED148152DB2DAEE008FE102 /* genesis.json in Resources */ = {isa = PBXBuildFile; fileRef = AED148142DB2DAEE008FE102 /* genesis.json */; };
+		AED148172DB2E1D9008FE102 /* leviticus.json in Resources */ = {isa = PBXBuildFile; fileRef = AED148162DB2E1D9008FE102 /* leviticus.json */; };
+		AED148192DB35035008FE102 /* numbers.json in Resources */ = {isa = PBXBuildFile; fileRef = AED148182DB35035008FE102 /* numbers.json */; };
+		AED1481B2DB35436008FE102 /* deuteronomy.json in Resources */ = {isa = PBXBuildFile; fileRef = AED1481A2DB35436008FE102 /* deuteronomy.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -72,6 +76,10 @@
 		AEA276172DAF2F7A007618C1 /* AnimationUtils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationUtils.swift; sourceTree = "<group>"; };
 		AEA276252DAF3C1F007618C1 /* QuestionsDataLoader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = QuestionsDataLoader.swift; path = REA/Data/QuestionsDataLoader.swift; sourceTree = SOURCE_ROOT; };
 		AEA276262DAF3C1F007618C1 /* exodus.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = exodus.json; path = REA/Data/exodus.json; sourceTree = SOURCE_ROOT; };
+		AED148142DB2DAEE008FE102 /* genesis.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = genesis.json; path = REA/Data/genesis.json; sourceTree = SOURCE_ROOT; };
+		AED148162DB2E1D9008FE102 /* leviticus.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = leviticus.json; path = REA/Data/leviticus.json; sourceTree = SOURCE_ROOT; };
+		AED148182DB35035008FE102 /* numbers.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = numbers.json; path = REA/Data/numbers.json; sourceTree = SOURCE_ROOT; };
+		AED1481A2DB35436008FE102 /* deuteronomy.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = deuteronomy.json; path = REA/Data/deuteronomy.json; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -196,6 +204,10 @@
 		AEA276242DAF3BF8007618C1 /* BookData */ = {
 			isa = PBXGroup;
 			children = (
+				AED1481A2DB35436008FE102 /* deuteronomy.json */,
+				AED148182DB35035008FE102 /* numbers.json */,
+				AED148162DB2E1D9008FE102 /* leviticus.json */,
+				AED148142DB2DAEE008FE102 /* genesis.json */,
 				AEA276262DAF3C1F007618C1 /* exodus.json */,
 				AEA276252DAF3C1F007618C1 /* QuestionsDataLoader.swift */,
 			);
@@ -308,8 +320,12 @@
 			files = (
 				AE3DB3B72DA192BF0032901D /* Preview Assets.xcassets in Resources */,
 				AE68B9112DB29A870010C529 /* biblequest_logo2.png in Resources */,
+				AED148172DB2E1D9008FE102 /* leviticus.json in Resources */,
+				AED1481B2DB35436008FE102 /* deuteronomy.json in Resources */,
 				AE3DB3B32DA192BF0032901D /* Assets.xcassets in Resources */,
+				AED148152DB2DAEE008FE102 /* genesis.json in Resources */,
 				AEA276282DAF3C1F007618C1 /* exodus.json in Resources */,
+				AED148192DB35035008FE102 /* numbers.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,0 +1,884 @@
+[
+    {
+        "text": "How old were men required to be in order to be counted in the first census?",
+        "options": ["20 years and older", "10 years and older", "30 years and older", "13 years and older"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Easy",
+        "verseReference": "Numbers 1:3",
+        "verseText": "From twenty years old and upward, all in Israel who are able to go to war, you and Aaron shall list them, company by company. (ESV)"
+    },
+    {
+        "text": "Which tribe was not counted in the military census?",
+        "options": ["Levi", "Judah", "Reuben", "Benjamin"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Easy",
+        "verseReference": "Numbers 1:47-49",
+        "verseText": "But the Levites were not listed along with them by their ancestral tribe. For the LORD spoke to Moses, saying, 'Only the tribe of Levi you shall not list, and you shall not take a census of them among the people of Israel.' (ESV)"
+    },
+    {
+        "text": "What was the purpose of the Nazarite vow?",
+        "options": ["To separate oneself for the LORD", "To become a priest", "To gain wealth", "To become a leader"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Easy",
+        "verseReference": "Numbers 6:2",
+        "verseText": "Speak to the people of Israel and say to them, When either a man or a woman makes a special vow, the vow of a Nazirite, to separate himself to the LORD... (ESV)"
+    },
+    {
+        "text": "What were Nazarites forbidden to consume?",
+        "options": ["Wine and strong drink", "Meat", "Bread", "Water"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Easy",
+        "verseReference": "Numbers 6:3",
+        "verseText": "He shall separate himself from wine and strong drink. He shall drink no vinegar made from wine or strong drink and shall not drink any juice of grapes or eat grapes, fresh or dried. (ESV)"
+    },
+    {
+        "text": "Who was Moses' sister?",
+        "options": ["Miriam", "Rachel", "Leah", "Deborah"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Easy",
+        "verseReference": "Numbers 12:1",
+        "verseText": "Miriam and Aaron spoke against Moses because of the Cushite woman whom he had married, for he had married a Cushite woman. (ESV)"
+    },
+    {
+        "text": "What happened to Miriam when she spoke against Moses?",
+        "options": ["She became leprous", "She died", "She was exiled", "Nothing happened"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Easy",
+        "verseReference": "Numbers 12:10",
+        "verseText": "When the cloud removed from over the tent, behold, Miriam was leprous, like snow. And Aaron turned toward Miriam, and behold, she was leprous. (ESV)"
+    },
+    {
+        "text": "How many spies were sent to explore Canaan?",
+        "options": ["12", "10", "40", "2"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Easy",
+        "verseReference": "Numbers 13:1-2",
+        "verseText": "The LORD spoke to Moses, saying, 'Send men to spy out the land of Canaan, which I am giving to the people of Israel. From each tribe of their fathers you shall send a man, every one a chief among them.' (ESV)"
+    },
+    {
+        "text": "How many days did the spies explore Canaan?",
+        "options": ["40", "12", "30", "7"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Easy",
+        "verseReference": "Numbers 13:25",
+        "verseText": "At the end of forty days they returned from spying out the land. (ESV)"
+    },
+    {
+        "text": "Which two spies gave a good report about the land?",
+        "options": ["Joshua and Caleb", "Moses and Aaron", "Simeon and Levi", "Gad and Asher"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Easy",
+        "verseReference": "Numbers 14:6-7",
+        "verseText": "And Joshua the son of Nun and Caleb the son of Jephunneh, who were among those who had spied out the land, tore their clothes and said to all the congregation of the people of Israel, 'The land, which we passed through to spy it out, is an exceedingly good land.' (ESV)"
+    },
+    {
+        "text": "How many years were the Israelites sentenced to wander in the wilderness?",
+        "options": ["40 years", "7 years", "70 years", "10 years"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Easy",
+        "verseReference": "Numbers 14:33-34",
+        "verseText": "And your children shall be shepherds in the wilderness forty years and shall suffer for your faithlessness, until the last of your dead bodies lies in the wilderness. According to the number of the days in which you spied out the land, forty days, a year for each day, you shall bear your iniquity forty years. (ESV)"
+    },
+    {
+        "text": "What happened to Korah, Dathan, and Abiram when they rebelled?",
+        "options": ["The ground swallowed them", "They were struck by lightning", "They were stoned", "They were banished"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Easy",
+        "verseReference": "Numbers 16:31-32",
+        "verseText": "And as soon as he had finished speaking all these words, the ground under them split apart. And the earth opened its mouth and swallowed them up, with their households and all the people who belonged to Korah and all their goods. (ESV)"
+    },
+    {
+        "text": "What happened to Aaron's rod as a sign of his authority?",
+        "options": ["It budded", "It turned into a snake", "It glowed", "It became gold"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Easy",
+        "verseReference": "Numbers 17:8",
+        "verseText": "On the next day Moses went into the tent of the testimony, and behold, the staff of Aaron for the house of Levi had sprouted and put forth buds and produced blossoms, and it bore ripe almonds. (ESV)"
+    },
+    {
+        "text": "What did God command Moses to speak to in order to provide water?",
+        "options": ["A rock", "A tree", "The sky", "The ground"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Easy",
+        "verseReference": "Numbers 20:8",
+        "verseText": "Take the staff, and assemble the congregation, you and Aaron your brother, and tell the rock before their eyes to yield its water. So you shall bring water out of the rock for them and give drink to the congregation and their cattle. (ESV)"
+    },
+    {
+        "text": "What did Moses do instead of speaking to the rock?",
+        "options": ["Struck it twice", "Threw salt on it", "Walked around it", "Prayed over it"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Easy",
+        "verseReference": "Numbers 20:11",
+        "verseText": "And Moses lifted up his hand and struck the rock with his staff twice, and water came out abundantly, and the congregation drank, and their livestock. (ESV)"
+    },
+    {
+        "text": "What was the consequence of Moses striking the rock instead of speaking to it?",
+        "options": ["He couldn't enter the promised land", "He was made ill", "He lost his leadership", "Nothing happened"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Easy",
+        "verseReference": "Numbers 20:12",
+        "verseText": "And the LORD said to Moses and Aaron, 'Because you did not believe in me, to uphold me as holy in the eyes of the people of Israel, therefore you shall not bring this assembly into the land that I have given them.' (ESV)"
+    },
+    {
+        "text": "What creature did God use to heal the Israelites from snakebites?",
+        "options": ["A bronze serpent", "A dove", "A lamb", "A calf"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Easy",
+        "verseReference": "Numbers 21:8-9",
+        "verseText": "And the LORD said to Moses, 'Make a fiery serpent and set it on a pole, and everyone who is bitten, when he sees it, shall live.' So Moses made a bronze serpent and set it on a pole. And if a serpent bit anyone, he would look at the bronze serpent and live. (ESV)"
+    },
+    {
+        "text": "Who was hired to curse Israel but ended up blessing them?",
+        "options": ["Balaam", "Balak", "Barak", "Bildad"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Easy",
+        "verseReference": "Numbers 23:11-12",
+        "verseText": "And Balak said to Balaam, 'What have you done to me? I took you to curse my enemies, and behold, you have done nothing but bless them.' And he answered and said, 'Must I not take care to speak what the LORD puts in my mouth?' (ESV)"
+    },
+    {
+        "text": "What animal spoke to Balaam?",
+        "options": ["Donkey", "Horse", "Camel", "Ox"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Easy",
+        "verseReference": "Numbers 22:28",
+        "verseText": "Then the LORD opened the mouth of the donkey, and she said to Balaam, 'What have I done to you, that you have struck me these three times?' (ESV)"
+    },
+    {
+        "text": "How many times did Balak ask Balaam to curse Israel?",
+        "options": ["3", "1", "2", "7"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Easy",
+        "verseReference": "Numbers 24:10",
+        "verseText": "And Balak's anger was kindled against Balaam, and he struck his hands together. And Balak said to Balaam, 'I called you to curse my enemies, and behold, you have blessed them these three times.' (ESV)"
+    },
+    {
+        "text": "Who succeeded Moses as leader of Israel?",
+        "options": ["Joshua", "Caleb", "Eleazar", "Aaron"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Easy",
+        "verseReference": "Numbers 27:18, 23",
+        "verseText": "So the LORD said to Moses, 'Take Joshua the son of Nun, a man in whom is the Spirit, and lay your hand on him.'... And he laid his hands on him and commissioned him as the LORD directed through Moses. (ESV)"
+    },
+    {
+        "text": "Who died on Mount Hor?",
+        "options": ["Aaron", "Moses", "Miriam", "Joshua"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Easy",
+        "verseReference": "Numbers 20:28",
+        "verseText": "And Moses stripped Aaron of his garments and put them on Eleazar his son. And Aaron died there on the top of the mountain. Then Moses and Eleazar came down from the mountain. (ESV)"
+    },
+    {
+        "text": "Which tribe was given no inheritance of land?",
+        "options": ["Levi", "Judah", "Benjamin", "Gad"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Easy",
+        "verseReference": "Numbers 18:20",
+        "verseText": "And the LORD said to Aaron, 'You shall have no inheritance in their land, neither shall you have any portion among them. I am your portion and your inheritance among the people of Israel.' (ESV)"
+    },
+    {
+        "text": "Who succeeded Aaron as high priest?",
+        "options": ["Eleazar", "Ithamar", "Phinehas", "Nadab"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Easy",
+        "verseReference": "Numbers 20:26-28",
+        "verseText": "And strip Aaron of his garments and put them on Eleazar his son. And Aaron shall be gathered to his people and shall die there... And Moses stripped Aaron of his garments and put them on Eleazar his son. (ESV)"
+    },
+    {
+        "text": "What did the Israelites complain about that led God to send fiery serpents?",
+        "options": ["The food and water", "The journey", "Moses' leadership", "The commandments"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Easy",
+        "verseReference": "Numbers 21:5",
+        "verseText": "And the people spoke against God and against Moses, 'Why have you brought us up out of Egypt to die in the wilderness? For there is no food and no water, and we loathe this worthless food.' (ESV)"
+    },
+    {
+        "text": "How many of the original adults who left Egypt entered the Promised Land?",
+        "options": ["Two (Joshua and Caleb)", "All of them", "Half of them", "None"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Easy",
+        "verseReference": "Numbers 26:65",
+        "verseText": "For the LORD had said of them, 'They shall die in the wilderness.' Not one of them was left, except Caleb the son of Jephunneh and Joshua the son of Nun. (ESV)"
+    },
+    {
+        "text": "Which tribe was divided into the most clans?",
+        "options": ["Judah", "Levi", "Reuben", "Gad"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Easy",
+        "verseReference": "Numbers 26:19-22",
+        "verseText": "The sons of Judah were Er and Onan... These are the clans of Judah... (ESV)"
+    },
+    {
+        "text": "What was the priestly blessing that Aaron and his sons were to pronounce?",
+        "options": ["The LORD bless you and keep you...", "Blessed be the LORD...", "Praise the LORD...", "The LORD is my shepherd..."],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Easy",
+        "verseReference": "Numbers 6:24-26",
+        "verseText": "The LORD bless you and keep you; the LORD make his face to shine upon you and be gracious to you; the LORD lift up his countenance upon you and give you peace. (ESV)"
+    },
+    {
+        "text": "What was the special position of the Kohathites among the Levites?",
+        "options": ["Carry the holy things", "Play music", "Lead sacrifices", "Guard the tabernacle"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Easy",
+        "verseReference": "Numbers 4:15",
+        "verseText": "And when Aaron and his sons have finished covering the sanctuary and all the furnishings of the sanctuary, as the camp sets out, after that the sons of Kohath shall come to carry these... (ESV)"
+    },
+    {
+        "text": "How many cities were given to the Levites?",
+        "options": ["48", "12", "24", "36"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Easy",
+        "verseReference": "Numbers 35:7",
+        "verseText": "All the cities that you give to the Levites shall be forty-eight, with their pasturelands. (ESV)"
+    },
+    {
+        "text": "What did Phinehas do that stopped a plague among the Israelites?",
+        "options": ["Killed an Israelite man and Midianite woman", "Offered a sacrifice", "Prayed", "Built an altar"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Medium",
+        "verseReference": "Numbers 25:7-8",
+        "verseText": "When Phinehas the son of Eleazar, son of Aaron the priest, saw it, he rose and left the congregation and took a spear in his hand and went after the man of Israel into the chamber and pierced both of them, the man of Israel and the woman through her belly. Thus the plague on the people of Israel was stopped. (ESV)"
+    },
+    {
+        "text": "Which king refused to let Israel pass through his territory?",
+        "options": ["The king of Edom", "The king of Moab", "The king of Ammon", "The king of Bashan"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Medium",
+        "verseReference": "Numbers 20:18-21",
+        "verseText": "But Edom said to him, 'You shall not pass through, lest I come out with the sword against you.'... Thus Edom refused to give Israel passage through his territory, so Israel turned away from him. (ESV)"
+    },
+    {
+        "text": "Who was the leader of the rebellion against Moses and Aaron?",
+        "options": ["Korah", "Dathan", "Abiram", "On"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Medium",
+        "verseReference": "Numbers 16:1-3",
+        "verseText": "Now Korah the son of Izhar, son of Kohath, son of Levi... rose up against Moses, with a number of the people of Israel... They assembled themselves together against Moses and against Aaron... (ESV)"
+    },
+    {
+        "text": "What offering did Nadab and Abihu offer that resulted in their deaths?",
+        "options": ["Unauthorized fire", "Animal sacrifice", "Grain offering", "Drink offering"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Medium",
+        "verseReference": "Leviticus 10:1-2",
+        "verseText": "Now Nadab and Abihu, the sons of Aaron, each took his censer and put fire in it and laid incense on it and offered unauthorized fire before the LORD, which he had not commanded them. And fire came out from before the LORD and consumed them, and they died before the LORD. (ESV)"
+    },
+    {
+        "text": "How long did the Israelites eat manna?",
+        "options": ["40 years", "7 years", "10 years", "1 year"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Medium",
+        "verseReference": "Exodus 16:35",
+        "verseText": "The people of Israel ate the manna forty years, till they came to a habitable land. They ate the manna till they came to the border of the land of Canaan. (ESV)"
+    },
+    {
+        "text": "Where did Aaron die?",
+        "options": ["Mount Hor", "Mount Sinai", "Mount Nebo", "Mount Pisgah"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Medium",
+        "verseReference": "Numbers 20:27-28",
+        "verseText": "Moses did as the LORD commanded. And they went up Mount Hor in the sight of all the congregation. And Moses stripped Aaron of his garments and put them on Eleazar his son. And Aaron died there on the top of the mountain. (ESV)"
+    },
+    {
+        "text": "What was the name of the place where the Israelites complained and God sent fire?",
+        "options": ["Taberah", "Kibroth-hattaavah", "Hazeroth", "Kadesh"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Medium",
+        "verseReference": "Numbers 11:1-3",
+        "verseText": "And the people complained in the hearing of the LORD about their misfortunes, and when the LORD heard it, his anger was kindled, and the fire of the LORD burned among them and consumed some outlying parts of the camp. Then the people cried out to Moses, and Moses prayed to the LORD, and the fire died down. So the name of that place was called Taberah, because the fire of the LORD burned among them. (ESV)"
+    },
+    {
+        "text": "Where did the Israelites complain about the lack of meat?",
+        "options": ["Kibroth-hattaavah", "Taberah", "Hazeroth", "Kadesh"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Medium",
+        "verseReference": "Numbers 11:34",
+        "verseText": "Therefore the name of that place was called Kibroth-hattaavah, because there they buried the people who had the craving. (ESV)"
+    },
+    {
+        "text": "What animal did God provide when the Israelites complained about the lack of meat?",
+        "options": ["Quail", "Fish", "Deer", "Lambs"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Medium",
+        "verseReference": "Numbers 11:31",
+        "verseText": "Then a wind from the LORD sprang up, and it brought quail from the sea and let them fall beside the camp, about a day's journey on this side and a day's journey on the other side, around the camp, and about two cubits above the ground. (ESV)"
+    },
+    {
+        "text": "How many people died in the plague after complaining about the lack of meat?",
+        "options": ["Not specified exactly", "12", "250", "300"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Medium",
+        "verseReference": "Numbers 11:33",
+        "verseText": "While the meat was yet between their teeth, before it was consumed, the anger of the LORD was kindled against the people, and the LORD struck down the people with a very great plague. (ESV)"
+    },
+    {
+        "text": "Which king of Bashan fought against Israel?",
+        "options": ["Og", "Sihon", "Balak", "Eglon"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Medium",
+        "verseReference": "Numbers 21:33-35",
+        "verseText": "Then they turned and went up by the way to Bashan. And Og the king of Bashan came out against them, he and all his people, to battle at Edrei. (ESV)"
+    },
+    {
+        "text": "Which king of the Amorites refused to let Israel pass through his territory?",
+        "options": ["Sihon", "Og", "Balak", "Arad"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Medium",
+        "verseReference": "Numbers 21:21-23",
+        "verseText": "Then Israel sent messengers to Sihon king of the Amorites, saying, 'Let me pass through your land...' But Sihon would not allow Israel to pass through his territory. (ESV)"
+    },
+    {
+        "text": "What was the signal for the Israelites to break camp?",
+        "options": ["The cloud lifting from the tabernacle", "A trumpet blast", "Moses' command", "Aaron's instructions"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Medium",
+        "verseReference": "Numbers 9:17",
+        "verseText": "And whenever the cloud lifted from over the tent, after that the people of Israel set out, and in the place where the cloud settled down, there the people of Israel camped. (ESV)"
+    },
+    {
+        "text": "How were the tribes arranged when they camped around the tabernacle?",
+        "options": ["Three tribes on each side", "Randomly", "By size", "By age of the tribal leader"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Medium",
+        "verseReference": "Numbers 2:3-31",
+        "verseText": "Those to camp on the east side toward the sunrise... The tribe of Judah... On the south side... the tribe of Reuben... On the west side... the tribe of Ephraim... On the north side... the tribe of Dan... (ESV)"
+    },
+    {
+        "text": "What was the name of Moses' Cushite wife?",
+        "options": ["Not mentioned", "Zipporah", "Miriam", "Hagar"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Medium",
+        "verseReference": "Numbers 12:1",
+        "verseText": "Miriam and Aaron spoke against Moses because of the Cushite woman whom he had married, for he had married a Cushite woman. (ESV)"
+    },
+    {
+        "text": "What did Moses say about himself when Miriam and Aaron spoke against him?",
+        "options": ["Nothing (he was very humble)", "He defended himself", "He argued with them", "He asked God for fire"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Medium",
+        "verseReference": "Numbers 12:3",
+        "verseText": "Now the man Moses was very meek, more than all people who were on the face of the earth. (ESV)"
+    },
+    {
+        "text": "Who prayed for Miriam to be healed of her leprosy?",
+        "options": ["Moses", "Aaron", "God", "The elders"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Medium",
+        "verseReference": "Numbers 12:13",
+        "verseText": "And Moses cried to the LORD, 'O God, please heal her—please.' (ESV)"
+    },
+    {
+        "text": "How long was Miriam shut outside the camp after being healed of leprosy?",
+        "options": ["7 days", "3 days", "40 days", "30 days"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Medium",
+        "verseReference": "Numbers 12:14-15",
+        "verseText": "And the LORD said to Moses, 'If her father had but spit in her face, should she not be shamed seven days? Let her be shut outside the camp seven days, and after that she may be brought in again.' So Miriam was shut outside the camp seven days, and the people did not set out on the march till Miriam was brought in again. (ESV)"
+    },
+    {
+        "text": "What fruit did the spies bring back from Canaan?",
+        "options": ["Grapes, pomegranates, and figs", "Olives and dates", "Apples and pears", "Melons and onions"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Medium",
+        "verseReference": "Numbers 13:23",
+        "verseText": "And they came to the Valley of Eshcol and cut down from there a branch with a single cluster of grapes, and they carried it on a pole between two of them; they also brought some pomegranates and figs. (ESV)"
+    },
+    {
+        "text": "Where did the spies cut down a branch with a single cluster of grapes?",
+        "options": ["Valley of Eshcol", "Valley of Hebron", "Valley of Jordan", "Valley of Sodom"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Medium",
+        "verseReference": "Numbers 13:23-24",
+        "verseText": "And they came to the Valley of Eshcol and cut down from there a branch with a single cluster of grapes, and they carried it on a pole between two of them; they also brought some pomegranates and figs. That place was called the Valley of Eshcol, because of the cluster that the people of Israel cut down from there. (ESV)"
+    },
+    {
+        "text": "How did the spies describe the people living in Canaan?",
+        "options": ["Strong and of great stature", "Weak and small", "Friendly and hospitable", "Poor and sick"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Medium",
+        "verseReference": "Numbers 13:32-33",
+        "verseText": "So they brought to the people of Israel a bad report of the land that they had spied out, saying, 'The land, through which we have gone to spy it out, is a land that devours its inhabitants, and all the people that we saw in it are of great height. And there we saw the Nephilim (the sons of Anak, who come from the Nephilim), and we seemed to ourselves like grasshoppers, and so we seemed to them.' (ESV)"
+    },
+    {
+        "text": "What did God say would happen to the generation that refused to enter Canaan?",
+        "options": ["They would die in the wilderness", "They would return to Egypt", "They would be scattered", "They would be enslaved"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Medium",
+        "verseReference": "Numbers 14:29-30",
+        "verseText": "Your dead bodies shall fall in this wilderness, and of all your number, listed in the census from twenty years old and upward, who have grumbled against me, not one shall come into the land where I swore that I would make you dwell, except Caleb the son of Jephunneh and Joshua the son of Nun. (ESV)"
+    },
+    {
+        "text": "What happened when some Israelites tried to enter Canaan after God's judgment?",
+        "options": ["They were defeated", "They succeeded", "A plague struck them", "Moses stopped them"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Medium",
+        "verseReference": "Numbers 14:44-45",
+        "verseText": "But they presumed to go up to the heights of the hill country, although neither the ark of the covenant of the LORD nor Moses departed out of the camp. Then the Amalekites and the Canaanites who lived in that hill country came down and defeated them and pursued them, even to Hormah. (ESV)"
+    },
+    {
+        "text": "What happened to the rebels who followed Korah?",
+        "options": ["The earth swallowed them", "They were stoned", "They were exiled", "They were forgiven"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Medium",
+        "verseReference": "Numbers 16:31-33",
+        "verseText": "And as soon as he had finished speaking all these words, the ground under them split apart. And the earth opened its mouth and swallowed them up, with their households and all the people who belonged to Korah and all their goods. So they and all that belonged to them went down alive into Sheol, and the earth closed over them, and they perished from the midst of the assembly. (ESV)"
+    },
+    {
+        "text": "What happened to the 250 men offering incense during Korah's rebellion?",
+        "options": ["Fire consumed them", "The earth swallowed them", "They were stoned", "They escaped"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Medium",
+        "verseReference": "Numbers 16:35",
+        "verseText": "And fire came out from the LORD and consumed the 250 men offering the incense. (ESV)"
+    },
+    {
+        "text": "What did the Israelites do the day after Korah's rebellion was put down?",
+        "options": ["Complained against Moses and Aaron", "Worshipped God", "Moved camp", "Built a memorial"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Medium",
+        "verseReference": "Numbers 16:41",
+        "verseText": "But on the next day all the congregation of the people of Israel grumbled against Moses and against Aaron, saying, 'You have killed the people of the LORD.' (ESV)"
+    },
+    {
+        "text": "What did Aaron do to stop the plague after Korah's rebellion?",
+        "options": ["Offered incense", "Prayed", "Sacrificed animals", "Built an altar"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Medium",
+        "verseReference": "Numbers 16:46-48",
+        "verseText": "And Moses said to Aaron, 'Take your censer, and put fire on it from off the altar and lay incense on it and carry it quickly to the congregation and make atonement for them, for wrath has gone out from the LORD; the plague has begun.' So Aaron took it as Moses said and ran into the midst of the assembly... and he put on the incense and made atonement for the people. And he stood between the dead and the living, and the plague was stopped. (ESV)"
+    },
+    {
+        "text": "How many people died in the plague following Korah's rebellion?",
+        "options": ["14,700", "250", "10,000", "3,000"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Medium",
+        "verseReference": "Numbers 16:49",
+        "verseText": "Now those who died in the plague were 14,700, besides those who died in the affair of Korah. (ESV)"
+    },
+    {
+        "text": "What did God command Moses to make for Aaron's rod?",
+        "options": ["Keep it as a sign", "Break it", "Make more like it", "Bury it"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Medium",
+        "verseReference": "Numbers 17:10",
+        "verseText": "And the LORD said to Moses, 'Put back the staff of Aaron before the testimony, to be kept as a sign for the rebels, that you may make an end of their grumblings against me, lest they die.' (ESV)"
+    },
+    {
+        "text": "What color was the heifer to be used for the water of cleansing?",
+        "options": ["Red", "Black", "White", "Brown"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Medium",
+        "verseReference": "Numbers 19:2",
+        "verseText": "Tell the people of Israel to bring you a red heifer without defect, in which there is no blemish, and on which a yoke has never come. (ESV)"
+    },
+    {
+        "text": "Who became unclean after preparing the ashes of the red heifer?",
+        "options": ["The priest", "No one", "Everyone", "Only women"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Medium",
+        "verseReference": "Numbers 19:7",
+        "verseText": "Then the priest shall wash his clothes and bathe his body in water, and afterward he may come into the camp. But the priest shall be unclean until evening. (ESV)"
+    },
+    {
+        "text": "What was used with the ashes of the red heifer to make the water for purification?",
+        "options": ["Cedar wood, hyssop, and scarlet yarn", "Olive oil", "Salt", "Incense"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Medium",
+        "verseReference": "Numbers 19:6",
+        "verseText": "And the priest shall take cedarwood and hyssop and scarlet yarn, and throw them into the fire burning the heifer. (ESV)"
+    },
+    {
+        "text": "In which place did Miriam die?",
+        "options": ["Kadesh", "Mount Hor", "Hazeroth", "Taberah"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Medium",
+        "verseReference": "Numbers 20:1",
+        "verseText": "And the people of Israel, the whole congregation, came into the wilderness of Zin in the first month, and the people stayed in Kadesh. And Miriam died there and was buried there. (ESV)"
+    },
+    {
+        "text": "How did Moses fail at Meribah?",
+        "options": ["Struck the rock instead of speaking to it", "Didn't provide water", "Blamed the people", "Argued with Aaron"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Medium",
+        "verseReference": "Numbers 20:7-12",
+        "verseText": "Take the staff... and tell the rock before their eyes to yield its water... Then Moses lifted up his hand and struck the rock with his staff twice... And the LORD said to Moses and Aaron, 'Because you did not believe in me, to uphold me as holy in the eyes of the people of Israel, therefore you shall not bring this assembly into the land that I have given them.' (ESV)"
+    },
+    {
+        "text": "Which king fought against Israel at Hormah?",
+        "options": ["King of Arad", "King of Moab", "King of Edom", "King of Ammon"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Medium",
+        "verseReference": "Numbers 21:1-3",
+        "verseText": "When the Canaanite, the king of Arad, who lived in the Negeb, heard that Israel was coming by the way of Atharim, he fought against Israel, and took some of them captive. (ESV)"
+    },
+    {
+        "text": "What was the prophecy Balaam made about a star coming out of Jacob?",
+        "options": ["A star shall come out of Jacob", "A star shall fall from heaven", "The stars shall be darkened", "The stars shall be multiplied"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Medium",
+        "verseReference": "Numbers 24:17",
+        "verseText": "I see him, but not now; I behold him, but not near: a star shall come out of Jacob, and a scepter shall rise out of Israel; it shall crush the forehead of Moab and break down all the sons of Sheth. (ESV)"
+    },
+    {
+        "text": "What gift did each tribal leader bring at the dedication of the altar?",
+        "options": ["The same offerings as all other leaders", "Different offerings", "No offerings", "Their family heirlooms"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Medium",
+        "verseReference": "Numbers 7:12-83",
+        "verseText": "Each leader brought identical offerings on different days. (paraphrased) (ESV)"
+    },
+    {
+        "text": "What did Zelophehad's daughters request from Moses?",
+        "options": ["Inheritance rights", "Marriage rights", "Priestly rights", "Leadership positions"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Medium",
+        "verseReference": "Numbers 27:4",
+        "verseText": "Why should the name of our father be taken away from his clan because he had no son? Give to us a possession among our father's brothers. (ESV)"
+    },
+    {
+        "text": "What did God instruct regarding inheritance when a man has no sons?",
+        "options": ["Give it to his daughters", "Give it to his brothers", "Give it to the priests", "It goes to the tribe"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Hard",
+        "verseReference": "Numbers 27:8",
+        "verseText": "And you shall speak to the people of Israel, saying, 'If a man dies and has no son, then you shall transfer his inheritance to his daughter.' (ESV)"
+    },
+    {
+        "text": "What did the Lord instruct regarding the daughters of Zelophehad and marriage?",
+        "options": ["Marry within their tribal clan", "Marry anyone they wished", "Not marry at all", "Marry only priests"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Hard",
+        "verseReference": "Numbers 36:6",
+        "verseText": "This is what the LORD commands concerning the daughters of Zelophehad: 'Let them marry whom they think best, only they shall marry within the clan of the tribe of their father.' (ESV)"
+    },
+    {
+        "text": "How many years after the Exodus did Aaron die?",
+        "options": ["40", "30", "20", "10"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Hard",
+        "verseReference": "Numbers 33:38",
+        "verseText": "And Aaron the priest went up Mount Hor at the command of the LORD and died there, in the fortieth year after the people of Israel had come out of the land of Egypt, on the first day of the fifth month. (ESV)"
+    },
+    {
+        "text": "How old was Aaron when he died?",
+        "options": ["123", "110", "100", "130"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Hard",
+        "verseReference": "Numbers 33:39",
+        "verseText": "And Aaron was 123 years old when he died on Mount Hor. (ESV)"
+    },
+    {
+        "text": "Which territory was given to the tribes of Reuben and Gad?",
+        "options": ["East of the Jordan", "West of the Jordan", "North of Canaan", "South of Canaan"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Hard",
+        "verseReference": "Numbers 32:33",
+        "verseText": "And Moses gave to them, to the people of Gad and to the people of Reuben and to the half-tribe of Manasseh the son of Joseph, the kingdom of Sihon king of the Amorites and the kingdom of Og king of Bashan, the land and its cities with their territories, the cities of the land throughout the country. (ESV)"
+    },
+    {
+        "text": "What condition did Moses place on the tribes that wanted to settle east of Jordan?",
+        "options": ["Help conquer Canaan first", "Build cities for the Levites", "Pay extra taxes", "Provide livestock"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Hard",
+        "verseReference": "Numbers 32:20-23",
+        "verseText": "So Moses said to them, 'If you will do this, if you will take up arms to go before the LORD for the war... then after the LORD has given your enemies rest, you shall be free and clear of all obligation to the LORD and to Israel.' (ESV)"
+    },
+    {
+        "text": "What was the exact number of Israelite men counted in the second census?",
+        "options": ["601,730", "603,550", "600,000", "700,000"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Hard",
+        "verseReference": "Numbers 26:51",
+        "verseText": "This was the list of the people of Israel, 601,730. (ESV)"
+    },
+    {
+        "text": "How many men were in the tribe of Judah according to the second census?",
+        "options": ["76,500", "74,600", "70,000", "60,000"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Hard",
+        "verseReference": "Numbers 26:22",
+        "verseText": "These are the clans of Judah according to those listed, 76,500. (ESV)"
+    },
+    {
+        "text": "How many men were in the smallest tribe according to the second census?",
+        "options": ["Simeon: 22,200", "Levi: 23,000", "Benjamin: 35,400", "Manasseh: 32,200"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Hard",
+        "verseReference": "Numbers 26:14",
+        "verseText": "These are the clans of the Simeonites, 22,200. (ESV)"
+    },
+    {
+        "text": "How many Levites were counted in the second census?",
+        "options": ["23,000", "22,000", "24,000", "20,000"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Hard",
+        "verseReference": "Numbers 26:62",
+        "verseText": "And those listed were 23,000, every male from a month old and upward. For they were not listed among the people of Israel, because there was no inheritance given to them among the people of Israel. (ESV)"
+    },
+    {
+        "text": "How many cities of refuge were designated?",
+        "options": ["6", "3", "12", "48"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Hard",
+        "verseReference": "Numbers 35:13-14",
+        "verseText": "The cities that you give shall be your six cities of refuge... You shall give three cities beyond the Jordan, and three cities in the land of Canaan, to be cities of refuge. (ESV)"
+    },
+    {
+        "text": "What was the purpose of cities of refuge?",
+        "options": ["Protect those who killed unintentionally", "House the Levites", "Store grain", "Worship centers"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Hard",
+        "verseReference": "Numbers 35:15",
+        "verseText": "These six cities shall be for refuge for the people of Israel, and for the stranger and for the sojourner among them, that anyone who kills any person without intent may flee there. (ESV)"
+    },
+    {
+        "text": "Until when did a manslayer need to stay in a city of refuge?",
+        "options": ["Until the death of the high priest", "7 years", "40 years", "For life"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Hard",
+        "verseReference": "Numbers 35:28",
+        "verseText": "For he must remain in his city of refuge until the death of the high priest, but after the death of the high priest the manslayer may return to the land of his possession. (ESV)"
+    },
+    {
+        "text": "How many witnesses were required to put a murderer to death?",
+        "options": ["More than one", "One", "Three", "Seven"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Hard",
+        "verseReference": "Numbers 35:30",
+        "verseText": "If anyone kills a person, the murderer shall be put to death on the evidence of witnesses. But no person shall be put to death on the testimony of one witness. (ESV)"
+    },
+    {
+        "text": "What portion of the spoils of war went to the Levites?",
+        "options": ["One-fiftieth", "One-tenth", "One-fifth", "All of it"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Hard",
+        "verseReference": "Numbers 31:30",
+        "verseText": "And from the people of Israel's half you shall take one drawn out of every fifty, of the people, of the oxen, of the donkeys, and of the flocks, of all the cattle, and give them to the Levites who keep guard over the tabernacle of the LORD. (ESV)"
+    },
+    {
+        "text": "In the battle against Midian, how many Israelites died?",
+        "options": ["None", "12", "1,000", "24,000"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Hard",
+        "verseReference": "Numbers 31:49",
+        "verseText": "Your servants have counted the men of war who are under our command, and there is not a man missing from us. (ESV)"
+    },
+    {
+        "text": "What offering did the officers bring after the victory over Midian?",
+        "options": ["Gold jewelry", "Silver", "Animals", "Grain"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Hard",
+        "verseReference": "Numbers 31:50",
+        "verseText": "And we have brought the LORD's offering, what each man found, articles of gold, armlets and bracelets, signet rings, earrings, and beads, to make atonement for ourselves before the LORD. (ESV)"
+    },
+    {
+        "text": "How much gold was offered after the Midianite battle?",
+        "options": ["16,750 shekels", "10,000 shekels", "5,000 shekels", "1,000 shekels"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Hard",
+        "verseReference": "Numbers 31:52",
+        "verseText": "And all the gold of the contribution that they offered to the LORD, from the commanders of thousands and the commanders of hundreds, was 16,750 shekels. (ESV)"
+    },
+    {
+        "text": "What was the name of Balaam's father?",
+        "options": ["Beor", "Zippor", "Peor", "Pethor"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Hard",
+        "verseReference": "Numbers 22:5",
+        "verseText": "Sent messengers to Balaam the son of Beor at Pethor, which is near the River in the land of the people of Amaw, to call him. (ESV)"
+    },
+    {
+        "text": "What did the angel hold when he confronted Balaam?",
+        "options": ["A drawn sword", "A staff", "A book", "Nothing"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Hard",
+        "verseReference": "Numbers 22:23",
+        "verseText": "And the donkey saw the angel of the LORD standing in the road, with a drawn sword in his hand. And the donkey turned aside out of the road and went into the field. (ESV)"
+    },
+    {
+        "text": "How many times did Balaam's donkey turn aside from the angel?",
+        "options": ["3", "1", "2", "4"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Hard",
+        "verseReference": "Numbers 22:28, 32",
+        "verseText": "Then the LORD opened the mouth of the donkey... The angel of the LORD said to him, 'Why have you struck your donkey these three times?' (ESV)"
+    },
+    {
+        "text": "Where did Balak first take Balaam to curse Israel?",
+        "options": ["Bamoth Baal", "Pisgah", "Peor", "Moab"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Hard",
+        "verseReference": "Numbers 22:41",
+        "verseText": "And in the morning Balak took Balaam and brought him up to Bamoth Baal, and from there he saw a fraction of the people. (ESV)"
+    },
+    {
+        "text": "How many altars did Balaam build each time he tried to curse Israel?",
+        "options": ["7", "3", "12", "1"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Hard",
+        "verseReference": "Numbers 23:1",
+        "verseText": "And Balaam said to Balak, 'Build for me here seven altars, and prepare for me here seven bulls and seven rams.' (ESV)"
+    },
+    {
+        "text": "How many bulls and rams were sacrificed each time Balaam tried to curse Israel?",
+        "options": ["7 of each", "1 of each", "12 of each", "3 of each"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Hard",
+        "verseReference": "Numbers 23:1",
+        "verseText": "And Balaam said to Balak, 'Build for me here seven altars, and prepare for me here seven bulls and seven rams.' (ESV)"
+    },
+    {
+        "text": "What did Balaam say about Jacob in his first oracle?",
+        "options": ["Who can count the dust of Jacob?", "Jacob is blessed", "Jacob will be great", "Jacob will rule"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Hard",
+        "verseReference": "Numbers 23:10",
+        "verseText": "Who can count the dust of Jacob or number the fourth part of Israel? Let me die the death of the upright, and let my end be like his! (ESV)"
+    },
+    {
+        "text": "What did Balaam say about God changing His mind?",
+        "options": ["God is not man that he should lie", "God's will is permanent", "God is unchangeable", "God is sovereign"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Hard",
+        "verseReference": "Numbers 23:19",
+        "verseText": "God is not man, that he should lie, or a son of man, that he should change his mind. Has he said, and will he not do it? Or has he spoken, and will he not fulfill it? (ESV)"
+    },
+    {
+        "text": "Who was the leader of the half-tribe of Manasseh?",
+        "options": ["Machir", "Gilead", "Hepher", "Zelophehad"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Hard",
+        "verseReference": "Numbers 32:39-40",
+        "verseText": "And the sons of Machir the son of Manasseh went to Gilead and captured it... So Moses gave Gilead to Machir the son of Manasseh, and he settled in it. (ESV)"
+    },
+    {
+        "text": "What was the name of the wilderness where the Israelites first complained after leaving Sinai?",
+        "options": ["Wilderness of Paran", "Wilderness of Sin", "Wilderness of Zin", "Wilderness of Shur"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Hard",
+        "verseReference": "Numbers 10:12, 11:1",
+        "verseText": "And the people of Israel set out by stages from the wilderness of Sinai. And the cloud settled down in the wilderness of Paran... And the people complained in the hearing of the LORD about their misfortunes. (ESV)"
+    },
+    {
+        "text": "What was the ratio of regular Israelites to Levites in the first census?",
+        "options": ["About 27:1", "About 10:1", "About 100:1", "About 50:1"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Hard",
+        "verseReference": "Numbers 2:32, 3:39",
+        "verseText": "These are the people of Israel as listed by their fathers' houses; all those listed in the camps by their companies were 603,550... All those listed among the Levites, whom Moses and Aaron listed at the commandment of the LORD, by clans, all the males from a month old and upward, were 22,000. (ESV)"
+    },
+    {
+        "text": "What age were the Levites to begin their service at the tabernacle?",
+        "options": ["30 years old", "20 years old", "25 years old", "13 years old"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Hard",
+        "verseReference": "Numbers 4:3",
+        "verseText": "From thirty years old up to fifty years old, all who can come on duty, to do the work in the tent of meeting. (ESV)"
+    },
+    {
+        "text": "Until what age were the Levites to serve at the tabernacle?",
+        "options": ["50 years old", "60 years old", "70 years old", "Death"],
+        "correctAnswerIndex": 0,
+        "book": "Numbers",
+        "difficulty": "Hard",
+        "verseReference": "Numbers 4:3",
+        "verseText": "From thirty years old up to fifty years old, all who can come on duty, to do the work in the tent of meeting. (ESV)"
+    }
+]

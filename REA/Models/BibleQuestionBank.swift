@@ -8,10 +8,9 @@
 import Foundation
 
 struct BibleQuestionBank {
-    // Loads all questions from available JSON files (currently only Exodus)
+    // Loads all questions from available JSON files dynamically for all books
     static var allQuestions: [Question] {
-        // Add more books as you add more JSON files
-        QuestionsDataLoader.loadQuestions(for: .exodus)
+        BibleBook.allCases.flatMap { QuestionsDataLoader.loadQuestions(for: $0) }
     }
     
     // MARK: - Helper Methods

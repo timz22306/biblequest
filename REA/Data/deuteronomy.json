@@ -1,0 +1,902 @@
+[
+    {
+        "text": "Where was Moses when he spoke the words recorded in Deuteronomy?",
+        "options": ["East of the Jordan", "Mount Sinai", "Egypt", "Canaan"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Easy",
+        "verseReference": "Deuteronomy 1:1",
+        "verseText": "These are the words that Moses spoke to all Israel beyond the Jordan in the wilderness, in the Arabah opposite Suph, between Paran and Tophel, Laban, Hazeroth, and Dizahab. (ESV)"
+    },
+    {
+        "text": "How many days' journey was it from Horeb to Kadesh-barnea?",
+        "options": ["Eleven days", "Forty days", "Three days", "Seven days"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Easy",
+        "verseReference": "Deuteronomy 1:2",
+        "verseText": "It is eleven days' journey from Horeb by the way of Mount Seir to Kadesh-barnea. (ESV)"
+    },
+    {
+        "text": "In what year of the Israelites' journey did Moses begin to speak the words of Deuteronomy?",
+        "options": ["Fortieth year", "First year", "Tenth year", "Twentieth year"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Easy",
+        "verseReference": "Deuteronomy 1:3",
+        "verseText": "In the fortieth year, on the first day of the eleventh month, Moses proclaimed to the Israelites all that the Lord had commanded him concerning them. (ESV)"
+    },
+    {
+        "text": "Who was the king of the Amorites whom the Israelites defeated at Heshbon?",
+        "options": ["Sihon", "Og", "Balak", "Arad"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Easy",
+        "verseReference": "Deuteronomy 1:4",
+        "verseText": "This was after he had defeated Sihon king of the Amorites, who reigned in Heshbon, and Og king of Bashan, who reigned in Ashtaroth and in Edrei. (ESV)"
+    },
+    {
+        "text": "What did Moses begin to do beyond the Jordan in the land of Moab?",
+        "options": ["Explain the law", "Build an altar", "Appoint judges", "Count the people"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Easy",
+        "verseReference": "Deuteronomy 1:5",
+        "verseText": "Beyond the Jordan in the land of Moab, Moses undertook to explain this law, saying... (ESV)"
+    },
+    {
+        "text": "Where did the Lord tell the Israelites they had stayed long enough?",
+        "options": ["Horeb", "Kadesh-barnea", "Moab", "Egypt"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Easy",
+        "verseReference": "Deuteronomy 1:6",
+        "verseText": "The Lord our God said to us in Horeb, ‘You have stayed long enough at this mountain.' (ESV)"
+    },
+    {
+        "text": "What land did God promise to give to Abraham, Isaac, and Jacob and their offspring?",
+        "options": ["The land of Canaan", "The land of Egypt", "The land of Moab", "The land of Midian"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Easy",
+        "verseReference": "Deuteronomy 1:8",
+        "verseText": "See, I have set the land before you. Go in and take possession of the land that the Lord swore to your fathers, to Abraham, to Isaac, and to Jacob, to give to them and to their offspring after them.’ (ESV)"
+    },
+    {
+        "text": "Why did Moses say he could not bear the burden of the people alone?",
+        "options": ["They had become too numerous", "They were too rebellious", "He was too old", "God commanded him not to"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Easy",
+        "verseReference": "Deuteronomy 1:9-10",
+        "verseText": "At that time I said to you, ‘I am not able to bear you by myself. The Lord your God has multiplied you, and behold, you are today as numerous as the stars of heaven.' (ESV)"
+    },
+    {
+        "text": "What qualities were the men chosen to be leaders and judges supposed to possess?",
+        "options": ["Wise, discerning, and experienced", "Strong, wealthy, and tall", "Young, educated, and loyal", "Priestly, prophetic, and royal"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Easy",
+        "verseReference": "Deuteronomy 1:13",
+        "verseText": "Choose for your tribes wise, understanding, and experienced men, and I will appoint them as your heads.’ (ESV)"
+    },
+    {
+        "text": "What were the judges instructed NOT to do when judging?",
+        "options": ["Show partiality", "Listen to witnesses", "Judge righteously", "Hear the small and great alike"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Easy",
+        "verseReference": "Deuteronomy 1:17",
+        "verseText": "You shall not be partial in judgment. You shall hear the small and the great alike. You shall not be intimidated by anyone, for the judgment is God's. (ESV)"
+    },
+    {
+        "text": "How many spies were sent from Kadesh-barnea to explore the land of Canaan?",
+        "options": ["Twelve", "Two", "Ten", "Forty"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Easy",
+        "verseReference": "Deuteronomy 1:22-23",
+        "verseText": "Then all of you came near me and said, ‘Let us send men before us, that they may explore the land for us...’ The plan seemed good to me, and I took twelve men from you, one man from each tribe. (ESV)"
+    },
+    {
+        "text": "What fruit did the spies bring back from the Valley of Eshcol?",
+        "options": ["A cluster of grapes", "Pomegranates", "Figs", "All of the above"],
+        "correctAnswerIndex": 3,
+        "book": "Deuteronomy",
+        "difficulty": "Easy",
+        "verseReference": "Deuteronomy 1:24-25",
+        "verseText": "And they went up into the hill country and came to the Valley of Eshcol and spied it out. And they took in their hands some of the fruit of the land and brought it down to us... (cf. Numbers 13:23)"
+    },
+    {
+        "text": "Why did the Israelites refuse to go up into the promised land after the spies returned?",
+        "options": ["They feared the inhabitants", "They disliked the fruit", "Moses told them not to", "God changed His mind"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Easy",
+        "verseReference": "Deuteronomy 1:27-28",
+        "verseText": "and you murmured in your tents and said, ‘Because the Lord hated us he has brought us out of the land of Egypt, to give us into the hand of the Amorites, to destroy us. Where are we going up? Our brothers have made our hearts melt, saying, “The people are greater and taller than we. The cities are great and fortified up to heaven. And besides, we have seen the sons of the Anakim there.”’ (ESV)"
+    },
+    {
+        "text": "Who were the two spies who encouraged the people to trust God and enter the land?",
+        "options": ["Caleb and Joshua", "Moses and Aaron", "Hur and Miriam", "Nadab and Abihu"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Easy",
+        "verseReference": "Deuteronomy 1:36",
+        "verseText": "except Caleb the son of Jephunneh. He shall see it, and to him and to his children I will give the land on which he has trodden, because he has wholly followed the Lord!’ (Joshua also encouraged them - see Numbers 14:6-9)"
+    },
+    {
+        "text": "What punishment did the generation that refused to enter the land receive?",
+        "options": ["They would wander and die in the wilderness", "They would return to Egypt", "They would become slaves", "They would be scattered"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Easy",
+        "verseReference": "Deuteronomy 1:35",
+        "verseText": "‘Not one of these men of this evil generation shall see the good land that I swore to give to your fathers...' (ESV)"
+    },
+    {
+        "text": "Why was Moses himself forbidden from entering the Promised Land?",
+        "options": ["Because of the people's rebellion at Kadesh", "Because he struck the rock", "Because he was too old", "Because God was angry with him on their account"],
+        "correctAnswerIndex": 3,
+        "book": "Deuteronomy",
+        "difficulty": "Easy",
+        "verseReference": "Deuteronomy 1:37",
+        "verseText": "Even with me the Lord was angry on your account and said, ‘You also shall not go in there.' (ESV)"
+    },
+    {
+        "text": "Who was appointed to lead the Israelites into the Promised Land after Moses?",
+        "options": ["Joshua", "Caleb", "Eleazar", "Phinehas"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Easy",
+        "verseReference": "Deuteronomy 1:38",
+        "verseText": "Joshua the son of Nun, who stands before you, he shall enter. Encourage him, for he shall cause Israel to inherit it. (ESV)"
+    },
+    {
+        "text": "What happened when the Israelites presumed to go up and fight after God told them not to?",
+        "options": ["They were defeated by the Amorites", "They won a great victory", "God helped them despite their disobedience", "Moses stopped them"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Easy",
+        "verseReference": "Deuteronomy 1:43-44",
+        "verseText": "So I spoke to you, and you would not listen. But you rebelled against the command of the Lord and presumptuously went up into the hill country. Then the Amorites who lived in that hill country came out against you and chased you as bees do and beat you down in Seir as far as Hormah. (ESV)"
+    },
+    {
+        "text": "The Israelites were commanded not to provoke war with the descendants of which brother of Jacob?",
+        "options": ["Esau (Edomites)", "Lot (Moabites/Ammonites)", "Ishmael (Ishmaelites)", "Laban (Arameans)"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Easy",
+        "verseReference": "Deuteronomy 2:4-5",
+        "verseText": "And command the people, ‘You are about to pass through the territory of your brothers, the people of Esau, who live in Seir; and they will be afraid of you. So be very careful. Do not contend with them, for I will not give you any of their land...’ (ESV)"
+    },
+    {
+        "text": "What were the Israelites allowed to do regarding the Edomites?",
+        "options": ["Buy food and water from them", "Conquer their land", "Ignore them completely", "Make a treaty with them"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Easy",
+        "verseReference": "Deuteronomy 2:6",
+        "verseText": "You shall purchase food from them for money, that you may eat, and you shall also buy water from them for money, that you may drink. (ESV)"
+    },
+    {
+        "text": "Which people, also descendants of Lot, were the Israelites commanded not to harass?",
+        "options": ["Moabites and Ammonites", "Edomites and Amorites", "Philistines and Canaanites", "Midianites and Amalekites"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Easy",
+        "verseReference": "Deuteronomy 2:9, 2:19",
+        "verseText": "And the Lord said to me, ‘Do not harass Moab or contend with them in battle...’ (2:9) ‘And when you approach the territory of the people of Ammon, do not harass them or contend with them...’ (2:19) (ESV)"
+    },
+    {
+        "text": "Who was the king of Bashan, known for his giant stature and iron bedstead?",
+        "options": ["Og", "Sihon", "Balak", "Goliath"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Easy",
+        "verseReference": "Deuteronomy 3:1, 3:11",
+        "verseText": "Then we turned and went up the way to Bashan. And Og the king of Bashan came out against us, he and all his people, to battle at Edrei... For only Og the king of Bashan was left of the remnant of the Rephaim. Behold, his bed was a bed of iron... (ESV)"
+    },
+    {
+        "text": "Which tribes received land east of the Jordan River?",
+        "options": ["Reuben, Gad, and half-tribe of Manasseh", "Judah, Simeon, and Benjamin", "Levi, Ephraim, and Dan", "Asher, Naphtali, and Zebulun"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Easy",
+        "verseReference": "Deuteronomy 3:12-13",
+        "verseText": "“When we took possession of this land at that time, I gave to the Reubenites and the Gadites the territory beginning at Aroer... The rest of Gilead, and all Bashan, the kingdom of Og, that is, all the region of Argob, I gave to the half-tribe of Manasseh. (ESV)"
+    },
+    {
+        "text": "What condition did the tribes receiving land east of the Jordan have to meet?",
+        "options": ["They had to help the other tribes conquer Canaan", "They had to pay tribute", "They had to build the Tabernacle", "They had to provide soldiers for Moses"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Easy",
+        "verseReference": "Deuteronomy 3:18",
+        "verseText": "And I commanded you at that time, saying, ‘The Lord your God has given you this land to possess. All your men of valor shall cross over armed before your brothers, the people of Israel.' (ESV)"
+    },
+    {
+        "text": "From which mountain did Moses view the Promised Land before he died?",
+        "options": ["Mount Nebo (Pisgah)", "Mount Sinai (Horeb)", "Mount Carmel", "Mount Zion"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Easy",
+        "verseReference": "Deuteronomy 3:27",
+        "verseText": "Go up to the top of Pisgah and lift up your eyes westward and northward and southward and eastward, and look at it with your eyes, for you shall not go over this Jordan. (ESV)"
+    },
+    {
+        "text": "What is the central command repeated throughout Deuteronomy?",
+        "options": ["Hear, O Israel: The Lord our God, the Lord is one.", "Love your neighbor as yourself.", "Remember the Sabbath day.", "Honor your father and mother."],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Easy",
+        "verseReference": "Deuteronomy 6:4",
+        "verseText": "“Hear, O Israel: The Lord our God, the Lord is one. (ESV)"
+    },
+    {
+        "text": "What are the Israelites commanded to do with God's words?",
+        "options": ["Teach them diligently to their children", "Talk of them when they sit, walk, lie down, and rise", "Bind them as a sign on their hand and forehead", "All of the above"],
+        "correctAnswerIndex": 3,
+        "book": "Deuteronomy",
+        "difficulty": "Easy",
+        "verseReference": "Deuteronomy 6:6-8",
+        "verseText": "And these words that I command you today shall be on your heart. You shall teach them diligently to your children, and shall talk of them when you sit in your house, and when you walk by the way, and when you lie down, and when you rise. You shall bind them as a sign on your hand, and they shall be as frontlets between your eyes. (ESV)"
+    },
+    {
+        "text": "What should the Israelites remember when they become prosperous in the land?",
+        "options": ["The Lord who brought them out of Egypt", "Their own strength and power", "The idols of the nations", "The hardships of the wilderness"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Easy",
+        "verseReference": "Deuteronomy 8:11, 17-18",
+        "verseText": "“Take care lest you forget the Lord your God... Beware lest you say in your heart, ‘My power and the might of my hand have gotten me this wealth.’ You shall remember the Lord your God, for it is he who gives you power to get wealth... (ESV)"
+    },
+    {
+        "text": "Where were the Ten Commandments kept?",
+        "options": ["In the Ark of the Covenant", "Under Moses' pillow", "On Mount Sinai", "In the Tent of Meeting"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Easy",
+        "verseReference": "Deuteronomy 10:5",
+        "verseText": "Then I turned and came down from the mountain and put the tablets in the ark that I had made. And there they are, as the Lord commanded me. (ESV)"
+    },
+    {
+        "text": "What specific reason does Deuteronomy 1:37 give for God being angry with Moses 'on your account'?",
+        "options": ["The people's rebellion at Kadesh made Moses angry and disobedient", "Moses claimed credit for bringing water from the rock", "Moses failed to sanctify God at the waters of Meribah", "The people's constant complaining wore Moses down"],
+        "correctAnswerIndex": 2,
+        "book": "Deuteronomy",
+        "difficulty": "Medium",
+        "verseReference": "Deuteronomy 1:37 (cf. Numbers 20:12)",
+        "verseText": "Even with me the Lord was angry on your account and said, ‘You also shall not go in there.' (See Numbers 20:12: And the Lord said to Moses and Aaron, “Because you did not believe in me, to uphold me as holy in the eyes of the people of Israel, therefore you shall not bring this assembly into the land that I have given them.”) (ESV)"
+    },
+    {
+        "text": "Who were the Rephaim, Emim, and Zamzummim mentioned in Deuteronomy 2?",
+        "options": ["Giant peoples who previously inhabited lands later given to Edom, Moab, and Ammon", "Tribes allied with Sihon and Og", "Descendants of Anak", "Canaanite deities"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Medium",
+        "verseReference": "Deuteronomy 2:10-11, 20-21",
+        "verseText": "(The Emim formerly lived there, a people great and many, and tall as the Anakim. Like the Anakim they are also counted as Rephaim, but the Moabites call them Emim... It is also counted as a land of Rephaim. Rephaim formerly lived there—but the Ammonites call them Zamzummim— a people great and many, and tall as the Anakim...) (ESV)"
+    },
+    {
+        "text": "Why did God harden the spirit of Sihon king of Heshbon?",
+        "options": ["To deliver him into Israel's hand", "As punishment for his idolatry", "Because Sihon refused a peaceful passage", "To test Israel's faith"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Medium",
+        "verseReference": "Deuteronomy 2:30",
+        "verseText": "But Sihon king of Heshbon would not let us pass by him, for the Lord your God hardened his spirit and made his heart obstinate, that he might give him into your hand, as he is this day. (ESV)"
+    },
+    {
+        "text": "What does the name 'Deuteronomy' mean, and how does it relate to the book's content?",
+        "options": ["Second Law; it repeats laws given earlier", "Words of Moses; it's his final address", "Covenant Renewal; it reaffirms the pact with God", "Journey's End; it describes entering Canaan"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Medium",
+        "verseReference": "Deuteronomy 17:18 (LXX)",
+        "verseText": "The name comes from the Septuagint (Greek translation) rendering of Deut 17:18, 'copy of this law,' as 'deuteronomion touto,' meaning 'this second law'."
+    },
+    {
+        "text": "What unique perspective does Deuteronomy offer compared to Exodus, Leviticus, and Numbers?",
+        "options": ["It's primarily Moses' sermons to the new generation", "It focuses solely on priestly duties", "It details the wilderness wanderings chronologically", "It's written from the perspective of the Canaanites"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Medium",
+        "verseReference": "General Structure",
+        "verseText": "Deuteronomy is structured as a series of farewell addresses by Moses to the generation poised to enter Canaan, reinterpreting the law for their new context."
+    },
+    {
+        "text": "What is the significance of the phrase 'the place that the Lord your God will choose' repeated in Deuteronomy?",
+        "options": ["It refers to the central sanctuary, later established in Jerusalem", "It refers to any place where God manifests His presence", "It refers to the tribal territories", "It refers to Mount Gerizim"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Medium",
+        "verseReference": "Deuteronomy 12:5, 11, 14, etc.",
+        "verseText": "But you shall seek the place that the Lord your God will choose out of all your tribes to put his name and make his habitation there. There you shall go... (ESV)"
+    },
+    {
+        "text": "According to Deuteronomy 4, what primary lesson should the Israelites learn from the Horeb (Sinai) experience?",
+        "options": ["God spoke from fire, but they saw no form, warning against idolatry", "God gave them the Ten Commandments", "God showed His immense power", "God established the priesthood"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Medium",
+        "verseReference": "Deuteronomy 4:12, 15-16",
+        "verseText": "Then the Lord spoke to you out of the midst of the fire. You heard the sound of words, but saw no form; there was only a voice... Therefore watch yourselves very carefully. Since you saw no form on the day that the Lord spoke to you at Horeb out of the midst of the fire, beware lest you act corruptly by making a carved image for yourselves, in the form of any figure... (ESV)"
+    },
+    {
+        "text": "What reason does Deuteronomy 5 give for observing the Sabbath, differing slightly from Exodus 20?",
+        "options": ["Remembrance of deliverance from slavery in Egypt", "God rested on the seventh day of creation", "Need for physical rest for servants and animals", "A sign of the covenant"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Medium",
+        "verseReference": "Deuteronomy 5:15",
+        "verseText": "You shall remember that you were a slave in the land of Egypt, and the Lord your God brought you out from there with a mighty hand and an outstretched arm. Therefore the Lord your God commanded you to keep the Sabbath day. (Compare Exodus 20:11) (ESV)"
+    },
+    {
+        "text": "Why were the Israelites commanded to utterly destroy the inhabitants of Canaan (Deuteronomy 7)?",
+        "options": ["To prevent being led into idolatry by their practices", "Because they occupied the promised land", "As punishment for their wickedness", "All of the above"],
+        "correctAnswerIndex": 3,
+        "book": "Deuteronomy",
+        "difficulty": "Medium",
+        "verseReference": "Deuteronomy 7:2-4, 9:4-5",
+        "verseText": "and when the Lord your God gives them over to you, and you defeat them, then you must devote them to complete destruction... for they would turn away your sons from following me, to serve other gods... Do not say in your heart... ‘It is because of my righteousness that the Lord has brought me in to possess this land,’ whereas it is because of the wickedness of these nations that the Lord is driving them out before you. (ESV)"
+    },
+    {
+        "text": "What did God test the Israelites with during their 40 years in the wilderness, according to Deuteronomy 8?",
+        "options": ["Hunger (manna) and hardship, to teach reliance on His word", "Idolatry (golden calf)", "Fear (spies' report)", "Rebellion (Korah)"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Medium",
+        "verseReference": "Deuteronomy 8:2-3",
+        "verseText": "And you shall remember the whole way that the Lord your God has led you these forty years in the wilderness, that he might humble you, testing you to know what was in your heart, whether you would keep his commandments or not. And he humbled you and let you hunger and fed you with manna... that he might make you know that man does not live by bread alone, but man lives by every word that comes from the mouth of the Lord. (ESV)"
+    },
+    {
+        "text": "What specific event does Moses recall in Deuteronomy 9 to remind the Israelites of their stubbornness?",
+        "options": ["The Golden Calf incident at Horeb", "The rebellion at Kadesh-barnea", "The complaining about food and water", "Korah's rebellion"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Medium",
+        "verseReference": "Deuteronomy 9:7-21",
+        "verseText": "Remember and do not forget how you provoked the Lord your God to wrath in the wilderness. From the day you came out of the land of Egypt until you came to this place, you have been rebellious against the Lord. Even at Horeb you provoked the Lord to wrath... (ESV)"
+    },
+    {
+        "text": "What does Deuteronomy 10:12-13 summarize as the Lord's requirement for Israel?",
+        "options": ["Fear God, walk in His ways, love Him, serve Him, keep His commandments", "Offer sacrifices, observe feasts, pay tithes", "Conquer the land, destroy idols, build the sanctuary", "Appoint judges, follow prophets, obey the king"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Medium",
+        "verseReference": "Deuteronomy 10:12-13",
+        "verseText": "“And now, Israel, what does the Lord your God require of you, but to fear the Lord your God, to walk in all his ways, to love him, to serve the Lord your God with all your heart and with all your soul, and to keep the commandments and statutes of the Lord, which I am commanding you today for your good? (ESV)"
+    },
+    {
+        "text": "What choice is set before Israel on Mount Gerizim and Mount Ebal?",
+        "options": ["Blessing and curse", "Life and death", "Obedience and disobedience", "All of the above"],
+        "correctAnswerIndex": 3,
+        "book": "Deuteronomy",
+        "difficulty": "Medium",
+        "verseReference": "Deuteronomy 11:26-29",
+        "verseText": "“See, I am setting before you today a blessing and a curse: the blessing, if you obey the commandments of the Lord your God... and the curse, if you do not obey... And when the Lord your God brings you into the land that you are entering to take possession of it, you shall set the blessing on Mount Gerizim and the curse on Mount Ebal. (ESV)"
+    },
+    {
+        "text": "What is the penalty prescribed in Deuteronomy 13 for a prophet or dreamer who encourages idolatry, even if their sign comes true?",
+        "options": ["Death", "Exile", "Stoning", "Imprisonment"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Medium",
+        "verseReference": "Deuteronomy 13:1-5",
+        "verseText": "“If a prophet or a dreamer of dreams arises among you and gives you a sign or a wonder, and the sign or wonder that he tells you comes to pass, and if he says, ‘Let us go after other gods,’... you shall not listen to the words of that prophet or that dreamer of dreams... But that prophet or that dreamer of dreams shall be put to death... (ESV)"
+    },
+    {
+        "text": "What types of animals are permitted as food according to the dietary laws in Deuteronomy 14?",
+        "options": ["Animals with cloven hoofs that chew the cud; fish with fins and scales", "All birds except birds of prey; insects that hop", "Only domesticated animals; no shellfish", "Any animal offered as a sacrifice"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Medium",
+        "verseReference": "Deuteronomy 14:4-8, 9-10",
+        "verseText": "“These are the animals you may eat: the ox, the sheep, the goat... Every animal that parts the hoof and has the hoof cloven in two and chews the cud... Yet of those that chew the cud or have the hoof cloven you shall not eat these: the camel, the hare, and the rock badger... And the pig... Of all that are in the waters you may eat these: whatever has fins and scales you may eat. And whatever does not have fins and scales you shall not eat; it is unclean for you. (ESV)"
+    },
+    {
+        "text": "What is the purpose of the Sabbatical Year (release of debts) described in Deuteronomy 15?",
+        "options": ["To prevent perpetual poverty and aid the poor", "To give the land rest", "To commemorate the Exodus", "To limit the power of creditors"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Medium",
+        "verseReference": "Deuteronomy 15:1-4",
+        "verseText": "“At the end of every seven years you shall grant a release. And this is the manner of the release: every creditor shall release what he has lent to his neighbor... because the Lord's release has been proclaimed. ...there will be no poor among you... if only you will strictly obey the voice of the Lord your God... (ESV)"
+    },
+    {
+        "text": "What are the three annual pilgrimage feasts Israelites were required to celebrate at the central sanctuary (Deuteronomy 16)?",
+        "options": ["Passover/Unleavened Bread, Weeks (Pentecost), Booths (Tabernacles)", "Sabbath, New Moon, Day of Atonement", "Purim, Hanukkah, Rosh Hashanah", "Firstfruits, Trumpets, Jubilee"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Medium",
+        "verseReference": "Deuteronomy 16:16",
+        "verseText": "“Three times a year all your males shall appear before the Lord your God at the place that he will choose: at the Feast of Unleavened Bread, at the Feast of Weeks, and at the Feast of Booths. They shall not appear before the Lord empty-handed. (ESV)"
+    },
+    {
+        "text": "What qualifications must a king chosen by Israel meet, according to Deuteronomy 17?",
+        "options": ["Must be an Israelite, not acquire many horses/wives/wealth, write/read God's law daily", "Must be from the tribe of Judah, be a mighty warrior, consult prophets", "Must be anointed by the High Priest, build the Temple, establish justice", "Must be chosen by God, be humble, lead the army"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Medium",
+        "verseReference": "Deuteronomy 17:15-20",
+        "verseText": "one from among your brothers you shall set as king over you... Only he must not acquire many horses for himself... And he shall not acquire many wives... nor shall he acquire for himself excessive silver and gold. “And when he sits on the throne of his kingdom, he shall write for himself in a book a copy of this law... And it shall be with him, and he shall read in it all the days of his life... (ESV)"
+    },
+    {
+        "text": "How were the Levites, who had no territorial inheritance, to be supported (Deuteronomy 18)?",
+        "options": ["Through tithes and portions of sacrifices", "By working secular jobs", "Through direct donations from the king", "By farming designated plots near cities"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Medium",
+        "verseReference": "Deuteronomy 18:1-2",
+        "verseText": "“The Levitical priests, all the tribe of Levi, shall have no portion or inheritance with Israel. They shall eat the Lord's food offerings as their inheritance. They shall have no inheritance among their brothers; the Lord is their inheritance, as he promised them. (See also Deut 14:27-29) (ESV)"
+    },
+    {
+        "text": "What kind of prophet does Deuteronomy 18:15-19 promise God will raise up, like Moses?",
+        "options": ["One who speaks God's words faithfully", "One who performs great miracles", "One who leads Israel in battle", "One who interprets dreams"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Medium",
+        "verseReference": "Deuteronomy 18:15, 18",
+        "verseText": "“The Lord your God will raise up for you a prophet like me from among you, from your brothers—it is to him you shall listen... I will raise up for them a prophet like you from among their brothers. And I will put my words in his mouth, and he shall speak to them all that I command him. (ESV)"
+    },
+    {
+        "text": "What was the purpose of the cities of refuge described in Deuteronomy 19?",
+        "options": ["To protect someone who killed unintentionally from the avenger of blood", "To imprison criminals", "To provide sanctuary for political dissidents", "To house the Levites"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Medium",
+        "verseReference": "Deuteronomy 19:2-6",
+        "verseText": "you shall set apart three cities for yourselves in the land that the Lord your God is giving you to possess... so that any manslayer who kills his neighbor unintentionally, without having hated him in the past, may flee there and live... lest the avenger of blood pursue the manslayer while his heart is hot... (ESV)"
+    },
+    {
+        "text": "What exemptions from military service were granted in Deuteronomy 20?",
+        "options": ["Built a new house but not dedicated it, planted vineyard but not enjoyed fruit, betrothed but not married, fearful/fainthearted", "Priests and Levites, men over 60, only sons", "Farmers during harvest, merchants on trade journeys, shepherds tending flocks", "Anyone who could pay a substitute"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Medium",
+        "verseReference": "Deuteronomy 20:5-8",
+        "verseText": "Then the officers shall speak to the people, saying, ‘Is there any man who has built a new house and has not dedicated it?... planted a vineyard and has not enjoyed its fruit?... betrothed a wife and has not taken her?... Is there any man who is fearful and fainthearted? Let him go back to his house...’ (ESV)"
+    },
+    {
+        "text": "What procedure was to be followed if a slain person was found and the killer was unknown (Deuteronomy 21)?",
+        "options": ["Elders of nearest town break a heifer's neck, wash hands, declare innocence", "Offer a sacrifice at the central sanctuary", "Consult the Urim and Thummim", "Conduct a thorough investigation and punish the nearest town"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Medium",
+        "verseReference": "Deuteronomy 21:1-9",
+        "verseText": "“If in the land that the Lord your God is giving you to possess someone is found slain... and it is not known who killed him, then your elders and your judges shall come out... And the elders of the city that is nearest to the slain man shall take a heifer... and shall break the heifer's neck there in the valley... And all the elders of that city nearest to the slain man shall wash their hands over the heifer... and they shall testify, ‘Our hands did not shed this blood...’ (ESV)"
+    },
+    {
+        "text": "What does the law regarding a rebellious son in Deuteronomy 21 illustrate about parental authority and community responsibility?",
+        "options": ["Parents could bring persistently rebellious sons to elders for judgment (stoning)", "Parents had absolute authority over children's lives", "The community ignored family disputes", "Rebellious sons were exiled"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Medium",
+        "verseReference": "Deuteronomy 21:18-21",
+        "verseText": "“If a man has a stubborn and rebellious son who will not obey the Tvoice of his father or the voice of his mother... then his father and his mother shall take hold of him and bring him out to the elders of his city... and say... ‘This our son is stubborn and rebellious...’ Then all the men of the city shall stone him to death with stones. (ESV)"
+    },
+    {
+        "text": "What principle is established by the law requiring a parapet on a new roof (Deuteronomy 22:8)?",
+        "options": ["Responsibility for preventing foreseeable harm to others", "Architectural standards", "Separation from pagan practices", "Symbolic protection of the home"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Medium",
+        "verseReference": "Deuteronomy 22:8",
+        "verseText": "“When you build a new house, you shall make a parapet for your roof, that you may not bring the guilt of blood upon your house, if anyone should fall from it. (ESV)"
+    },
+    {
+        "text": "What is forbidden by the law against mixing fabrics (wool and linen) or seeds, or yoking an ox and donkey together (Deuteronomy 22:9-11)?",
+        "options": ["Maintaining God's created order and distinctions", "Economic protectionism", "Preventing magical practices", "Hygiene regulations"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Medium",
+        "verseReference": "Deuteronomy 22:9-11",
+        "verseText": "“You shall not sow your vineyard with two kinds of seed... You shall not plow with an ox and a donkey together. You shall not wear cloth of wool and linen mixed together. (ESV)"
+    },
+    {
+        "text": "Which groups were excluded from the 'assembly of the Lord' according to Deuteronomy 23, and why?",
+        "options": ["Ammonites and Moabites (mistreatment of Israel); those with crushed testicles/severed member (physical perfection often linked to cultic roles)", "Egyptians and Edomites (temporary exclusion)", "Canaanites (idolatry)", "Samaritans (mixed heritage)"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Medium",
+        "verseReference": "Deuteronomy 23:1-3",
+        "verseText": "“No one whose testicles are crushed or whose male organ is cut off shall enter the assembly of the Lord. “No one born of a forbidden union may enter the assembly of the Lord... “No Ammonite or Moabite may enter the assembly of the Lord... because they did not meet you with bread and with water on the way, when you came out of Egypt... (ESV)"
+    },
+    {
+        "text": "What humane consideration is shown in the law regarding taking a millstone as a pledge (Deuteronomy 24:6)?",
+        "options": ["It prohibits taking someone's essential means of livelihood", "It protects valuable property", "It prevents unfair lending practices", "It relates to ritual purity"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Medium",
+        "verseReference": "Deuteronomy 24:6",
+        "verseText": "“No one shall take a mill or an upper millstone in pledge, for that would be taking a life in pledge. (ESV)"
+    },
+    {
+        "text": "What is the principle of 'lex talionis' (eye for an eye) as applied in Deuteronomy 19:21?",
+        "options": ["Punishment should fit the crime, ensuring proportional justice", "Exact literal retribution", "Compensation for damages", "Vengeance by the victim's family"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Medium",
+        "verseReference": "Deuteronomy 19:21",
+        "verseText": "Your eye shall not pity. It shall be life for life, eye for eye, tooth for tooth, hand for hand, foot for foot. (ESV)"
+    },
+    {
+        "text": "What is the purpose of the law of Levirate marriage (Deuteronomy 25:5-10)?",
+        "options": ["To preserve the deceased brother's name and inheritance line", "To provide for the widow", "To ensure population growth", "Both A and B"],
+        "correctAnswerIndex": 3,
+        "book": "Deuteronomy",
+        "difficulty": "Medium",
+        "verseReference": "Deuteronomy 25:5-6",
+        "verseText": "“If brothers dwell together, and one of them dies and has no son, the wife of the dead man shall not be married outside the family to a stranger. Her husband's brother shall go in to her and take her as his wife and perform the duty of a husband's brother to her. And the first son whom she bears shall succeed to the name of his dead brother, that his name may not be blotted out of Israel. (ESV)"
+    },
+    {
+        "text": "What ceremony involving firstfruits is described in Deuteronomy 26?",
+        "options": ["Bringing firstfruits to the priest, reciting Israel's history, acknowledging God's provision", "Burning firstfruits on the altar", "Giving firstfruits to the poor", "A communal feast with firstfruits"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Medium",
+        "verseReference": "Deuteronomy 26:1-11",
+        "verseText": "“When you come into the land... you shall take some of the first of all the fruit of the ground... and you shall go to the place that the Lord your God will choose... And you shall make response before the Lord your God, ‘A wandering Aramean was my father...’ And you shall rejoice in all the good that the Lord your God has given to you... (ESV)"
+    },
+    {
+        "text": "What declaration were the Israelites to make after giving the third-year tithe (Deuteronomy 26:12-15)?",
+        "options": ["Affirming they had properly distributed the tithe to Levite, sojourner, fatherless, widow", "Asking God for blessing", "Confessing any misuse of the tithe", "Both A and B"],
+        "correctAnswerIndex": 3,
+        "book": "Deuteronomy",
+        "difficulty": "Medium",
+        "verseReference": "Deuteronomy 26:12-15",
+        "verseText": "“When you have finished paying all the tithe of your produce in the third year... and have given it to the Levite, the sojourner, the fatherless, and the widow... then you shall declare before the Lord your God, ‘I have removed the sacred portion out of my house... I have not transgressed any of your commandments... Look down from your holy habitation, from heaven, and bless your people Israel...’ (ESV)"
+    },
+    {
+        "text": "What were the Israelites commanded to do upon crossing the Jordan, as described in Deuteronomy 27?",
+        "options": ["Set up large stones, plaster them, write the Law on them, build an altar, pronounce curses and blessings", "Immediately attack Jericho", "Divide the land by lot", "Hold a national assembly"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Medium",
+        "verseReference": "Deuteronomy 27:2-8",
+        "verseText": "And on the day you cross over the Jordan... you shall set up large stones and plaster them with plaster. And you shall write on them all the words of this law... And there you shall build an altar to the Lord your God... (ESV)"
+    },
+    {
+        "text": "Deuteronomy 28 details extensive blessings for obedience and curses for disobedience. What is a prominent theme among the curses?",
+        "options": ["Disease, famine, military defeat, exile, reversal of Exodus blessings", "Loss of wealth, family strife, social disgrace", "Natural disasters, crop failure, infertility", "Spiritual blindness, demonic oppression, loss of God's presence"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Medium",
+        "verseReference": "Deuteronomy 28:15-68",
+        "verseText": "“But if you will not obey the voice of the Lord your God... then all these curses shall come upon you... The Lord will send upon you curses... The Lord will strike you with wasting disease and with fever... The Lord will cause you to be defeated before your enemies... And the Lord will bring you back in ships to Egypt... (ESV)"
+    },
+    {
+        "text": "What covenant is established in Deuteronomy 29, in addition to the one at Horeb?",
+        "options": ["A covenant in the land of Moab, binding the present and future generations", "A covenant with the Gibeonites", "A covenant regarding the kingship", "A covenant of peace with neighboring nations"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Medium",
+        "verseReference": "Deuteronomy 29:1, 14-15",
+        "verseText": "These are the words of the covenant that the Lord commanded Moses to make with the people of Israel in the land of Moab, besides the covenant that he had made with them at Horeb... Nor is it with you only that I am making this sworn covenant today, but with whoever is standing here with us today before the Lord our God, and with whoever is not here with us today. (ESV)"
+    },
+    {
+        "text": "What hope is offered in Deuteronomy 30 even after Israel experiences the curses of exile?",
+        "options": ["If they return to the Lord, He will restore their fortunes and circumcise their hearts", "They can earn forgiveness through sacrifices", "A future king will deliver them", "God will make a new, unbreakable covenant"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Medium",
+        "verseReference": "Deuteronomy 30:1-6",
+        "verseText": "“And when all these things come upon you... and you call them to mind among all the nations where the Lord your God has driven you, and return to the Lord your God... then the Lord your God will restore your fortunes... And the Lord your God will circumcise your heart and the heart of your offspring, so that you will love the Lord your God... (ESV)"
+    },
+    {
+        "text": "How accessible is the commandment, according to Deuteronomy 30:11-14?",
+        "options": ["It is not too hard or far off; it is near, in their mouths and hearts", "It requires priestly interpretation", "It is hidden and requires divine revelation", "It is only understood by the wise"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Medium",
+        "verseReference": "Deuteronomy 30:11, 14",
+        "verseText": "“For this commandment that I command you today is not too hard for you, neither is it far off... But the word is very near you. It is in your mouth and in your heart, so that you can do it. (ESV)"
+    },
+    {
+        "text": "What specific instruction did Moses give regarding the public reading of the Law (Deuteronomy 31)?",
+        "options": ["Read it every seven years during the Feast of Booths to all Israel", "Read it daily in the Temple", "Read it every Sabbath in synagogues", "Read it only to the priests and elders"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Medium",
+        "verseReference": "Deuteronomy 31:10-13",
+        "verseText": "And Moses commanded them, “At the end of every seven years, at the set time in the year of release, at the Feast of Booths, when all Israel comes to appear before the Lord your God at the place that he will choose, you shall read this law before all Israel in their hearing. Assemble the people—men, women, and little ones... that they may hear and learn to fear the Lord your God... (ESV)"
+    },
+    {
+        "text": "What is the primary theme of the Song of Moses in Deuteronomy 32?",
+        "options": ["God's faithfulness contrasted with Israel's unfaithfulness and resulting judgment, yet ultimate restoration", "A celebration of victory over enemies", "A lament over Moses' impending death", "A historical recap of the Exodus"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Medium",
+        "verseReference": "Deuteronomy 32",
+        "verseText": "The Song contrasts God's righteousness and care (v. 4, 10-14) with Israel's corruption and idolatry (v. 5, 15-18), leading to God's judgment (v. 19-25), but also God's ultimate vindication and compassion (v. 36, 43)."
+    },
+    {
+        "text": "What is the significance of Moses blessing the tribes of Israel in Deuteronomy 33 before his death?",
+        "options": ["It parallels Jacob's blessing, invoking God's favor and future hope for each tribe", "It assigns their specific territories", "It designates their leaders", "It warns them against future sins"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Medium",
+        "verseReference": "Deuteronomy 33",
+        "verseText": "This is the blessing with which Moses the man of God blessed the people of Israel before his death. (The chapter then details specific blessings for the tribes, similar to Genesis 49). (ESV)"
+    },
+    {
+        "text": "How does Deuteronomy end in chapter 34?",
+        "options": ["Describing Moses viewing the land, his death and burial, Israel mourning, and Joshua's succession", "With the conquest of Jericho", "With the renewal of the covenant", "With a final call to obedience"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Medium",
+        "verseReference": "Deuteronomy 34",
+        "verseText": "The chapter recounts Moses ascending Mount Nebo (v. 1), God showing him the land (v. 1-4), Moses' death (v. 5), his burial by God (v. 6), his age and vitality (v. 7), Israel's mourning (v. 8), Joshua's commissioning (v. 9), and a final tribute to Moses (v. 10-12). (ESV)"
+    },
+    {
+        "text": "Deuteronomy 1:1 mentions locations like 'opposite Suph, between Paran and Tophel, Laban, Hazeroth, and Dizahab.' What is the primary interpretive challenge regarding these place names?",
+        "options": ["Their exact geographical identification is uncertain or debated", "They represent symbolic spiritual states", "They are code names for enemy territories", "They refer to locations in Egypt, not the Transjordan"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Hard",
+        "verseReference": "Deuteronomy 1:1",
+        "verseText": "These are the words that Moses spoke to all Israel beyond the Jordan in the wilderness, in the Arabah opposite Suph, between Paran and Tophel, Laban, Hazeroth, and Dizahab. (ESV) (Scholarly debate exists on pinpointing these locations precisely.)"
+    },
+    {
+        "text": "How does the structure of Deuteronomy resemble ancient Near Eastern treaty forms, particularly Hittite suzerainty treaties?",
+        "options": ["It includes preamble, historical prologue, stipulations, blessings/curses, witnesses, deposit/reading", "It follows a strict chronological narrative", "It is organized by legal categories (civil, criminal, cultic)", "It mimics Egyptian wisdom literature structure"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Hard",
+        "verseReference": "Overall Structure",
+        "verseText": "Scholars like Meredith Kline have noted parallels: Preamble (1:1-5), Historical Prologue (1:6-4:49), Stipulations (5-26), Curses/Blessings (27-28), Witnesses (30:19, 31:19, 32:1-43), Deposit/Reading (31:9-13, 24-26)."
+    },
+    {
+        "text": "In Deuteronomy 4:19, Moses warns against worshipping the sun, moon, and stars, which the Lord 'allotted to all the peoples under the whole heaven.' What theological interpretation might this 'allotment' imply?",
+        "options": ["God permitted other nations to worship celestial bodies (though wrongly), reserving true revelation for Israel", "These bodies were assigned to rule times/seasons for all nations", "God assigned angels/lesser beings associated with stars to govern nations", "This is purely poetic language with no theological weight"],
+        "correctAnswerIndex": 2,
+        "book": "Deuteronomy",
+        "difficulty": "Hard",
+        "verseReference": "Deuteronomy 4:19",
+        "verseText": "And beware lest you raise your eyes to heaven, and when you see the sun and the moon and the stars, all the host of heaven, you be drawn away and bow down to them and serve them, things that the Lord your God has allotted to all the peoples under the whole heaven. (ESV) (Some scholars connect this to the 'sons of God'/'divine council' concept, e.g., Deut 32:8 LXX)."
+    },
+    {
+        "text": "Deuteronomy 7 commands the 'herem' (devotion to destruction) against Canaanite nations. How do theologians and ethicists grapple with the moral difficulties of this command?",
+        "options": ["Contextualizing it as unique redemptive-historical command, emphasizing God's judgment on extreme sin, preventing syncretism, hyperbolic language", "Rejecting its divine origin", "Allegorizing it as spiritual warfare", "All of the above represent different approaches"],
+        "correctAnswerIndex": 3,
+        "book": "Deuteronomy",
+        "difficulty": "Hard",
+        "verseReference": "Deuteronomy 7:1-5; 20:16-18",
+        "verseText": "...you must devote them to complete destruction [herem]. You shall make no covenant with them and show no mercy to them... For they would turn away your sons from following me, to serve other gods... (ESV) (This is a complex theological and ethical issue with various interpretive strategies.)"
+    },
+    {
+        "text": "What is the significance of the phrase 'circumcise your heart' in Deuteronomy 10:16 and 30:6?",
+        "options": ["It calls for an inward transformation of attitude and will, beyond mere external ritual", "It refers to a specific surgical procedure", "It symbolizes cutting off sinful desires", "Both A and C"],
+        "correctAnswerIndex": 3,
+        "book": "Deuteronomy",
+        "difficulty": "Hard",
+        "verseReference": "Deuteronomy 10:16; 30:6",
+        "verseText": "Circumcise therefore the foreskin of your heart, and be no longer stubborn. (10:16) And the Lord your God will circumcise your heart and the heart of your offspring, so that you will love the Lord your God... (30:6) (ESV) (It signifies a deep, internal change necessary for true obedience and love for God.)"
+    },
+    {
+        "text": "How does the concept of 'corporate solidarity' function within the blessings and curses of Deuteronomy 28?",
+        "options": ["The obedience or disobedience of the nation as a whole affects all its members, including future generations", "Only the leaders are responsible for the nation's fate", "Each individual is judged solely on their own actions", "Blessings are individual, but curses are corporate"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Hard",
+        "verseReference": "Deuteronomy 28",
+        "verseText": "The blessings and curses are addressed to the nation ('you' often plural or corporate singular), indicating that the covenant relationship involves the community as a whole across generations."
+    },
+    {
+        "text": "Deuteronomy 32:8-9 (in some ancient versions like LXX and Dead Sea Scrolls) mentions God dividing nations according to the 'number of the sons of God/angels.' How does this differ from the Masoretic Text ('sons of Israel') and what are its implications?",
+        "options": ["Suggests a divine council/cosmic geography where nations were assigned angelic rulers, while Israel is God's direct portion", "Implies Israel's population determined national boundaries", "Refers to the 70 descendants of Jacob", "Has no significant theological difference"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Hard",
+        "verseReference": "Deuteronomy 32:8-9 (LXX/DSS vs MT)",
+        "verseText": "When the Most High gave to the nations their inheritance, when he divided mankind, he fixed the borders of the peoples according to the number of the sons of God [LXX/DSS]. But the Lord's portion is his people, Jacob his allotted heritage. (MT reads 'sons of Israel'). (ESV footnote/scholarly discussion)"
+    },
+    {
+        "text": "The Song of Moses (Deut 32) is described as a 'witness against' Israel (Deut 31:19). How does a song function legally or covenantally as a witness in this context?",
+        "options": ["As a memorable, publicly recited testimony reminding Israel of their obligations and the consequences of failure", "As a magical incantation", "As a historical record for future courts", "As a prophetic prediction only"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Hard",
+        "verseReference": "Deuteronomy 31:19, 21",
+        "verseText": "Now therefore write this song and teach it to the people of Israel. Put it in their mouths, that this song may be a witness for me against the people of Israel... this song shall confront them as a witness... (ESV) (It serves as a lasting, accessible reminder of the covenant terms.)"
+    },
+    {
+        "text": "What is the relationship between the laws in Deuteronomy and the earlier Covenant Code (Exodus 20:22-23:33)?",
+        "options": ["Deuteronomy adapts, expands, and reinterprets the Covenant Code for the new context of settlement in the land", "Deuteronomy completely replaces the Covenant Code", "The Covenant Code is a summary of Deuteronomy", "They are independent legal collections with no relation"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Hard",
+        "verseReference": "Comparison of Legal Corpora",
+        "verseText": "Scholars generally see Deuteronomy as building upon and modifying the earlier laws found in Exodus, often with a more humanitarian or centralized focus (e.g., laws on slavery, sanctuary)."
+    },
+    {
+        "text": "Deuteronomy 15 discusses the release of Hebrew slaves in the seventh year. How does this compare/contrast with the provisions in Exodus 21?",
+        "options": ["Deuteronomy adds the requirement to provide generously for the freed slave; Exodus focuses more on the conditions of release", "Exodus applies only to male slaves, Deuteronomy to both", "Deuteronomy mandates release, Exodus makes it optional", "They are identical"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Hard",
+        "verseReference": "Deuteronomy 15:12-18; Exodus 21:1-11",
+        "verseText": "Deut 15:13-14: 'And when you let him go free from you, you shall not let him go empty-handed. You shall furnish him liberally out of your flock, out of your threshing floor, and out of your winepress.' This provision is absent in Exodus 21. Both apply to male and female Hebrews (Deut 15:12, 17; Ex 21:7 addresses female slaves differently)."
+    },
+    {
+        "text": "The law concerning the 'stubborn and rebellious son' (Deut 21:18-21) involves parental accusation before community elders. What does this procedure suggest about the limits of parental authority in ancient Israel?",
+        "options": ["Parents did not have absolute power of life/death; capital cases required community judgment", "Parents held sole authority within the household", "Elders merely rubber-stamped parental decisions", "This law was purely theoretical and never applied"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Hard",
+        "verseReference": "Deuteronomy 21:18-21",
+        "verseText": "The requirement to bring the son to the elders (v. 19-20) indicates that ultimate judicial authority, especially in capital matters, rested with the community leadership, not solely with the parents."
+    },
+    {
+        "text": "Deuteronomy 24:1-4 restricts a man from remarrying his divorced wife if she has married another man in the interim. What is the likely rationale behind this specific prohibition?",
+        "options": ["Preventing potential sexual/property complications, discouraging casual divorce, viewing the second marriage as defiling in this context", "Punishing the woman for remarrying", "Protecting the second husband's honor", "A symbolic representation of God's relationship with Israel"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Hard",
+        "verseReference": "Deuteronomy 24:1-4",
+        "verseText": "...her former husband, who sent her away, may not take her again to be his wife, after she has been defiled, for that is an abomination before the Lord. (ESV) (Interpretations vary, but often focus on preventing social chaos, protecting marital stability, or ritual defilement concepts.)"
+    },
+    {
+        "text": "How does the emphasis on 'love' (Heb. 'ahav') for God in Deuteronomy (e.g., 6:5, 10:12, 11:1) relate to the covenant context?",
+        "options": ["It signifies covenant loyalty, faithfulness, and exclusive commitment, akin to a vassal's loyalty to a suzerain, not just emotion", "It refers purely to emotional affection", "It means obeying God's commands without question", "It is primarily about liturgical worship"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Hard",
+        "verseReference": "Deuteronomy 6:5",
+        "verseText": "You shall love the Lord your God with all your heart and with all your soul and with all your might. (ESV) (In the context of covenant and ancient Near Eastern treaties, 'love' often carried connotations of loyalty and action.)"
+    },
+    {
+        "text": "What is the theological significance of Moses not being allowed to enter the Promised Land, despite his general faithfulness (Deut 3:23-27, 32:48-52)?",
+        "options": ["Illustrates the seriousness of disobedience even for leaders, highlights transition to Joshua's leadership, emphasizes God's sovereignty", "Shows God was arbitrary", "Suggests Moses' work was finished", "Symbolizes the Law's inability to bring ultimate salvation"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Hard",
+        "verseReference": "Deuteronomy 3:23-27; 32:48-52; 34:4",
+        "verseText": "God's denial, linked to the Meribah incident (Num 20), underscores the high standard for leadership and the consequences of failing to honor God publicly, while also paving the way for the next stage under Joshua."
+    },
+    {
+        "text": "Deuteronomy 17:18-20 requires the king to write and read a copy of 'this law' (mishneh ha-torah ha-zot). What is the likely scope of 'this law' referred to here?",
+        "options": ["Likely refers to the core laws of Deuteronomy itself, or a significant portion thereof", "Refers to the entire Pentateuch (Genesis-Deuteronomy)", "Refers only to the laws specifically concerning kingship", "Refers to the Ten Commandments"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Hard",
+        "verseReference": "Deuteronomy 17:18",
+        "verseText": "“And when he sits on the throne of his kingdom, he shall write for himself in a book a copy of this law [mishneh ha-torah ha-zot], approved by the Levitical priests. (ESV) (While debated, many scholars argue it refers primarily to the Deuteronomic code as the rule for the king's life and governance.)"
+    },
+    {
+        "text": "How does the portrayal of God in Deuteronomy balance His transcendence (high, holy, unique) with His immanence (nearness, care, involvement with Israel)?",
+        "options": ["Emphasizes God speaking from heaven/fire (transcendence) but also dwelling in the chosen place and being near to Israel when they call (immanence)", "Focuses solely on God's power and judgment", "Presents God as distant and uninvolved", "Alternates between transcendent and immanent portrayals without connection"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Hard",
+        "verseReference": "e.g., Deut 4:7, 4:12, 10:14, 12:5",
+        "verseText": "Deut 4:7 'For what great nation is there that has a god so near to it as the Lord our God is to us, whenever we call upon him?' contrasts with Deut 4:12 'Then the Lord spoke to you out of the midst of the fire...' and 10:14 'Behold, to the Lord your God belong heaven and the heaven of heavens, the earth with all that is in it.' Deuteronomy holds both aspects in tension."
+    },
+    {
+        "text": "What is the potential significance of the phrase 'A wandering Aramean was my father' in the firstfruits confession (Deut 26:5)?",
+        "options": ["Refers to Jacob's time in Aram with Laban, emphasizing Israel's humble/nomadic origins before God's deliverance", "Refers to Abraham's origins in Ur (near Aram)", "A scribal error for 'An Aramean sought to destroy my father'", "Symbolizes Israel's spiritual wandering"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Hard",
+        "verseReference": "Deuteronomy 26:5",
+        "verseText": "And you shall make response before the Lord your God, ‘A wandering Aramean was my father. And he went down into Egypt and sojourned there, few in number, and there he became a nation, great, mighty, and populous.’ (ESV) (Most commonly understood to refer to Jacob's background and time spent in Paddan-aram.)"
+    },
+    {
+        "text": "Deuteronomy includes laws protecting vulnerable groups (sojourner, fatherless, widow - e.g., 10:18-19; 24:17-22). How does this emphasis reflect a core theological principle in the book?",
+        "options": ["Reflects God's own character of justice and compassion, and Israel's identity as former slaves who should empathize", "A pragmatic measure to ensure social stability", "Borrowed from other ancient law codes", "Primarily aimed at securing blessings"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Hard",
+        "verseReference": "Deuteronomy 10:17-19; 24:17-22",
+        "verseText": "For the Lord your God is God of gods... who executes justice for the fatherless and the widow, and loves the sojourner... Love the sojourner, therefore, for you were sojourners in the land of Egypt. (10:17-19) (ESV) (Israel's historical experience is foundational to their ethical obligations.)"
+    },
+    {
+        "text": "The command to 'blot out the memory of Amalek' (Deut 25:17-19) seems harsh. What historical and theological context informs this specific judgment?",
+        "options": ["Amalek's treacherous attack on the vulnerable Israelites after the Exodus (Ex 17), representing persistent opposition to God's people/plan", "Amalek's idolatrous practices", "A territorial dispute", "Random act of divine anger"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Hard",
+        "verseReference": "Deuteronomy 25:17-19; Exodus 17:8-16",
+        "verseText": "“Remember what Amalek did to you on the way as you came out of Egypt, how he attacked you on the way when you were faint and weary, and cut off your tail, those who were lagging behind you, and he did not fear God... you shall blot out the memory of Amalek from under heaven; you shall not forget. (ESV) (Amalek's action was seen as particularly heinous and symbolic of evil opposing God's purposes.)"
+    },
+    {
+        "text": "How does the concept of 'remembering' function as a key theological motif throughout Deuteronomy?",
+        "options": ["Israel must remember God's past actions (Exodus, wilderness) to inform present obedience and future hope, and avoid repeating past failures", "Simply recalling historical facts", "Remembering specific laws", "A psychological technique for motivation"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Hard",
+        "verseReference": "e.g., Deut 5:15, 7:18, 8:2, 9:7, 25:17",
+        "verseText": "Frequent calls to 'remember' (Heb. zakar) link Israel's identity, God's character revealed in history, and the basis for covenant faithfulness. Forgetting leads to apostasy (e.g., Deut 8:11, 19)."
+    },
+    {
+        "text": "Deuteronomy 34:6 states God buried Moses, and 'no one knows the place of his burial to this day.' What is a potential theological reason for Moses' burial place remaining unknown?",
+        "options": ["To prevent the site from becoming a place of worship or veneration, focusing loyalty on God alone", "God wanted to keep it secret", "The terrain made it impossible to find", "Joshua forgot where it was"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Hard",
+        "verseReference": "Deuteronomy 34:6",
+        "verseText": "And he buried him in the valley in the land of Moab opposite Beth-peor; but no one knows the place of his burial to this day. (ESV) (This prevents Moses' tomb from becoming a shrine, ensuring focus remains on the living God, not past leaders, however great.)"
+    },
+    {
+        "text": "The prophet 'like Moses' promised in Deut 18:15-19 is a significant figure. How has this prophecy been interpreted in Jewish and Christian traditions?",
+        "options": ["Jewish tradition: often refers to the line of prophets; Christian tradition: ultimately fulfilled in Jesus Christ", "Jewish tradition: refers to Joshua; Christian tradition: refers to John the Baptist", "Both traditions: refers only to immediate successors", "Neither tradition gives it much weight"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Hard",
+        "verseReference": "Deuteronomy 18:15-19",
+        "verseText": "“The Lord your God will raise up for you a prophet like me...” (ESV) (Acts 3:22-23 and 7:37 explicitly apply this prophecy to Jesus. Jewish interpretation varies, sometimes seeing a succession of prophets or a future eschatological figure.)"
+    },
+    {
+        "text": "What is the relationship between the Law (Torah) and the Land in the theology of Deuteronomy?",
+        "options": ["Possession and retention of the Land are conditional upon obedience to the Law; the Land is the sphere where covenant life is lived out", "The Law applies equally regardless of location", "The Land is an unconditional gift, separate from the Law", "Obeying the Law guarantees individual prosperity, not national possession of the Land"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Hard",
+        "verseReference": "e.g., Deut 4:1, 5:33, 6:1-3, 11:8-9, 28, 30:15-20",
+        "verseText": "The book repeatedly links keeping God's commandments with entering, possessing, and living long in the promised land. Disobedience leads to expulsion (e.g., Deut 28:63-64)."
+    },
+    {
+        "text": "Deuteronomy 13 commands death for those inciting idolatry, including family members. How does this reflect the perceived severity of idolatry in the Deuteronomic worldview?",
+        "options": ["Idolatry is seen as high treason against God, the divine Suzerain, threatening the core covenant relationship and national existence", "Reflects a generally harsh legal system", "Aimed at consolidating priestly power", "An exaggeration not meant literally"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Hard",
+        "verseReference": "Deuteronomy 13:6-11",
+        "verseText": "If your brother... or your son or your daughter or the wife you embrace or your friend who is as your own soul entices you secretly, saying, ‘Let us go and serve other gods,’... you shall kill him. (ESV) (The extreme measure underscores that loyalty to God supersedes even the closest human ties, as idolatry fundamentally breaks the covenant.)"
+    },
+    {
+        "text": "The centralization of worship at 'the place the Lord your God will choose' (Deut 12) is a key theme. What were the likely practical and theological aims of this centralization?",
+        "options": ["Prevent syncretism/idolatry at local shrines, ensure purity of worship, foster national unity around the sanctuary", "Increase revenue for the Jerusalem priesthood", "Make worship more difficult for common people", "A purely symbolic ideal"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Hard",
+        "verseReference": "Deuteronomy 12:1-14",
+        "verseText": "By restricting sacrifice to one authorized center, Deuteronomy aimed to safeguard orthodoxy against the proliferation of potentially syncretistic local high places common in Canaanite religion."
+    },
+    {
+        "text": "How does the concept of God's 'name' dwelling at the chosen sanctuary (e.g., Deut 12:5, 11) function theologically?",
+        "options": ["Represents God's presence, authority, and accessibility for worship, without compromising His transcendence (God Himself doesn't dwell there)", "A literal inscription of YHWH's name", "A metaphor for the Ark of the Covenant", "Indicates God's ownership of the site"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Hard",
+        "verseReference": "Deuteronomy 12:5, 11",
+        "verseText": "...the place that the Lord your God will choose out of all your tribes to put his name and make his habitation there... (ESV) (The 'name theology' allows for God's localized presence and availability for His people at the sanctuary while affirming He transcends any earthly structure.)"
+    },
+    {
+        "text": "Deuteronomy 29:29 states, 'The secret things belong to the Lord our God, but the things that are revealed belong to us and to our children forever...' What is the significance of this verse in the context of covenant and revelation?",
+        "options": ["Distinguishes between God's inscrutable purposes and His revealed will (the Law), which Israel is responsible to obey", "Suggests some laws were kept secret", "Discourages theological speculation", "Justifies incomplete understanding of God"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Hard",
+        "verseReference": "Deuteronomy 29:29",
+        "verseText": "“The secret things belong to the Lord our God, but the things that are revealed belong to us and to our children forever, that we may do all the words of this law. (ESV) (It emphasizes human responsibility focuses on obeying what God *has* revealed in the Torah, rather than speculating on what He hasn't.)"
+    },
+    {
+        "text": "What literary features characterize the style of Deuteronomy?",
+        "options": ["Hortatory (preaching) style, rhetorical questions, repetition, motivational clauses, historical reflection", "Poetic parallelism exclusively", "Legal case law format only", "Epistolary (letter) format"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Hard",
+        "verseReference": "General Style",
+        "verseText": "Deuteronomy employs a distinctive sermonic style, urging the listener (reader) towards covenant faithfulness through persuasive rhetoric, appeals to history, and repetition of key themes and phrases."
+    },
+    {
+        "text": "How does the blessing on Joseph in Deuteronomy 33:13-17 differ in emphasis from Jacob's blessing in Genesis 49:22-26?",
+        "options": ["Deuteronomy emphasizes material prosperity, agricultural abundance, and military strength ('horns of the wild ox')", "Genesis focuses more on Joseph's trials and divine protection", "Deuteronomy omits any mention of Ephraim and Manasseh", "They are virtually identical in content and emphasis"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Hard",
+        "verseReference": "Deuteronomy 33:13-17; Genesis 49:22-26",
+        "verseText": "Deut 33 highlights 'choicest gifts of heaven above... deep that crouches beneath... choicest fruits of the sun... firstborn of his bull... horns of the wild ox,' emphasizing bounty and power for the tribes of Ephraim and Manasseh. Genesis 49 focuses more on Joseph's resilience ('the archers bitterly attacked him... yet his bow remained unmoved')."
+    },
+    {
+        "text": "What is the possible connection between the laws of warfare in Deuteronomy 20 (e.g., offering peace to distant cities, herem for Canaanite cities) and ancient Near Eastern military practices?",
+        "options": ["Reflects some common ANE practices but modifies them with unique theological rationales (e.g., herem linked to preventing religious corruption)", "Completely unique, no parallels", "Directly borrowed from Assyrian military codes", "Less harsh than typical ANE practices"],
+        "correctAnswerIndex": 0,
+        "book": "Deuteronomy",
+        "difficulty": "Hard",
+        "verseReference": "Deuteronomy 20",
+        "verseText": "While elements like offering terms (cf. Hittite practices) or total destruction (cf. Assyrian practices) have parallels, Deuteronomy's specific distinction between near/far cities and the religious rationale for 'herem' against Canaanites give it a unique theological framing within the ANE context."
+    }
+]

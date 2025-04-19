@@ -1,0 +1,875 @@
+[
+    {
+        "text": "What is the first type of offering described in Leviticus?",
+        "options": ["Burnt offering", "Grain offering", "Peace offering", "Sin offering"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Easy",
+        "verseReference": "Leviticus 1:3",
+        "verseText": "If his offering is a burnt offering from the herd, he shall offer a male without blemish. He shall bring it to the entrance of the tent of meeting, that he may be accepted before the LORD. (ESV)"
+    },
+    {
+        "text": "Who was instructed to perform the sacrifices in Leviticus?",
+        "options": ["The priests", "The people", "Moses", "The elders"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Easy",
+        "verseReference": "Leviticus 1:8-9",
+        "verseText": "And Aaron's sons the priests shall arrange the pieces, the head, and the fat, on the wood that is on the fire on the altar; but its entrails and its legs he shall wash with water. (ESV)"
+    },
+    {
+        "text": "What animals were acceptable for a burnt offering?",
+        "options": ["Bulls, sheep, goats, and birds", "Only bulls", "Only sheep", "Any animal"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Easy",
+        "verseReference": "Leviticus 1:3, 10, 14",
+        "verseText": "If his offering is a burnt offering from the herd... If his gift for a burnt offering is from the flock... If his offering to the LORD is a burnt offering of birds... (ESV)"
+    },
+    {
+        "text": "What was required for all grain offerings?",
+        "options": ["Salt", "Oil", "Frankincense", "Honey"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Easy",
+        "verseReference": "Leviticus 2:13",
+        "verseText": "You shall season all your grain offerings with salt. You shall not let the salt of the covenant with your God be missing from your grain offering; with all your offerings you shall offer salt. (ESV)"
+    },
+    {
+        "text": "Which of these animals was considered unclean according to Leviticus?",
+        "options": ["Pig", "Sheep", "Ox", "Goat"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Easy",
+        "verseReference": "Leviticus 11:7",
+        "verseText": "And the pig, because it parts the hoof and is cloven-footed but does not chew the cud, is unclean to you. (ESV)"
+    },
+    {
+        "text": "What was the Day of Atonement also known as?",
+        "options": ["Yom Kippur", "Passover", "Purim", "Rosh Hashanah"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Easy",
+        "verseReference": "Leviticus 23:27-28",
+        "verseText": "Now on the tenth day of this seventh month is the Day of Atonement. It shall be for you a time of holy convocation, and you shall afflict yourselves and present a food offering to the LORD. (ESV)"
+    },
+    {
+        "text": "What did Aaron's sons Nadab and Abihu do wrong?",
+        "options": ["Offered unauthorized fire", "Stole from the offering", "Blasphemed", "Worshipped idols"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Easy",
+        "verseReference": "Leviticus 10:1",
+        "verseText": "Now Nadab and Abihu, the sons of Aaron, each took his censer and put fire in it and laid incense on it and offered unauthorized fire before the LORD, which he had not commanded them. (ESV)"
+    },
+    {
+        "text": "What happened to Aaron's sons when they offered unauthorized fire?",
+        "options": ["They died", "They were exiled", "They became lepers", "They were forgiven"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Easy",
+        "verseReference": "Leviticus 10:2",
+        "verseText": "And fire came out from before the LORD and consumed them, and they died before the LORD. (ESV)"
+    },
+    {
+        "text": "What was the name of the festival where Israelites lived in temporary shelters?",
+        "options": ["Feast of Booths", "Passover", "Feast of Weeks", "Day of Atonement"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Easy",
+        "verseReference": "Leviticus 23:42-43",
+        "verseText": "You shall dwell in booths for seven days. All native Israelites shall dwell in booths, that your generations may know that I made the people of Israel dwell in booths when I brought them out of the land of Egypt: I am the LORD your God. (ESV)"
+    },
+    {
+        "text": "According to Leviticus, what happened every 50th year?",
+        "options": ["Year of Jubilee", "Day of Atonement", "Feast of Booths", "Passover"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Easy",
+        "verseReference": "Leviticus 25:10",
+        "verseText": "And you shall consecrate the fiftieth year, and proclaim liberty throughout the land to all its inhabitants. It shall be a jubilee for you, when each of you shall return to his property and each of you shall return to his clan. (ESV)"
+    },
+    {
+        "text": "What was to be done with a person diagnosed with leprosy?",
+        "options": ["Live outside the camp", "Sacrificed", "Healed by the priest", "Nothing"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Easy",
+        "verseReference": "Leviticus 13:46",
+        "verseText": "He shall remain unclean as long as he has the disease. He is unclean. He shall live alone. His dwelling shall be outside the camp. (ESV)"
+    },
+    {
+        "text": "What kind of bird was used in the cleansing ritual for leprosy?",
+        "options": ["Clean birds", "Eagles", "Pigeons", "Quails"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Easy",
+        "verseReference": "Leviticus 14:4",
+        "verseText": "The priest shall command them to take for him who is to be cleansed two live clean birds and cedarwood and scarlet yarn and hyssop. (ESV)"
+    },
+    {
+        "text": "What happened when the scapegoat was released on the Day of Atonement?",
+        "options": ["It carried away the sins", "It was sacrificed", "It was given to the poor", "It was kept as a pet"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Easy",
+        "verseReference": "Leviticus 16:22",
+        "verseText": "The goat shall bear all their iniquities on itself to a remote area, and he shall let the goat go free in the wilderness. (ESV)"
+    },
+    {
+        "text": "What did God tell the Israelites not to do with the fat of animals?",
+        "options": ["Eat it", "Burn it", "Bury it", "Sell it"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Easy",
+        "verseReference": "Leviticus 3:17",
+        "verseText": "It shall be a statute forever throughout your generations, in all your dwelling places, that you eat neither fat nor blood. (ESV)"
+    },
+    {
+        "text": "What was forbidden to be eaten along with fat?",
+        "options": ["Blood", "Salt", "Leaven", "Honey"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Easy",
+        "verseReference": "Leviticus 3:17",
+        "verseText": "It shall be a statute forever throughout your generations, in all your dwelling places, that you eat neither fat nor blood. (ESV)"
+    },
+    {
+        "text": "What was the penalty for blasphemy in Leviticus?",
+        "options": ["Death", "Exile", "Fine", "Whipping"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Easy",
+        "verseReference": "Leviticus 24:16",
+        "verseText": "Whoever blasphemes the name of the LORD shall surely be put to death. All the congregation shall stone him. The sojourner as well as the native, when he blasphemes the Name, shall be put to death. (ESV)"
+    },
+    {
+        "text": "What was the penalty for murder in Leviticus?",
+        "options": ["Death", "Exile", "Imprisonment", "Fine"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Easy",
+        "verseReference": "Leviticus 24:17",
+        "verseText": "Whoever takes a human life shall surely be put to death. (ESV)"
+    },
+    {
+        "text": "How often was the Sabbath to be observed?",
+        "options": ["Every seventh day", "Every month", "Every year", "Every 50th year"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Easy",
+        "verseReference": "Leviticus 23:3",
+        "verseText": "Six days shall work be done, but on the seventh day is a Sabbath of solemn rest, a holy convocation. You shall do no work. It is a Sabbath to the LORD in all your dwelling places. (ESV)"
+    },
+    {
+        "text": "What did God command the Israelites to do with their fields every seventh year?",
+        "options": ["Let them rest", "Plant double crops", "Give the produce to the priests", "Sell the land"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Easy",
+        "verseReference": "Leviticus 25:4",
+        "verseText": "But in the seventh year there shall be a Sabbath of solemn rest for the land, a Sabbath to the LORD. You shall not sow your field or prune your vineyard. (ESV)"
+    },
+    {
+        "text": "Who was the brother of Moses mentioned throughout Leviticus?",
+        "options": ["Aaron", "Nadab", "Abihu", "Eleazar"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Easy",
+        "verseReference": "Leviticus 8:2",
+        "verseText": "Take Aaron and his sons with him, and the garments and the anointing oil and the bull of the sin offering and the two rams and the basket of unleavened bread. (ESV)"
+    },
+    {
+        "text": "What was to be done with the blood in most sacrifices?",
+        "options": ["Sprinkled on the altar", "Poured on the ground", "Consumed", "Mixed with water"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Easy",
+        "verseReference": "Leviticus 1:5",
+        "verseText": "Then he shall kill the bull before the LORD, and Aaron's sons the priests shall bring the blood and throw the blood against the sides of the altar that is at the entrance of the tent of meeting. (ESV)"
+    },
+    {
+        "text": "During which festival were the Israelites instructed to take a lamb without blemish?",
+        "options": ["Passover", "Feast of Weeks", "Day of Atonement", "Feast of Trumpets"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Easy",
+        "verseReference": "Leviticus 23:12",
+        "verseText": "And on the day when you wave the sheaf, you shall offer a male lamb a year old without blemish as a burnt offering to the LORD. (ESV)"
+    },
+    {
+        "text": "In Leviticus, what would make a person unclean until evening?",
+        "options": ["Touching a dead animal", "Eating meat", "Bathing", "Praying"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Easy",
+        "verseReference": "Leviticus 11:24",
+        "verseText": "And by these you shall become unclean. Whoever touches their carcass shall be unclean until the evening. (ESV)"
+    },
+    {
+        "text": "What was the punishment for those who practiced child sacrifice to Molech?",
+        "options": ["Death", "Exile", "Imprisonment", "Fines"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Easy",
+        "verseReference": "Leviticus 20:2",
+        "verseText": "Any one of the people of Israel or of the strangers who sojourn in Israel who gives any of his children to Molech shall surely be put to death. The people of the land shall stone him with stones. (ESV)"
+    },
+    {
+        "text": "What kind of animal was used for the sin offering of common people?",
+        "options": ["Female goat", "Bull", "Ram", "Dove"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Easy",
+        "verseReference": "Leviticus 4:28",
+        "verseText": "Or if his sin which he has committed is made known to him, then he shall bring for his offering a goat, a female without blemish, for his sin which he has committed. (ESV)"
+    },
+    {
+        "text": "What festival occurred on the first day of the seventh month?",
+        "options": ["Feast of Trumpets", "Passover", "Day of Atonement", "Feast of Booths"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Easy",
+        "verseReference": "Leviticus 23:24",
+        "verseText": "Speak to the people of Israel, saying, In the seventh month, on the first day of the month, you shall observe a day of solemn rest, a memorial proclaimed with blast of trumpets, a holy convocation. (ESV)"
+    },
+    {
+        "text": "Which son of Aaron became high priest after him?",
+        "options": ["Eleazar", "Nadab", "Abihu", "Ithamar"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Easy",
+        "verseReference": "Leviticus 8:12",
+        "verseText": "And he poured some of the anointing oil on Aaron's head and anointed him to consecrate him. (ESV)"
+    },
+    {
+        "text": "What did the priests wear on their heads?",
+        "options": ["Turbans", "Crowns", "Hats", "Veils"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Easy",
+        "verseReference": "Leviticus 8:13",
+        "verseText": "And Moses brought Aaron's sons and clothed them with coats and tied sashes around their waists and bound caps on them, as the LORD commanded Moses. (ESV)"
+    },
+    {
+        "text": "What was the minimum number of days a woman was considered unclean after giving birth to a son?",
+        "options": ["7 days", "14 days", "30 days", "40 days"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Medium",
+        "verseReference": "Leviticus 12:2",
+        "verseText": "Speak to the people of Israel, saying, If a woman conceives and bears a male child, then she shall be unclean seven days. As at the time of her menstruation, she shall be unclean. (ESV)"
+    },
+    {
+        "text": "How many days of purification were required after a woman gave birth to a son?",
+        "options": ["33 days", "14 days", "40 days", "80 days"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Medium",
+        "verseReference": "Leviticus 12:4",
+        "verseText": "Then she shall continue for thirty-three days in the blood of her purifying. She shall not touch anything holy, nor come into the sanctuary, until the days of her purifying are completed. (ESV)"
+    },
+    {
+        "text": "How many days of purification were required after a woman gave birth to a daughter?",
+        "options": ["66 days", "33 days", "80 days", "40 days"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Medium",
+        "verseReference": "Leviticus 12:5",
+        "verseText": "But if she bears a female child, then she shall be unclean two weeks, as in her menstruation. And she shall continue in the blood of her purifying for sixty-six days. (ESV)"
+    },
+    {
+        "text": "What did the priest put on his thumb, big toe, and ear during his consecration?",
+        "options": ["Blood", "Oil", "Water", "Wine"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Medium",
+        "verseReference": "Leviticus 8:23",
+        "verseText": "And he killed it, and Moses took some of its blood and put it on the lobe of Aaron's right ear and on the thumb of his right hand and on the big toe of his right foot. (ESV)"
+    },
+    {
+        "text": "Which part of an animal was not to be eaten according to Leviticus?",
+        "options": ["The fat", "The meat", "The skin", "The bones"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Medium",
+        "verseReference": "Leviticus 3:17",
+        "verseText": "It shall be a statute forever throughout your generations, in all your dwelling places, that you eat neither fat nor blood. (ESV)"
+    },
+    {
+        "text": "How many days did the consecration of Aaron and his sons last?",
+        "options": ["7 days", "3 days", "10 days", "40 days"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Medium",
+        "verseReference": "Leviticus 8:33",
+        "verseText": "And you shall not go outside the entrance of the tent of meeting for seven days, until the days of your ordination are completed, for it will take seven days to ordain you. (ESV)"
+    },
+    {
+        "text": "What happened on the eighth day after Aaron's consecration?",
+        "options": ["The glory of the LORD appeared", "The tabernacle was dedicated", "Moses died", "The people rebelled"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Medium",
+        "verseReference": "Leviticus 9:23",
+        "verseText": "And Moses and Aaron went into the tent of meeting, and when they came out they blessed the people, and the glory of the LORD appeared to all the people. (ESV)"
+    },
+    {
+        "text": "Which festival required the Israelites to live in booths for seven days?",
+        "options": ["Feast of Booths", "Passover", "Day of Atonement", "Feast of Weeks"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Medium",
+        "verseReference": "Leviticus 23:42",
+        "verseText": "You shall dwell in booths for seven days. All native Israelites shall dwell in booths. (ESV)"
+    },
+    {
+        "text": "What two animals were chosen on the Day of Atonement?",
+        "options": ["Two goats", "Two lambs", "Two bulls", "Two rams"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Medium",
+        "verseReference": "Leviticus 16:7-8",
+        "verseText": "Then he shall take the two goats and set them before the LORD at the entrance of the tent of meeting. And Aaron shall cast lots over the two goats, one lot for the LORD and the other lot for Azazel. (ESV)"
+    },
+    {
+        "text": "Where did Aaron go to make atonement on the Day of Atonement?",
+        "options": ["The Most Holy Place", "The altar", "The courtyard", "Mount Sinai"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Medium",
+        "verseReference": "Leviticus 16:15-16",
+        "verseText": "Then he shall kill the goat of the sin offering that is for the people and bring its blood inside the veil and do with its blood as he did with the blood of the bull, sprinkling it over the mercy seat and in front of the mercy seat. (ESV)"
+    },
+    {
+        "text": "What mental state was required while offering a sacrifice?",
+        "options": ["Voluntary willingness", "Sorrow", "Joy", "Indifference"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Medium",
+        "verseReference": "Leviticus 1:3",
+        "verseText": "If his offering is a burnt offering from the herd, he shall offer a male without blemish. He shall bring it to the entrance of the tent of meeting, that he may be accepted before the LORD. (ESV)"
+    },
+    {
+        "text": "What condition was required of animals used for sacrifice?",
+        "options": ["Without blemish", "Fat", "Young", "Old"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Medium",
+        "verseReference": "Leviticus 1:3",
+        "verseText": "If his offering is a burnt offering from the herd, he shall offer a male without blemish. He shall bring it to the entrance of the tent of meeting, that he may be accepted before the LORD. (ESV)"
+    },
+    {
+        "text": "What was prohibited in grain offerings?",
+        "options": ["Leaven and honey", "Salt and oil", "Frankincense and wine", "Wheat and barley"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Medium",
+        "verseReference": "Leviticus 2:11",
+        "verseText": "No grain offering that you bring to the LORD shall be made with leaven, for you shall burn no leaven nor any honey as a food offering to the LORD. (ESV)"
+    },
+    {
+        "text": "What was the purpose of the sin offering?",
+        "options": ["Atonement for unintentional sins", "Thanksgiving", "Fellowship", "Dedication"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Medium",
+        "verseReference": "Leviticus 4:2-3",
+        "verseText": "Speak to the people of Israel, saying, If anyone sins unintentionally in any of the LORD's commandments about things not to be done, and does any one of them... (ESV)"
+    },
+    {
+        "text": "What sin offering was required for a priest who sinned?",
+        "options": ["A bull", "A lamb", "A goat", "A dove"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Medium",
+        "verseReference": "Leviticus 4:3",
+        "verseText": "If it is the anointed priest who sins, thus bringing guilt on the people, then he shall offer for the sin that he has committed a bull from the herd without blemish to the LORD for a sin offering. (ESV)"
+    },
+    {
+        "text": "What was the guilt offering used for?",
+        "options": ["Restitution for harm", "Unintentional sin", "Thanksgiving", "Ritual purity"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Medium",
+        "verseReference": "Leviticus 5:15-16",
+        "verseText": "If anyone commits a breach of faith and sins unintentionally in any of the holy things of the LORD, he shall bring to the LORD as his compensation, a ram without blemish out of the flock, valued in silver shekels, according to the shekel of the sanctuary, for a guilt offering. (ESV)"
+    },
+    {
+        "text": "How many days did the Feast of Unleavened Bread last?",
+        "options": ["7 days", "1 day", "10 days", "14 days"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Medium",
+        "verseReference": "Leviticus 23:6",
+        "verseText": "And on the fifteenth day of the same month is the Feast of Unleavened Bread to the LORD; for seven days you shall eat unleavened bread. (ESV)"
+    },
+    {
+        "text": "What did the Israelites celebrate with the Feast of Firstfruits?",
+        "options": ["Beginning of harvest", "End of winter", "Freedom from Egypt", "Building the tabernacle"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Medium",
+        "verseReference": "Leviticus 23:10",
+        "verseText": "Speak to the people of Israel and say to them, When you come into the land that I give you and reap its harvest, you shall bring the sheaf of the firstfruits of your harvest to the priest. (ESV)"
+    },
+    {
+        "text": "What was done to the scapegoat on the Day of Atonement?",
+        "options": ["Released into the wilderness", "Sacrificed", "Given to the poor", "Kept by the priest"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Medium",
+        "verseReference": "Leviticus 16:21-22",
+        "verseText": "And Aaron shall lay both his hands on the head of the live goat, and confess over it all the iniquities of the people of Israel... The goat shall bear all their iniquities on itself to a remote area, and he shall let the goat go free in the wilderness. (ESV)"
+    },
+    {
+        "text": "What happened to a person's property in the Year of Jubilee?",
+        "options": ["Returned to original owner", "Given to the poor", "Given to the priests", "Destroyed"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Medium",
+        "verseReference": "Leviticus 25:28",
+        "verseText": "But if he does not have sufficient means to recover it, then what he sold shall remain in the hand of the buyer until the year of jubilee. In the jubilee it shall be released, and he shall return to his property. (ESV)"
+    },
+    {
+        "text": "What happened to Hebrew slaves in the Year of Jubilee?",
+        "options": ["Set free", "Given more work", "Sold to foreigners", "Nothing"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Medium",
+        "verseReference": "Leviticus 25:40-41",
+        "verseText": "He shall be with you as a hired worker and as a sojourner. He shall serve with you until the year of the jubilee. Then he shall go out from you, he and his children with him, and go back to his own clan and return to the possession of his fathers. (ESV)"
+    },
+    {
+        "text": "What happened to the fire on the altar?",
+        "options": ["It was kept burning continuously", "It was extinguished daily", "It was lit only for sacrifices", "It was moved to different locations"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Medium",
+        "verseReference": "Leviticus 6:13",
+        "verseText": "Fire shall be kept burning on the altar continually; it shall not go out. (ESV)"
+    },
+    {
+        "text": "Who was supposed to eat the bread of the Presence?",
+        "options": ["The priests", "Everyone", "Only the high priest", "The Levites"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Medium",
+        "verseReference": "Leviticus 24:9",
+        "verseText": "And it shall be for Aaron and his sons, and they shall eat it in a holy place, since it is for him a most holy portion out of the LORD's food offerings, a perpetual due. (ESV)"
+    },
+    {
+        "text": "How often was the bread of the Presence to be set out?",
+        "options": ["Every Sabbath", "Daily", "Monthly", "Yearly"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Medium",
+        "verseReference": "Leviticus 24:8",
+        "verseText": "Every Sabbath day Aaron shall arrange it before the LORD regularly; it is from the people of Israel as a covenant forever. (ESV)"
+    },
+    {
+        "text": "What water creatures were considered clean to eat?",
+        "options": ["Those with fins and scales", "All fish", "Only freshwater fish", "Only saltwater fish"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Medium",
+        "verseReference": "Leviticus 11:9",
+        "verseText": "These you may eat, of all that are in the waters. Everything in the waters that has fins and scales, whether in the seas or in the rivers, you may eat. (ESV)"
+    },
+    {
+        "text": "What birds were specifically mentioned as unclean?",
+        "options": ["Eagles, vultures, and ravens", "Chickens, geese, and ducks", "Doves and pigeons", "Quails and sparrows"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Medium",
+        "verseReference": "Leviticus 11:13-14",
+        "verseText": "And these you shall detest among the birds; they shall not be eaten; they are detestable: the eagle, the bearded vulture, the black vulture, the kite, the falcon of any kind... (ESV)"
+    },
+    {
+        "text": "What would happen to a person who ate blood?",
+        "options": ["Cut off from the people", "Fined", "Imprisoned", "Nothing"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Medium",
+        "verseReference": "Leviticus 17:10",
+        "verseText": "If any one of the house of Israel or of the strangers who sojourn among them eats any blood, I will set my face against that person who eats blood and will cut him off from among his people. (ESV)"
+    },
+    {
+        "text": "Why was blood forbidden to be eaten?",
+        "options": ["The life is in the blood", "It tasted bad", "It was unhealthy", "It was reserved for priests"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Medium",
+        "verseReference": "Leviticus 17:11",
+        "verseText": "For the life of the flesh is in the blood, and I have given it for you on the altar to make atonement for your souls, for it is the blood that makes atonement by the life. (ESV)"
+    },
+    {
+        "text": "Which of the following was forbidden in Leviticus?",
+        "options": ["Tattoos", "Beards", "Long hair", "Sandals"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Medium",
+        "verseReference": "Leviticus 19:28",
+        "verseText": "You shall not make any cuts on your body for the dead or tattoo yourselves: I am the LORD. (ESV)"
+    },
+    {
+        "text": "What did Leviticus say about the corners of fields during harvest?",
+        "options": ["Leave them for the poor", "Harvest them last", "Burn them", "Plant different crops"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Medium",
+        "verseReference": "Leviticus 19:9-10",
+        "verseText": "When you reap the harvest of your land, you shall not reap your field right up to its edge, neither shall you gather the gleanings after your harvest. And you shall not strip your vineyard bare, neither shall you gather the fallen grapes of your vineyard. You shall leave them for the poor and for the sojourner: I am the LORD your God. (ESV)"
+    },
+    {
+        "text": "What did Leviticus instruct about treating the deaf and blind?",
+        "options": ["Not to curse or put stumbling blocks", "To avoid them", "To care for them at home", "To give them money"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Medium",
+        "verseReference": "Leviticus 19:14",
+        "verseText": "You shall not curse the deaf or put a stumbling block before the blind, but you shall fear your God: I am the LORD. (ESV)"
+    },
+    {
+        "text": "What did Leviticus say about just weights and measures?",
+        "options": ["They must be accurate", "They should favor the seller", "They should favor the buyer", "They don't matter"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Medium",
+        "verseReference": "Leviticus 19:35-36",
+        "verseText": "You shall do no wrong in judgment, in measures of length or weight or quantity. You shall have just balances, just weights, a just ephah, and a just hin: I am the LORD your God, who brought you out of the land of Egypt. (ESV)"
+    },
+    {
+        "text": "How did Leviticus instruct people to treat foreigners living among them?",
+        "options": ["As native-born", "As servants", "As enemies", "As temporary guests"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Medium",
+        "verseReference": "Leviticus 19:34",
+        "verseText": "You shall treat the stranger who sojourns with you as the native among you, and you shall love him as yourself, for you were strangers in the land of Egypt: I am the LORD your God. (ESV)"
+    },
+    {
+        "text": "What did Leviticus instruct about paying workers?",
+        "options": ["Pay them promptly", "Pay them monthly", "Pay them yearly", "Pay them in goods"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Medium",
+        "verseReference": "Leviticus 19:13",
+        "verseText": "You shall not oppress your neighbor or rob him. The wages of a hired worker shall not remain with you all night until the morning. (ESV)"
+    },
+    {
+        "text": "What principle was behind the law of retaliation (lex talionis)?",
+        "options": ["Equal punishment for injury", "Double punishment", "Mercy", "Payment"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Medium",
+        "verseReference": "Leviticus 24:20",
+        "verseText": "Fracture for fracture, eye for eye, tooth for tooth; whatever injury he has given a person shall be given to him. (ESV)"
+    },
+    {
+        "text": "What was required for the cleansing ritual of a healed leper?",
+        "options": ["Two live clean birds", "A bull", "A goat", "A grain offering"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Medium",
+        "verseReference": "Leviticus 14:4",
+        "verseText": "The priest shall command them to take for him who is to be cleansed two live clean birds and cedarwood and scarlet yarn and hyssop. (ESV)"
+    },
+    {
+        "text": "What did the high priest have to wear on the Day of Atonement?",
+        "options": ["Holy linen garments", "Regular priestly garments", "Royal garments", "No garments"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Medium",
+        "verseReference": "Leviticus 16:4",
+        "verseText": "He shall put on the holy linen coat and shall have the linen undergarment on his body, and he shall tie the linen sash around his waist, and wear the linen turban; these are the holy garments. He shall bathe his body in water and then put them on. (ESV)"
+    },
+    {
+        "text": "What was the purpose of the rest required on the Sabbath?",
+        "options": ["To honor the LORD", "To rest physically", "To spend time with family", "To study the Torah"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Medium",
+        "verseReference": "Leviticus 23:3",
+        "verseText": "Six days shall work be done, but on the seventh day is a Sabbath of solemn rest, a holy convocation. You shall do no work. It is a Sabbath to the LORD in all your dwelling places. (ESV)"
+    },
+    {
+        "text": "Who was Aaron's wife?",
+        "options": ["Elisheba", "Miriam", "Zipporah", "Not mentioned"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Hard",
+        "verseReference": "Exodus 6:23",
+        "verseText": "Aaron took as his wife Elisheba, the daughter of Amminadab and the sister of Nahshon, and she bore him Nadab, Abihu, Eleazar, and Ithamar. (ESV)"
+    },
+    {
+        "text": "What were the names of Aaron's four sons?",
+        "options": ["Nadab, Abihu, Eleazar, and Ithamar", "Gershom, Kohath, Merari, and Eleazar", "Hophni, Phinehas, Eleazar, and Ithamar", "Aaron had only two sons"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Hard",
+        "verseReference": "Leviticus 10:1, 6",
+        "verseText": "Now Nadab and Abihu, the sons of Aaron... And Moses said to Aaron and to Eleazar and Ithamar his sons... (ESV)"
+    },
+    {
+        "text": "What was the name of the place outside the camp where unclean things were taken?",
+        "options": ["A clean place", "An unclean place", "The wilderness", "The pit"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Hard",
+        "verseReference": "Leviticus 4:12",
+        "verseText": "All the rest of the bull—he shall carry outside the camp to a clean place, to the ash heap, and shall burn it up on a fire of wood. On the ash heap it shall be burned up. (ESV)"
+    },
+    {
+        "text": "What was the wave offering?",
+        "options": ["Portions waved before the LORD", "Offerings thrown into water", "Offerings burned completely", "Offerings divided among people"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Hard",
+        "verseReference": "Leviticus 7:30",
+        "verseText": "His own hands shall bring the LORD's food offerings. He shall bring the fat with the breast, that the breast may be waved as a wave offering before the LORD. (ESV)"
+    },
+    {
+        "text": "What was the heave offering?",
+        "options": ["Portions lifted up to the LORD", "Offerings thrown away", "Offerings buried", "Offerings for the poor"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Hard",
+        "verseReference": "Leviticus 7:32",
+        "verseText": "And the right thigh you shall give to the priest as a contribution from the sacrifice of your peace offerings. (ESV)"
+    },
+    {
+        "text": "What happened to the fat portions in most sacrifices?",
+        "options": ["Burned on the altar", "Given to the poor", "Eaten by the priests", "Buried"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Hard",
+        "verseReference": "Leviticus 3:3-5",
+        "verseText": "And from the sacrifice of the peace offering, as a food offering to the LORD, he shall offer the fat covering the entrails and all the fat that is on the entrails... and Aaron's sons shall burn it on the altar on top of the burnt offering. (ESV)"
+    },
+    {
+        "text": "Which part of the peace offering was given to the officiating priest?",
+        "options": ["The right thigh", "The left thigh", "The head", "The entrails"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Hard",
+        "verseReference": "Leviticus 7:32-33",
+        "verseText": "And the right thigh you shall give to the priest as a contribution from the sacrifice of your peace offerings. Whoever among the sons of Aaron offers the blood of the peace offerings and the fat shall have the right thigh for a portion. (ESV)"
+    },
+    {
+        "text": "What was to be done with the remainder of a grain offering?",
+        "options": ["Eaten by Aaron and his sons", "Burned", "Given to the poor", "Stored for future use"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Hard",
+        "verseReference": "Leviticus 2:10",
+        "verseText": "But the rest of the grain offering shall be for Aaron and his sons; it is a most holy part of the LORD's food offerings. (ESV)"
+    },
+    {
+        "text": "What was the sin offering for a leader?",
+        "options": ["A male goat", "A bull", "A lamb", "A ram"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Hard",
+        "verseReference": "Leviticus 4:22-23",
+        "verseText": "When a leader sins... he shall bring as his offering a goat, a male without blemish. (ESV)"
+    },
+    {
+        "text": "What was the guilt offering for someone who could not afford a lamb?",
+        "options": ["Two turtledoves or pigeons", "A grain offering", "A goat", "Money"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Hard",
+        "verseReference": "Leviticus 5:7",
+        "verseText": "But if he cannot afford a lamb, then he shall bring to the LORD as his compensation for the sin that he has committed two turtledoves or two pigeons, one for a sin offering and the other for a burnt offering. (ESV)"
+    },
+    {
+        "text": "What was the ephod mentioned in Leviticus?",
+        "options": ["A priestly garment", "A type of sacrifice", "A ceremonial vessel", "A sacred location"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Hard",
+        "verseReference": "Leviticus 8:7",
+        "verseText": "And he put the coat on him and tied the sash around his waist and clothed him with the robe and put the ephod on him and tied the skillfully woven band of the ephod around him, binding it to him with the band. (ESV)"
+    },
+    {
+        "text": "What stones were on the breastpiece worn by the high priest?",
+        "options": ["Twelve stones representing the tribes", "One large diamond", "Seven gemstones", "Three rubies"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Hard",
+        "verseReference": "Exodus 28:17-21",
+        "verseText": "And you shall set in it four rows of stones... They shall be set in gold filigree. The stones shall correspond to the names of the sons of Israel, twelve, according to their names. (ESV)"
+    },
+    {
+        "text": "How did God respond when Aaron's sons offered strange fire?",
+        "options": ["Fire came out and consumed them", "They were exiled", "They were forgiven", "Nothing happened"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Hard",
+        "verseReference": "Leviticus 10:2",
+        "verseText": "And fire came out from before the LORD and consumed them, and they died before the LORD. (ESV)"
+    },
+    {
+        "text": "What was Moses' reaction to Aaron's sons' deaths?",
+        "options": ["He told Aaron not to mourn", "He cried", "He questioned God", "He fled"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Hard",
+        "verseReference": "Leviticus 10:6",
+        "verseText": "And Moses said to Aaron and to Eleazar and Ithamar his sons, 'Do not let the hair of your heads hang loose, and do not tear your clothes, lest you die, and wrath come upon all the congregation.' (ESV)"
+    },
+    {
+        "text": "What were priests forbidden to drink when entering the Tent of Meeting?",
+        "options": ["Wine and strong drink", "Water", "Milk", "Blood"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Hard",
+        "verseReference": "Leviticus 10:9",
+        "verseText": "Drink no wine or strong drink, you or your sons with you, when you go into the tent of meeting, lest you die. It shall be a statute forever throughout your generations. (ESV)"
+    },
+    {
+        "text": "What did Moses do with the goat of the sin offering when Aaron's sons died?",
+        "options": ["Found it was burned up", "Ate it", "Saved it for later", "Gave it to the people"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Hard",
+        "verseReference": "Leviticus 10:16",
+        "verseText": "Now Moses diligently inquired about the goat of the sin offering, and behold, it was burned up! (ESV)"
+    },
+    {
+        "text": "What did Moses say to Aaron when he found out the sin offering was burned?",
+        "options": ["He was angry", "He blessed him", "He reported him to God", "He removed him from priesthood"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Hard",
+        "verseReference": "Leviticus 10:16",
+        "verseText": "And he was angry with Eleazar and Ithamar, the surviving sons of Aaron, saying... (ESV)"
+    },
+    {
+        "text": "What was Aaron's response to Moses about the burned sin offering?",
+        "options": ["It would not be right to eat it after his sons died", "He forgot", "He was too busy", "He didn't know how to prepare it"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Hard",
+        "verseReference": "Leviticus 10:19",
+        "verseText": "And Aaron said to Moses, 'Behold, today they have offered their sin offering and their burnt offering before the LORD, and yet such things as these have happened to me! If I had eaten the sin offering today, would the LORD have approved?' (ESV)"
+    },
+    {
+        "text": "What should be done with a leprous garment according to Leviticus?",
+        "options": ["Burned", "Washed", "Given to the poor", "Buried"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Hard",
+        "verseReference": "Leviticus 13:52",
+        "verseText": "And he shall burn the garment, or the warp or the woof, the wool or the linen, or any article made of skin that is diseased, for it is a persistent leprous disease. It shall be burned in the fire. (ESV)"
+    },
+    {
+        "text": "What was required for the sacrifice of a woman who had given birth?",
+        "options": ["A lamb and a pigeon or turtledove", "Two lambs", "A goat", "A bull"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Hard",
+        "verseReference": "Leviticus 12:6",
+        "verseText": "And when the days of her purifying are completed, whether for a son or for a daughter, she shall bring to the priest at the entrance of the tent of meeting a lamb a year old for a burnt offering, and a pigeon or a turtledove for a sin offering. (ESV)"
+    },
+    {
+        "text": "What was the alternative offering for a poor woman after childbirth?",
+        "options": ["Two turtledoves or pigeons", "A lamb", "A goat", "Grain"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Hard",
+        "verseReference": "Leviticus 12:8",
+        "verseText": "And if she cannot afford a lamb, then she shall take two turtledoves or two pigeons, one for a burnt offering and the other for a sin offering. And the priest shall make atonement for her, and she shall be clean. (ESV)"
+    },
+    {
+        "text": "What would be done with a house suspected of having a leprous disease?",
+        "options": ["Emptied and inspected by a priest", "Burned immediately", "Abandoned", "Nothing"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Hard",
+        "verseReference": "Leviticus 14:36",
+        "verseText": "Then the priest shall command that they empty the house before the priest goes to examine the disease, lest all that is in the house be declared unclean. And afterward the priest shall go in to see the house. (ESV)"
+    },
+    {
+        "text": "What happened to a house confirmed to have persistent leprosy after treatment?",
+        "options": ["Demolished", "Sold", "Given to the poor", "Used as storage"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Hard",
+        "verseReference": "Leviticus 14:45",
+        "verseText": "And he shall break down the house, its stones and timber and all the plaster of the house, and he shall carry them out of the city to an unclean place. (ESV)"
+    },
+    {
+        "text": "What did the high priest do with the incense on the Day of Atonement?",
+        "options": ["Created a cloud over the mercy seat", "Burned it outside", "Offered it in the courtyard", "Mixed it with water"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Hard",
+        "verseReference": "Leviticus 16:13",
+        "verseText": "And put the incense on the fire before the LORD, that the cloud of the incense may cover the mercy seat that is over the testimony, so that he does not die. (ESV)"
+    },
+    {
+        "text": "What did Israel do in the Sabbath year?",
+        "options": ["Let the land rest from sowing", "Fast for a year", "Travel to Jerusalem", "Build new homes"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Hard",
+        "verseReference": "Leviticus 25:4",
+        "verseText": "But in the seventh year there shall be a Sabbath of solemn rest for the land, a Sabbath to the LORD. You shall not sow your field or prune your vineyard. (ESV)"
+    },
+    {
+        "text": "What happened to property sold between Jubilee years?",
+        "options": ["It could be redeemed", "It was permanently transferred", "It belonged to the priests", "It was shared"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Hard",
+        "verseReference": "Leviticus 25:24-25",
+        "verseText": "And in all the country you possess, you shall allow a redemption of the land. If your brother becomes poor and sells part of his property, then his nearest redeemer shall come and redeem what his brother has sold. (ESV)"
+    },
+    {
+        "text": "What was the reapportionment structure for fields dedicated to the LORD by vow and not redeemed?",
+        "options": ["Distributed to the priests", "Returned to the original owner", "Given to the poor", "Given to the king"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Hard",
+        "verseReference": "Leviticus 27:21",
+        "verseText": "But the field, when it is released in the jubilee, shall be a holy gift to the LORD, like a field that has been devoted. The priest shall be in possession of it. (ESV)"
+    },
+    {
+        "text": "What was the relationship between blasphemy and stoning in Leviticus?",
+        "options": ["Blasphemers were stoned", "Blasphemers stoned others", "Stoning prevented blasphemy", "No relationship"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Hard",
+        "verseReference": "Leviticus 24:16, 23",
+        "verseText": "Whoever blasphemes the name of the LORD shall surely be put to death. All the congregation shall stone him... And Moses spoke to the people of Israel, and they brought out of the camp the one who had cursed and stoned him with stones. (ESV)"
+    },
+    {
+        "text": "What type of land could not be permanently sold according to Leviticus?",
+        "options": ["Rural family land", "Urban houses", "Gardens", "Pastures"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Hard",
+        "verseReference": "Leviticus 25:23",
+        "verseText": "The land shall not be sold in perpetuity, for the land is mine. For you are strangers and sojourners with me. (ESV)"
+    },
+    {
+        "text": "What was the relationship between the blood and the altar in sacrifices?",
+        "options": ["Blood was applied to the altar", "Blood was buried near the altar", "Blood was kept away from the altar", "Blood was mixed with the altar ashes"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Hard",
+        "verseReference": "Leviticus 17:11",
+        "verseText": "For the life of the flesh is in the blood, and I have given it for you on the altar to make atonement for your souls, for it is the blood that makes atonement by the life. (ESV)"
+    },
+    {
+        "text": "What offering was brought with firstfruits?",
+        "options": ["Wave offering", "Peace offering", "Sin offering", "Burnt offering"],
+        "correctAnswerIndex": 0,
+        "book": "Leviticus",
+        "difficulty": "Hard",
+        "verseReference": "Leviticus 23:10-11",
+        "verseText": "When you come into the land that I give you and reap its harvest, you shall bring the sheaf of the firstfruits of your harvest to the priest, and he shall wave the sheaf before the LORD, so that you may be accepted. (ESV)"
+    }
+]
