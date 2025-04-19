@@ -31,6 +31,8 @@
 		AED148172DB2E1D9008FE102 /* leviticus.json in Resources */ = {isa = PBXBuildFile; fileRef = AED148162DB2E1D9008FE102 /* leviticus.json */; };
 		AED148192DB35035008FE102 /* numbers.json in Resources */ = {isa = PBXBuildFile; fileRef = AED148182DB35035008FE102 /* numbers.json */; };
 		AED1481B2DB35436008FE102 /* deuteronomy.json in Resources */ = {isa = PBXBuildFile; fileRef = AED1481A2DB35436008FE102 /* deuteronomy.json */; };
+		AED1481E2DB3CB95008FE102 /* joshua.json in Resources */ = {isa = PBXBuildFile; fileRef = AED1481C2DB3CB95008FE102 /* joshua.json */; };
+		AED1481F2DB3CB95008FE102 /* judges.json in Resources */ = {isa = PBXBuildFile; fileRef = AED1481D2DB3CB95008FE102 /* judges.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -80,6 +82,8 @@
 		AED148162DB2E1D9008FE102 /* leviticus.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = leviticus.json; path = REA/Data/leviticus.json; sourceTree = SOURCE_ROOT; };
 		AED148182DB35035008FE102 /* numbers.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = numbers.json; path = REA/Data/numbers.json; sourceTree = SOURCE_ROOT; };
 		AED1481A2DB35436008FE102 /* deuteronomy.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = deuteronomy.json; path = REA/Data/deuteronomy.json; sourceTree = SOURCE_ROOT; };
+		AED1481C2DB3CB95008FE102 /* joshua.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = joshua.json; path = REA/Data/joshua.json; sourceTree = SOURCE_ROOT; };
+		AED1481D2DB3CB95008FE102 /* judges.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = judges.json; path = REA/Data/judges.json; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -204,6 +208,8 @@
 		AEA276242DAF3BF8007618C1 /* BookData */ = {
 			isa = PBXGroup;
 			children = (
+				AED1481C2DB3CB95008FE102 /* joshua.json */,
+				AED1481D2DB3CB95008FE102 /* judges.json */,
 				AED1481A2DB35436008FE102 /* deuteronomy.json */,
 				AED148182DB35035008FE102 /* numbers.json */,
 				AED148162DB2E1D9008FE102 /* leviticus.json */,
@@ -323,7 +329,9 @@
 				AED148172DB2E1D9008FE102 /* leviticus.json in Resources */,
 				AED1481B2DB35436008FE102 /* deuteronomy.json in Resources */,
 				AE3DB3B32DA192BF0032901D /* Assets.xcassets in Resources */,
+				AED1481F2DB3CB95008FE102 /* judges.json in Resources */,
 				AED148152DB2DAEE008FE102 /* genesis.json in Resources */,
+				AED1481E2DB3CB95008FE102 /* joshua.json in Resources */,
 				AEA276282DAF3C1F007618C1 /* exodus.json in Resources */,
 				AED148192DB35035008FE102 /* numbers.json in Resources */,
 			);

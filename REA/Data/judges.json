@@ -1,0 +1,893 @@
+[
+    {
+        "text": "What is the general theme of the book of Judges?",
+        "options": ["Israel's cycle of sin, oppression, repentance, and deliverance", "The building of the Temple", "The Exodus from Egypt", "The division of the kingdom"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Easy",
+        "verseReference": "Judges 2:18-19",
+        "verseText": "Whenever the LORD raised up judges for them, the LORD was with the judge, and he saved them from the hand of their enemies all the days of the judge. For the LORD was moved to pity by their groaning because of those who afflicted and oppressed them. But whenever the judge died, they turned back and were more corrupt than their fathers, going after other gods, serving them and bowing down to them. They did not drop any of their practices or their stubborn ways. (ESV)"
+    },
+    {
+        "text": "Who was the first judge mentioned after Joshua's death?",
+        "options": ["Othniel", "Ehud", "Shamgar", "Deborah"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Easy",
+        "verseReference": "Judges 3:9-10",
+        "verseText": "But when the people of Israel cried out to the LORD, the LORD raised up a deliverer for the people of Israel, who saved them, Othniel the son of Kenaz, Caleb's younger brother. The Spirit of the LORD was upon him, and he judged Israel. (ESV)"
+    },
+    {
+        "text": "Which judge was left-handed?",
+        "options": ["Ehud", "Gideon", "Samson", "Jephthah"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Easy",
+        "verseReference": "Judges 3:15",
+        "verseText": "Then the people of Israel cried out to the LORD, and the LORD raised up for them a deliverer, Ehud, the son of Gera, the Benjaminite, a left-handed man. (ESV)"
+    },
+    {
+        "text": "What weapon did Ehud use to kill King Eglon?",
+        "options": ["A double-edged sword", "A spear", "A sling", "An ox goad"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Easy",
+        "verseReference": "Judges 3:16",
+        "verseText": "And Ehud made for himself a sword with two edges, a cubit in length, and he bound it on his right thigh under his clothes. (ESV)"
+    },
+    {
+        "text": "Who was the only female judge mentioned?",
+        "options": ["Deborah", "Jael", "Delilah", "Ruth"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Easy",
+        "verseReference": "Judges 4:4",
+        "verseText": "Now Deborah, a prophetess, the wife of Lappidoth, was judging Israel at that time. (ESV)"
+    },
+    {
+        "text": "Who was the commander of the Canaanite army defeated by Deborah and Barak?",
+        "options": ["Sisera", "Jabin", "Eglon", "Abimelech"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Easy",
+        "verseReference": "Judges 4:7",
+        "verseText": "And I will draw out Sisera, the general of Jabin's army, to meet you by the river Kishon with his chariots and his troops, and I will give him into your hand? (ESV)"
+    },
+    {
+        "text": "Who killed Sisera, the Canaanite commander?",
+        "options": ["Jael", "Deborah", "Barak", "Ehud"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Easy",
+        "verseReference": "Judges 4:21",
+        "verseText": "But Jael the wife of Heber took a tent peg, and took a hammer in her hand. Then she went softly to him and drove the peg into his temple until it went down into the ground while he was lying fast asleep from weariness. So he died. (ESV)"
+    },
+    {
+        "text": "Which judge asked God for a sign using a fleece?",
+        "options": ["Gideon", "Samson", "Jephthah", "Othniel"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Easy",
+        "verseReference": "Judges 6:37",
+        "verseText": "behold, I am laying a fleece of wool on the threshing floor. If there is dew on the fleece alone, and it is dry on all the ground, then I shall know that you will save Israel by my hand, as you have said. (ESV)"
+    },
+    {
+        "text": "How many men did Gideon initially gather to fight the Midianites?",
+        "options": ["32,000", "300", "10,000", "1,000"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Easy",
+        "verseReference": "Judges 7:3",
+        "verseText": "Now therefore proclaim in the ears of the people, saying, 'Whoever is fearful and trembling, let him return home and hurry away from Mount Gilead.' Then 22,000 of the people returned, and 10,000 remained. (ESV) [Implies 32,000 total initially]"
+    },
+    {
+        "text": "How many men did Gideon finally take into battle against the Midianites?",
+        "options": ["300", "10,000", "1,000", "32,000"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Easy",
+        "verseReference": "Judges 7:7",
+        "verseText": "And the LORD said to Gideon, 'With the 300 men who lapped I will save you and give the Midianites into your hand, and let all the others go every man to his home.' (ESV)"
+    },
+    {
+        "text": "What items did Gideon's 300 men carry into battle?",
+        "options": ["Trumpets, empty jars, and torches", "Swords and shields", "Slings and stones", "Bows and arrows"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Easy",
+        "verseReference": "Judges 7:16",
+        "verseText": "And he divided the 300 men into three companies and put trumpets into the hands of all of them and empty jars, with torches inside the jars. (ESV)"
+    },
+    {
+        "text": "Which judge made a rash vow that resulted in sacrificing his daughter?",
+        "options": ["Jephthah", "Gideon", "Samson", "Abimelech"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Easy",
+        "verseReference": "Judges 11:30-31",
+        "verseText": "And Jephthah made a vow to the LORD and said, 'If you will give the Ammonites into my hand, then whatever comes out from the doors of my house to meet me when I return in peace from the Ammonites shall be the LORD's, and I will offer it up for a burnt offering.' (ESV)"
+    },
+    {
+        "text": "Which judge was known for his incredible strength?",
+        "options": ["Samson", "Gideon", "Ehud", "Othniel"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Easy",
+        "verseReference": "Judges 14:6",
+        "verseText": "Then the Spirit of the LORD rushed upon him, and although he had nothing in his hand, he tore the lion in pieces as one tears a young goat. (ESV)"
+    },
+    {
+        "text": "What was the source of Samson's strength?",
+        "options": ["His uncut hair (as a Nazirite vow sign)", "A magic potion", "His diet", "His muscles"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Easy",
+        "verseReference": "Judges 16:17",
+        "verseText": "And he told her all his heart, and said to her, 'A razor has never come upon my head, for I have been a Nazirite to God from my mother's womb. If my head is shaved, then my strength will leave me, and I shall become weak and be like any other man.' (ESV)"
+    },
+    {
+        "text": "Who betrayed Samson to the Philistines?",
+        "options": ["Delilah", "Jael", "His wife", "His parents"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Easy",
+        "verseReference": "Judges 16:18",
+        "verseText": "When Delilah saw that he had told her all his heart, she sent and called the lords of the Philistines, saying, 'Come up again, for he has told me all his heart.' Then the lords of the Philistines came up to her and brought the money in their hands. (ESV)"
+    },
+    {
+        "text": "How did Samson die?",
+        "options": ["Pulling down a Philistine temple", "In battle", "Of old age", "By Delilah's hand"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Easy",
+        "verseReference": "Judges 16:30",
+        "verseText": "And Samson said, 'Let me die with the Philistines.' Then he bowed with all his might, and the house fell upon the lords and upon all the people who were in it. So the dead whom he killed at his death were more than those whom he had killed during his life. (ESV)"
+    },
+    {
+        "text": "What phrase is repeated at the end of the book of Judges?",
+        "options": ["'In those days there was no king in Israel. Everyone did what was right in his own eyes.'", "'The Lord saved Israel.'", "'And the land had rest.'", "'Thus says the Lord.'"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Easy",
+        "verseReference": "Judges 21:25",
+        "verseText": "In those days there was no king in Israel. Everyone did what was right in his own eyes. (ESV)"
+    },
+    {
+        "text": "Which tribe failed to drive out the Jebusites from Jerusalem?",
+        "options": ["Benjamin", "Judah", "Ephraim", "Dan"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Easy",
+        "verseReference": "Judges 1:21",
+        "verseText": "But the people of Benjamin did not drive out the Jebusites who lived in Jerusalem, so the Jebusites have lived with the people of Benjamin in Jerusalem to this day. (ESV)"
+    },
+    {
+        "text": "What did the angel of the LORD tell Gideon while he was threshing wheat?",
+        "options": ["'The LORD is with you, O mighty man of valor.'", "'Flee from the Midianites.'", "'Build an altar.'", "'Gather an army.'"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Easy",
+        "verseReference": "Judges 6:12",
+        "verseText": "And the angel of the LORD appeared to him and said to him, 'The LORD is with you, O mighty man of valor.' (ESV)"
+    },
+    {
+        "text": "What weapon did Shamgar use to kill 600 Philistines?",
+        "options": ["An ox goad", "A sword", "A jawbone", "A tent peg"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Easy",
+        "verseReference": "Judges 3:31",
+        "verseText": "After him was Shamgar the son of Anath, who killed 600 of the Philistines with an oxgoad, and he also saved Israel. (ESV)"
+    },
+    {
+        "text": "What animal did Samson kill with his bare hands?",
+        "options": ["A lion", "A bear", "A wolf", "A Philistine"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Easy",
+        "verseReference": "Judges 14:6",
+        "verseText": "Then the Spirit of the LORD rushed upon him, and although he had nothing in his hand, he tore the lion in pieces as one tears a young goat. (ESV)"
+    },
+    {
+        "text": "What did Samson find in the carcass of the lion he killed?",
+        "options": ["Honey and bees", "Gold coins", "A weapon", "Nothing"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Easy",
+        "verseReference": "Judges 14:8",
+        "verseText": "After some days he returned to take her. And he turned aside to see the carcass of the lion, and behold, there was a swarm of bees in the body of the lion, and honey. (ESV)"
+    },
+    {
+        "text": "How many Philistines did Samson kill with the jawbone of a donkey?",
+        "options": ["1,000", "100", "300", "600"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Easy",
+        "verseReference": "Judges 15:15",
+        "verseText": "And he found a fresh jawbone of a donkey, and put out his hand and took it, and with it he struck 1,000 men. (ESV)"
+    },
+    {
+        "text": "What did the Israelites do after the death of a judge?",
+        "options": ["Returned to worshipping idols", "Appointed a new judge", "Built a monument", "Mourned for 40 days"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Easy",
+        "verseReference": "Judges 2:19",
+        "verseText": "But whenever the judge died, they turned back and were more corrupt than their fathers, going after other gods, serving them and bowing down to them. (ESV)"
+    },
+    {
+        "text": "Who was Gideon's father?",
+        "options": ["Joash", "Abiezer", "Manasseh", "Ephraim"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Easy",
+        "verseReference": "Judges 6:11",
+        "verseText": "Now the angel of the LORD came and sat under the terebinth at Ophrah, which belonged to Joash the Abiezrite, while his son Gideon was beating out wheat in the winepress to hide it from the Midianites. (ESV)"
+    },
+    {
+        "text": "What did Gideon tear down?",
+        "options": ["The altar of Baal", "The city walls", "A Philistine temple", "A Midianite camp"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Easy",
+        "verseReference": "Judges 6:25",
+        "verseText": "That night the LORD said to him, 'Take your father's bull... and pull down the altar of Baal that your father has, and cut down the Asherah that is beside it.' (ESV)"
+    },
+    {
+        "text": "What nationality was King Eglon, killed by Ehud?",
+        "options": ["Moabite", "Canaanite", "Ammonite", "Philistine"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Easy",
+        "verseReference": "Judges 3:12",
+        "verseText": "And the people of Israel again did what was evil in the sight of the LORD, and the LORD strengthened Eglon the king of Moab against Israel, because they had done what was evil in the sight of the LORD. (ESV)"
+    },
+    {
+        "text": "Which judge led Israel for 40 years after defeating Cushan-rishathaim?",
+        "options": ["Othniel", "Ehud", "Gideon", "Deborah"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Easy",
+        "verseReference": "Judges 3:11",
+        "verseText": "So the land had rest forty years. Then Othniel the son of Kenaz died. (ESV)"
+    },
+    {
+        "text": "What tribe was Samson from?",
+        "options": ["Dan", "Judah", "Benjamin", "Ephraim"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Easy",
+        "verseReference": "Judges 13:2",
+        "verseText": "There was a certain man of Zorah, of the tribe of the Danites, whose name was Manoah. (ESV) [Samson's father]"
+    },
+    {
+        "text": "What vow was Samson under from birth?",
+        "options": ["Nazirite vow", "Vow of poverty", "Vow of silence", "Vow of chastity"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Easy",
+        "verseReference": "Judges 13:5",
+        "verseText": "for behold, you shall conceive and bear a son. No razor shall come upon his head, for the child shall be a Nazirite to God from the womb... (ESV)"
+    },
+    {
+        "text": "Which tribe was almost wiped out due to their actions involving the Levite's concubine?",
+        "options": ["Benjamin", "Judah", "Ephraim", "Dan"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Medium",
+        "verseReference": "Judges 20:46",
+        "verseText": "So all who fell that day of Benjamin were 25,000 men who drew the sword, all of them men of valor. (ESV)"
+    },
+    {
+        "text": "Who was Gideon's son who tried to make himself king and killed his brothers?",
+        "options": ["Abimelech", "Jotham", "Jephthah", "Ibzan"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Medium",
+        "verseReference": "Judges 9:5",
+        "verseText": "And he went to his father's house at Ophrah and killed his brothers the sons of Jerubbaal, seventy men, on one stone. But Jotham the youngest son of Jerubbaal was left, for he hid himself. (ESV)"
+    },
+    {
+        "text": "How did Abimelech die?",
+        "options": ["A woman dropped a millstone on his head", "In battle", "Assassinated", "Of disease"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Medium",
+        "verseReference": "Judges 9:53",
+        "verseText": "And a certain woman threw an upper millstone on Abimelech's head and crushed his skull. (ESV)"
+    },
+    {
+        "text": "Which judge came after Abimelech?",
+        "options": ["Tola", "Jair", "Jephthah", "Ibzan"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Medium",
+        "verseReference": "Judges 10:1",
+        "verseText": "After Abimelech there arose to save Israel Tola the son of Puah, son of Dodo, a man of Issachar... (ESV)"
+    },
+    {
+        "text": "Which judge had thirty sons who rode on thirty donkeys?",
+        "options": ["Jair", "Ibzan", "Elon", "Abdon"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Medium",
+        "verseReference": "Judges 10:3-4",
+        "verseText": "After him arose Jair the Gileadite, who judged Israel twenty-two years. And he had thirty sons who rode on thirty donkeys, and they had thirty cities... (ESV)"
+    },
+    {
+        "text": "What password did Jephthah's men use to identify Ephraimites, who couldn't pronounce it correctly?",
+        "options": ["Shibboleth", "Jordan", "Gilead", "Ephraim"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Medium",
+        "verseReference": "Judges 12:6",
+        "verseText": "then they said to him, 'Then say Shibboleth,' and he said, 'Sibboleth,' for he could not pronounce it right. Then they seized him and slaughtered him at the fords of the Jordan. At that time 42,000 of the Ephraimites fell. (ESV)"
+    },
+    {
+        "text": "What was the riddle Samson told at his wedding feast?",
+        "options": ["'Out of the eater came something to eat. Out of the strong came something sweet.'", "'What is stronger than a lion?'", "'What walks on four legs...?'", "'Why did the bee cross the road?'"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Medium",
+        "verseReference": "Judges 14:14",
+        "verseText": "And he said to them, 'Out of the eater came something to eat. Out of the strong came something sweet.' And in three days they could not solve the riddle. (ESV)"
+    },
+    {
+        "text": "How did the Philistines discover the answer to Samson's riddle?",
+        "options": ["They threatened Samson's wife", "They tortured Samson", "They guessed", "Delilah told them"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Medium",
+        "verseReference": "Judges 14:15",
+        "verseText": "On the fourth day they said to Samson's wife, 'Entice your husband to tell us the riddle, lest we burn you and your father's house with fire.' (ESV)"
+    },
+    {
+        "text": "What did Samson use to set the Philistines' fields on fire?",
+        "options": ["Foxes with torches tied to their tails", "Burning arrows", "Oil and fire", "Lightning"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Medium",
+        "verseReference": "Judges 15:4-5",
+        "verseText": "So Samson went and caught 300 foxes and took torches. And he turned them tail to tail and put a torch between each pair of tails... and set fire to the torches and let the foxes go into the standing grain of the Philistines... (ESV)"
+    },
+    {
+        "text": "What did Micah steal from his mother?",
+        "options": ["Silver", "Gold", "Idols", "Food"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Medium",
+        "verseReference": "Judges 17:2",
+        "verseText": "And he said to his mother, 'The 1,100 pieces of silver that were taken from you, about which you uttered a curse... behold, the silver is with me; I took it.' (ESV)"
+    },
+    {
+        "text": "What did Micah make with the stolen silver?",
+        "options": ["An idol and hired a Levite priest", "A house", "Weapons", "Jewelry"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Medium",
+        "verseReference": "Judges 17:4-5",
+        "verseText": "So when he restored the money to his mother, his mother took 200 pieces of silver and gave it to the silversmith, who made it into a carved image and a metal image. And it was in the house of Micah. And the man Micah had a shrine, and he made an ephod and household gods... (ESV)"
+    },
+    {
+        "text": "Which tribe stole Micah's idols and priest?",
+        "options": ["Danites", "Benjaminites", "Ephraimites", "Judahites"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Medium",
+        "verseReference": "Judges 18:18, 27",
+        "verseText": "When these went into Micah's house and took the carved image, the ephod, the household gods, and the metal image... But the people of Dan took what Micah had made, and the priest who belonged to him... (ESV)"
+    },
+    {
+        "text": "What horrific event happened in Gibeah involving a Levite and his concubine?",
+        "options": ["The concubine was abused and killed by men of the city", "The Levite was robbed", "The concubine was kidnapped", "The Levite was murdered"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Medium",
+        "verseReference": "Judges 19:25-26",
+        "verseText": "But the men would not listen to him. So the man seized his concubine and put her out to them. And they knew her and abused her all night until the morning... And as morning appeared, the woman came and fell down at the door of the man's house... (ESV)"
+    },
+    {
+        "text": "How did the other tribes of Israel respond to the incident in Gibeah?",
+        "options": ["They gathered for war against Benjamin", "They ignored it", "They sent negotiators", "They prayed"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Medium",
+        "verseReference": "Judges 20:11",
+        "verseText": "So all the men of Israel gathered against the city, united as one man. (ESV)"
+    },
+    {
+        "text": "How did the remaining Benjamite men find wives after the war?",
+        "options": ["By capturing women from Shiloh during a festival", "By marrying Canaanite women", "By taking wives from Jabesh-gilead", "Both A and C"],
+        "correctAnswerIndex": 3,
+        "book": "Judges",
+        "difficulty": "Medium",
+        "verseReference": "Judges 21:12, 21",
+        "verseText": "And they found among the inhabitants of Jabesh-gilead 400 young virgins who had not known a man... and watch. If the daughters of Shiloh come out to dance in the dances, then come out of the vineyards and snatch each man his wife from the daughters of Shiloh... (ESV)"
+    },
+    {
+        "text": "Who was the king of Mesopotamia defeated by Othniel?",
+        "options": ["Cushan-rishathaim", "Eglon", "Jabin", "Sisera"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Medium",
+        "verseReference": "Judges 3:8",
+        "verseText": "Therefore the anger of the LORD was kindled against Israel, and he sold them into the hand of Cushan-rishathaim king of Mesopotamia. And the people of Israel served Cushan-rishathaim eight years. (ESV)"
+    },
+    {
+        "text": "What did Barak refuse to do without Deborah?",
+        "options": ["Go into battle against Sisera", "Cross the river", "Climb the mountain", "Pray to God"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Medium",
+        "verseReference": "Judges 4:8",
+        "verseText": "Barak said to her, 'If you will go with me, I will go, but if you will not go with me, I will not go.' (ESV)"
+    },
+    {
+        "text": "What natural event helped Israel defeat Sisera's army?",
+        "options": ["A flood of the Kishon River", "An earthquake", "A hailstorm", "A strong wind"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Medium",
+        "verseReference": "Judges 5:21",
+        "verseText": "The torrent Kishon swept them away, the ancient torrent, the torrent Kishon. March on, my soul, with might! (ESV) [From the Song of Deborah]"
+    },
+    {
+        "text": "What new name was Gideon given after destroying the altar of Baal?",
+        "options": ["Jerubbaal", "Abimelech", "Joash", "Manasseh"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Medium",
+        "verseReference": "Judges 6:32",
+        "verseText": "Therefore on that day Gideon was called Jerubbaal, that is to say, 'Let Baal contend against him,' because he broke down his altar. (ESV)"
+    },
+    {
+        "text": "Which two Midianite princes did Gideon's army capture and kill?",
+        "options": ["Oreb and Zeeb", "Zebah and Zalmunna", "Sisera and Jabin", "Eglon and Cushan"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Medium",
+        "verseReference": "Judges 7:25",
+        "verseText": "And they captured the two princes of Midian, Oreb and Zeeb. They killed Oreb at the rock of Oreb, and Zeeb they killed at the winepress of Zeeb. Then they pursued Midian, and they brought the heads of Oreb and Zeeb to Gideon across the Jordan. (ESV)"
+    },
+    {
+        "text": "What did Gideon make that became a snare to him and his family?",
+        "options": ["A golden ephod", "An idol", "A treaty", "A palace"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Medium",
+        "verseReference": "Judges 8:27",
+        "verseText": "And Gideon made an ephod of it and put it in his city, in Ophrah. And all Israel whored after it there, and it became a snare to Gideon and to his family. (ESV)"
+    },
+    {
+        "text": "Who was the only one of Gideon's sons to escape Abimelech's massacre?",
+        "options": ["Jotham", "Abimelech", "Tola", "Jair"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Medium",
+        "verseReference": "Judges 9:5",
+        "verseText": "But Jotham the youngest son of Jerubbaal was left, for he hid himself. (ESV)"
+    },
+    {
+        "text": "What fable did Jotham tell to the people of Shechem?",
+        "options": ["The trees choosing a king", "The lion and the mouse", "The fox and the grapes", "The tortoise and the hare"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Medium",
+        "verseReference": "Judges 9:8",
+        "verseText": "The trees once went out to anoint a king over them, and they said to the olive tree, 'Reign over us.' (ESV)"
+    },
+    {
+        "text": "Why was Jephthah driven away by his half-brothers?",
+        "options": ["He was the son of a prostitute", "He was too strong", "He stole their inheritance", "He worshipped idols"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Medium",
+        "verseReference": "Judges 11:1-2",
+        "verseText": "Now Jephthah the Gileadite was a mighty warrior, but he was the son of a prostitute... And Gilead's wife also bore him sons. And when his wife's sons grew up, they drove Jephthah out and said to him, 'You shall not have an inheritance in our father's house, for you are the son of another woman.' (ESV)"
+    },
+    {
+        "text": "Which judge judged Israel after Jephthah?",
+        "options": ["Ibzan", "Elon", "Abdon", "Samson"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Medium",
+        "verseReference": "Judges 12:8",
+        "verseText": "After him Ibzan of Bethlehem judged Israel. (ESV)"
+    },
+    {
+        "text": "What did Samson's parents initially object to regarding his choice of wife?",
+        "options": ["She was a Philistine", "She was too young", "She was poor", "She was not beautiful"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Medium",
+        "verseReference": "Judges 14:3",
+        "verseText": "But his father and mother said to him, 'Is there not a woman among the daughters of your relatives, or among all our people, that you must go to take a wife from the uncircumcised Philistines?' (ESV)"
+    },
+    {
+        "text": "What did Samson carry away from the city of Gaza?",
+        "options": ["The city gates, posts, and bar", "Gold and silver", "Weapons", "Prisoners"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Medium",
+        "verseReference": "Judges 16:3",
+        "verseText": "But Samson lay till midnight, and at midnight he arose and took hold of the doors of the gate of the city and the two posts, and pulled them up, bar and all, and put them on his shoulders and carried them to the top of the hill that is in front of Hebron. (ESV)"
+    },
+    {
+        "text": "How many times did Delilah try to find the secret of Samson's strength before he told her?",
+        "options": ["Three times", "Once", "Twice", "Four times"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Medium",
+        "verseReference": "Judges 16:15",
+        "verseText": "And she said to him, 'How can you say, \"I love you,\" when your heart is not with me? You have mocked me these three times, and you have not told me where your great strength lies.' (ESV)"
+    },
+    {
+        "text": "What did the Philistines do to Samson after capturing him?",
+        "options": ["Gouged out his eyes and made him grind grain", "Killed him immediately", "Sold him as a slave", "Imprisoned him for life"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Medium",
+        "verseReference": "Judges 16:21",
+        "verseText": "And the Philistines seized him and gouged out his eyes and brought him down to Gaza and bound him with bronze shackles. And he ground at the mill in the prison. (ESV)"
+    },
+    {
+        "text": "What was the name of the Levite who served as Micah's priest?",
+        "options": ["Jonathan, son of Gershom", "Phinehas", "Eli", "Samuel"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Medium",
+        "verseReference": "Judges 18:30",
+        "verseText": "And the people of Dan set up the carved image for themselves, and Jonathan the son of Gershom, son of Moses, and his sons were priests to the tribe of the Danites until the day of the captivity of the land. (ESV) [Context links him to Micah's story]"
+    },
+    {
+        "text": "What city did the Danites conquer and rename Dan?",
+        "options": ["Laish (Leshem)", "Jerusalem", "Hebron", "Shechem"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Medium",
+        "verseReference": "Judges 18:29",
+        "verseText": "And they named the city Dan, after the name of Dan their ancestor, who was born to Israel; but the name of the city was Laish at the first. (ESV)"
+    },
+    {
+        "text": "How many pieces did the Levite cut his concubine into?",
+        "options": ["Twelve", "Ten", "Two", "Seven"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Medium",
+        "verseReference": "Judges 19:29",
+        "verseText": "And when he entered his house, he took a knife, and taking hold of his concubine he divided her, limb by limb, into twelve pieces, and sent her throughout all the territory of Israel. (ESV)"
+    },
+    {
+        "text": "Which city refused to join the fight against Benjamin and was later destroyed?",
+        "options": ["Jabesh-gilead", "Shiloh", "Bethel", "Hebron"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Medium",
+        "verseReference": "Judges 21:10",
+        "verseText": "So the congregation sent 12,000 of their bravest men there and commanded them, 'Go and strike the inhabitants of Jabesh-gilead with the edge of the sword; also the women and the little ones.' (ESV)"
+    },
+    {
+        "text": "What does the name 'Bochim' mean?",
+        "options": ["Weepers", "Rebels", "Forsaken", "Judged"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Medium",
+        "verseReference": "Judges 2:5",
+        "verseText": "So they called the name of that place Bochim. And they sacrificed there to the LORD. (ESV) [Context of weeping in v. 4]"
+    },
+    {
+        "text": "Which nations did God leave to test Israel?",
+        "options": ["Philistines, Canaanites, Sidonians, Hivites", "Egyptians, Assyrians, Babylonians", "Moabites, Ammonites, Edomites", "Midianites, Amalekites"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Medium",
+        "verseReference": "Judges 3:1-3",
+        "verseText": "Now these are the nations that the LORD left, to test Israel by them... the five lords of the Philistines and all the Canaanites and the Sidonians and the Hivites who lived on Mount Lebanon... (ESV)"
+    },
+    {
+        "text": "How did Gideon test God with the fleece the second time?",
+        "options": ["Fleece dry, ground wet", "Fleece wet, ground dry", "Fleece torn, ground intact", "Fleece burned, ground untouched"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Medium",
+        "verseReference": "Judges 6:39",
+        "verseText": "Then Gideon said to God... 'Please let me test just once more with the fleece. Please let it be dry on the fleece only, and on all the ground let there be dew.' (ESV)"
+    },
+    {
+        "text": "Which two kings of Midian did Gideon pursue and kill after defeating their army?",
+        "options": ["Zebah and Zalmunna", "Oreb and Zeeb", "Sihon and Og", "Jabin and Sisera"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Medium",
+        "verseReference": "Judges 8:21",
+        "verseText": "Then Zebah and Zalmunna said, 'Rise yourself and fall upon us, for as the man is, so is his strength.' And Gideon arose and killed Zebah and Zalmunna, and he took the crescent ornaments that were on the necks of their camels. (ESV)"
+    },
+    {
+        "text": "What did the men of Shechem do with the silver from the temple of Baal-berith?",
+        "options": ["Gave it to Abimelech to hire mercenaries", "Used it for temple repairs", "Gave it to the poor", "Made idols"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Medium",
+        "verseReference": "Judges 9:4",
+        "verseText": "And they gave him seventy pieces of silver out of the house of Baal-berith with which Abimelech hired worthless and reckless fellows, who followed him. (ESV)"
+    },
+    {
+        "text": "What was the consequence of Jephthah's vow?",
+        "options": ["He offered his daughter as a burnt offering (or dedicated her to lifelong service)", "He lost the battle", "He became king", "He was exiled"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Medium",
+        "verseReference": "Judges 11:39",
+        "verseText": "And at the end of two months, she returned to her father, who did with her according to his vow that he had made. She had never known a man. And it became a custom in Israel. (ESV) [Interpretation varies]"
+    },
+    {
+        "text": "Who was Othniel's father-in-law?",
+        "options": ["Caleb", "Joshua", "Moses", "Kenaz"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Hard",
+        "verseReference": "Judges 1:12-13",
+        "verseText": "And Caleb said, 'Whoever attacks Kiriath-sepher and captures it, I will give him Achsah my daughter for a wife.' And Othniel the son of Kenaz, the younger brother of Caleb, captured it. And he gave him Achsah his daughter for a wife. (ESV)"
+    },
+    {
+        "text": "What city did the tribe of Judah fail to capture initially because its inhabitants had iron chariots?",
+        "options": ["The coastal plain (Philistine area)", "Jerusalem", "Gezer", "Megiddo"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Hard",
+        "verseReference": "Judges 1:19",
+        "verseText": "And the LORD was with Judah, and he took possession of the hill country, but he could not drive out the inhabitants of the plain because they had chariots of iron. (ESV)"
+    },
+    {
+        "text": "Where did the Angel of the LORD appear and rebuke Israel for not driving out the inhabitants?",
+        "options": ["Bochim", "Gilgal", "Shiloh", "Shechem"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Hard",
+        "verseReference": "Judges 2:1, 5",
+        "verseText": "Now the angel of the LORD went up from Gilgal to Bochim. And he said, 'I brought you up from Egypt and brought you into the land that I swore to give to your fathers... So they called the name of that place Bochim. (ESV)"
+    },
+    {
+        "text": "Who was the king of Moab whom Ehud assassinated?",
+        "options": ["Eglon", "Balak", "Sihon", "Og"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Hard",
+        "verseReference": "Judges 3:17",
+        "verseText": "And he presented the tribute to Eglon king of Moab. Now Eglon was a very fat man. (ESV)"
+    },
+    {
+        "text": "From which tribe was Barak, Deborah's general?",
+        "options": ["Naphtali", "Ephraim", "Judah", "Issachar"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Hard",
+        "verseReference": "Judges 4:6",
+        "verseText": "She sent and summoned Barak the son of Abinoam from Kedesh-naphtali and said to him... (ESV)"
+    },
+    {
+        "text": "Who was Heber, the husband of Jael?",
+        "options": ["A Kenite, descended from Moses' father-in-law", "A Canaanite prince", "An Israelite elder", "A Philistine warrior"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Hard",
+        "verseReference": "Judges 4:11",
+        "verseText": "Now Heber the Kenite had separated from the Kenites, the descendants of Hobab the father-in-law of Moses, and had pitched his tent as far away as the oak in Zaanannim, which is near Kedesh. (ESV)"
+    },
+    {
+        "text": "What offering did Gideon prepare for the Angel of the LORD?",
+        "options": ["Meat, unleavened cakes, and broth", "A lamb and wine", "Grain and oil", "Doves and pigeons"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Hard",
+        "verseReference": "Judges 6:19",
+        "verseText": "So Gideon went into his house and prepared a young goat and unleavened cakes from an ephah of flour. The meat he put in a basket, and the broth he put in a pot, and brought them to him under the terebinth and presented them. (ESV)"
+    },
+    {
+        "text": "What dream did a Midianite soldier have that encouraged Gideon?",
+        "options": ["A loaf of barley bread tumbling into camp and overturning a tent", "Stars falling from the sky", "Locusts covering the land", "A sword hanging over the camp"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Hard",
+        "verseReference": "Judges 7:13",
+        "verseText": "When Gideon came, behold, a man was telling a dream to his comrade. And he said, 'Behold, I dreamed a dream, and behold, a cake of barley bread tumbled into the camp of Midian and came to the tent and struck it so that it fell and turned it upside down, so that the tent lay flat.' (ESV)"
+    },
+    {
+        "text": "Which Israelite towns refused to give Gideon's men food when pursuing Zebah and Zalmunna?",
+        "options": ["Succoth and Penuel", "Shechem and Tirzah", "Gibeah and Ramah", "Bethel and Ai"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Hard",
+        "verseReference": "Judges 8:5-8",
+        "verseText": "So he said to the men of Succoth, 'Please give loaves of bread to the people who follow me, for they are faint...' And the officials of Succoth said... And he went up from there to Penuel and spoke to them in the same way... (ESV)"
+    },
+    {
+        "text": "How did Gideon punish the men of Succoth?",
+        "options": ["Tore their flesh with thorns and briers", "Executed them", "Enslaved them", "Fined them heavily"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Hard",
+        "verseReference": "Judges 8:16",
+        "verseText": "And he took the elders of the city, and thorns of the wilderness and briers, and with them taught the men of Succoth a lesson. (ESV) [Lit: 'threshed']"
+    },
+    {
+        "text": "Who was Gaal son of Ebed?",
+        "options": ["A man who challenged Abimelech's rule in Shechem", "Abimelech's chief officer", "Jotham's ally", "A priest of Baal-berith"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Hard",
+        "verseReference": "Judges 9:26",
+        "verseText": "Now Gaal the son of Ebed moved into Shechem with his relatives, and the leaders of Shechem put their trust in him. (ESV)"
+    },
+    {
+        "text": "What happened at the tower of Thebez?",
+        "options": ["Abimelech was fatally wounded by a millstone dropped by a woman", "Abimelech burned it down with the people inside", "The people surrendered to Abimelech", "Gaal made his last stand there"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Hard",
+        "verseReference": "Judges 9:51-53",
+        "verseText": "But there was a strong tower within the city, and all the men and women and all the leaders of the city fled to it... And a certain woman threw an upper millstone on Abimelech's head and crushed his skull. (ESV)"
+    },
+    {
+        "text": "Which judge had 40 sons and 30 grandsons who rode on 70 donkeys?",
+        "options": ["Abdon", "Jair", "Ibzan", "Elon"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Hard",
+        "verseReference": "Judges 12:13-14",
+        "verseText": "After him Abdon the son of Hillel the Pirathonite judged Israel. He had forty sons and thirty grandsons, who rode on seventy donkeys... (ESV)"
+    },
+    {
+        "text": "What specific instructions did the angel give Samson's mother regarding her pregnancy?",
+        "options": ["Drink no wine or strong drink, eat nothing unclean", "Offer daily sacrifices", "Shave her head", "Live in seclusion"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Hard",
+        "verseReference": "Judges 13:4",
+        "verseText": "Therefore be careful and drink no wine or strong drink, and eat nothing unclean. (ESV)"
+    },
+    {
+        "text": "What was the reward offered by the Philistine lords to Delilah for Samson's secret?",
+        "options": ["1,100 pieces of silver each", "Gold and jewels", "Land and titles", "Marriage to a lord"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Hard",
+        "verseReference": "Judges 16:5",
+        "verseText": "And the lords of the Philistines came up to her and said to her, 'Seduce him, and see where his great strength lies... and we will each give you 1,100 pieces of silver.' (ESV)"
+    },
+    {
+        "text": "What false secrets did Samson give Delilah before revealing the truth?",
+        "options": ["Binding with 7 fresh bowstrings, new ropes, weaving his hair into a loom", "Binding with chains, putting him in stocks, cutting his nails", "Making him drink poison, starving him, blinding him", "Reciting a magic spell, breaking his staff, stealing his sandals"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Hard",
+        "verseReference": "Judges 16:7, 11, 13",
+        "verseText": "'If they bind me with seven fresh bowstrings that have not been dried...' 'If they bind me with new ropes that have not been used...' 'If you weave the seven locks of my head with the web...' (ESV)"
+    },
+    {
+        "text": "What was the name of the Philistine god whose temple Samson destroyed?",
+        "options": ["Dagon", "Baal", "Ashtoreth", "Molech"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Hard",
+        "verseReference": "Judges 16:23",
+        "verseText": "Now the lords of the Philistines gathered to offer a great sacrifice to Dagon their god and to rejoice... (ESV)"
+    },
+    {
+        "text": "Where was Micah's house located?",
+        "options": ["Hill country of Ephraim", "Territory of Judah", "Land of Benjamin", "Region of Gilead"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Hard",
+        "verseReference": "Judges 17:1",
+        "verseText": "There was a man of the hill country of Ephraim, whose name was Micah. (ESV)"
+    },
+    {
+        "text": "What was the name of the Levite priest's grandfather, according to Judges 18:30?",
+        "options": ["Moses (or Manasseh in some manuscripts)", "Aaron", "Levi", "Kohath"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Hard",
+        "verseReference": "Judges 18:30",
+        "verseText": "And the people of Dan set up the carved image for themselves, and Jonathan the son of Gershom, son of Moses, and his sons were priests to the tribe of the Danites until the day of the captivity of the land. (ESV) [Note: Some Hebrew manuscripts read 'Manasseh']"
+    },
+    {
+        "text": "Where was the Levite's concubine from?",
+        "options": ["Bethlehem in Judah", "Gibeah in Benjamin", "Shiloh in Ephraim", "Hebron in Judah"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Hard",
+        "verseReference": "Judges 19:1-2",
+        "verseText": "In those days... a certain Levite was sojourning in the remote parts of the hill country of Ephraim, who took to himself a concubine from Bethlehem in Judah. (ESV)"
+    },
+    {
+        "text": "How many Benjamite men survived the initial battles against the other tribes?",
+        "options": ["600", "1,000", "25,000", "100"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Hard",
+        "verseReference": "Judges 20:47",
+        "verseText": "But 600 men turned and fled toward the wilderness to the rock of Rimmon and remained at the rock of Rimmon four months. (ESV)"
+    },
+    {
+        "text": "Where did the surviving Benjamites hide?",
+        "options": ["Rock of Rimmon", "Cave of Adullam", "Wilderness of Judah", "Mount Ephraim"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Hard",
+        "verseReference": "Judges 20:47",
+        "verseText": "But 600 men turned and fled toward the wilderness to the rock of Rimmon and remained at the rock of Rimmon four months. (ESV)"
+    },
+    {
+        "text": "Why did the Israelites destroy Jabesh-gilead?",
+        "options": ["Its inhabitants did not come to the assembly at Mizpah to fight Benjamin", "They worshipped idols", "They harbored Benjamite fugitives", "They refused to pay tribute"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Hard",
+        "verseReference": "Judges 21:8-9",
+        "verseText": "And they said, 'Which one of the tribes of Israel did not come up to the LORD to Mizpah?' And behold, no one had come to the camp from Jabesh-gilead, to the assembly. (ESV)"
+    },
+    {
+        "text": "How many virgins were spared from Jabesh-gilead to be wives for the Benjamites?",
+        "options": ["400", "600", "200", "1000"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Hard",
+        "verseReference": "Judges 21:12",
+        "verseText": "And they found among the inhabitants of Jabesh-gilead 400 young virgins who had not known a man by lying with him, and they brought them to the camp at Shiloh, which is in the land of Canaan. (ESV)"
+    },
+    {
+        "text": "Where did the Israelites tell the remaining Benjamites to snatch wives during a festival?",
+        "options": ["Shiloh", "Bethel", "Jerusalem", "Mizpah"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Hard",
+        "verseReference": "Judges 21:19",
+        "verseText": "So they said, 'Behold, there is the yearly feast of the LORD at Shiloh...' (ESV)"
+    },
+    {
+        "text": "What specific sin is mentioned as the reason for the LORD strengthening Eglon against Israel?",
+        "options": ["They did what was evil in the sight of the LORD", "Worshipping Baal", "Intermarrying with Canaanites", "Ignoring the Sabbath"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Hard",
+        "verseReference": "Judges 3:12",
+        "verseText": "And the people of Israel again did what was evil in the sight of the LORD, and the LORD strengthened Eglon the king of Moab against Israel, because they had done what was evil in the sight of the LORD. (ESV)"
+    },
+    {
+        "text": "What does the Song of Deborah celebrate?",
+        "options": ["The victory over Sisera and the Canaanites", "Gideon's victory", "Samson's strength", "The crowning of a king"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Hard",
+        "verseReference": "Judges 5:1",
+        "verseText": "Then sang Deborah and Barak the son of Abinoam on that day... (ESV) [The song follows]"
+    },
+    {
+        "text": "Which tribes are specifically praised in the Song of Deborah for their willingness to fight?",
+        "options": ["Zebulun and Naphtali", "Reuben and Gad", "Judah and Simeon", "Dan and Asher"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Hard",
+        "verseReference": "Judges 5:18",
+        "verseText": "Zebulun is a people who risked their lives to the death; Naphtali, too, on the heights of the field. (ESV)"
+    },
+    {
+        "text": "Which tribes are criticized in the Song of Deborah for not joining the battle?",
+        "options": ["Reuben, Gilead (Gad), Dan, Asher", "Judah, Simeon, Benjamin", "Ephraim, Manasseh", "Issachar, Zebulun"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Hard",
+        "verseReference": "Judges 5:16-17",
+        "verseText": "Why did you sit still among the sheepfolds...? Gilead stayed beyond the Jordan; and Dan, why did he stay with the ships? Asher sat still at the coast of the sea... (ESV)"
+    },
+    {
+        "text": "How long did the land have rest after Gideon's victory?",
+        "options": ["40 years", "80 years", "20 years", "10 years"],
+        "correctAnswerIndex": 0,
+        "book": "Judges",
+        "difficulty": "Hard",
+        "verseReference": "Judges 8:28",
+        "verseText": "So Midian was subdued before the people of Israel, and they lifted up their heads no more. And the land had rest forty years in the days of Gideon. (ESV)"
+    }
+]

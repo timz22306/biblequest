@@ -889,5 +889,905 @@
         "difficulty": "Hard",
         "verseReference": "Exodus 40:2",
         "verseText": "On the first day of the first month you shall erect the tabernacle of the tent of meeting. (ESV)"
+    },
+    {
+        "text": "What was the primary reason Pharaoh enslaved the Israelites?",
+        "options": ["Fear of their growing numbers and potential rebellion", "Need for cheap labor", "Religious differences", "A personal grudge"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Easy",
+        "verseReference": "Exodus 1:9-10",
+        "verseText": "And he said to his people, 'Behold, the people of Israel are too many and too mighty for us. Come, let us deal shrewdly with them, lest they multiply, and, if war breaks out, they join our enemies and fight against us and escape from the land.' (ESV)"
+    },
+    {
+        "text": "What did Pharaoh command the Hebrew midwives to do?",
+        "options": ["Kill the male Hebrew babies", "Report all births", "Work longer hours", "Teach Egyptian customs"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Easy",
+        "verseReference": "Exodus 1:16",
+        "verseText": "He said, 'When you serve as midwife to the Hebrew women and see them on the birthstool, if it is a son, you shall kill him, but if it is a daughter, she shall live.' (ESV)"
+    },
+    {
+        "text": "What did Pharaoh command all his people to do with newborn Hebrew boys?",
+        "options": ["Throw them into the Nile", "Enslave them immediately", "Adopt them", "Send them away"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Easy",
+        "verseReference": "Exodus 1:22",
+        "verseText": "Then Pharaoh commanded all his people, 'Every son that is born to the Hebrews you shall cast into the Nile, but you shall let every daughter live.' (ESV)"
+    },
+    {
+        "text": "Who named Moses?",
+        "options": ["Pharaoh's daughter", "His mother Jochebed", "His sister Miriam", "His father Amram"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Easy",
+        "verseReference": "Exodus 2:10",
+        "verseText": "When the child grew older, she brought him to Pharaoh's daughter, and he became her son. She named him Moses, 'Because,' she said, 'I drew him out of the water.' (ESV)"
+    },
+    {
+        "text": "Where did Moses flee after killing the Egyptian?",
+        "options": ["Midian", "Canaan", "Sinai", "Haran"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Easy",
+        "verseReference": "Exodus 2:15",
+        "verseText": "When Pharaoh heard of it, he sought to kill Moses. But Moses fled from Pharaoh and stayed in the land of Midian. And he sat down by a well. (ESV)"
+    },
+    {
+        "text": "What was the first sign God gave Moses to perform for the Israelites?",
+        "options": ["Staff turning into a snake", "Hand becoming leprous", "Water turning to blood", "Burning bush"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Easy",
+        "verseReference": "Exodus 4:2-3",
+        "verseText": "The LORD said to him, 'What is that in your hand?' He said, 'A staff.' And he said, 'Throw it on the ground.' So he threw it on the ground, and it became a serpent, and Moses ran from it. (ESV)"
+    },
+    {
+        "text": "What was the second sign God gave Moses to perform?",
+        "options": ["Hand becoming leprous", "Staff turning into a snake", "Water turning to blood", "Voice from heaven"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Easy",
+        "verseReference": "Exodus 4:6",
+        "verseText": "Again, the LORD said to him, 'Put your hand inside your cloak.' And he put his hand inside his cloak, and when he took it out, behold, his hand was leprous like snow. (ESV)"
+    },
+    {
+        "text": "Who did God appoint to speak for Moses?",
+        "options": ["Aaron", "Miriam", "Joshua", "Jethro"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Easy",
+        "verseReference": "Exodus 4:14-16",
+        "verseText": "Then the anger of the LORD was kindled against Moses and he said, 'Is there not Aaron, your brother, the Levite? I know that he can speak well... You shall speak to him and put the words in his mouth, and I will be with your mouth and with his mouth and will teach you both what to do. He shall speak for you to the people...' (ESV)"
+    },
+    {
+        "text": "What was Pharaoh's reaction to Moses' first request to let Israel go?",
+        "options": ["He increased their workload", "He laughed", "He agreed temporarily", "He imprisoned Moses"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Easy",
+        "verseReference": "Exodus 5:6-9",
+        "verseText": "The same day Pharaoh commanded the taskmasters of the people and their foremen, 'You shall no longer give the people straw to make bricks, as in the past; let them go and gather straw for themselves... Let heavier work be laid on the men that they may labor at it and pay no regard to lying words.' (ESV)"
+    },
+    {
+        "text": "What was the third plague?",
+        "options": ["Gnats (or Lice)", "Flies", "Frogs", "Blood"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Easy",
+        "verseReference": "Exodus 8:16-17",
+        "verseText": "Then the LORD said to Moses, 'Say to Aaron, \"Stretch out your staff and strike the dust of the earth, so that it may become gnats in all the land of Egypt.\"' And they did so. Aaron stretched out his hand with his staff and struck the dust of the earth, and there were gnats on man and beast. All the dust of the earth became gnats in all the land of Egypt. (ESV)"
+    },
+    {
+        "text": "What was the fourth plague?",
+        "options": ["Flies", "Gnats", "Livestock dying", "Boils"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Easy",
+        "verseReference": "Exodus 8:21",
+        "verseText": "Or else, if you will not let my people go, behold, I will send swarms of flies on you and your servants and your people, and into your houses. And the houses of the Egyptians shall be filled with swarms of flies, and also the ground on which they stand. (ESV)"
+    },
+    {
+        "text": "What was the seventh plague?",
+        "options": ["Hail", "Locusts", "Darkness", "Boils"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Easy",
+        "verseReference": "Exodus 9:18",
+        "verseText": "Behold, about this time tomorrow I will cause very heavy hail to fall, such as never has been in Egypt from the day it was founded until now. (ESV)"
+    },
+    {
+        "text": "What was the eighth plague?",
+        "options": ["Locusts", "Hail", "Darkness", "Death of firstborn"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Easy",
+        "verseReference": "Exodus 10:4",
+        "verseText": "Or else, if you refuse to let my people go, behold, tomorrow I will bring locusts into your country. (ESV)"
+    },
+    {
+        "text": "What was the ninth plague?",
+        "options": ["Darkness", "Locusts", "Hail", "Death of firstborn"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Easy",
+        "verseReference": "Exodus 10:21",
+        "verseText": "Then the LORD said to Moses, 'Stretch out your hand toward heaven, that there may be darkness over the land of Egypt, a darkness to be felt.' (ESV)"
+    },
+    {
+        "text": "What were the Israelites instructed to eat with the Passover lamb?",
+        "options": ["Unleavened bread and bitter herbs", "Leavened bread and wine", "Fruit and nuts", "Milk and honey"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Easy",
+        "verseReference": "Exodus 12:8",
+        "verseText": "They shall eat the flesh that night, roasted on the fire; with unleavened bread and bitter herbs they shall eat it. (ESV)"
+    },
+    {
+        "text": "How were the Israelites supposed to cook the Passover lamb?",
+        "options": ["Roasted", "Boiled", "Fried", "Stewed"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Easy",
+        "verseReference": "Exodus 12:8-9",
+        "verseText": "They shall eat the flesh that night, roasted on the fire... Do not eat any of it raw or boiled in water, but roasted, its head with its legs and its inner parts. (ESV)"
+    },
+    {
+        "text": "What happened to the Egyptian army pursuing Israel through the Red Sea?",
+        "options": ["They were drowned", "They turned back", "They got lost", "They surrendered"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Easy",
+        "verseReference": "Exodus 14:28",
+        "verseText": "The waters returned and covered the chariots and the horsemen; of all the host of Pharaoh that had followed them into the sea, not one of them remained. (ESV)"
+    },
+    {
+        "text": "What was the first commandment?",
+        "options": ["You shall have no other gods before me", "You shall not make idols", "Remember the Sabbath day", "Honor your father and mother"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Easy",
+        "verseReference": "Exodus 20:3",
+        "verseText": "You shall have no other gods before me. (ESV)"
+    },
+    {
+        "text": "What was the second commandment?",
+        "options": ["You shall not make idols", "You shall have no other gods before me", "You shall not misuse God's name", "Remember the Sabbath day"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Easy",
+        "verseReference": "Exodus 20:4",
+        "verseText": "You shall not make for yourself a carved image, or any likeness of anything that is in heaven above, or that is in the earth beneath, or that is in the water under the earth. (ESV)"
+    },
+    {
+        "text": "What was the third commandment?",
+        "options": ["You shall not misuse God's name", "You shall not make idols", "Remember the Sabbath day", "Honor your father and mother"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Easy",
+        "verseReference": "Exodus 20:7",
+        "verseText": "You shall not take the name of the LORD your God in vain, for the LORD will not hold him guiltless who takes his name in vain. (ESV)"
+    },
+    {
+        "text": "What was the fourth commandment?",
+        "options": ["Remember the Sabbath day", "Honor your father and mother", "You shall not murder", "You shall not commit adultery"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Easy",
+        "verseReference": "Exodus 20:8",
+        "verseText": "Remember the Sabbath day, to keep it holy. (ESV)"
+    },
+    {
+        "text": "What was the fifth commandment?",
+        "options": ["Honor your father and mother", "Remember the Sabbath day", "You shall not murder", "You shall not steal"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Easy",
+        "verseReference": "Exodus 20:12",
+        "verseText": "Honor your father and your mother, that your days may be long in the land that the LORD your God is giving you. (ESV)"
+    },
+    {
+        "text": "What was the sixth commandment?",
+        "options": ["You shall not murder", "Honor your father and mother", "You shall not commit adultery", "You shall not steal"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Easy",
+        "verseReference": "Exodus 20:13",
+        "verseText": "You shall not murder. (ESV)"
+    },
+    {
+        "text": "What was the seventh commandment?",
+        "options": ["You shall not commit adultery", "You shall not murder", "You shall not steal", "You shall not bear false witness"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Easy",
+        "verseReference": "Exodus 20:14",
+        "verseText": "You shall not commit adultery. (ESV)"
+    },
+    {
+        "text": "What was the eighth commandment?",
+        "options": ["You shall not steal", "You shall not commit adultery", "You shall not bear false witness", "You shall not covet"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Easy",
+        "verseReference": "Exodus 20:15",
+        "verseText": "You shall not steal. (ESV)"
+    },
+    {
+        "text": "What was the ninth commandment?",
+        "options": ["You shall not bear false witness", "You shall not steal", "You shall not covet", "You shall not murder"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Easy",
+        "verseReference": "Exodus 20:16",
+        "verseText": "You shall not bear false witness against your neighbor. (ESV)"
+    },
+    {
+        "text": "What portable sanctuary did God instruct the Israelites to build?",
+        "options": ["Tabernacle", "Temple", "Synagogue", "Altar"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Easy",
+        "verseReference": "Exodus 25:8-9",
+        "verseText": "And let them make me a sanctuary, that I may dwell in their midst. Exactly as I show you concerning the pattern of the tabernacle, and of all its furniture, so you shall make it. (ESV)"
+    },
+    {
+        "text": "What was inside the Ark of the Covenant initially?",
+        "options": ["The Ten Commandments", "Aaron's staff", "A jar of manna", "Scrolls of the Law"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Easy",
+        "verseReference": "Exodus 25:16",
+        "verseText": "And you shall put into the ark the testimony that I shall give you. (ESV)"
+    },
+    {
+        "text": "What covered the Tabernacle, signifying God's presence?",
+        "options": ["A cloud", "Smoke", "Fire", "Light"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Easy",
+        "verseReference": "Exodus 40:34",
+        "verseText": "Then the cloud covered the tent of meeting, and the glory of the LORD filled the tabernacle. (ESV)"
+    },
+    {
+        "text": "What did the Israelites complain about at Rephidim?",
+        "options": ["Lack of water", "Lack of food", "Enemies attacking", "Moses' leadership"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Easy",
+        "verseReference": "Exodus 17:1-2",
+        "verseText": "All the congregation of the people of Israel moved on from the wilderness of Sin by stages, according to the commandment of the LORD, and camped at Rephidim, but there was no water for the people to drink. Therefore the people quarreled with Moses and said, 'Give us water to drink.' (ESV)"
+    },
+    {
+        "text": "What was the third sign God gave Moses the option to perform if the first two weren't believed?",
+        "options": ["Turning Nile water to blood on dry ground", "Causing frogs to appear", "Making locusts swarm", "Calling down hail"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Medium",
+        "verseReference": "Exodus 4:9",
+        "verseText": "If they will not believe even these two signs or listen to your voice, you shall take some water from the Nile and pour it on the dry ground, and the water that you shall take from the Nile will become blood on the dry ground. (ESV)"
+    },
+    {
+        "text": "What reason did the Hebrew midwives give Pharaoh for not killing the babies?",
+        "options": ["Hebrew women give birth too quickly", "They were afraid of God", "They couldn't find the babies", "They didn't understand the command"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Medium",
+        "verseReference": "Exodus 1:19",
+        "verseText": "The midwives said to Pharaoh, 'Because the Hebrew women are not like the Egyptian women, for they are vigorous and give birth before the midwife comes to them.' (ESV)"
+    },
+    {
+        "text": "What happened to Zipporah's son when God sought to kill Moses on the way to Egypt?",
+        "options": ["Zipporah circumcised him", "He became ill", "He was protected by an angel", "Nothing happened to him"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Medium",
+        "verseReference": "Exodus 4:24-26",
+        "verseText": "At a lodging place on the way the LORD met him and sought to put him to death. Then Zipporah took a flint and cut off her son's foreskin and touched Moses' feet with it and said, 'Surely you are a bridegroom of blood to me!' So he let him alone. It was then that she said, 'A bridegroom of blood,' because of the circumcision. (ESV)"
+    },
+    {
+        "text": "How old were Moses and Aaron when they spoke to Pharaoh?",
+        "options": ["Moses 80, Aaron 83", "Moses 70, Aaron 73", "Moses 60, Aaron 63", "Moses 40, Aaron 43"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Medium",
+        "verseReference": "Exodus 7:7",
+        "verseText": "Moses was eighty years old, and Aaron eighty-three years old, when they spoke to Pharaoh. (ESV)"
+    },
+    {
+        "text": "What did Pharaoh's magicians imitate with their secret arts?",
+        "options": ["Staff to snake, water to blood, frogs", "Gnats, flies, livestock death", "Boils, hail, locusts", "Darkness, death of firstborn"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Medium",
+        "verseReference": "Exodus 7:11, 7:22, 8:7",
+        "verseText": "Then Pharaoh summoned the wise men and the sorcerers, and they, the magicians of Egypt, also did the same by their secret arts... But the magicians of Egypt did the same by their secret arts... But the magicians did the same by their secret arts and made frogs come up on the land of Egypt. (ESV)"
+    },
+    {
+        "text": "Which plague could Pharaoh's magicians NOT replicate?",
+        "options": ["Gnats", "Frogs", "Water to blood", "Staff to snake"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Medium",
+        "verseReference": "Exodus 8:18",
+        "verseText": "The magicians tried by their secret arts to produce gnats, but they could not. So there were gnats on man and beast. (ESV)"
+    },
+    {
+        "text": "What distinction did God make between Israelites and Egyptians during the plague of flies?",
+        "options": ["No flies in Goshen", "Flies only bit Egyptians", "Israelites had repellent", "Flies avoided Israelite homes"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Medium",
+        "verseReference": "Exodus 8:22",
+        "verseText": "But on that day I will set apart the land of Goshen, where my people dwell, so that no swarms of flies shall be there, that you may know that I am the LORD in the midst of the earth. (ESV)"
+    },
+    {
+        "text": "What distinction did God make during the plague on livestock?",
+        "options": ["Israelite livestock did not die", "Only Egyptian cattle died", "Israelite animals were healed", "Egyptian animals fled"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Medium",
+        "verseReference": "Exodus 9:4",
+        "verseText": "But the LORD will make a distinction between the livestock of Israel and the livestock of Egypt, so that nothing of all that belongs to the people of Israel shall die. (ESV)"
+    },
+    {
+        "text": "What survived the plague of hail?",
+        "options": ["Wheat and spelt (late crops)", "Barley and flax (early crops)", "Trees", "People indoors"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Medium",
+        "verseReference": "Exodus 9:31-32",
+        "verseText": "(The flax and the barley were struck down, for the barley was in the ear and the flax was in bud. But the wheat and the spelt were not struck down, for they are late crops.) (ESV)"
+    },
+    {
+        "text": "What did Pharaoh offer Moses after the plague of flies, which Moses refused?",
+        "options": ["Sacrifice within Egypt", "Let only the men go", "Let them go a short distance", "Give them animals"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Medium",
+        "verseReference": "Exodus 8:25-26",
+        "verseText": "Then Pharaoh called Moses and Aaron and said, 'Go, sacrifice to your God within the land.' But Moses said, 'It would not be right to do so, for the offerings we shall sacrifice to the LORD our God are an abomination to the Egyptians...' (ESV)"
+    },
+    {
+        "text": "How long did the Israelites have to eat unleavened bread after Passover?",
+        "options": ["7 days", "3 days", "1 day", "14 days"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Medium",
+        "verseReference": "Exodus 12:15",
+        "verseText": "Seven days you shall eat unleavened bread. On the first day you shall remove leaven out of your houses... (ESV)"
+    },
+    {
+        "text": "What were the Israelites commanded to do with their firstborn males (both human and animal)?",
+        "options": ["Consecrate them to the Lord", "Sacrifice them", "Train them as priests", "Give them double inheritance"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Medium",
+        "verseReference": "Exodus 13:2",
+        "verseText": "Consecrate to me all the firstborn. Whatever is the first to open the womb among the people of Israel, both of man and of beast, is mine. (ESV)"
+    },
+    {
+        "text": "Why did God lead the Israelites via the wilderness route instead of the Philistine coastal road?",
+        "options": ["Lest they face war and return to Egypt", "The Philistines were too strong", "The road was flooded", "To test them"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Medium",
+        "verseReference": "Exodus 13:17",
+        "verseText": "When Pharaoh let the people go, God did not lead them by way of the land of the Philistines, although that was near. For God said, 'Lest the people change their minds when they see war and return to Egypt.' (ESV)"
+    },
+    {
+        "text": "What did Moses carry out of Egypt, fulfilling an oath?",
+        "options": ["The bones of Joseph", "The Ark of the Covenant", "Gold from the treasury", "Sacred scrolls"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Medium",
+        "verseReference": "Exodus 13:19",
+        "verseText": "Moses took the bones of Joseph with him, for Joseph had made the sons of Israel solemnly swear, saying, 'God will surely visit you, and you shall carry up my bones with you from here.' (ESV)"
+    },
+    {
+        "text": "What song did Moses and the Israelites sing after crossing the Red Sea?",
+        "options": ["The Song of the Sea", "Psalm 23", "The Song of Deborah", "A hymn of praise"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Medium",
+        "verseReference": "Exodus 15:1",
+        "verseText": "Then Moses and the people of Israel sang this song to the LORD, saying, 'I will sing to the LORD, for he has triumphed gloriously; the horse and his rider he has thrown into the sea.' (ESV)"
+    },
+    {
+        "text": "How often were the Israelites supposed to gather manna?",
+        "options": ["Daily, except the day before Sabbath (gather double)", "Weekly", "Twice a day", "Only when needed"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Medium",
+        "verseReference": "Exodus 16:21-22",
+        "verseText": "Morning by morning they gathered it, each as much as he could eat; but when the sun grew hot, it melted. On the sixth day they gathered twice as much bread, two omers each... (ESV)"
+    },
+    {
+        "text": "What happened to the manna kept overnight (except before the Sabbath)?",
+        "options": ["It bred worms and stank", "It disappeared", "It turned hard", "It tasted bad"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Medium",
+        "verseReference": "Exodus 16:20",
+        "verseText": "But they did not listen to Moses. Some left part of it till the morning, and it bred worms and stank. And Moses was angry with them. (ESV)"
+    },
+    {
+        "text": "What advice did Jethro give Moses regarding judging the people?",
+        "options": ["Appoint judges for smaller cases", "Judge only the difficult cases", "Let Aaron judge", "Pray for wisdom"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Medium",
+        "verseReference": "Exodus 18:21-22",
+        "verseText": "Moreover, look for able men from all the people, men who fear God, who are trustworthy and hate a bribe, and place such men over the people as chiefs of thousands, of hundreds, of fifties, and of tens. And let them judge the people at all times. Every great matter they shall bring to you, but any small matter they shall decide themselves. (ESV)"
+    },
+    {
+        "text": "What phenomena accompanied God's descent on Mount Sinai?",
+        "options": ["Thunder, lightning, thick cloud, trumpet blast, smoke, earthquake", "Rain and wind", "Silence and bright light", "Angelic choir"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Medium",
+        "verseReference": "Exodus 19:16-18",
+        "verseText": "On the morning of the third day there were thunders and lightnings and a thick cloud on the mountain and a very loud trumpet blast... Now Mount Sinai was wrapped in smoke because the LORD had descended on it in fire... and the whole mountain trembled greatly. (ESV)"
+    },
+    {
+        "text": "What was the penalty for striking or cursing one's parents?",
+        "options": ["Death", "Banishment", "Fine", "Imprisonment"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Medium",
+        "verseReference": "Exodus 21:15, 17",
+        "verseText": "Whoever strikes his father or his mother shall be put to death... Whoever curses his father or his mother shall be put to death. (ESV)"
+    },
+    {
+        "text": "What principle is established in Exodus 21:24-25?",
+        "options": ["Eye for eye, tooth for tooth (lex talionis)", "Turn the other cheek", "Forgive seventy times seven", "Love your neighbor"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Medium",
+        "verseReference": "Exodus 21:24-25",
+        "verseText": "eye for eye, tooth for tooth, hand for hand, foot for foot, burn for burn, wound for wound, stripe for stripe. (ESV)"
+    },
+    {
+        "text": "What were the Israelites commanded to do every seventh year with the land?",
+        "options": ["Let it lie fallow (Sabbath year)", "Plant double crops", "Offer special sacrifices", "Redistribute it"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Medium",
+        "verseReference": "Exodus 23:10-11",
+        "verseText": "For six years you shall sow your land and gather in its yield, but the seventh year you shall let it rest and lie fallow, that the poor of your people may eat; and what they leave the beasts of the field may eat. (ESV)"
+    },
+    {
+        "text": "How many annual feasts were the Israelite men required to appear before the Lord?",
+        "options": ["Three", "One", "Seven", "Twelve"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Medium",
+        "verseReference": "Exodus 23:14, 17",
+        "verseText": "Three times in the year you shall keep a feast to me... Three times in the year shall all your males appear before the Lord GOD. (ESV)"
+    },
+    {
+        "text": "What did Moses build at the foot of Mount Sinai after receiving the laws?",
+        "options": ["An altar and twelve pillars", "The Tabernacle", "A golden calf", "A stone monument"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Medium",
+        "verseReference": "Exodus 24:4",
+        "verseText": "Moses wrote down all the words of the LORD. He rose early in the morning and built an altar at the foot of the mountain, and twelve pillars, according to the twelve tribes of Israel. (ESV)"
+    },
+    {
+        "text": "What did Moses sprinkle on the people to ratify the covenant?",
+        "options": ["Blood", "Water", "Oil", "Wine"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Medium",
+        "verseReference": "Exodus 24:8",
+        "verseText": "And Moses took the blood and threw it on the people and said, 'Behold the blood of the covenant that the LORD has made with you in accordance with all these words.' (ESV)"
+    },
+    {
+        "text": "What furniture was placed in the Holy Place (outer room) of the Tabernacle?",
+        "options": ["Table of Showbread, Lampstand, Altar of Incense", "Ark of the Covenant", "Bronze Altar, Laver", "Priest's garments"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Medium",
+        "verseReference": "Exodus 25:23, 31; 30:1",
+        "verseText": "You shall make a table of acacia wood... You shall make a lampstand of pure gold... You shall make an altar on which to burn incense; of acacia wood you shall make it. (ESV) [Context places these in the Holy Place]"
+    },
+    {
+        "text": "What separated the Holy Place from the Most Holy Place?",
+        "options": ["A veil (curtain)", "A wooden wall", "A bronze gate", "A row of pillars"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Medium",
+        "verseReference": "Exodus 26:33",
+        "verseText": "And you shall hang the veil from the clasps, and bring the ark of the testimony in there within the veil. And the veil shall separate for you the Holy Place from the Most Holy. (ESV)"
+    },
+    {
+        "text": "What was the purpose of the bronze laver?",
+        "options": ["For priests to wash hands and feet", "To hold water for sacrifices", "To collect ashes", "To burn incense"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Medium",
+        "verseReference": "Exodus 30:18-19",
+        "verseText": "You shall also make a basin of bronze, with its stand of bronze, for washing. You shall put it between the tent of meeting and the altar, and you shall put water in it, with which Aaron and his sons shall wash their hands and their feet. (ESV)"
+    },
+    {
+        "text": "What happened to Moses' face after speaking with God on Sinai the second time?",
+        "options": ["It shone", "It aged", "It became scarred", "It was covered in dust"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Medium",
+        "verseReference": "Exodus 34:29",
+        "verseText": "When Moses came down from Mount Sinai, with the two tablets of the testimony in his hand as he came down from the mountain, Moses did not know that the skin of his face shone because he had been talking with God. (ESV)"
+    },
+    {
+        "text": "What did Moses wear after his face shone?",
+        "options": ["A veil", "A special turban", "Sunglasses", "Nothing different"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Medium",
+        "verseReference": "Exodus 34:33",
+        "verseText": "When Moses had finished speaking with them, he put a veil over his face. (ESV)"
+    },
+    {
+        "text": "What was the final piece of the Tabernacle construction mentioned in Exodus?",
+        "options": ["Setting up the courtyard", "Placing the furniture", "Anointing the priests", "The cloud covering it"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Medium",
+        "verseReference": "Exodus 40:33",
+        "verseText": "And he erected the court around the tabernacle and the altar, and set up the screen of the gate of the court. So Moses finished the work. (ESV)"
+    },
+    {
+        "text": "What happened when the cloud lifted from the Tabernacle?",
+        "options": ["The Israelites would set out on their journey", "It rained", "The priests offered sacrifice", "Moses entered the tent"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Medium",
+        "verseReference": "Exodus 40:36-37",
+        "verseText": "Throughout all their journeys, whenever the cloud was taken up from over the tabernacle, the people of Israel would set out. But if the cloud was not taken up, then they did not set out till the day that it was taken up. (ESV)"
+    },
+    {
+        "text": "What were the names of Moses' two sons?",
+        "options": ["Gershom and Eliezer", "Nadab and Abihu", "Phinehas and Ithamar", "Manasseh and Ephraim"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Medium",
+        "verseReference": "Exodus 18:3-4",
+        "verseText": "along with her two sons. The name of the one was Gershom (for he said, 'I have been a sojourner in a foreign land'), and the name of the other, Eliezer (for he said, 'The God of my father was my help, and delivered me from the sword of Pharaoh'). (ESV)"
+    },
+    {
+        "text": "What did the Israelites initially think manna was?",
+        "options": ["They didn't know ('What is it?')", "Dew", "Frost", "Angel food"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Medium",
+        "verseReference": "Exodus 16:15",
+        "verseText": "When the people of Israel saw it, they said to one another, 'What is it?' For they did not know what it was. And Moses said to them, 'It is the bread that the LORD has given you to eat.' (ESV)"
+    },
+    {
+        "text": "What specific instruction was given about leftovers of the Passover lamb?",
+        "options": ["Burn any leftovers before morning", "Give them to the poor", "Bury them", "Save them for the next day"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Medium",
+        "verseReference": "Exodus 12:10",
+        "verseText": "And you shall let none of it remain until the morning; anything that remains until the morning you shall burn. (ESV)"
+    },
+    {
+        "text": "What was the approximate number of Israelite men who left Egypt?",
+        "options": ["About 600,000", "About 1 million", "About 100,000", "About 2 million"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Medium",
+        "verseReference": "Exodus 12:37",
+        "verseText": "And the people of Israel journeyed from Rameses to Succoth, about six hundred thousand men on foot, besides women and children. (ESV)"
+    },
+    {
+        "text": "What materials were requested for the Tabernacle offering?",
+        "options": ["Gold, silver, bronze, yarns, skins, wood, oil, spices, stones", "Only gold and silver", "Wood and stone", "Food and animals"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Medium",
+        "verseReference": "Exodus 25:3-7",
+        "verseText": "And this is the contribution that you shall receive from them: gold, silver, and bronze, blue and purple and scarlet yarns and fine twined linen, goats' hair, tanned rams' skins, goatskins, acacia wood, oil for the lamps, spices for the anointing oil and for the fragrant incense, onyx stones, and stones for setting, for the ephod and for the breastpiece. (ESV)"
+    },
+    {
+        "text": "What was placed on the Table of Showbread?",
+        "options": ["Twelve loaves of bread", "Sacrificial meat", "Incense", "Wine"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Medium",
+        "verseReference": "Exodus 25:30",
+        "verseText": "And you shall set the bread of the Presence on the table before me regularly. (ESV) [Context implies 12 loaves, see Leviticus 24:5-9]"
+    },
+    {
+        "text": "What was the penalty for an animal (like an ox) killing a person?",
+        "options": ["The animal was stoned, its flesh not eaten", "The owner paid a fine", "The animal was sacrificed", "The animal was set free"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Medium",
+        "verseReference": "Exodus 21:28",
+        "verseText": "When an ox gores a man or a woman to death, the ox shall be stoned, and its flesh shall not be eaten, but the owner of the ox shall not be liable. (ESV)"
+    },
+    {
+        "text": "What happened to Nadab and Abihu, Aaron's sons, when they offered unauthorized fire?",
+        "options": ["Fire from the Lord consumed them", "They were banished", "They were struck with leprosy", "They were forgiven"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Medium",
+        "verseReference": "Leviticus 10:1-2",
+        "verseText": "Now Nadab and Abihu, the sons of Aaron, each took his censer and put fire in it and laid incense on it and offered unauthorized fire before the LORD, which he had not commanded them. And fire came out from before the LORD and consumed them, and they died before the LORD. (ESV) [Context follows Exodus]"
+    },
+    {
+        "text": "What was the Urim and Thummim used for?",
+        "options": ["Discerning God's will", "Decorating the ephod", "Lighting the lampstand", "Purifying the altar"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Hard",
+        "verseReference": "Exodus 28:30",
+        "verseText": "And in the breastpiece of judgment you shall put the Urim and the Thummim, and they shall be on Aaron's heart, when he goes in before the LORD. Thus Aaron shall bear the judgment of the people of Israel on his heart before the LORD regularly. (ESV) [Function implied, detailed elsewhere]"
+    },
+    {
+        "text": "What specific group of people traveled with the Israelites out of Egypt?",
+        "options": ["A mixed multitude", "Only Hebrews", "Egyptian sympathizers", "Midianites"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Hard",
+        "verseReference": "Exodus 12:38",
+        "verseText": "A mixed multitude also went up with them, and very much livestock, both flocks and herds. (ESV)"
+    },
+    {
+        "text": "What was the dimension of the Ark of the Covenant in cubits (L x W x H)?",
+        "options": ["2.5 x 1.5 x 1.5", "3 x 2 x 2", "2 x 1 x 1", "4 x 2 x 2"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Hard",
+        "verseReference": "Exodus 25:10",
+        "verseText": "They shall make an ark of acacia wood. Two cubits and a half shall be its length, a cubit and a half its breadth, and a cubit and a half its height. (ESV)"
+    },
+    {
+        "text": "What was the dimension of the bronze altar in the courtyard (L x W x H)?",
+        "options": ["5 x 5 x 3 cubits", "3 x 3 x 2 cubits", "7 x 7 x 4 cubits", "4 x 4 x 2 cubits"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Hard",
+        "verseReference": "Exodus 27:1",
+        "verseText": "You shall make the altar of acacia wood, five cubits long and five cubits broad. The altar shall be square, and its height shall be three cubits. (ESV)"
+    },
+    {
+        "text": "What was the dimension of the altar of incense (L x W x H)?",
+        "options": ["1 x 1 x 2 cubits", "2 x 2 x 3 cubits", "1.5 x 1.5 x 2.5 cubits", "1 x 2 x 1 cubits"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Hard",
+        "verseReference": "Exodus 30:1-2",
+        "verseText": "You shall make an altar on which to burn incense; of acacia wood you shall make it. A cubit shall be its length, and a cubit its breadth. It shall be square, and two cubits shall be its height. Its horns shall be of one piece with it. (ESV)"
+    },
+    {
+        "text": "What was the specific weight of the gold used for the lampstand and its utensils?",
+        "options": ["One talent", "Two talents", "Half a talent", "Five talents"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Hard",
+        "verseReference": "Exodus 25:39",
+        "verseText": "It shall be made, with all these utensils, out of a talent of pure gold. (ESV)"
+    },
+    {
+        "text": "What was the ransom payment required for every Israelite male counted in the census?",
+        "options": ["Half a shekel", "One shekel", "Two shekels", "A tenth of a shekel"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Hard",
+        "verseReference": "Exodus 30:13",
+        "verseText": "Each one who is numbered in the census shall give this: half a shekel according to the shekel of the sanctuary (the shekel is twenty gerahs), half a shekel as an offering to the LORD. (ESV)"
+    },
+    {
+        "text": "What ingredients were forbidden in the holy anointing oil and incense formulas for common use?",
+        "options": ["The specific formulas themselves", "Honey", "Leaven", "Salt"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Hard",
+        "verseReference": "Exodus 30:32-33, 37-38",
+        "verseText": "It shall not be poured on the body of an ordinary person, and you shall make no other like it in composition... And the incense that you shall make according to its composition, you shall not make for yourselves. It shall be for you holy to the LORD. Whoever makes any like it to use as perfume shall be cut off from his people. (ESV)"
+    },
+    {
+        "text": "Who were the sons of Aaron mentioned in Exodus?",
+        "options": ["Nadab, Abihu, Eleazar, Ithamar", "Gershon, Kohath, Merari", "Gershom, Eliezer", "Hophni, Phinehas"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Hard",
+        "verseReference": "Exodus 6:23",
+        "verseText": "Aaron took to wife Elisheba, the daughter of Amminadab and the sister of Nahshon, and she bore him Nadab, Abihu, Eleazar, and Ithamar. (ESV)"
+    },
+    {
+        "text": "What happened to the Egyptians' chariot wheels in the Red Sea?",
+        "options": ["They became clogged (or removed)", "They broke", "They got stuck in mud", "They caught fire"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Hard",
+        "verseReference": "Exodus 14:25",
+        "verseText": "clogging their chariot wheels so that they drove heavily. And the Egyptians said, 'Let us flee from before Israel, for the LORD fights for them against the Egyptians.' (ESV) [Some translations say 'removed']"
+    },
+    {
+        "text": "How many elders went up Mount Sinai partway with Moses and Aaron?",
+        "options": ["70", "12", "24", "50"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Hard",
+        "verseReference": "Exodus 24:1, 9",
+        "verseText": "Then he said to Moses, 'Come up to the LORD, you and Aaron, Nadab, and Abihu, and seventy of the elders of Israel, and worship from afar.'... Then Moses and Aaron, Nadab, and Abihu, and seventy of the elders of Israel went up. (ESV)"
+    },
+    {
+        "text": "What did the elders see under God's feet on Mount Sinai?",
+        "options": ["A pavement of sapphire stone", "Clouds", "Fire", "A rainbow"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Hard",
+        "verseReference": "Exodus 24:10",
+        "verseText": "and they saw the God of Israel. There was under his feet as it were a pavement of sapphire stone, like the very heaven for clearness. (ESV)"
+    },
+    {
+        "text": "What was the specific instruction about foreigners eating the Passover?",
+        "options": ["They must be circumcised first", "They could not eat it", "They could eat if invited", "They needed special permission"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Hard",
+        "verseReference": "Exodus 12:48",
+        "verseText": "If a stranger shall sojourn with you and would keep the Passover to the LORD, let all his males be circumcised. Then he may come near and keep it; he shall be as a native of the land. But no uncircumcised person shall eat of it. (ESV)"
+    },
+    {
+        "text": "What was the penalty for working on the Sabbath?",
+        "options": ["Death", "Fine", "Banishment", "Public shaming"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Hard",
+        "verseReference": "Exodus 31:14",
+        "verseText": "You shall keep the Sabbath, because it is holy for you. Everyone who profanes it shall be put to death. Whoever does any work on it, that soul shall be cut off from among his people. (ESV)"
+    },
+    {
+        "text": "What was the first item Moses was instructed to make for the Tabernacle?",
+        "options": ["The Ark of the Covenant", "The Bronze Altar", "The Lampstand", "The Table of Showbread"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Hard",
+        "verseReference": "Exodus 25:10",
+        "verseText": "They shall make an ark of acacia wood... (ESV) [This is the first piece of furniture described after the call for contributions]"
+    },
+    {
+        "text": "What covered the Ark of the Covenant?",
+        "options": ["The Mercy Seat", "A linen cloth", "A golden lid", "A wooden cover"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Hard",
+        "verseReference": "Exodus 25:17",
+        "verseText": "You shall make a mercy seat of pure gold. Two cubits and a half shall be its length, and a cubit and a half its breadth. (ESV)"
+    },
+    {
+        "text": "How many curtains made up the inner layer of the Tabernacle?",
+        "options": ["Ten", "Twelve", "Seven", "Four"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Hard",
+        "verseReference": "Exodus 26:1",
+        "verseText": "Moreover, you shall make the tabernacle with ten curtains of fine twined linen and blue and purple and scarlet yarns... (ESV)"
+    },
+    {
+        "text": "What material formed the second layer of the Tabernacle covering?",
+        "options": ["Goats' hair", "Tanned rams' skins", "Goatskins (or badger/sea cow skins)", "Fine twined linen"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Hard",
+        "verseReference": "Exodus 26:7",
+        "verseText": "You shall also make curtains of goats' hair for a tent over the tabernacle; eleven curtains shall you make. (ESV)"
+    },
+    {
+        "text": "What material formed the third layer of the Tabernacle covering?",
+        "options": ["Tanned rams' skins", "Goats' hair", "Goatskins (or badger/sea cow skins)", "Fine twined linen"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Hard",
+        "verseReference": "Exodus 26:14",
+        "verseText": "And you shall make for the tent a covering of tanned rams' skins... (ESV)"
+    },
+    {
+        "text": "What material formed the outermost layer of the Tabernacle covering?",
+        "options": ["Goatskins (or badger/sea cow skins)", "Tanned rams' skins", "Goats' hair", "Fine twined linen"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Hard",
+        "verseReference": "Exodus 26:14",
+        "verseText": "...and a covering of goatskins on top. (ESV) [Translation varies: 'badger skins', 'sea cow skins', 'dolphin skins', 'tahash skins']"
+    },
+    {
+        "text": "How many sockets held up the boards of the Tabernacle?",
+        "options": ["100 silver sockets", "60 bronze sockets", "40 gold sockets", "80 silver sockets"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Hard",
+        "verseReference": "Exodus 38:27",
+        "verseText": "The 100 talents of silver were for casting the bases of the sanctuary and the bases of the veil; 100 bases for the 100 talents, a talent a base. (ESV) [40+40+16+4=100]"
+    },
+    {
+        "text": "What was the specific purpose of the horns on the bronze altar?",
+        "options": ["Binding sacrifices, applying blood", "Hanging utensils", "Decoration", "Carrying the altar"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Hard",
+        "verseReference": "Exodus 27:2; Leviticus 4:7",
+        "verseText": "You shall make horns for it on its four corners; its horns shall be of one piece with it... And the priest shall put some of the blood on the horns of the altar of fragrant incense before the LORD... (ESV) [Binding implied by Psalm 118:27]"
+    },
+    {
+        "text": "What type of oil was used for the lampstand?",
+        "options": ["Pure, beaten olive oil", "Olive oil mixed with spices", "Animal fat", "Imported oil"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Hard",
+        "verseReference": "Exodus 27:20",
+        "verseText": "You shall command the people of Israel that they bring to you pure beaten olive oil for the light, that a lamp may regularly be set up to burn. (ESV)"
+    },
+    {
+        "text": "What were the dimensions of the Tabernacle courtyard (L x W)?",
+        "options": ["100 x 50 cubits", "50 x 25 cubits", "150 x 75 cubits", "100 x 100 cubits"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Hard",
+        "verseReference": "Exodus 27:9, 12",
+        "verseText": "You shall make the court of the tabernacle. On the south side the court shall have hangings of fine twined linen 100 cubits long... And for the breadth of the court on the west side shall be hangings for fifty cubits... (ESV)"
+    },
+    {
+        "text": "What did the bells on the hem of the High Priest's robe signify?",
+        "options": ["His movement, ensuring he was alive in the Holy Place", "Calling people to worship", "Ward off evil spirits", "Musical accompaniment"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Hard",
+        "verseReference": "Exodus 28:35",
+        "verseText": "And it shall be on Aaron when he ministers, and its sound shall be heard when he goes into the Holy Place before the LORD, and when he comes out, so that he does not die. (ESV)"
+    },
+    {
+        "text": "How long was the ordination ceremony for Aaron and his sons?",
+        "options": ["Seven days", "One day", "Three days", "Forty days"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Hard",
+        "verseReference": "Exodus 29:35",
+        "verseText": "Thus you shall do to Aaron and to his sons, according to all that I have commanded you. Through seven days shall you ordain them. (ESV)"
+    },
+    {
+        "text": "What happened immediately after Moses finished setting up the Tabernacle?",
+        "options": ["The glory of the Lord filled it via the cloud", "Aaron offered the first sacrifice", "The people shouted for joy", "Moses blessed the people"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Hard",
+        "verseReference": "Exodus 40:33-34",
+        "verseText": "And he erected the court around the tabernacle and the altar, and set up the screen of the gate of the court. So Moses finished the work. Then the cloud covered the tent of meeting, and the glory of the LORD filled the tabernacle. (ESV)"
+    },
+    {
+        "text": "What was the name of the place where Israel camped between Migdol and the sea?",
+        "options": ["Pi-hahiroth", "Succoth", "Etham", "Marah"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Hard",
+        "verseReference": "Exodus 14:2",
+        "verseText": "Tell the people of Israel to turn back and encamp in front of Pi-hahiroth, between Migdol and the sea, in front of Baal-zephon; you shall encamp facing it, by the sea. (ESV)"
+    },
+    {
+        "text": "What was the approximate value of a talent of silver in shekels?",
+        "options": ["3000 shekels", "1000 shekels", "5000 shekels", "6000 shekels"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Hard",
+        "verseReference": "Exodus 38:25-26",
+        "verseText": "The silver from those of the congregation who were recorded was 100 talents and 1,775 shekels... a beka a head (that is, half a shekel...) for everyone who was listed in the records, from twenty years old and upward, for 603,550 men. (ESV) [Calculation: 603,550 men * 0.5 shekel/man = 301,775 shekels. 100 talents + 1775 shekels = 301,775 shekels. Therefore, 100 talents = 300,000 shekels, so 1 talent = 3000 shekels.]"
+    },
+    {
+        "text": "What specific items were placed *inside* the Ark of the Covenant according to Hebrews 9:4 (though Exodus only mentions the tablets initially)?",
+        "options": ["Gold jar of manna, Aaron's staff that budded, tablets of the covenant", "Only the tablets", "Scroll of the Law, Urim/Thummim", "Anointing oil, incense"],
+        "correctAnswerIndex": 0,
+        "book": "Exodus",
+        "difficulty": "Hard",
+        "verseReference": "Hebrews 9:4",
+        "verseText": "having the golden altar of incense and the ark of the covenant covered on all sides with gold, in which was a golden urn holding the manna, and Aaron's staff that budded, and the tablets of the covenant. (ESV) [This integrates later traditions/events with the Exodus object]"
     }
 ]

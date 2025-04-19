@@ -925,5 +925,1058 @@
         "difficulty": "Hard",
         "verseReference": "Genesis 41:45",
         "verseText": "And Pharaoh called Joseph's name Zaphenath-paneah. And he gave him in marriage Asenath, the daughter of Potiphera priest of On. So Joseph went out over the land of Egypt. (ESV)"
+    },
+    {
+        "text": "What did God create on the second day?",
+        "options": ["The expanse (sky)", "Land", "Sun and Moon", "Fish"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Easy",
+        "verseReference": "Genesis 1:6-8",
+        "verseText": "And God said, 'Let there be an expanse in the midst of the waters, and let it separate the waters from the waters.' ... And God called the expanse Heaven. And there was evening and there was morning, the second day. (ESV)"
+    },
+    {
+        "text": "What did God create on the third day?",
+        "options": ["Dry land, seas, and vegetation", "Birds and fish", "Animals", "Humans"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Easy",
+        "verseReference": "Genesis 1:9-13",
+        "verseText": "And God said, 'Let the waters under the heavens be gathered together into one place, and let the dry land appear.' ... And God said, 'Let the earth sprout vegetation, plants yielding seed, and fruit trees bearing fruit...' And there was evening and there was morning, the third day. (ESV)"
+    },
+    {
+        "text": "What did God create on the fourth day?",
+        "options": ["Sun, moon, and stars", "Land animals", "Birds", "Fish"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Easy",
+        "verseReference": "Genesis 1:14-19",
+        "verseText": "And God said, 'Let there be lights in the expanse of the heavens to separate the day from the night.' ... And God made the two great lights—the greater light to rule the day and the lesser light to rule the night—and the stars. ... And there was evening and there was morning, the fourth day. (ESV)"
+    },
+    {
+        "text": "What did God create on the fifth day?",
+        "options": ["Sea creatures and birds", "Land animals", "Humans", "Plants"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Easy",
+        "verseReference": "Genesis 1:20-23",
+        "verseText": "And God said, 'Let the waters swarm with swarms of living creatures, and let birds fly above the earth across the expanse of the heavens.' ... And there was evening and there was morning, the fifth day. (ESV)"
+    },
+    {
+        "text": "What did God do on the seventh day?",
+        "options": ["Rested", "Created humans", "Created light", "Planted a garden"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Easy",
+        "verseReference": "Genesis 2:2",
+        "verseText": "And on the seventh day God finished his work that he had done, and he rested on the seventh day from all his work that he had done. (ESV)"
+    },
+    {
+        "text": "Where did God place the man he had formed?",
+        "options": ["The Garden of Eden", "Mount Ararat", "The land of Nod", "Ur of the Chaldees"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Easy",
+        "verseReference": "Genesis 2:8",
+        "verseText": "And the LORD God planted a garden in Eden, in the east, and there he put the man whom he had formed. (ESV)"
+    },
+    {
+        "text": "What was the name of the tree whose fruit Adam and Eve were forbidden to eat?",
+        "options": ["The tree of the knowledge of good and evil", "The tree of life", "The fig tree", "The olive tree"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Easy",
+        "verseReference": "Genesis 2:17",
+        "verseText": "but of the tree of the knowledge of good and evil you shall not eat, for in the day that you eat of it you shall surely die. (ESV)"
+    },
+    {
+        "text": "What creature tempted Eve to eat the forbidden fruit?",
+        "options": ["Serpent", "Lion", "Eagle", "Goat"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Easy",
+        "verseReference": "Genesis 3:1",
+        "verseText": "Now the serpent was more crafty than any other beast of the field that the LORD God had made. He said to the woman, 'Did God actually say, \"You shall not eat of any tree in the garden\"?' (ESV)"
+    },
+    {
+        "text": "What was Cain's occupation?",
+        "options": ["Tiller of the ground", "Keeper of sheep", "Builder", "Hunter"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Easy",
+        "verseReference": "Genesis 4:2",
+        "verseText": "Now Abel was a keeper of sheep, and Cain a worker of the ground. (ESV)"
+    },
+    {
+        "text": "What was Abel's occupation?",
+        "options": ["Keeper of sheep", "Tiller of the ground", "Fisherman", "Carpenter"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Easy",
+        "verseReference": "Genesis 4:2",
+        "verseText": "Now Abel was a keeper of sheep, and Cain a worker of the ground. (ESV)"
+    },
+    {
+        "text": "Why was God pleased with Abel's offering but not Cain's?",
+        "options": ["Abel offered the firstborn of his flock", "Cain offered fruit", "Abel's offering was larger", "Cain's offering was late"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Easy",
+        "verseReference": "Genesis 4:4-5",
+        "verseText": "and Abel also brought of the firstborn of his flock and of their fat portions. And the LORD had regard for Abel and his offering, but for Cain and his offering he had no regard. (ESV)"
+    },
+    {
+        "text": "Where did Cain go after killing Abel?",
+        "options": ["The land of Nod", "Eden", "Babel", "Ur"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Easy",
+        "verseReference": "Genesis 4:16",
+        "verseText": "Then Cain went away from the presence of the LORD and settled in the land of Nod, east of Eden. (ESV)"
+    },
+    {
+        "text": "How many of each kind of unclean animal did Noah take on the ark?",
+        "options": ["One pair", "Seven pairs", "Two pairs", "Three pairs"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Easy",
+        "verseReference": "Genesis 7:2",
+        "verseText": "Take with you seven pairs of all clean animals, the male and his mate, and a pair of the animals that are not clean, the male and his mate. (ESV)"
+    },
+    {
+        "text": "How long did it rain during the great flood?",
+        "options": ["40 days and 40 nights", "7 days and 7 nights", "150 days", "1 year"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Easy",
+        "verseReference": "Genesis 7:12",
+        "verseText": "And rain fell upon the earth forty days and forty nights. (ESV)"
+    },
+    {
+        "text": "What bird did Noah send out that returned with an olive leaf?",
+        "options": ["Dove", "Raven", "Sparrow", "Eagle"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Easy",
+        "verseReference": "Genesis 8:11",
+        "verseText": "And the dove came back to him in the evening, and behold, in her mouth was a freshly plucked olive leaf. So Noah knew that the waters had subsided from the earth. (ESV)"
+    },
+    {
+        "text": "What did the people try to build at Babel?",
+        "options": ["A tower to reach heaven", "A great city", "A large temple", "A palace"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Easy",
+        "verseReference": "Genesis 11:4",
+        "verseText": "Then they said, 'Come, let us build ourselves a city and a tower with its top in the heavens, and let us make a name for ourselves, lest we be dispersed over the face of the whole earth.' (ESV)"
+    },
+    {
+        "text": "What did God promise Abraham concerning his descendants?",
+        "options": ["They would be as numerous as the stars", "They would rule the world", "They would all be priests", "They would live forever"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Easy",
+        "verseReference": "Genesis 15:5",
+        "verseText": "And he brought him outside and said, 'Look toward heaven, and number the stars, if you are able to number them.' Then he said to him, 'So shall your offspring be.' (ESV)"
+    },
+    {
+        "text": "What did God destroy Sodom and Gomorrah with?",
+        "options": ["Sulfur and fire", "Flood", "Earthquake", "Plague"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Easy",
+        "verseReference": "Genesis 19:24",
+        "verseText": "Then the LORD rained on Sodom and Gomorrah sulfur and fire from the LORD out of heaven. (ESV)"
+    },
+    {
+        "text": "Who laughed when she heard she would have a son in her old age?",
+        "options": ["Sarah", "Rebekah", "Rachel", "Leah"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Easy",
+        "verseReference": "Genesis 18:12",
+        "verseText": "So Sarah laughed to herself, saying, 'After I am worn out, and my lord is old, shall I have pleasure?' (ESV)"
+    },
+    {
+        "text": "What did Esau sell his birthright for?",
+        "options": ["Stew", "Gold", "Land", "Sheep"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Easy",
+        "verseReference": "Genesis 25:33-34",
+        "verseText": "Jacob said, 'Swear to me now.' So he swore to him and sold his birthright to Jacob. Then Jacob gave Esau bread and lentil stew, and he ate and drank and rose and went his way. Thus Esau despised his birthright. (ESV)"
+    },
+    {
+        "text": "How did Jacob deceive his father Isaac to receive Esau's blessing?",
+        "options": ["Wore Esau's clothes and animal skins", "Disguised his voice", "Brought him food quickly", "All of the above"],
+        "correctAnswerIndex": 3,
+        "book": "Genesis",
+        "difficulty": "Easy",
+        "verseReference": "Genesis 27:15-23",
+        "verseText": "Then Rebekah took the best garments of Esau her older son... and put them on Jacob her younger son. And the skins of the young goats she put on his hands and on the smooth part of his neck... So he went in to his father and said, 'My father.' And he said, 'Here I am. Who are you, my son?' Jacob said to his father, 'I am Esau your firstborn...' (ESV)"
+    },
+    {
+        "text": "Who was Jacob's first wife?",
+        "options": ["Leah", "Rachel", "Bilhah", "Zilpah"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Easy",
+        "verseReference": "Genesis 29:23",
+        "verseText": "But in the evening he took his daughter Leah and brought her to Jacob, and he went in to her. (ESV)"
+    },
+    {
+        "text": "Which of Jacob's sons was sold into slavery by his brothers?",
+        "options": ["Joseph", "Reuben", "Judah", "Benjamin"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Easy",
+        "verseReference": "Genesis 37:28",
+        "verseText": "Then Midianite traders passed by. And they drew Joseph up and lifted him out of the pit, and sold him to the Ishmaelites for twenty shekels of silver. They took Joseph to Egypt. (ESV)"
+    },
+    {
+        "text": "What ability did God give Joseph?",
+        "options": ["Interpret dreams", "Heal the sick", "Control weather", "Speak all languages"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Easy",
+        "verseReference": "Genesis 40:8",
+        "verseText": "They said to him, 'We have had dreams, and there is no one to interpret them.' And Joseph said to them, 'Do not interpretations belong to God? Please tell them to me.' (ESV)"
+    },
+    {
+        "text": "What did Pharaoh dream about that Joseph interpreted?",
+        "options": ["Cows and grain", "Stars and moon", "Locusts and frogs", "Rivers and mountains"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Easy",
+        "verseReference": "Genesis 41:1-7, 25-31",
+        "verseText": "After two whole years, Pharaoh dreamed that he was standing by the Nile, and behold, there came up out of the Nile seven cows, attractive and plump... Then he fell asleep and dreamed a second time, and behold, seven ears of grain, plump and good, were growing on one stalk... Joseph said to Pharaoh, 'The dreams of Pharaoh are one; God has revealed to Pharaoh what he is about to do.' (ESV)"
+    },
+    {
+        "text": "How many years of famine did Joseph predict?",
+        "options": ["7", "3", "5", "10"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Easy",
+        "verseReference": "Genesis 41:30",
+        "verseText": "then there will arise after them seven years of famine, and all the plenty will be forgotten in the land of Egypt. The famine will consume the land. (ESV)"
+    },
+    {
+        "text": "Where did Jacob and his family settle in Egypt?",
+        "options": ["Goshen", "Memphis", "Thebes", "Alexandria"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Easy",
+        "verseReference": "Genesis 47:6",
+        "verseText": "the land of Egypt is before you; settle your father and your brothers in the best of the land. Let them settle in the land of Goshen. (ESV)"
+    },
+    {
+        "text": "Which son did Jacob bless more, Ephraim or Manasseh?",
+        "options": ["Ephraim (the younger)", "Manasseh (the older)", "He blessed them equally", "He refused to bless them"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Easy",
+        "verseReference": "Genesis 48:17-19",
+        "verseText": "When Joseph saw that his father laid his right hand on the head of Ephraim, it displeased him... But his father refused and said, 'I know, my son, I know. He also shall become a people, and he also shall be great. Nevertheless, his younger brother shall be greater than he...' (ESV)"
+    },
+    {
+        "text": "Where was Jacob buried?",
+        "options": ["Cave of Machpelah in Canaan", "Egypt", "Goshen", "Shechem"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Easy",
+        "verseReference": "Genesis 50:13",
+        "verseText": "For his sons carried him to the land of Canaan and buried him in the cave of the field of Machpelah, to the east of Mamre, which Abraham bought with the field from Ephron the Hittite to possess as a burying place. (ESV)"
+    },
+    {
+        "text": "What were the names of the two trees specifically mentioned in the middle of the Garden of Eden?",
+        "options": ["Tree of life and Tree of knowledge of good and evil", "Fig tree and Olive tree", "Cedar tree and Oak tree", "Pomegranate tree and Apple tree"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Medium",
+        "verseReference": "Genesis 2:9",
+        "verseText": "And out of the ground the LORD God made to spring up every tree that is pleasant to the sight and good for food. The tree of life was in the midst of the garden, and the tree of the knowledge of good and evil. (ESV)"
+    },
+    {
+        "text": "What were the names of the four rivers that flowed out of Eden?",
+        "options": ["Pishon, Gihon, Tigris, Euphrates", "Nile, Jordan, Kishon, Arnon", "Abana, Pharpar, Chebar, Ulai", "Jordan, Yarmouk, Zarqa, Litani"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Medium",
+        "verseReference": "Genesis 2:10-14",
+        "verseText": "A river flowed out of Eden to water the garden, and there it divided and became four rivers. The name of the first is the Pishon... The name of the second river is the Gihon... And the name of the third river is the Tigris... And the fourth river is the Euphrates. (ESV)"
+    },
+    {
+        "text": "What material did God use to clothe Adam and Eve after they sinned?",
+        "options": ["Garments of skin", "Fig leaves", "Wool", "Linen"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Medium",
+        "verseReference": "Genesis 3:21",
+        "verseText": "And the LORD God made for Adam and for his wife garments of skins and clothed them. (ESV)"
+    },
+    {
+        "text": "Who was the father of Enoch, the man who walked with God?",
+        "options": ["Jared", "Methuselah", "Lamech", "Seth"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Medium",
+        "verseReference": "Genesis 5:18",
+        "verseText": "When Jared had lived 162 years, he fathered Enoch. (ESV)"
+    },
+    {
+        "text": "Who were the 'Nephilim' mentioned before the flood?",
+        "options": ["Offspring of sons of God and daughters of men", "Fallen angels", "Giants", "All of the above interpretations exist"],
+        "correctAnswerIndex": 3,
+        "book": "Genesis",
+        "difficulty": "Medium",
+        "verseReference": "Genesis 6:4",
+        "verseText": "The Nephilim were on the earth in those days, and also afterward, when the sons of God came in to the daughters of man and they bore children to them. These were the mighty men who were of old, the men of renown. (ESV)"
+    },
+    {
+        "text": "What were the dimensions of Noah's ark in cubits (length, width, height)?",
+        "options": ["300, 50, 30", "100, 20, 10", "500, 100, 50", "450, 75, 45"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Medium",
+        "verseReference": "Genesis 6:15",
+        "verseText": "This is how you are to make it: the length of the ark 300 cubits, its breadth 50 cubits, and its height 30 cubits. (ESV)"
+    },
+    {
+        "text": "How many levels or decks did Noah's ark have?",
+        "options": ["Three", "One", "Two", "Four"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Medium",
+        "verseReference": "Genesis 6:16",
+        "verseText": "Make a roof for the ark, and finish it to a cubit above, and set the door of the ark in its side. Make it with lower, second, and third decks. (ESV)"
+    },
+    {
+        "text": "Who were Noah's three sons who were on the ark with him?",
+        "options": ["Shem, Ham, Japheth", "Cain, Abel, Seth", "Abraham, Isaac, Jacob", "Reuben, Simeon, Levi"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Medium",
+        "verseReference": "Genesis 6:10",
+        "verseText": "And Noah had three sons, Shem, Ham, and Japheth. (ESV)"
+    },
+    {
+        "text": "What did God promise never to do again after the flood?",
+        "options": ["Destroy all life with a flood", "Curse the ground", "Confuse languages", "Send plagues"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Medium",
+        "verseReference": "Genesis 9:11",
+        "verseText": "I establish my covenant with you, that never again shall all flesh be cut off by the waters of the flood, and never again shall there be a flood to destroy the earth. (ESV)"
+    },
+    {
+        "text": "Which son of Noah was cursed because he saw his father's nakedness?",
+        "options": ["Ham (specifically his son Canaan)", "Shem", "Japheth", "All three were cursed"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Medium",
+        "verseReference": "Genesis 9:22-25",
+        "verseText": "And Ham, the father of Canaan, saw the nakedness of his father... When Noah awoke from his wine and knew what his youngest son had done to him, he said, 'Cursed be Canaan; a servant of servants shall he be to his brothers.' (ESV)"
+    },
+    {
+        "text": "Who was Abraham's father?",
+        "options": ["Terah", "Nahor", "Haran", "Shem"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Medium",
+        "verseReference": "Genesis 11:26",
+        "verseText": "When Terah had lived 70 years, he fathered Abram, Nahor, and Haran. (ESV)"
+    },
+    {
+        "text": "From which city did God call Abram (Abraham) to leave?",
+        "options": ["Ur of the Chaldees", "Haran", "Babylon", "Nineveh"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Medium",
+        "verseReference": "Genesis 11:31; 12:1",
+        "verseText": "Terah took Abram his son and Lot the son of Haran... and they went forth together from Ur of the Chaldees to go into the land of Canaan... Now the LORD said to Abram, 'Go from your country and your kindred and your father's house to the land that I will show you.' (ESV)"
+    },
+    {
+        "text": "Why did Abram and Lot separate?",
+        "options": ["Their possessions were too great to dwell together", "They had a disagreement", "God commanded them to separate", "Lot wanted to live in the city"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Medium",
+        "verseReference": "Genesis 13:6",
+        "verseText": "so that the land could not support both of them dwelling together; for their possessions were so great that they could not dwell together. (ESV)"
+    },
+    {
+        "text": "Who rescued Lot after he was captured by the kings who attacked Sodom?",
+        "options": ["Abram", "Melchizedek", "God directly", "The King of Sodom"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Medium",
+        "verseReference": "Genesis 14:14-16",
+        "verseText": "When Abram heard that his kinsman had been taken captive, he led forth his trained men... and went in pursuit as far as Dan... Then he brought back all the possessions, and also brought back his kinsman Lot with his possessions, and the women and the people. (ESV)"
+    },
+    {
+        "text": "What did Melchizedek, king of Salem, give to Abram?",
+        "options": ["Bread and wine", "Gold and silver", "Sheep and oxen", "A blessing only"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Medium",
+        "verseReference": "Genesis 14:18",
+        "verseText": "And Melchizedek king of Salem brought out bread and wine. (He was priest of God Most High.) (ESV)"
+    },
+    {
+        "text": "What did Abram give to Melchizedek?",
+        "options": ["A tenth of everything", "A blessing", "His best sheep", "Nothing"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Medium",
+        "verseReference": "Genesis 14:20",
+        "verseText": "And blessed be God Most High, who has delivered your enemies into your hand!' And Abram gave him a tenth of everything. (ESV)"
+    },
+    {
+        "text": "What physical sign of the covenant did God command Abraham and his descendants to practice?",
+        "options": ["Circumcision", "Baptism", "Wearing tassels", "Sacrificing lambs"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Medium",
+        "verseReference": "Genesis 17:10-11",
+        "verseText": "This is my covenant, which you shall keep, between me and you and your offspring after you: Every male among you shall be circumcised. You shall be circumcised in the flesh of your foreskins, and it shall be a sign of the covenant between me and you. (ESV)"
+    },
+    {
+        "text": "How many righteous people did Abraham initially ask God to find in Sodom to spare it?",
+        "options": ["Fifty", "Ten", "One hundred", "Twenty"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Medium",
+        "verseReference": "Genesis 18:24",
+        "verseText": "Suppose there are fifty righteous within the city. Will you then sweep away the place and not spare it for the fifty righteous who are in it? (ESV)"
+    },
+    {
+        "text": "What was the lowest number of righteous people Abraham negotiated for God to spare Sodom?",
+        "options": ["Ten", "Five", "Fifteen", "One"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Medium",
+        "verseReference": "Genesis 18:32",
+        "verseText": "Then he said, 'Oh let not the Lord be angry, and I will speak again but this once. Suppose ten are found there.' He answered, 'For the sake of ten I will not destroy it.' (ESV)"
+    },
+    {
+        "text": "Who warned Lot to flee Sodom?",
+        "options": ["Two angels", "Abraham", "God in a dream", "Melchizedek"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Medium",
+        "verseReference": "Genesis 19:1, 15",
+        "verseText": "The two angels came to Sodom in the evening... When morning dawned, the angels urged Lot, saying, 'Up! Take your wife and your two daughters who are here, lest you be swept away in the punishment of the city.' (ESV)"
+    },
+    {
+        "text": "What did God provide as a substitute sacrifice for Isaac?",
+        "options": ["A ram caught in a thicket", "A lamb", "A goat", "A bull"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Medium",
+        "verseReference": "Genesis 22:13",
+        "verseText": "And Abraham lifted up his eyes and looked, and behold, behind him was a ram, caught in a thicket by his horns. And Abraham went and took the ram and offered it up as a burnt offering instead of his son. (ESV)"
+    },
+    {
+        "text": "Who did Abraham buy the cave of Machpelah from?",
+        "options": ["Ephron the Hittite", "Abimelech", "Pharaoh", "Melchizedek"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Medium",
+        "verseReference": "Genesis 23:16-18",
+        "verseText": "Abraham listened to Ephron, and Abraham weighed out for Ephron the silver that he had named in the hearing of the Hittites, four hundred shekels of silver... So the field of Ephron in Machpelah... became Abraham's property... (ESV)"
+    },
+    {
+        "text": "What gifts did Abraham's servant give to Rebekah at the well?",
+        "options": ["A gold nose ring and two gold bracelets", "Camels and servants", "Silver and clothing", "Food and water"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Medium",
+        "verseReference": "Genesis 24:22",
+        "verseText": "When the camels had finished drinking, the man took a gold ring weighing a half shekel, and two bracelets for her arms weighing ten gold shekels. (ESV)"
+    },
+    {
+        "text": "Who was Rebekah's brother?",
+        "options": ["Laban", "Bethuel", "Nahor", "Haran"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Medium",
+        "verseReference": "Genesis 24:29",
+        "verseText": "Rebekah had a brother whose name was Laban. Laban ran out toward the man, to the spring. (ESV)"
+    },
+    {
+        "text": "What physical characteristic distinguished Esau from Jacob at birth?",
+        "options": ["Esau was hairy, Jacob was smooth", "Esau was larger", "Jacob held Esau's heel", "Esau was red"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Medium",
+        "verseReference": "Genesis 25:25-26",
+        "verseText": "The first came out red, all his body like a hairy cloak, so they called his name Esau. Afterward his brother came out with his hand holding Esau's heel, so his name was called Jacob. (ESV)"
+    },
+    {
+        "text": "Where did Jacob flee to escape Esau's anger?",
+        "options": ["Haran, to Laban", "Egypt", "The wilderness", "Gerar"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Medium",
+        "verseReference": "Genesis 27:43-28:2",
+        "verseText": "Now therefore, my son, obey my voice; arise, flee to Laban my brother in Haran... Then Isaac called Jacob and blessed him and directed him, 'You must not take a wife from the Canaanite women. Arise, go to Paddan-aram to the house of Bethuel your mother's father...' (ESV)"
+    },
+    {
+        "text": "What did Jacob name the place where he dreamed of the ladder?",
+        "options": ["Bethel (House of God)", "Peniel (Face of God)", "Mahanaim (Two Camps)", "Mizpah (Watchtower)"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Medium",
+        "verseReference": "Genesis 28:19",
+        "verseText": "He called the name of that place Bethel, but the name of the city was Luz at the first. (ESV)"
+    },
+    {
+        "text": "What object did Rachel steal from her father Laban when Jacob fled?",
+        "options": ["Household gods (teraphim)", "Gold", "Sheep", "Important documents"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Medium",
+        "verseReference": "Genesis 31:19",
+        "verseText": "Laban had gone to shear his sheep, and Rachel stole her father's household gods. (ESV)"
+    },
+    {
+        "text": "What injury did Jacob sustain while wrestling with the man at Peniel?",
+        "options": ["Hip put out of joint", "Broken arm", "Sprained ankle", "Dislocated shoulder"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Medium",
+        "verseReference": "Genesis 32:25",
+        "verseText": "When the man saw that he did not prevail against Jacob, he touched his hip socket, and Jacob's hip was put out of joint as he wrestled with him. (ESV)"
+    },
+    {
+        "text": "How did Jacob prepare to meet Esau after their long separation?",
+        "options": ["Divided his family and flocks into two groups", "Sent gifts ahead", "Prayed to God", "All of the above"],
+        "correctAnswerIndex": 3,
+        "book": "Genesis",
+        "difficulty": "Medium",
+        "verseReference": "Genesis 32:7-21",
+        "verseText": "Then Jacob was greatly afraid and distressed. He divided the people who were with him, and the flocks and herds and camels, into two camps... And he prayed... Then he took from what he had with him a present for his brother Esau... (ESV)"
+    },
+    {
+        "text": "Who defiled Dinah, Jacob's daughter?",
+        "options": ["Shechem, son of Hamor", "Pharaoh's son", "Esau's son", "One of Laban's sons"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Medium",
+        "verseReference": "Genesis 34:1-2",
+        "verseText": "Now Dinah the daughter of Leah, whom she had borne to Jacob, went out to see the women of the land. And when Shechem the son of Hamor the Hivite, the prince of the land, saw her, he seized her and lay with her and humiliated her. (ESV)"
+    },
+    {
+        "text": "Which two sons of Jacob took revenge on the Shechemites for Dinah?",
+        "options": ["Simeon and Levi", "Reuben and Judah", "Dan and Naphtali", "Gad and Asher"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Medium",
+        "verseReference": "Genesis 34:25",
+        "verseText": "On the third day, when they were sore, two of the sons of Jacob, Simeon and Levi, Dinah's brothers, took their swords and came against the city unaware and killed all the males. (ESV)"
+    },
+    {
+        "text": "Where did Rachel die and was buried?",
+        "options": ["On the way to Ephrath (Bethlehem)", "Hebron", "Shechem", "Haran"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Medium",
+        "verseReference": "Genesis 35:19",
+        "verseText": "So Rachel died, and she was buried on the way to Ephrath (that is, Bethlehem). (ESV)"
+    },
+    {
+        "text": "Who was the cupbearer whose dream Joseph interpreted favorably in prison?",
+        "options": ["Pharaoh's chief cupbearer", "Pharaoh's chief baker", "Potiphar", "The prison warden"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Medium",
+        "verseReference": "Genesis 40:9-13, 21",
+        "verseText": "So the chief cupbearer told his dream to Joseph... Joseph said to him, 'This is its interpretation... in three days Pharaoh will lift up your head and restore you to your office...' He restored the chief cupbearer to his position... (ESV)"
+    },
+    {
+        "text": "Who was the baker whose dream Joseph interpreted unfavorably in prison?",
+        "options": ["Pharaoh's chief baker", "Pharaoh's chief cupbearer", "Potiphar", "The prison warden"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Medium",
+        "verseReference": "Genesis 40:16-19, 22",
+        "verseText": "When the chief baker saw that the interpretation was favorable, he said to Joseph, 'I also had a dream...' Joseph answered and said, 'This is its interpretation... In three days Pharaoh will lift up your head—from you!—and hang you on a tree...' But he hanged the chief baker, as Joseph had interpreted to them. (ESV)"
+    },
+    {
+        "text": "What did Joseph accuse his brothers of being when they first came to Egypt?",
+        "options": ["Spies", "Thieves", "Murderers", "Liars"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Medium",
+        "verseReference": "Genesis 42:9",
+        "verseText": "And Joseph remembered the dreams that he had dreamed of them. And he said to them, 'You are spies; you have come to see the nakedness of the land.' (ESV)"
+    },
+    {
+        "text": "Which brother offered himself as a slave in Benjamin's place?",
+        "options": ["Judah", "Reuben", "Simeon", "Levi"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Medium",
+        "verseReference": "Genesis 44:33",
+        "verseText": "Now therefore, please let your servant remain instead of the boy as a servant to my lord, and let the boy go back with his brothers. (ESV)"
+    },
+    {
+        "text": "What blessing did Jacob give Judah concerning leadership?",
+        "options": ["The scepter shall not depart from Judah", "He would be the wealthiest", "He would be the high priest", "He would have the most land"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Medium",
+        "verseReference": "Genesis 49:10",
+        "verseText": "The scepter shall not depart from Judah, nor the ruler's staff from between his feet, until tribute comes to him; and to him shall be the obedience of the peoples. (ESV)"
+    },
+    {
+        "text": "What did Joseph make his brothers promise regarding his bones?",
+        "options": ["To carry them out of Egypt to Canaan", "To bury them in Goshen", "To build a monument", "To scatter them in the Nile"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Medium",
+        "verseReference": "Genesis 50:25",
+        "verseText": "Then Joseph made the sons of Israel swear, saying, 'God will surely visit you, and you shall carry up my bones from here.' (ESV)"
+    },
+    {
+        "text": "How old was Joseph when he died?",
+        "options": ["110", "100", "120", "90"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Medium",
+        "verseReference": "Genesis 50:26",
+        "verseText": "So Joseph died at the age of 110 years. They embalmed him, and he was put in a coffin in Egypt. (ESV)"
+    },
+    {
+        "text": "What does the name 'Adam' mean?",
+        "options": ["Man or Mankind (from Hebrew 'adamah' - ground)", "First", "Living", "Breath"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 2:7",
+        "verseText": "then the LORD God formed the man ('adam') of dust from the ground ('adamah') and breathed into his nostrils the breath of life, and the man became a living creature. (ESV)"
+    },
+    {
+        "text": "What does the name 'Eve' mean?",
+        "options": ["Life or Living (related to Hebrew 'chay')", "Woman", "Helper", "Rib"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 3:20",
+        "verseText": "The man called his wife's name Eve (Chavvah), because she was the mother of all living (chay). (ESV)"
+    },
+    {
+        "text": "Who was the first person recorded as practicing polygamy in the Bible?",
+        "options": ["Lamech (descendant of Cain)", "Cain", "Adam", "Noah"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 4:19",
+        "verseText": "And Lamech took two wives. The name of the one was Adah, and the name of the other Zillah. (ESV)"
+    },
+    {
+        "text": "Who were the sons of Lamech known for inventing musical instruments and metalworking?",
+        "options": ["Jubal and Tubal-cain", "Jabal and Jubal", "Enoch and Irad", "Methushael and Adah"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 4:21-22",
+        "verseText": "His brother's name was Jubal; he was the father of all those who play the lyre and pipe. Zillah also bore Tubal-cain; he was the forger of all instruments of bronze and iron. (ESV)"
+    },
+    {
+        "text": "How old was Adam when Seth was born?",
+        "options": ["130", "100", "235", "930"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 5:3",
+        "verseText": "When Adam had lived 130 years, he fathered a son in his own likeness, after his image, and named him Seth. (ESV)"
+    },
+    {
+        "text": "How old was Adam when he died?",
+        "options": ["930", "1000", "800", "777"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 5:5",
+        "verseText": "Thus all the days that Adam lived were 930 years, and he died. (ESV)"
+    },
+    {
+        "text": "How old was Enoch when God took him?",
+        "options": ["365", "969", "600", "150"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 5:23-24",
+        "verseText": "Thus all the days of Enoch were 365 years. Enoch walked with God, and he was not, for God took him. (ESV)"
+    },
+    {
+        "text": "What does the name 'Noah' mean?",
+        "options": ["Rest or Comfort", "Righteous", "Saved", "Builder"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 5:29",
+        "verseText": "He called his name Noah (Noach), saying, 'Out of the ground that the LORD has cursed, this one shall bring us relief (yenachamenu) from our work and from the painful toil of our hands.' (ESV)"
+    },
+    {
+        "text": "Besides Noah and his family, how many people survived the flood?",
+        "options": ["Zero", "Eight", "Two", "Seven"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 7:23",
+        "verseText": "He blotted out every living thing that was on the face of the ground, man and animals and creeping things and birds of the heavens. They were blotted out from the earth. Only Noah was left, and those who were with him in the ark. (ESV)"
+    },
+    {
+        "text": "Who is listed as the ancestor of the Babylonians, Assyrians, and Arameans?",
+        "options": ["Shem", "Ham", "Japheth", "Canaan"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 10:21-31",
+        "verseText": "To Shem also, the father of all the children of Eber... The sons of Shem: Elam, Asshur, Arpachshad, Lud, and Aram... (ESV)"
+    },
+    {
+        "text": "Who is listed as the ancestor of the Egyptians, Philistines, and Canaanites?",
+        "options": ["Ham", "Shem", "Japheth", "Eber"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 10:6-20",
+        "verseText": "The sons of Ham: Cush, Egypt (Mizraim), Put, and Canaan... Canaan fathered Sidon his firstborn and Heth... (ESV)"
+    },
+    {
+        "text": "Who was Abraham's brother whose son was Lot?",
+        "options": ["Haran", "Nahor", "Terah", "Shem"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 11:27",
+        "verseText": "Now these are the generations of Terah. Terah fathered Abram, Nahor, and Haran; and Haran fathered Lot. (ESV)"
+    },
+    {
+        "text": "Who was Nahor's wife (Abraham's sister-in-law)?",
+        "options": ["Milcah", "Sarai", "Iscah", "Keturah"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 11:29",
+        "verseText": "And Abram and Nahor took wives. The name of Abram's wife was Sarai, and the name of Nahor's wife, Milcah, the daughter of Haran the father of Milcah and Iscah. (ESV)"
+    },
+    {
+        "text": "What lie did Abraham tell about Sarah twice (to Pharaoh and Abimelech)?",
+        "options": ["She is my sister", "She is my cousin", "She is my servant", "She is infertile"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 12:13; 20:2",
+        "verseText": "Say you are my sister, that it may go well with me because of you... And Abraham said of Sarah his wife, 'She is my sister.' And Abimelech king of Gerar sent and took Sarah. (ESV)"
+    },
+    {
+        "text": "What prophecy did God give Abraham about his descendants' time in Egypt?",
+        "options": ["They would be afflicted for 400 years", "They would rule Egypt", "They would build pyramids", "They would forget God"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 15:13",
+        "verseText": "Then the LORD said to Abram, 'Know for certain that your offspring will be sojourners in a land that is not theirs and will be servants there, and they will be afflicted for four hundred years.' (ESV)"
+    },
+    {
+        "text": "What does the name 'Ishmael' mean?",
+        "options": ["God hears", "Wild donkey", "Son of the servant", "God provides"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 16:11",
+        "verseText": "The angel of the LORD also said to her, 'Behold, you are pregnant and shall bear a son. You shall call his name Ishmael (Yishma'el), because the LORD has listened (shama') to your affliction.' (ESV)"
+    },
+    {
+        "text": "What does the name 'Isaac' mean?",
+        "options": ["He laughs", "Promised son", "Joy", "Covenant child"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 21:6",
+        "verseText": "And Sarah said, 'God has made laughter (tsechoq) for me; everyone who hears will laugh (yitschaq-li) over me.' (ESV)"
+    },
+    {
+        "text": "Where did Hagar and Ishmael go after being sent away by Abraham?",
+        "options": ["Wilderness of Beersheba", "Egypt", "Moab", "Midian"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 21:14",
+        "verseText": "So Abraham rose early in the morning and took bread and a skin of water and gave it to Hagar... and sent her away. And she departed and wandered in the wilderness of Beersheba. (ESV)"
+    },
+    {
+        "text": "What does 'Beersheba' mean, the place where Abraham made a treaty with Abimelech?",
+        "options": ["Well of the oath", "Well of seven", "Place of vision", "Both A and B"],
+        "correctAnswerIndex": 3,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 21:31",
+        "verseText": "Therefore that place was called Beersheba (Be'er Sheva'), because there both of them swore an oath (nishbe'u). (Sheva also means seven, referring to the seven ewe lambs in v. 28-30). (ESV)"
+    },
+    {
+        "text": "What does Abraham name the place where he was about to sacrifice Isaac?",
+        "options": ["The LORD Will Provide (Yahweh-Yireh)", "Bethel (House of God)", "Peniel (Face of God)", "Moriah"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 22:14",
+        "verseText": "So Abraham called the name of that place, 'The LORD will provide' (Yahweh-Yireh); as it is said to this day, 'On the mount of the LORD it shall be provided.' (ESV)"
+    },
+    {
+        "text": "How old was Sarah when she died?",
+        "options": ["127", "100", "90", "137"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 23:1",
+        "verseText": "Sarah lived 127 years; these were the years of the life of Sarah. (ESV)"
+    },
+    {
+        "text": "Who was Rebekah's father?",
+        "options": ["Bethuel", "Laban", "Nahor", "Haran"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 24:15",
+        "verseText": "Before he had finished speaking, behold, Rebekah, who was born to Bethuel the son of Milcah, the wife of Nahor, Abraham's brother, came out... (ESV)"
+    },
+    {
+        "text": "How old was Abraham when he died?",
+        "options": ["175", "100", "127", "200"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 25:7",
+        "verseText": "These are the days of the years of Abraham's life, 175 years. (ESV)"
+    },
+    {
+        "text": "Who buried Abraham, and where?",
+        "options": ["Isaac and Ishmael in the cave of Machpelah", "Isaac alone in Hebron", "His servants in Beersheba", "Jacob and Esau in Canaan"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 25:9",
+        "verseText": "Isaac and Ishmael his sons buried him in the cave of Machpelah, in the field of Ephron the son of Zohar the Hittite, east of Mamre. (ESV)"
+    },
+    {
+        "text": "How old was Isaac when he married Rebekah?",
+        "options": ["40", "60", "20", "100"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 25:20",
+        "verseText": "and Isaac was forty years old when he took Rebekah to be his wife, the daughter of Bethuel the Aramean of Paddan-aram, the sister of Laban the Aramean. (ESV)"
+    },
+    {
+        "text": "How old was Isaac when Jacob and Esau were born?",
+        "options": ["60", "40", "80", "100"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 25:26",
+        "verseText": "Afterward his brother came out with his hand holding Esau's heel, so his name was called Jacob. Isaac was sixty years old when she bore them. (ESV)"
+    },
+    {
+        "text": "What does the name 'Jacob' mean?",
+        "options": ["Heel-grabber or Supplanter", "Father of many", "Prince with God", "Dreamer"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 25:26; 27:36",
+        "verseText": "Afterward his brother came out with his hand holding Esau's heel ('aqeb'), so his name was called Jacob (Ya'aqob)... Esau said, 'Is he not rightly named Jacob? For he has cheated (ya'qebeni') me these two times.' (ESV)"
+    },
+    {
+        "text": "What does the name 'Esau' likely relate to?",
+        "options": ["Hairy (Hebrew 'se'ar')", "Red (Hebrew 'admoni')", "Hunter", "Both A and B"],
+        "correctAnswerIndex": 3,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 25:25",
+        "verseText": "The first came out red ('admoni'), all his body like a hairy ('se'ar') cloak, so they called his name Esau ('Esav'). (ESV)"
+    },
+    {
+        "text": "Who were Esau's Hittite wives that grieved Isaac and Rebekah?",
+        "options": ["Judith and Basemath", "Adah and Oholibamah", "Leah and Rachel", "Milcah and Iscah"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 26:34-35",
+        "verseText": "When Esau was forty years old, he took Judith the daughter of Beeri the Hittite to be his wife, and Basemath the daughter of Elon the Hittite, and they made life bitter for Isaac and Rebekah. (ESV)"
+    },
+    {
+        "text": "What vow did Jacob make at Bethel after his dream?",
+        "options": ["To give God a tenth of all he received", "To build an altar there", "To serve God forever", "All of the above"],
+        "correctAnswerIndex": 3,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 28:20-22",
+        "verseText": "Then Jacob made a vow, saying, 'If God will be with me... then the LORD shall be my God, and this stone, which I have set up for a pillar, shall be God's house. And of all that you give me I will give a full tenth to you.' (ESV)"
+    },
+    {
+        "text": "What physical characteristic made Leah less favored by Jacob than Rachel?",
+        "options": ["Her eyes were weak/tender", "She was older", "She was infertile initially", "She was shorter"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 29:17",
+        "verseText": "Leah's eyes were weak, but Rachel was beautiful in form and appearance. (ESV)"
+    },
+    {
+        "text": "What did Rachel give Leah in exchange for a night with Jacob?",
+        "options": ["Mandrakes found by Reuben", "Her jewelry", "Her servant Bilhah", "Money"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 30:14-16",
+        "verseText": "In the days of wheat harvest Reuben went and found mandrakes in the field and brought them to his mother Leah. Then Rachel said to Leah, 'Please give me some of your son's mandrakes.' ... Rachel said, 'Then he may lie with you tonight in exchange for your son's mandrakes.' (ESV)"
+    },
+    {
+        "text": "What does the name 'Israel' mean?",
+        "options": ["He strives with God", "Prince of God", "God rules", "All of the above interpretations exist"],
+        "correctAnswerIndex": 3,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 32:28",
+        "verseText": "Then he said, 'Your name shall no longer be called Jacob, but Israel (Yisra'el), for you have striven (sarita') with God ('Elohim') and with men, and have prevailed.' (ESV)"
+    },
+    {
+        "text": "How many men did Esau bring with him when he came to meet Jacob?",
+        "options": ["400", "100", "1000", "50"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 32:6",
+        "verseText": "And the messengers returned to Jacob, saying, 'We came to your brother Esau, and he is coming to meet you, and there are four hundred men with him.' (ESV)"
+    },
+    {
+        "text": "Who was Rebekah's nurse who died and was buried near Bethel?",
+        "options": ["Deborah", "Hagar", "Zilpah", "Bilhah"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 35:8",
+        "verseText": "And Deborah, Rebekah's nurse, died, and she was buried under an oak below Bethel. So he called its name Allon-bacuth (Oak of Weeping). (ESV)"
+    },
+    {
+        "text": "Which of Jacob's sons slept with Bilhah, Jacob's concubine?",
+        "options": ["Reuben", "Judah", "Simeon", "Levi"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 35:22",
+        "verseText": "While Israel lived in that land, Reuben went and lay with Bilhah his father's concubine. And Israel heard of it. (ESV)"
+    },
+    {
+        "text": "How old was Isaac when he died?",
+        "options": ["180", "175", "147", "160"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 35:28",
+        "verseText": "Now the days of Isaac were 180 years. (ESV)"
+    },
+    {
+        "text": "Who buried Isaac?",
+        "options": ["Esau and Jacob", "Jacob alone", "Esau alone", "His servants"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 35:29",
+        "verseText": "And Isaac breathed his last, and he died and was gathered to his people, old and full of days. And his sons Esau and Jacob buried him. (ESV)"
+    },
+    {
+        "text": "What is another name for Esau, mentioned frequently in his genealogies?",
+        "options": ["Edom", "Seir", "Teman", "Amalek"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 36:1",
+        "verseText": "These are the generations of Esau (that is, Edom). (ESV)"
+    },
+    {
+        "text": "Who was Tamar, and who were her twin sons by Judah?",
+        "options": ["Judah's daughter-in-law; Perez and Zerah", "Judah's wife; Er and Onan", "Jacob's daughter; Ephraim and Manasseh", "Esau's wife; Eliphaz and Reuel"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 38:6, 27-30",
+        "verseText": "And Judah took a wife for Er his firstborn, and her name was Tamar... When the time of her labor came, there were twins in her womb... So his name was called Perez... Afterward his brother came out... So his name was called Zerah. (ESV)"
+    },
+    {
+        "text": "What accusation did Potiphar's wife make against Joseph?",
+        "options": ["He tried to lie with her", "He stole from Potiphar", "He insulted her", "He plotted against Pharaoh"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 39:14, 17",
+        "verseText": "she called to the men of her household and said to them, 'See, he has brought among us a Hebrew to laugh at us. He came in to me to lie with me, and I cried out with a loud voice.' ... Then she told him the same story, saying, 'The Hebrew servant, whom you have brought among us, came in to me to laugh at me.' (ESV)"
+    },
+    {
+        "text": "How long was Joseph in prison after interpreting the cupbearer's dream before being remembered?",
+        "options": ["Two full years", "One year", "Three years", "Immediately"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 40:23; 41:1",
+        "verseText": "Yet the chief cupbearer did not remember Joseph, but forgot him. After two whole years, Pharaoh dreamed... (ESV)"
+    },
+    {
+        "text": "How old was Joseph when he stood before Pharaoh?",
+        "options": ["30", "17", "40", "50"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 41:46",
+        "verseText": "Joseph was thirty years old when he entered the service of Pharaoh king of Egypt. (ESV)"
+    },
+    {
+        "text": "Who was Joseph's wife, the mother of Manasseh and Ephraim?",
+        "options": ["Asenath, daughter of Potiphera", "Potiphar's daughter", "An Egyptian princess", "Tamar"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 41:45",
+        "verseText": "And Pharaoh called Joseph's name Zaphenath-paneah. And he gave him in marriage Asenath, the daughter of Potiphera priest of On. (ESV)"
+    },
+    {
+        "text": "What percentage of produce did Joseph require the Egyptians to give Pharaoh during the famine?",
+        "options": ["One-fifth (20%)", "One-tenth (10%)", "One-half (50%)", "One-quarter (25%)"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 47:24",
+        "verseText": "And at the harvests you shall give a fifth to Pharaoh, and four fifths shall be your own... (ESV)"
+    },
+    {
+        "text": "How old was Jacob when he came to Egypt?",
+        "options": ["130", "100", "147", "120"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 47:9",
+        "verseText": "And Jacob said to Pharaoh, 'The days of the years of my sojourning are 130 years. Few and evil have been the days of the years of my life...' (ESV)"
+    },
+    {
+        "text": "How long did Jacob live in Egypt before he died?",
+        "options": ["17 years", "10 years", "7 years", "20 years"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 47:28",
+        "verseText": "And Jacob lived in the land of Egypt seventeen years. So the days of Jacob, the years of his life, were 147 years. (ESV)"
+    },
+    {
+        "text": "How long did the Egyptians mourn for Jacob?",
+        "options": ["70 days", "40 days", "7 days", "30 days"],
+        "correctAnswerIndex": 0,
+        "book": "Genesis",
+        "difficulty": "Hard",
+        "verseReference": "Genesis 50:3",
+        "verseText": "Forty days were required for it, for that is how many are required for embalming. And the Egyptians wept for him seventy days. (ESV)"
     }
 ]
