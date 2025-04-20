@@ -16,11 +16,18 @@ struct BibleQuestionBank {
         var filteredQuestions: [Question] = []
 
         if let book = book {
+            print("Selected book: \(book.rawValue)")
+            print("Cache state before loading: \(cachedQuestions[book]?.count ?? -1)")
+
             // Load questions for the specific book if not already cached
             if cachedQuestions[book] == nil {
-                cachedQuestions[book] = QuestionsDataLoader.loadQuestions(for: book)
+            let loadedQuestions = QuestionsDataLoader.loadQuestions(for: book)
+                print("About to cache \(loadedQuestions.count) questions")
+                cachedQuestions[book] = loadedQuestions
+                print("Cache state after loading: \(cachedQuestions[book]?.count ?? -1)")
             }
             filteredQuestions = cachedQuestions[book] ?? []
+            print("Number of questions loaded before difficulty : \(filteredQuestions.count)")
         } else {
             // Load all questions if no specific book is provided
             for book in BibleBook.allCases {
@@ -30,12 +37,12 @@ struct BibleQuestionBank {
                 filteredQuestions.append(contentsOf: cachedQuestions[book] ?? [])
             }
         }
-
+        
         // Filter by difficulty if specified
         if let difficulty = difficulty {
             filteredQuestions = filteredQuestions.filter { $0.difficulty == difficulty }
         }
-
+        // print("Number of questions loaded: \(filteredQuestions.count)")
         return filteredQuestions
     }
 

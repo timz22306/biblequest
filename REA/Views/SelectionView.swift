@@ -40,6 +40,7 @@ struct SelectionView: View {
     @State private var animateButtons = false
     @State private var animateQuestionOptions = false
     @State private var previousDifficulty: Difficulty? = nil
+    @State private var showBookSelection = true
     
     var body: some View {
         GeometryReader { geometry in
@@ -49,54 +50,128 @@ struct SelectionView: View {
             ScrollView {
                 VStack(alignment: .leading, spacing: AppLayout.wideSpacing) {
                     // Bible Book Selection - Adaptive grid layout
-                    selectionGroup(title: "Select a Book:", icon: "book") {
-                        LazyVGrid(
-                            columns: [
-                                GridItem(.adaptive(minimum: 80, maximum: 120), spacing: 12)
-                            ],
-                            spacing: 12
-                        ) {
-                            ForEach(viewModel.availableBooks, id: \.self) { book in
-                                Button(action: {
-                                    withAnimation(AppAnimation.quick) {
-                                        viewModel.selectedBook = book
-                                        // Reset subsequent selections when book changes
-                                        viewModel.selectedDifficulty = nil
-                                        viewModel.selectedQuestionCount = nil
+                    
+                    // Define categories and books
+                    let bibleBooks: [String: [String]] = [
+                        "Books of Law": ["Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy"],
+                        "Historical Books": ["Joshua", "Judges", "Ruth", "1 Samuel", "2 Samuel", "1 Kings", "2 Kings", "1 Chronicles", "2 Chronicles", "Ezra", "Nehemiah", "Esther"],
+                        "Poetic Books": ["Job", "Psalms", "Proverbs", "Ecclesiastes", "Song of Solomon"],
+                        "Prophetic Books": ["Isaiah", "Jeremiah", "Lamentations", "Ezekiel", "Daniel", "Hosea", "Joel", "Amos", "Obadiah", "Jonah", "Micah", "Nahum", "Habakkuk", "Zephaniah", "Haggai", "Zechariah", "Malachi"],
+                        "Gospels": ["Matthew", "Mark", "Luke", "John"],
+                        "Historical Book": ["Acts"],
+                        "Letters": ["Romans", "1 Corinthians", "2 Corinthians", "Galatians", "Ephesians", "Philippians", "Colossians", "1 Thessalonians", "2 Thessalonians", "1 Timothy", "2 Timothy", "Titus", "Philemon", "Hebrews", "James", "1 Peter", "2 Peter", "1 John", "2 John", "3 John", "Jude"],
+                        "Book of Vision": ["Revelation"]
+                    ]
+
+                    // Assign color themes to categories
+                    let categoryColors: [String: Color] = [
+                        "Books of Law": .red,
+                        "Historical Books": .orange,
+                        "Poetic Books": .yellow,
+                        "Prophetic Books": .green,
+                        "Gospels": .blue,
+                        "Historical Book": .purple,
+                        "Letters": .pink,
+                        "Book of Vision": .teal
+                    ]
+
+                    // Modify the book selection section
+                    if showBookSelection {
+                        selectionGroup(title: "Select a Book:", icon: "book") {
+                            let orderedCategories = [
+                                "Books of Law",
+                                "Historical Books",
+                                "Poetic Books",
+                                "Prophetic Books",
+                                "Gospels",
+                                "Historical Book",
+                                "Letters",
+                                "Book of Vision"
+                            ]
+                            
+                            ForEach(orderedCategories, id: \.self) { category in
+                                if let books = bibleBooks[category] {
+                                    VStack(alignment: .leading, spacing: AppLayout.tightSpacing) { // Reduced vertical spacing
+                                        HStack(spacing: 8) {
+                                            Image(systemName: "folder.fill")
+                                                .foregroundColor(categoryColors[category] ?? .primary)
+                                            Text(category)
+                                                .font(AppFonts.headline)
+                                                .foregroundColor(categoryColors[category] ?? .primary)
+                                        }
+                                        .padding(.horizontal, 20) // Align with other sections
+                                        .padding(.bottom, 4)
+                                        
+                                        LazyVGrid(
+                                            columns: [
+                                                GridItem(.fixed(80), spacing: 8), // Fixed width for uniform size, reduced horizontal spacing
+                                                GridItem(.fixed(80), spacing: 8),
+                                                GridItem(.fixed(80), spacing: 8)
+                                            ],
+                                            spacing: 8 // Reduced vertical spacing
+                                        ) {
+                                            ForEach(books, id: \.self) { book in
+                                                Button(action: {
+                                                    withAnimation(AppAnimation.quick) {
+                                                        viewModel.selectedBook = BibleBook(rawValue: book)
+                                                        viewModel.selectedDifficulty = nil
+                                                        viewModel.selectedQuestionCount = nil
+                                                        showBookSelection = false
+                                                    }
+                                                }) {
+                                                    Text(BibleBook(rawValue: book)?.abbreviation ?? book)
+                                                        .font(AppFonts.subheadline)
+                                                        .frame(width: 80, height: 40) // Uniform button size
+                                                        .background(
+                                                            RoundedRectangle(cornerRadius: AppLayout.cornerRadius)
+                                                                .fill(viewModel.selectedBook?.rawValue == book ? AppColors.primary : Color.gray.opacity(0.2))
+                                                        )
+                                                        .foregroundColor(viewModel.selectedBook?.rawValue == book ? .white : .primary)
+                                                }
+                                                .buttonStyle(PlainButtonStyle())
+                                            }
+                                        }
                                     }
-                                }) {
-                                    Text(book.abbreviation)
-                                        .font(AppFonts.subheadline)
-                                        .padding(.vertical, 10)
-                                        .padding(.horizontal, 16)
+                                    .padding(.vertical, 8)
                                 }
-                                .selectionButtonStyle(
-                                    isSelected: viewModel.selectedBook == book,
-                                    selectedColor: AppColors.primary
-                                )
-                                .padding(.vertical, 4)
-                                .offset(y: animateButtons ? 0 : 5)
-                                .animation(
-                                    AppAnimation.bounce.delay(Double(viewModel.availableBooks.firstIndex(of: book) ?? 0) * 0.03),
-                                    value: animateButtons
-                                )
                             }
+                        }
+                    } else {
+                        Button(action: {
+                            withAnimation(AppAnimation.quick) {
+                                showBookSelection = true
+                                viewModel.selectedBook = nil
+                                viewModel.selectedDifficulty = nil
+                                viewModel.selectedQuestionCount = nil
+                            }
+                        }) {
+                            HStack {
+                                Image(systemName: "arrow.uturn.backward")
+                                Text("Select Another Book")
+                            }
+                            .font(AppFonts.headline)
+                            .padding()
+                            .background(
+                                RoundedRectangle(cornerRadius: AppLayout.cornerRadius)
+                                    .fill(AppColors.primary)
+                            )
+                            .foregroundColor(.white)
+                            .shadow(radius: 5)
                         }
                         .padding(.horizontal)
-                        .padding(.vertical, 8)
-                        
-                        // Display full book name dynamically
-                        if let selectedBook = viewModel.selectedBook {
-                            HStack(spacing: 8) {
-                                Image(systemName: "book.fill")
-                                    .foregroundColor(AppColors.primary)
-                                Text("\(selectedBook.rawValue)")
-                                    .font(AppFonts.headline)
-                                    .foregroundColor(.blue) // Changed color to blue
-                            }
-                            .padding(.top, 12)
-                            .padding(.horizontal, 20) // Align with other sections
+                    }
+                    
+                    // Display full book name dynamically
+                    if let selectedBook = viewModel.selectedBook {
+                        HStack(spacing: 8) {
+                            Image(systemName: "book.fill")
+                                .foregroundColor(AppColors.primary)
+                            Text("\(selectedBook.rawValue)")
+                                .font(AppFonts.headline)
+                                .foregroundColor(.blue) // Changed color to blue
                         }
+                        .padding(.top, 12)
+                        .padding(.horizontal, 20) // Align with other sections
                     }
                     
                     // Difficulty Selection - Adaptive layout

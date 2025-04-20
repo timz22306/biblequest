@@ -1,0 +1,94 @@
+[
+    {
+        "text": "How was Elijah taken up to heaven?",
+        "options": ["In a whirlwind, with a chariot and horses of fire", "He died peacefully", "An angel carried him", "He walked up a mountain and disappeared"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Easy",
+        "verseReference": "2 Kings 2:11",
+        "verseText": "And as they still went on and talked, behold, chariots of fire and horses of fire separated the two of them. And Elijah went up by a whirlwind into heaven. (ESV)"
+    },
+    {
+        "text": "Who succeeded Elijah as the main prophet?",
+        "options": ["Elisha", "Isaiah", "Jonah", "Amos"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Easy",
+        "verseReference": "2 Kings 2:15",
+        "verseText": "Now when the sons of the prophets who were at Jericho saw him opposite them, they said, 'The spirit of Elijah rests on Elisha.' And they came to meet him and bowed to the ground before him. (ESV)"
+    },
+    {
+        "text": "What disease did Naaman, the Syrian commander, have that Elisha healed?",
+        "options": ["Leprosy", "Blindness", "Paralysis", "A fever"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Easy",
+        "verseReference": "2 Kings 5:1, 14",
+        "verseText": "Naaman, commander of the army of the king of Syria, was a great man with his master and in high favor... He was a mighty man of valor, but he was a leper... So he went down and dipped himself seven times in the Jordan, according to the word of the man of God, and his flesh was restored like the flesh of a little child, and he was clean. (ESV)"
+    },
+
+    {
+        "text": "What did Elisha ask for before Elijah was taken?",
+        "options": ["A double portion of Elijah's spirit", "Riches and honor", "Elijah's mantle", "To accompany Elijah to heaven"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Medium",
+        "verseReference": "2 Kings 2:9",
+        "verseText": "When they had crossed, Elijah said to Elisha, 'Ask what I shall do for you, before I am taken from you.' And Elisha said, 'Please let there be a double portion of your spirit on me.' (ESV)"
+    },
+    {
+        "text": "What miracle did Elisha perform involving a widow's oil?",
+        "options": ["He multiplied her oil so she could sell it and pay her debts", "He turned her oil into water", "He used oil to heal her son", "He found hidden oil for her"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Medium",
+        "verseReference": "2 Kings 4:6-7",
+        "verseText": "When the vessels were full, she said to her son, 'Bring me another vessel.' And he said to her, 'There is not another.' Then the oil stopped flowing. She came and told the man of God, and he said, 'Go, sell the oil and pay your debts, and you and your sons can live on the rest.' (ESV)"
+    },
+    {
+        "text": "Who was the wicked queen of Judah who killed almost all the royal family?",
+        "options": ["Athaliah", "Jezebel", "Maacah", "Nehushta"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Medium",
+        "verseReference": "2 Kings 11:1",
+        "verseText": "Now when Athaliah the mother of Ahaziah saw that her son was dead, she arose and destroyed all the royal family. (ESV)"
+    },
+    {
+        "text": "Which king of Judah repaired the Temple after years of neglect?",
+        "options": ["Joash (Jehoash)", "Hezekiah", "Josiah", "Manasseh"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Medium",
+        "verseReference": "2 Kings 12:4-5",
+        "verseText": "Jehoash said to the priests, 'All the money of the holy things that is brought into the house of the LORD... let the priests take, each from his donor, and let them repair the house wherever any need of repair is discovered.' (ESV) [Note: Hezekiah and Josiah also made repairs/reforms]"
+    },
+
+    {
+        "text": "What happened to the boys who mocked Elisha for his baldness near Bethel?",
+        "options": ["Two bears came out of the woods and mauled 42 of them", "Elisha cursed them with leprosy", "They were struck blind", "They fell into a pit"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Hard",
+        "verseReference": "2 Kings 2:23-24",
+        "verseText": "He went up from there to Bethel, and while he was going up on the way, some small boys came out of the city and jeered at him, saying, 'Go up, you baldhead! Go up, you baldhead!' And he turned around, and when he saw them, he cursed them in the name of the LORD. And two she-bears came out of the woods and tore forty-two of the boys. (ESV)"
+    },
+    {
+        "text": "What seemingly strange instruction did Elisha give Naaman to cure his leprosy?",
+        "options": ["Wash in the Jordan River seven times", "Offer a sacrifice on Mount Carmel", "Anoint himself with oil", "Eat a specific plant"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Hard",
+        "verseReference": "2 Kings 5:10",
+        "verseText": "And Elisha sent a messenger to him, saying, 'Go and wash in the Jordan seven times, and your flesh shall be restored, and you shall be clean.' (ESV)"
+    },
+    {
+        "text": "What object did Elisha make float in the water?",
+        "options": ["An iron axe head", "A stone", "His staff", "A shield"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Hard",
+        "verseReference": "2 Kings 6:5-6",
+        "verseText": "But as one was felling a beam, the axe head fell into the water. And he cried out, 'Alas, my master! It was borrowed.' Then the man of God said, 'Where did it fall?' When he showed him the place, he cut down a stick and threw it in there and made the iron float. (ESV)"
+    }
+]

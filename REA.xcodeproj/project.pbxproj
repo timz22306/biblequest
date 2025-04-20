@@ -33,6 +33,9 @@
 		AED1481B2DB35436008FE102 /* deuteronomy.json in Resources */ = {isa = PBXBuildFile; fileRef = AED1481A2DB35436008FE102 /* deuteronomy.json */; };
 		AED1481E2DB3CB95008FE102 /* joshua.json in Resources */ = {isa = PBXBuildFile; fileRef = AED1481C2DB3CB95008FE102 /* joshua.json */; };
 		AED1481F2DB3CB95008FE102 /* judges.json in Resources */ = {isa = PBXBuildFile; fileRef = AED1481D2DB3CB95008FE102 /* judges.json */; };
+		AEDD2C602DB45F84005722C1 /* 1_samuel.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C5E2DB45F84005722C1 /* 1_samuel.json */; };
+		AEDD2C612DB45F84005722C1 /* ruth.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C5F2DB45F84005722C1 /* ruth.json */; };
+		AEDD2C632DB48A91005722C1 /* 2_samuel.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C622DB48A91005722C1 /* 2_samuel.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -84,6 +87,9 @@
 		AED1481A2DB35436008FE102 /* deuteronomy.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = deuteronomy.json; path = REA/Data/deuteronomy.json; sourceTree = SOURCE_ROOT; };
 		AED1481C2DB3CB95008FE102 /* joshua.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = joshua.json; path = REA/Data/joshua.json; sourceTree = SOURCE_ROOT; };
 		AED1481D2DB3CB95008FE102 /* judges.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = judges.json; path = REA/Data/judges.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C5E2DB45F84005722C1 /* 1_samuel.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = 1_samuel.json; path = REA/Data/1_samuel.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C5F2DB45F84005722C1 /* ruth.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = ruth.json; path = REA/Data/ruth.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C622DB48A91005722C1 /* 2_samuel.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = 2_samuel.json; path = REA/Data/2_samuel.json; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -208,6 +214,9 @@
 		AEA276242DAF3BF8007618C1 /* BookData */ = {
 			isa = PBXGroup;
 			children = (
+				AEDD2C622DB48A91005722C1 /* 2_samuel.json */,
+				AEDD2C5E2DB45F84005722C1 /* 1_samuel.json */,
+				AEDD2C5F2DB45F84005722C1 /* ruth.json */,
 				AED1481C2DB3CB95008FE102 /* joshua.json */,
 				AED1481D2DB3CB95008FE102 /* judges.json */,
 				AED1481A2DB35436008FE102 /* deuteronomy.json */,
@@ -324,15 +333,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AEDD2C612DB45F84005722C1 /* ruth.json in Resources */,
 				AE3DB3B72DA192BF0032901D /* Preview Assets.xcassets in Resources */,
 				AE68B9112DB29A870010C529 /* biblequest_logo2.png in Resources */,
 				AED148172DB2E1D9008FE102 /* leviticus.json in Resources */,
 				AED1481B2DB35436008FE102 /* deuteronomy.json in Resources */,
 				AE3DB3B32DA192BF0032901D /* Assets.xcassets in Resources */,
 				AED1481F2DB3CB95008FE102 /* judges.json in Resources */,
+				AEDD2C602DB45F84005722C1 /* 1_samuel.json in Resources */,
 				AED148152DB2DAEE008FE102 /* genesis.json in Resources */,
 				AED1481E2DB3CB95008FE102 /* joshua.json in Resources */,
 				AEA276282DAF3C1F007618C1 /* exodus.json in Resources */,
+				AEDD2C632DB48A91005722C1 /* 2_samuel.json in Resources */,
 				AED148192DB35035008FE102 /* numbers.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

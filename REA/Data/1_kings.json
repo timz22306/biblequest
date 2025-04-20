@@ -1,0 +1,94 @@
+[
+    {
+        "text": "Who succeeded David as king of Israel?",
+        "options": ["Solomon", "Adonijah", "Absalom", "Joab"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Easy",
+        "verseReference": "1 Kings 1:39",
+        "verseText": "There Zadok the priest took the horn of oil from the tent and anointed Solomon. Then they blew the trumpet, and all the people said, 'Long live King Solomon!' (ESV)"
+    },
+    {
+        "text": "What gift did Solomon ask God for in the dream at Gibeon?",
+        "options": ["Wisdom (an understanding mind)", "Riches and honor", "Long life", "Victory over enemies"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Easy",
+        "verseReference": "1 Kings 3:9",
+        "verseText": "Give your servant therefore an understanding mind to govern your people, that I may discern between good and evil, for who is able to govern this your great people? (ESV)"
+    },
+    {
+        "text": "What famous judgment demonstrated Solomon's wisdom involving two women?",
+        "options": ["Determining the true mother of a baby", "Dividing land fairly", "Judging a theft case", "Settling a dispute between merchants"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Easy",
+        "verseReference": "1 Kings 3:27",
+        "verseText": "Then the king answered and said, 'Give the living child to the first woman, and by no means put him to death; she is his mother.' (ESV)"
+    },
+
+    {
+        "text": "Who was the primary builder and architect Solomon employed for the Temple?",
+        "options": ["Hiram of Tyre", "Zadok the priest", "Benaiah son of Jehoiada", "Jeroboam son of Nebat"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Medium",
+        "verseReference": "1 Kings 7:13-14",
+        "verseText": "And King Solomon sent and brought Hiram from Tyre. He was the son of a widow of the tribe of Naphtali, and his father was a man of Tyre, a worker in bronze. And he was full of wisdom, understanding, and skill for making any work in bronze. He came to King Solomon and did all his work. (ESV)"
+    },
+    {
+        "text": "Which queen visited Solomon to test his wisdom?",
+        "options": ["The Queen of Sheba", "Jezebel", "The Queen of Egypt", "Athaliah"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Medium",
+        "verseReference": "1 Kings 10:1",
+        "verseText": "Now when the queen of Sheba heard of the fame of Solomon concerning the name of the LORD, she came to test him with hard questions. (ESV)"
+    },
+    {
+        "text": "What caused Solomon to turn away from God in his old age?",
+        "options": ["His many foreign wives led him to worship their gods", "His immense wealth corrupted him", "He became proud of his wisdom", "Political pressure from other nations"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Medium",
+        "verseReference": "1 Kings 11:4",
+        "verseText": "For when Solomon was old his wives turned away his heart after other gods, and his heart was not wholly true to the LORD his God, as was the heart of David his father. (ESV)"
+    },
+    {
+        "text": "Who was the prophet who foretold the division of Solomon's kingdom by tearing a garment?",
+        "options": ["Ahijah the Shilonite", "Nathan", "Elijah", "Shemaiah"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Medium",
+        "verseReference": "1 Kings 11:29-31",
+        "verseText": "And at that time, when Jeroboam went out of Jerusalem, the prophet Ahijah the Shilonite found him on the road. Now Ahijah had dressed himself in a new garment. And the two of them were alone in the open country. Then Ahijah laid hold of the new garment that was on him, and tore it into twelve pieces. And he said to Jeroboam, 'Take for yourself ten pieces, for thus says the LORD, the God of Israel, \"Behold, I am about to tear the kingdom from the hand of Solomon and will give you ten tribes.\" (ESV)"
+    },
+
+    {
+        "text": "What were the names of the two bronze pillars Solomon erected at the entrance of the Temple?",
+        "options": ["Jachin and Boaz", "Urim and Thummim", "Cherubim and Seraphim", "Hiram and Solomon"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Hard",
+        "verseReference": "1 Kings 7:21",
+        "verseText": "He set up the pillars at the vestibule of the temple. He set up the pillar on the south and called its name Jachin, and he set up the pillar on the north and called its name Boaz. (ESV)"
+    },
+    {
+        "text": "What specific sin did Jeroboam son of Nebat establish in the Northern Kingdom (Israel) to prevent people from going to Jerusalem?",
+        "options": ["Setting up golden calves in Bethel and Dan", "Building temples to Baal", "Appointing non-Levite priests", "Changing the festival dates"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Hard",
+        "verseReference": "1 Kings 12:28-29",
+        "verseText": "So the king took counsel and made two calves of gold. And he said to the people, 'You have gone up to Jerusalem long enough. Behold your gods, O Israel, who brought you up out of the land of Egypt.' And he set one in Bethel, and the other he put in Dan. (ESV)"
+    },
+    {
+        "text": "Who was the 'man of God from Judah' who prophesied against Jeroboam's altar at Bethel and what sign confirmed his prophecy?",
+        "options": ["An unnamed prophet; the altar split apart and ashes poured out", "Shemaiah; Jeroboam's hand withered", "Ahijah; a lion killed the prophet", "Iddo; the golden calf crumbled"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Hard",
+        "verseReference": "1 Kings 13:2, 5",
+        "verseText": "And the man cried against the altar by the word of the LORD and said, 'O altar, altar, thus says the LORD: \"Behold, a son shall be born to the house of David, Josiah by name, and he shall sacrifice on you the priests of the high places who make offerings on you, and human bones shall be burned on you.\"'... The altar also was torn down, and the ashes poured out from the altar, according to the sign that the man of God had given by the word of the LORD. (ESV)"
+    }
+]

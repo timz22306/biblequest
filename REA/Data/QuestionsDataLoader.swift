@@ -2,17 +2,46 @@ import Foundation
 
 struct QuestionsDataLoader {
     static func loadQuestions(for book: BibleBook) -> [Question] {
-        let filename = book.rawValue.lowercased() + ".json"
+        let filenameBase = book.rawValue.replacingOccurrences(of: " ", with: "_").lowercased()
+        print("Filename base: \(filenameBase)")
+        let filename = filenameBase + ".json"
+        print("Loading questions from file: \(filename)")
         guard let url = Bundle.main.url(forResource: filename, withExtension: nil) else {
-            print("Could not find file: \(filename)")
+            print("Could not again find file: \(filename)")
             return []
         }
         do {
             let data = try Data(contentsOf: url)
+            // Debug: Print a sample of the JSON data
+            print("JSON sample: \(String(data: data.prefix(200), encoding: .utf8) ?? "Unable to show sample")")
+
             let decoder = JSONDecoder()
             decoder.keyDecodingStrategy = .convertFromSnakeCase
             let questions = try decoder.decode([QuestionJSON].self, from: data)
-            return questions.compactMap { $0.toQuestion() }
+            print("Number of questions loaded for \(book.rawValue): \(questions.count)")
+
+            // Debug: Print first question details
+            if let firstQuestion = questions.first {
+                print("First question - text: \(firstQuestion.text)")
+                print("First question - book: \(firstQuestion.book)")
+                print("First question - difficulty: \(firstQuestion.difficulty)")
+            }
+            // Debug: Count successful conversions
+            var converted = 0
+            var failed = 0
+            let result = questions.compactMap { question -> Question? in
+                if let q = question.toQuestion() {
+                    converted += 1
+                    return q
+                } else {
+                    failed += 1
+                    print("❌ Failed to convert question: book=\(question.book), difficulty=\(question.difficulty)")
+                    return nil
+                }
+            }
+
+            print("Conversion results: \(converted) succeeded, \(failed) failed")
+            return result
         } catch {
             print("Error loading questions for \(book): \(error)")
             return []

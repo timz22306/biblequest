@@ -49,7 +49,7 @@ struct LaunchScreenView: View {
                 DispatchQueue.main.asyncAfter(deadline: .now() + 2.0) {
                     withAnimation {
                         self.isActive = true
-                    }
+                    }   
                 }
             }
         }
