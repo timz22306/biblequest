@@ -26,7 +26,6 @@
         "verseReference": "1 Kings 3:27",
         "verseText": "Then the king answered and said, 'Give the living child to the first woman, and by no means put him to death; she is his mother.' (ESV)"
     },
-
     {
         "text": "Who was the primary builder and architect Solomon employed for the Temple?",
         "options": ["Hiram of Tyre", "Zadok the priest", "Benaiah son of Jehoiada", "Jeroboam son of Nebat"],
@@ -63,7 +62,6 @@
         "verseReference": "1 Kings 11:29-31",
         "verseText": "And at that time, when Jeroboam went out of Jerusalem, the prophet Ahijah the Shilonite found him on the road. Now Ahijah had dressed himself in a new garment. And the two of them were alone in the open country. Then Ahijah laid hold of the new garment that was on him, and tore it into twelve pieces. And he said to Jeroboam, 'Take for yourself ten pieces, for thus says the LORD, the God of Israel, \"Behold, I am about to tear the kingdom from the hand of Solomon and will give you ten tribes.\" (ESV)"
     },
-
     {
         "text": "What were the names of the two bronze pillars Solomon erected at the entrance of the Temple?",
         "options": ["Jachin and Boaz", "Urim and Thummim", "Cherubim and Seraphim", "Hiram and Solomon"],
@@ -90,5 +88,815 @@
         "difficulty": "Hard",
         "verseReference": "1 Kings 13:2, 5",
         "verseText": "And the man cried against the altar by the word of the LORD and said, 'O altar, altar, thus says the LORD: \"Behold, a son shall be born to the house of David, Josiah by name, and he shall sacrifice on you the priests of the high places who make offerings on you, and human bones shall be burned on you.\"'... The altar also was torn down, and the ashes poured out from the altar, according to the sign that the man of God had given by the word of the LORD. (ESV)"
+    },
+    {
+        "text": "What structure did Solomon spend many years building for the Lord?",
+        "options": ["The Temple", "A palace", "A fortress", "City walls"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Easy",
+        "verseReference": "1 Kings 6:1",
+        "verseText": "In the four hundred and eightieth year after the people of Israel came out of the land of Egypt, in the fourth year of Solomon's reign over Israel, in the month of Ziv, which is the second month, he began to build the house of the LORD. (ESV)"
+    },
+    {
+        "text": "After Solomon's death, who became king of Judah (the southern kingdom)?",
+        "options": ["Rehoboam", "Jeroboam", "Abijam", "Asa"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Easy",
+        "verseReference": "1 Kings 12:1",
+        "verseText": "Rehoboam went to Shechem, for all Israel had come to Shechem to make him king. (ESV)"
+    },
+    {
+        "text": "Who became the first king of Israel (the northern kingdom) after the split?",
+        "options": ["Jeroboam", "Rehoboam", "Nadab", "Baasha"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Easy",
+        "verseReference": "1 Kings 12:20",
+        "verseText": "And when all Israel heard that Jeroboam had returned, they sent and called him to the assembly and made him king over all Israel. There was none that followed the house of David but the tribe of Judah only. (ESV)"
+    },
+    {
+        "text": "What did the people ask Rehoboam to do regarding the heavy yoke Solomon had placed on them?",
+        "options": ["Lighten the yoke", "Increase their wages", "Build more cities", "Lower taxes"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Easy",
+        "verseReference": "1 Kings 12:4",
+        "verseText": "'Your father made our yoke heavy. Now therefore lighten the hard service of your father and his heavy yoke on us, and we will serve you.' (ESV)"
+    },
+    {
+        "text": "Whose advice did Rehoboam reject when deciding how to answer the people?",
+        "options": ["The old men who served Solomon", "The young men he grew up with", "The prophets", "His mother"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Easy",
+        "verseReference": "1 Kings 12:8",
+        "verseText": "But he abandoned the counsel that the old men gave him and took counsel with the young men who had grown up with him and stood before him. (ESV)"
+    },
+    {
+        "text": "What prophet appeared during the reign of King Ahab?",
+        "options": ["Elijah", "Elisha", "Isaiah", "Jeremiah"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Easy",
+        "verseReference": "1 Kings 17:1",
+        "verseText": "Now Elijah the Tishbite, of Tishbe in Gilead, said to Ahab, 'As the LORD, the God of Israel, lives, before whom I stand, there shall be neither dew nor rain these years, except by my word.' (ESV)"
+    },
+    {
+        "text": "What did Elijah predict would happen in Israel due to Ahab's wickedness?",
+        "options": ["A drought", "A flood", "An earthquake", "A plague"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Easy",
+        "verseReference": "1 Kings 17:1",
+        "verseText": "Now Elijah the Tishbite, of Tishbe in Gilead, said to Ahab, 'As the LORD, the God of Israel, lives, before whom I stand, there shall be neither dew nor rain these years, except by my word.' (ESV)"
+    },
+    {
+        "text": "Where did God tell Elijah to go during the first part of the drought?",
+        "options": ["The Brook Cherith", "Mount Carmel", "Zarephath", "Samaria"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Easy",
+        "verseReference": "1 Kings 17:3",
+        "verseText": "'Depart from here and turn eastward and hide yourself by the brook Cherith, which is east of the Jordan.' (ESV)"
+    },
+    {
+        "text": "What birds brought Elijah food while he was by the Brook Cherith?",
+        "options": ["Ravens", "Doves", "Eagles", "Sparrows"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Easy",
+        "verseReference": "1 Kings 17:6",
+        "verseText": "And the ravens brought him bread and meat in the morning, and bread and meat in the evening, and he drank from the brook. (ESV)"
+    },
+    {
+        "text": "To which town did God send Elijah when the brook dried up?",
+        "options": ["Zarephath", "Sidon", "Tyre", "Jezreel"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Easy",
+        "verseReference": "1 Kings 17:9",
+        "verseText": "'Arise, go to Zarephath, which belongs to Sidon, and dwell there. Behold, I have commanded a widow there to feed you.' (ESV)"
+    },
+    {
+        "text": "What miracle did Elijah perform for the widow of Zarephath concerning her food supply?",
+        "options": ["Her jar of flour and jug of oil never ran out", "He turned water into wine", "He multiplied loaves and fishes", "He made manna appear"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Easy",
+        "verseReference": "1 Kings 17:16",
+        "verseText": "The jar of flour was not spent, neither did the jug of oil become empty, according to the word of the LORD that he spoke by Elijah. (ESV)"
+    },
+    {
+        "text": "What happened to the widow of Zarephath's son?",
+        "options": ["He died, and Elijah raised him back to life", "He became Elijah's servant", "He fell ill but recovered", "He left home"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Easy",
+        "verseReference": "1 Kings 17:22",
+        "verseText": "And the LORD listened to the voice of Elijah. And the life of the child came into him again, and he revived. (ESV)"
+    },
+    {
+        "text": "Who was Ahab's wicked wife who promoted Baal worship?",
+        "options": ["Jezebel", "Athaliah", "Herodias", "Delilah"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Easy",
+        "verseReference": "1 Kings 16:31",
+        "verseText": "And as if it had been a light thing for him to walk in the sins of Jeroboam the son of Nebat, he took for his wife Jezebel the daughter of Ethbaal king of the Sidonians, and went and served Baal and worshiped him. (ESV)"
+    },
+    {
+        "text": "On what mountain did Elijah challenge the prophets of Baal?",
+        "options": ["Mount Carmel", "Mount Sinai", "Mount Zion", "Mount Nebo"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Easy",
+        "verseReference": "1 Kings 18:19",
+        "verseText": "Now therefore send and gather all Israel to me at Mount Carmel, and the 450 prophets of Baal and the 400 prophets of Asherah, who eat at Jezebel's table. (ESV)"
+    },
+    {
+        "text": "How did God show his power against Baal on Mount Carmel?",
+        "options": ["He sent fire from heaven to consume the sacrifice", "He caused an earthquake", "He sent a flood", "He spoke in a loud voice"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Easy",
+        "verseReference": "1 Kings 18:38",
+        "verseText": "Then the fire of the LORD fell and consumed the burnt offering and the wood and the stones and the dust, and licked up the water that was in the trench. (ESV)"
+    },
+    {
+        "text": "What happened immediately after the contest on Mount Carmel?",
+        "options": ["Rain came, ending the drought", "Elijah fled from Jezebel", "Ahab repented", "The prophets of Baal were killed"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Easy",
+        "verseReference": "1 Kings 18:45",
+        "verseText": "And in a little while the heavens grew black with clouds and wind, and there was a great rain. And Ahab rode and went to Jezreel. (ESV)"
+    },
+    {
+        "text": "Why did Elijah flee after the victory on Mount Carmel?",
+        "options": ["Jezebel threatened to kill him", "Ahab sent soldiers after him", "God told him to leave", "He was tired"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Easy",
+        "verseReference": "1 Kings 19:2-3",
+        "verseText": "Then Jezebel sent a messenger to Elijah, saying, 'So may the gods do to me and more also, if I do not make your life as the life of one of them by this time tomorrow.' Then he was afraid, and he arose and ran for his life... (ESV)"
+    },
+    {
+        "text": "Where did Elijah travel to encounter God after fleeing Jezebel?",
+        "options": ["Mount Horeb (Sinai)", "Mount Carmel", "Jerusalem", "The wilderness"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Easy",
+        "verseReference": "1 Kings 19:8",
+        "verseText": "And he arose and ate and drank, and went in the strength of that food forty days and forty nights to Horeb, the mount of God. (ESV)"
+    },
+    {
+        "text": "How did God speak to Elijah on Mount Horeb?",
+        "options": ["In a low whisper (still small voice)", "In a strong wind", "In an earthquake", "In a fire"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Easy",
+        "verseReference": "1 Kings 19:12",
+        "verseText": "And after the earthquake a fire, but the LORD was not in the fire. And after the fire the sound of a low whisper. (ESV)"
+    },
+    {
+        "text": "Who did God tell Elijah to anoint as his successor?",
+        "options": ["Elisha", "Jehu", "Hazael", "Obadiah"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Easy",
+        "verseReference": "1 Kings 19:16",
+        "verseText": "...and Jehu the son of Nimshi you shall anoint to be king over Israel, and Elisha the son of Shaphat of Abel-meholah you shall anoint to be prophet in your place. (ESV)"
+    },
+    {
+        "text": "What was Elisha doing when Elijah found him?",
+        "options": ["Plowing with oxen", "Shepherding sheep", "Fishing", "Building a house"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Easy",
+        "verseReference": "1 Kings 19:19",
+        "verseText": "So he departed from there and found Elisha the son of Shaphat, who was plowing with twelve yoke of oxen in front of him, and he was with the twelfth. Elijah passed by him and cast his cloak upon him. (ESV)"
+    },
+    {
+        "text": "What object did Elijah throw over Elisha to call him?",
+        "options": ["His cloak/mantle", "A scroll", "His staff", "Oil"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Easy",
+        "verseReference": "1 Kings 19:19",
+        "verseText": "Elijah passed by him and cast his cloak upon him. (ESV)"
+    },
+    {
+        "text": "Who owned the vineyard that King Ahab coveted?",
+        "options": ["Naboth the Jezreelite", "Hiel the Bethelite", "Obadiah", "Ben-hadad"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Easy",
+        "verseReference": "1 Kings 21:1",
+        "verseText": "Now Naboth the Jezreelite had a vineyard in Jezreel, beside the palace of Ahab king of Samaria. (ESV)"
+    },
+    {
+        "text": "Who arranged for Naboth to be falsely accused and killed?",
+        "options": ["Jezebel", "Ahab", "Two scoundrels", "The elders of the city"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Easy",
+        "verseReference": "1 Kings 21:8",
+        "verseText": "So she wrote letters in Ahab's name and sealed them with his seal, and she sent the letters to the elders and the leaders who lived with Naboth in his city. (ESV)"
+    },
+    {
+        "text": "Which prophet confronted Ahab about Naboth's murder?",
+        "options": ["Elijah", "Elisha", "Micaiah", "Jehu"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Easy",
+        "verseReference": "1 Kings 21:17",
+        "verseText": "Then the word of the LORD came to Elijah the Tishbite, saying, 'Arise, go down to meet Ahab king of Israel, who is in Samaria; behold, he is in the vineyard of Naboth, where he has gone to take possession.' (ESV)"
+    },
+    {
+        "text": "What city did Ahab and Jehoshaphat plan to attack together?",
+        "options": ["Ramoth-gilead", "Damascus", "Jericho", "Samaria"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Easy",
+        "verseReference": "1 Kings 22:3",
+        "verseText": "And the king of Israel said to his servants, 'Do you know that Ramoth-gilead belongs to us, and we keep quiet and do not take it out of the hand of the king of Syria?' (ESV)"
+    },
+    {
+        "text": "How did King Ahab die?",
+        "options": ["Struck by a random arrow in battle", "Killed by Jehu", "Fell from a window", "Poisoned by Jezebel"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Easy",
+        "verseReference": "1 Kings 22:34",
+        "verseText": "But a certain man drew his bow at random and struck the king of Israel between the scale armor and the breastplate. Therefore he said to the driver of his chariot, 'Turn around and carry me out of the battle, for I am wounded.' (ESV)"
+    },
+    {
+        "text": "What specific request did Adonijah make through Bathsheba that Solomon interpreted as a bid for the throne?",
+        "options": ["To marry Abishag the Shunammite", "To be given a high position", "To receive part of the kingdom", "To be pardoned for his previous actions"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Medium",
+        "verseReference": "1 Kings 2:17, 22",
+        "verseText": "He said, 'Please ask King Solomon—he will not refuse you—to give me Abishag the Shunammite as my wife.' ... King Solomon answered his mother, 'And why do you ask Abishag the Shunammite for Adonijah? Ask for him the kingdom also, for he is my older brother...' (ESV)"
+    },
+    {
+        "text": "Who carried out Solomon's order to execute Adonijah?",
+        "options": ["Benaiah son of Jehoiada", "Zadok the priest", "Nathan the prophet", "Solomon himself"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Medium",
+        "verseReference": "1 Kings 2:25",
+        "verseText": "So King Solomon sent Benaiah the son of Jehoiada, and he struck him down, and he died. (ESV)"
+    },
+    {
+        "text": "Why was Abiathar the priest dismissed by Solomon?",
+        "options": ["He had supported Adonijah's claim to the throne", "He offered improper sacrifices", "He conspired with Egypt", "He stole from the treasury"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Medium",
+        "verseReference": "1 Kings 2:26-27",
+        "verseText": "And to Abiathar the priest the king said, 'Go to Anathoth, to your estate, for you deserve death. But I will not at this time put you to death, because you carried the ark of the Lord GOD before David my father, and because you shared in all my father's affliction.' So Solomon expelled Abiathar from being priest to the LORD, thus fulfilling the word of the LORD that he had spoken concerning the house of Eli in Shiloh. (ESV)"
+    },
+    {
+        "text": "What condition did Solomon place on Shimei, who had cursed David?",
+        "options": ["He must not leave Jerusalem", "He must pay a large fine", "He must serve in the temple", "He must publicly apologize"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Medium",
+        "verseReference": "1 Kings 2:36-37",
+        "verseText": "Then the king sent and summoned Shimei and said to him, 'Build yourself a house in Jerusalem and dwell there, and do not go out from there to any place whatever. For on the day you go out and cross the brook Kidron, know for certain that you shall die.' (ESV)"
+    },
+    {
+        "text": "How many chief officers did Solomon have overseeing his work throughout Israel?",
+        "options": ["Twelve", "Seven", "Ten", "Forty"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Medium",
+        "verseReference": "1 Kings 4:7",
+        "verseText": "Solomon had twelve officers over all Israel, who provided food for the king and his household. Each man had to make provision for one month in the year. (ESV)"
+    },
+    {
+        "text": "What materials did Hiram, King of Tyre, supply Solomon for the Temple construction?",
+        "options": ["Cedar and cypress timber", "Gold and silver", "Stone blocks", "Bronze and iron"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Medium",
+        "verseReference": "1 Kings 5:10",
+        "verseText": "So Hiram supplied Solomon with all the timber of cedar and cypress that he desired, (ESV)"
+    },
+    {
+        "text": "How long did it take Solomon to build the Temple?",
+        "options": ["Seven years", "Ten years", "Thirteen years", "Twenty years"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Medium",
+        "verseReference": "1 Kings 6:38",
+        "verseText": "and in the eleventh year, in the month of Bul, which is the eighth month, the house was finished in all its parts, and according to all its specifications. He was seven years in building it. (ESV)"
+    },
+    {
+        "text": "How long did it take Solomon to build his own palace?",
+        "options": ["Thirteen years", "Seven years", "Twenty years", "Ten years"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Medium",
+        "verseReference": "1 Kings 7:1",
+        "verseText": "Solomon was building his own house thirteen years, and he finished his entire house. (ESV)"
+    },
+    {
+        "text": "What was placed inside the Ark of the Covenant when it was brought into the Temple?",
+        "options": ["The two tablets of stone (Ten Commandments)", "Aaron's staff and a pot of manna", "Only the tablets of stone", "Nothing"],
+        "correctAnswerIndex": 2,
+        "book": "1 Kings",
+        "difficulty": "Medium",
+        "verseReference": "1 Kings 8:9",
+        "verseText": "There was nothing in the ark except the two tablets of stone that Moses put there at Horeb, where the LORD made a covenant with the people of Israel, when they came out of the land of Egypt. (ESV)"
+    },
+    {
+        "text": "What filled the Temple after the Ark was brought in, preventing the priests from ministering?",
+        "options": ["The glory of the Lord (a cloud)", "Smoke from incense", "A bright light", "The sound of trumpets"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Medium",
+        "verseReference": "1 Kings 8:10-11",
+        "verseText": "And when the priests came out of the Holy Place, a cloud filled the house of the LORD, so that the priests could not stand to minister because of the cloud, for the glory of the LORD filled the house of the LORD. (ESV)"
+    },
+    {
+        "text": "What warning did God give Solomon in his second appearance to him after the Temple dedication?",
+        "options": ["If Solomon or his sons turned away, God would cut off Israel and forsake the Temple", "Enemies would immediately attack", "A famine would strike the land", "His wisdom would decrease"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Medium",
+        "verseReference": "1 Kings 9:6-7",
+        "verseText": "But if you turn aside from following me, you or your children, and do not keep my commandments and my statutes that I have set before you, but go and serve other gods and worship them, then I will cut off Israel from the land that I have given them, and the house that I have consecrated for my name I will cast out of my sight... (ESV)"
+    },
+    {
+        "text": "How much gold did the Queen of Sheba give to Solomon?",
+        "options": ["120 talents", "666 talents", "1,000 talents", "No gold, only spices and jewels"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Medium",
+        "verseReference": "1 Kings 10:10",
+        "verseText": "Then she gave the king 120 talents of gold, and a very great quantity of spices and precious stones. Never again came such an abundance of spices as these that the queen of Sheba gave to King Solomon. (ESV)"
+    },
+    {
+        "text": "How much gold came to Solomon in one year, besides that from traders and kings?",
+        "options": ["666 talents", "120 talents", "1,000 talents", "500 talents"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Medium",
+        "verseReference": "1 Kings 10:14",
+        "verseText": "Now the weight of gold that came to Solomon in one year was 666 talents of gold, (ESV)"
+    },
+    {
+        "text": "Which gods did Solomon worship in his old age due to his foreign wives?",
+        "options": ["Ashtoreth, Milcom, Chemosh, Molech", "Baal and Asherah", "Dagon and Rimmon", "Zeus and Hera"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Medium",
+        "verseReference": "1 Kings 11:5, 7",
+        "verseText": "For Solomon went after Ashtoreth the goddess of the Sidonians, and after Milcom the abomination of the Ammonites... Then Solomon built a high place for Chemosh the abomination of Moab, and for Molech the abomination of the Ammonites, on the mountain east of Jerusalem. (ESV)"
+    },
+    {
+        "text": "Who were the two adversaries God raised up against Solomon?",
+        "options": ["Hadad the Edomite and Rezon son of Eliada", "Jeroboam and Ahijah", "Hiram and Shimei", "Adonijah and Joab"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Medium",
+        "verseReference": "1 Kings 11:14, 23",
+        "verseText": "And the LORD raised up an adversary against Solomon, Hadad the Edomite... God also raised up as an adversary to him, Rezon the son of Eliada... (ESV)"
+    },
+    {
+        "text": "Why did Jeroboam flee to Egypt?",
+        "options": ["Solomon sought to kill him after Ahijah's prophecy", "He was exiled for idolatry", "He was escaping creditors", "He was sent as an envoy"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Medium",
+        "verseReference": "1 Kings 11:40",
+        "verseText": "Solomon sought therefore to kill Jeroboam. But Jeroboam arose and fled into Egypt, to Shishak king of Egypt, and was in Egypt until the death of Solomon. (ESV)"
+    },
+    {
+        "text": "What harsh response did Rehoboam give the people, following the advice of the young men?",
+        "options": ["'My little finger is thicker than my father's waist... I will discipline you with scorpions.'", "'I will double your taxes.'", "'You will serve me or face death.'", "'Your request is denied.'"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Medium",
+        "verseReference": "1 Kings 12:10-11",
+        "verseText": "...Thus shall you say to them, 'My little finger is thicker than my father's waist. And now, whereas my father laid on you a heavy yoke, I will add to your yoke. My father disciplined you with whips, but I will discipline you with scorpions.' (ESV)"
+    },
+    {
+        "text": "Who was Adoniram (Adoram), whom Rehoboam sent to the northern tribes, and what happened to him?",
+        "options": ["He was in charge of forced labor; Israel stoned him to death", "He was a tax collector; he was imprisoned", "He was a military commander; he defected to Jeroboam", "He was a priest; he was ignored"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Medium",
+        "verseReference": "1 Kings 12:18",
+        "verseText": "Then King Rehoboam sent Adoram, who was taskmaster over the forced labor, and all Israel stoned him to death with stones. And King Rehoboam hurried to mount his chariot to flee to Jerusalem. (ESV)"
+    },
+    {
+        "text": "Which prophet told Rehoboam NOT to fight against the northern tribes (Israel)?",
+        "options": ["Shemaiah", "Ahijah", "Iddo", "Nathan"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Medium",
+        "verseReference": "1 Kings 12:22-24",
+        "verseText": "But the word of God came to Shemaiah the man of God: 'Say to Rehoboam the son of Solomon, king of Judah... \"Thus says the LORD, You shall not go up or fight against your relatives the people of Israel. Every man return to his home, for this thing is from me.\"' (ESV)"
+    },
+    {
+        "text": "What happened to Jeroboam's hand when he stretched it out against the man of God at Bethel?",
+        "options": ["It withered", "It caught fire", "It turned leprous", "It was struck by lightning"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Medium",
+        "verseReference": "1 Kings 13:4",
+        "verseText": "And when the king heard the saying of the man of God, which he cried against the altar at Bethel, Jeroboam stretched out his hand from the altar, saying, 'Seize him.' And his hand, which he stretched out against him, dried up, so that he could not draw it back to himself. (ESV)"
+    },
+    {
+        "text": "Why was the man of God from Judah killed by a lion?",
+        "options": ["He disobeyed God by eating and drinking in Bethel at the invitation of an old prophet", "He cursed Jeroboam", "He failed to deliver God's message", "The old prophet lied to the lion"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Medium",
+        "verseReference": "1 Kings 13:21-24",
+        "verseText": "...'Thus says the LORD, \"Because you have disobeyed the word of the LORD... and have returned and have eaten bread and drunk water in the place of which he said to you, 'Eat no bread and drink no water,' your body shall not come to the tomb of your fathers.\"' ...a lion met him on the road and killed him. (ESV)"
+    },
+    {
+        "text": "What judgment did Ahijah the prophet pronounce on Jeroboam's house because of his sin?",
+        "options": ["His dynasty would be cut off and his family consumed like dung", "His kingdom would be conquered by Egypt", "His sons would die childless", "A plague would strike his household"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Medium",
+        "verseReference": "1 Kings 14:10-11",
+        "verseText": "Therefore, behold, I will bring disaster upon the house of Jeroboam and will cut off from Jeroboam every male, both bond and free in Israel, and will burn up the house of Jeroboam, as a man burns up dung until it is all gone. Anyone belonging to Jeroboam who dies in the city the dogs shall eat, and anyone who dies in the open country the birds of the heavens shall eat, for the LORD has spoken it.' (ESV)"
+    },
+    {
+        "text": "Who was the king of Egypt who attacked Jerusalem during Rehoboam's reign and plundered the Temple?",
+        "options": ["Shishak", "Pharaoh Neco", "Pharaoh Hophra", "Thutmose"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Medium",
+        "verseReference": "1 Kings 14:25-26",
+        "verseText": "In the fifth year of King Rehoboam, Shishak king of Egypt came up against Jerusalem. He took away the treasures of the house of the LORD and the treasures of the king's house. He took away everything. He also took away all the shields of gold that Solomon had made. (ESV)"
+    },
+    {
+        "text": "Which king of Israel reigned for only two years before being assassinated by Baasha?",
+        "options": ["Nadab (son of Jeroboam)", "Elah (son of Baasha)", "Zimri", "Omri"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Medium",
+        "verseReference": "1 Kings 15:25, 27-28",
+        "verseText": "Nadab the son of Jeroboam began to reign over Israel in the second year of Asa king of Judah, and he reigned over Israel two years... Baasha the son of Ahijah, of the house of Issachar, conspired against him... So Baasha killed him in the third year of Asa king of Judah and reigned in his place. (ESV)"
+    },
+    {
+        "text": "What did Baasha do to the house of Jeroboam after assassinating Nadab?",
+        "options": ["He struck down all the descendants, fulfilling Ahijah's prophecy", "He exiled them", "He imprisoned them", "He made them his servants"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Medium",
+        "verseReference": "1 Kings 15:29",
+        "verseText": "And as soon as he was king, he killed all the house of Jeroboam. He left to the house of Jeroboam not one that breathed, until he had destroyed it, according to the word of the LORD that he spoke by his servant Ahijah the Shilonite. (ESV)"
+    },
+    {
+        "text": "Which king of Israel reigned for only seven days before committing suicide?",
+        "options": ["Zimri", "Elah", "Omri", "Tibni"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Medium",
+        "verseReference": "1 Kings 16:15, 18",
+        "verseText": "In the twenty-seventh year of Asa king of Judah, Zimri reigned seven days in Tirzah... And when Zimri saw that the city was taken, he went into the citadel of the king's house and burned the king's house over him with fire and died. (ESV)"
+    },
+    {
+        "text": "Which king of Israel bought the hill of Samaria and built the city of Samaria, making it his capital?",
+        "options": ["Omri", "Ahab", "Baasha", "Jeroboam"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Medium",
+        "verseReference": "1 Kings 16:24",
+        "verseText": "He bought the hill of Samaria from Shemer for two talents of silver, and he fortified the hill and called the name of the city that he built Samaria, after the name of Shemer, the owner of the hill. (ESV)"
+    },
+    {
+        "text": "Who was Obadiah, mentioned in 1 Kings 18, and what righteous act did he perform?",
+        "options": ["Ahab's palace administrator; he hid 100 prophets of the Lord from Jezebel", "A prophet; he warned Ahab", "A military commander; he refused to kill prophets", "A priest; he maintained true worship"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Medium",
+        "verseReference": "1 Kings 18:3-4",
+        "verseText": "And Ahab called Obadiah, who was over the household. (Now Obadiah feared the LORD greatly, and when Jezebel cut off the prophets of the LORD, Obadiah took a hundred prophets and hid them by fifties in a cave and fed them with bread and water.) (ESV)"
+    },
+    {
+        "text": "What did the prophets of Baal do to try to get their god to answer on Mount Carmel?",
+        "options": ["Cried aloud and cut themselves", "Sang hymns and danced", "Offered human sacrifices", "Burned incense"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Medium",
+        "verseReference": "1 Kings 18:28",
+        "verseText": "And they cried aloud and cut themselves after their custom with swords and lances, until the blood gushed out upon them. (ESV)"
+    },
+    {
+        "text": "What specific actions did Elijah take to prepare his sacrifice on Mount Carmel, emphasizing the impossibility of it lighting naturally?",
+        "options": ["He rebuilt the altar, dug a trench, and poured water over the sacrifice and wood three times", "He used wet wood", "He sacrificed in the rain", "He covered the sacrifice with dirt"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Medium",
+        "verseReference": "1 Kings 18:33-35",
+        "verseText": "And he put the wood in order and cut the bull in pieces and laid it on the wood. And he said, 'Fill four jars with water and pour it on the burnt offering and on the wood.' And he said, 'Do it a second time.' And they did it a second time. And he said, 'Do it a third time.' And they did it a third time. And the water ran around the altar and filled the trench also with water. (ESV)"
+    },
+    {
+        "text": "What task did God give Elijah on Mount Horeb besides anointing Elisha?",
+        "options": ["Anoint Hazael king over Syria and Jehu king over Israel", "Return to confront Jezebel", "Go preach repentance in Nineveh", "Build an altar"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Medium",
+        "verseReference": "1 Kings 19:15-16",
+        "verseText": "And the LORD said to him, 'Go, return on your way to the wilderness of Damascus. And when you arrive, you shall anoint Hazael to be king over Syria. And Jehu the son of Nimshi you shall anoint to be king over Israel...' (ESV)"
+    },
+    {
+        "text": "How did Ben-hadad, king of Syria, initially insult Ahab before their first battle?",
+        "options": ["Demanding Ahab's silver, gold, wives, and children", "Calling Ahab a coward", "Claiming superiority in battle", "Threatening to burn Samaria"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Medium",
+        "verseReference": "1 Kings 20:2-3",
+        "verseText": "And he sent messengers into the city to Ahab king of Israel and said to him, 'Thus says Ben-hadad: \"Your silver and your gold are mine; your best wives and children also are mine.\"' (ESV)"
+    },
+    {
+        "text": "Why did God grant Ahab victory over the Syrians the first time, despite Ahab's wickedness?",
+        "options": ["Because the Syrians blasphemed, saying the Lord was only a god of the hills", "Because Ahab humbled himself", "To show God's power to Israel", "Because Ahab had more soldiers"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Medium",
+        "verseReference": "1 Kings 20:28",
+        "verseText": "And a man of God came near and said to the king of Israel, 'Thus says the LORD, \"Because the Syrians have said, 'The LORD is a god of the hills but he is not a god of the valleys,' therefore I will give all this great multitude into your hand, and you shall know that I am the LORD.\"' (ESV)"
+    },
+    {
+        "text": "What mistake did Ahab make after his second victory over Ben-hadad, leading to a prophet's condemnation?",
+        "options": ["He spared Ben-hadad's life and made a treaty with him", "He took too much plunder", "He failed to give God glory", "He sacrificed to Syrian gods"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Medium",
+        "verseReference": "1 Kings 20:42",
+        "verseText": "And he said to him, 'Thus says the LORD, \"Because you have let go out of your hand the man whom I had devoted to destruction, therefore your life shall be for his life, and your people for his people.\"' (ESV)"
+    },
+    {
+        "text": "What disguise did Ahab wear during the battle at Ramoth-gilead?",
+        "options": ["He disguised himself as a common soldier", "He wore Syrian armor", "He dressed as a chariot driver", "He did not wear a disguise"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Medium",
+        "verseReference": "1 Kings 22:30",
+        "verseText": "And the king of Israel said to Jehoshaphat, 'I will disguise myself and go into battle, but you wear your robes.' And the king of Israel disguised himself and went into battle. (ESV)"
+    },
+    {
+        "text": "Which prophet truthfully predicted Ahab's death at Ramoth-gilead, despite pressure from other prophets?",
+        "options": ["Micaiah son of Imlah", "Elijah", "Elisha", "Zedekiah son of Chenaanah"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Medium",
+        "verseReference": "1 Kings 22:17",
+        "verseText": "And he said, 'I saw all Israel scattered on the mountains, as sheep that have no shepherd. And the LORD said, \"These have no master; let each return to his home in peace.\"' (ESV)"
+    },
+    {
+        "text": "What was Joab doing when Benaiah executed him on Solomon's orders?",
+        "options": ["Clinging to the horns of the altar", "Fleeing to Egypt", "Hiding in his house", "Mustering troops"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Hard",
+        "verseReference": "1 Kings 2:28-34",
+        "verseText": "When the news came to Joab—for Joab had supported Adonijah although he had not supported Absalom—Joab fled to the tent of the LORD and caught hold of the horns of the altar... Benaiah went up and struck him down and put him to death. (ESV)"
+    },
+    {
+        "text": "Why specifically did Shimei leave Jerusalem, thus violating Solomon's command and sealing his fate?",
+        "options": ["To retrieve runaway servants from Gath", "To visit relatives in Bahurim", "To conspire with the Philistines", "To offer sacrifices at a high place"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Hard",
+        "verseReference": "1 Kings 2:39-40",
+        "verseText": "But it happened at the end of three years that two of Shimei's servants ran away to Achish son of Maacah, king of Gath. And when it was told Shimei, 'Behold, your servants are in Gath,' Shimei arose and saddled his donkey and went to Gath to Achish to seek his servants. (ESV)"
+    },
+    {
+        "text": "Besides wisdom, what else did God grant Solomon because he did not ask for riches or long life?",
+        "options": ["Riches, honor, and potentially long life (conditional)", "Victory over all enemies", "Unparalleled strength", "The ability to speak all languages"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Hard",
+        "verseReference": "1 Kings 3:13-14",
+        "verseText": "I give you also what you have not asked, both riches and honor, so that no other king shall compare with you, all your days. And if you will walk in my ways, keeping my statutes and my commandments, as your father David walked, then I will lengthen your days. (ESV)"
+    },
+    {
+        "text": "How many proverbs and songs is Solomon credited with in 1 Kings?",
+        "options": ["3,000 proverbs and 1,005 songs", "1,000 proverbs and 3,005 songs", "5,000 proverbs and 1,000 songs", "700 proverbs and 1,001 songs"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Hard",
+        "verseReference": "1 Kings 4:32",
+        "verseText": "He also spoke 3,000 proverbs, and his songs were 1,005. (ESV)"
+    },
+    {
+        "text": "What was the 'Sea of Cast Metal' (Molten Sea) in Solomon's Temple used for?",
+        "options": ["Priestly ritual washing", "Storing drinking water", "A decorative fountain", "Baptisms"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Hard",
+        "verseReference": "1 Kings 7:23, 2 Chron 4:6",
+        "verseText": "Then he made the sea of cast metal... (ESV) [Usage described in 2 Chron 4:6: 'The sea was for the priests to wash in.']"
+    },
+    {
+        "text": "What specific detail about the construction of the Temple indicated reverence and peace?",
+        "options": ["Stone was quarried and prepared off-site, so no hammer or tool was heard during construction", "Only Levites were allowed to build it", "Construction paused on the Sabbath", "It was built without mortar"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Hard",
+        "verseReference": "1 Kings 6:7",
+        "verseText": "When the house was built, it was with stone prepared at the quarry, so that neither hammer nor axe nor any tool of iron was heard in the house while it was being built. (ESV)"
+    },
+    {
+        "text": "What creatures were carved on the walls and doors of the Temple's inner sanctuary (Most Holy Place)?",
+        "options": ["Cherubim, palm trees, and open flowers", "Lions, oxen, and cherubim", "Seraphim and angels", "Eagles and pomegranates"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Hard",
+        "verseReference": "1 Kings 6:29",
+        "verseText": "He carved all the walls of the house all around with carved figures of cherubim and palm trees and open flowers, in the inner and outer rooms. (ESV)"
+    },
+    {
+        "text": "What was the name of Solomon's palace complex, likely named for its extensive use of cedar?",
+        "options": ["The House of the Forest of Lebanon", "The Hall of Pillars", "The Hall of Judgment", "The Palace of Pharaoh's Daughter"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Hard",
+        "verseReference": "1 Kings 7:2",
+        "verseText": "He built the House of the Forest of Lebanon. Its length was a hundred cubits and its breadth fifty cubits and its height thirty cubits, and it was built on four rows of cedar pillars, with cedar beams on the pillars. (ESV)"
+    },
+    {
+        "text": "In Solomon's prayer of dedication, what specific provision did he ask God to make for foreigners who came to pray at the Temple?",
+        "options": ["That God would hear and answer their prayers so all peoples would know His name", "That they would be allowed entry", "That they would receive special blessings", "That they would convert to Judaism"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Hard",
+        "verseReference": "1 Kings 8:41-43",
+        "verseText": "Likewise, when a foreigner... comes and prays toward this house, hear in heaven your dwelling place and do according to all for which the foreigner calls to you, in order that all the peoples of the earth may know your name and fear you... (ESV)"
+    },
+    {
+        "text": "What happened to the cities Solomon offered to Hiram, King of Tyre, in exchange for materials and gold?",
+        "options": ["Hiram was displeased with them and called them the Land of Cabul ('worthless')", "Hiram accepted them gladly", "Hiram refused them", "The Israelites living there rebelled"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Hard",
+        "verseReference": "1 Kings 9:12-13",
+        "verseText": "But when Hiram came from Tyre to see the cities that Solomon had given him, they did not please him. Therefore he said, 'What kind of cities are these that you have given me, my brother?' So they are called the Land of Cabul to this day. (ESV)"
+    },
+    {
+        "text": "How many wives (princesses) and concubines did Solomon have, contributing to his turning away from God?",
+        "options": ["700 wives and 300 concubines", "300 wives and 700 concubines", "100 wives and 100 concubines", "1,000 wives and 500 concubines"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Hard",
+        "verseReference": "1 Kings 11:3",
+        "verseText": "He had 700 wives, who were princesses, and 300 concubines. And his wives turned away his heart. (ESV)"
+    },
+    {
+        "text": "What specific tribe was promised to remain with Solomon's dynasty (David's house) for David's sake and Jerusalem's sake?",
+        "options": ["Judah (along with Benjamin)", "Levi", "Ephraim", "Manasseh"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Hard",
+        "verseReference": "1 Kings 11:13, 32",
+        "verseText": "However, I will not tear away all the kingdom, but I will give one tribe to your son, for the sake of David my servant and for the sake of Jerusalem that I have chosen... (but he shall have one tribe, for the sake of my servant David and for the sake of Jerusalem, the city that I have chosen out of all the tribes of Israel), (ESV)"
+    },
+    {
+        "text": "What consequence did the old prophet from Bethel face for lying to the man of God from Judah?",
+        "options": ["His sons buried the man of God in the old prophet's own tomb", "He was struck dead", "He was rebuked by God", "The text doesn't explicitly state a direct consequence for him, only his sorrow and instructions for burial."],
+        "correctAnswerIndex": 3,
+        "book": "1 Kings",
+        "difficulty": "Hard",
+        "verseReference": "1 Kings 13:29-31",
+        "verseText": "And the prophet took up the body of the man of God and laid it on the donkey and brought it back to the city to mourn and to bury him. And he laid the body in his own grave. And they mourned over him, saying, 'Alas, my brother!' (ESV)"
+    },
+    {
+        "text": "Who was Jeroboam's wife disguised as when she went to consult the prophet Ahijah about her sick son?",
+        "options": ["The text doesn't specify the disguise, only that she should disguise herself", "A common peasant woman", "A foreign traveler", "A servant girl"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Hard",
+        "verseReference": "1 Kings 14:2",
+        "verseText": "And Jeroboam said to his wife, 'Arise, and disguise yourself, that it not be known that you are the wife of Jeroboam, and go to Shiloh...' (ESV)"
+    },
+    {
+        "text": "What sign did Ahijah give Jeroboam's wife regarding her son Abijah?",
+        "options": ["The child would die as soon as she re-entered their city, Tirzah", "The child would recover", "The child would die after seven days", "The child would live but be crippled"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Hard",
+        "verseReference": "1 Kings 14:12",
+        "verseText": "Arise therefore, go to your house. When your feet enter the city, the child shall die. (ESV)"
+    },
+    {
+        "text": "Which king of Judah had his grandmother Maacah removed as queen mother because she made an abominable image for Asherah?",
+        "options": ["Asa", "Rehoboam", "Jehoshaphat", "Abijam"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Hard",
+        "verseReference": "1 Kings 15:13",
+        "verseText": "He also removed Maacah his mother from being queen mother because she had made an abominable image for Asherah. And Asa cut down her image and burned it at the brook Kidron. (ESV)"
+    },
+    {
+        "text": "What controversial alliance did King Asa of Judah make to counter Baasha of Israel?",
+        "options": ["He bribed Ben-hadad I of Syria to break his treaty with Baasha and attack Israel", "He allied with Egypt", "He hired Philistine mercenaries", "He allied with the Ammonites"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Hard",
+        "verseReference": "1 Kings 15:18-20",
+        "verseText": "Then Asa took all the silver and the gold that were left in the treasures of the house of the LORD...and sent them to Ben-hadad... king of Syria... saying, '...Break your treaty with Baasha king of Israel, that he may withdraw from me.' And Ben-hadad listened to King Asa and sent the commanders of his armies against the cities of Israel... (ESV)"
+    },
+    {
+        "text": "Who rebuilt Jericho during Ahab's reign, incurring the curse Joshua had pronounced centuries earlier?",
+        "options": ["Hiel of Bethel", "Omri", "Segub", "Abiram"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Hard",
+        "verseReference": "1 Kings 16:34",
+        "verseText": "In his days Hiel of Bethel built Jericho. He laid its foundation at the cost of Abiram his firstborn, and set up its gates at the cost of his youngest son Segub, according to the word of the LORD, which he spoke by Joshua the son of Nun. (ESV)"
+    },
+    {
+        "text": "How many Israelites did Elijah claim had not 'bowed the knee to Baal' during his moment of despair on Mount Horeb?",
+        "options": ["7,000", "12,000", "144,000", "None"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Hard",
+        "verseReference": "1 Kings 19:18",
+        "verseText": "Yet I will leave seven thousand in Israel, all the knees that have not bowed to Baal, and every mouth that has not kissed him. (ESV)"
+    },
+    {
+        "text": "What did Elisha do with his plowing equipment after being called by Elijah?",
+        "options": ["Slaughtered the oxen, boiled their flesh using the equipment as fuel, and gave it to the people", "Left it in the field", "Gave it to his father", "Sold it"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Hard",
+        "verseReference": "1 Kings 19:21",
+        "verseText": "And he returned from following him and took the yoke of oxen and sacrificed them and boiled their flesh with the yokes of the oxen and gave it to the people, and they ate. Then he arose and went after Elijah and assisted him. (ESV)"
+    },
+    {
+        "text": "What specific act of humility did Ahab perform that caused God to postpone the judgment pronounced by Elijah regarding Naboth's vineyard?",
+        "options": ["He tore his clothes, put on sackcloth, fasted, and went about gently", "He publicly confessed his sin", "He restored the vineyard to Naboth's family", "He destroyed idols"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Hard",
+        "verseReference": "1 Kings 21:27, 29",
+        "verseText": "And when Ahab heard those words, he tore his clothes and put sackcloth on his flesh and fasted and lay in sackcloth and went about quietly... 'Have you seen how Ahab has humbled himself before me? Because he has humbled himself before me, I will not bring the disaster in his days; but in his son's days I will bring the disaster upon his house.' (ESV)"
+    },
+    {
+        "text": "Who was the king of Judah who allied himself with the wicked King Ahab of Israel?",
+        "options": ["Jehoshaphat", "Asa", "Joram", "Ahaziah"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Hard",
+        "verseReference": "1 Kings 22:2, 4",
+        "verseText": "In the third year Jehoshaphat the king of Judah came down to the king of Israel... And he said to Jehoshaphat, 'Will you go with me to battle at Ramoth-gilead?' And Jehoshaphat said to the king of Israel, 'I am as you are, my people as your people, my horses as your horses.' (ESV)"
+    },
+    {
+        "text": "What did the prophet Micaiah describe seeing in a vision when asked about the upcoming battle at Ramoth-gilead?",
+        "options": ["The Lord sitting on his throne with the host of heaven, and a lying spirit volunteering to entice Ahab's prophets", "Ahab falling in battle", "Israel scattered like sheep", "Chariots of fire"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Hard",
+        "verseReference": "1 Kings 22:19-22",
+        "verseText": "And Micaiah said, 'Therefore hear the word of the LORD: I saw the LORD sitting on his throne, and all the host of heaven standing beside him... And a spirit came forward and stood before the LORD, saying, \"I will entice him.\"... And he said, \"I will go out, and will be a lying spirit in the mouth of all his prophets.\"' (ESV)"
+    },
+    {
+        "text": "What did Zedekiah son of Chenaanah, a false prophet, do to Micaiah after Micaiah's true prophecy?",
+        "options": ["Struck him on the cheek", "Accused him of lying", "Had him imprisoned", "Made iron horns and claimed victory"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Hard",
+        "verseReference": "1 Kings 22:24",
+        "verseText": "Then Zedekiah the son of Chenaanah came near and struck Micaiah on the cheek and said, 'How did the Spirit of the LORD go from me to speak to you?' (ESV)"
+    },
+    {
+        "text": "Where did the dogs lick up Ahab's blood, fulfilling part of Elijah's prophecy regarding Naboth?",
+        "options": ["At the pool of Samaria, where prostitutes washed", "In the vineyard of Naboth", "On the battlefield at Ramoth-gilead", "In Jezreel"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Hard",
+        "verseReference": "1 Kings 22:38",
+        "verseText": "And they washed the chariot by the pool of Samaria, and the dogs licked up his blood, and the prostitutes washed themselves in it, according to the word of the LORD that he had spoken. (ESV)"
+    },
+    {
+        "text": "What joint venture did King Jehoshaphat of Judah and King Ahaziah of Israel (Ahab's son) attempt, which failed because of Ahaziah's wickedness?",
+        "options": ["Building ships at Ezion-geber to go to Tarshish/Ophir for gold", "A military campaign against Moab", "A trade agreement with Egypt", "Rebuilding a fortress"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Hard",
+        "verseReference": "1 Kings 22:48-49 (cf. 2 Chron 20:35-37)",
+        "verseText": "Jehoshaphat made ships of Tarshish to go to Ophir for gold, but they did not go, for the ships were broken at Ezion-geber. Then Ahaziah the son of Ahab said to Jehoshaphat, 'Let my servants go with your servants in the ships.' But Jehoshaphat was not willing. (ESV)"
+    },
+    {
+        "text": "Despite being a generally good king, what failure is repeatedly noted regarding Jehoshaphat's reign in Judah?",
+        "options": ["The high places were not taken away, and people still sacrificed there", "He made alliances with wicked kings of Israel", "He did not fully fortify Judah", "He consulted mediums"],
+        "correctAnswerIndex": 0,
+        "book": "1 Kings",
+        "difficulty": "Hard",
+        "verseReference": "1 Kings 22:43",
+        "verseText": "He walked in all the way of Asa his father. He did not turn aside from it, doing what was right in the sight of the LORD. Yet the high places were not taken away, and the people still sacrificed and made offerings on the high places. (ESV)"
     }
 ]

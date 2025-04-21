@@ -36,6 +36,10 @@
 		AEDD2C602DB45F84005722C1 /* 1_samuel.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C5E2DB45F84005722C1 /* 1_samuel.json */; };
 		AEDD2C612DB45F84005722C1 /* ruth.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C5F2DB45F84005722C1 /* ruth.json */; };
 		AEDD2C632DB48A91005722C1 /* 2_samuel.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C622DB48A91005722C1 /* 2_samuel.json */; };
+		AEDD2C662DB5D9E5005722C1 /* 1_kings.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C642DB5D9E5005722C1 /* 1_kings.json */; };
+		AEDD2C672DB5D9E5005722C1 /* 2_kings.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C652DB5D9E5005722C1 /* 2_kings.json */; };
+		AEDD2C6A2DB5E83B005722C1 /* 1_chronicles.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C682DB5E83B005722C1 /* 1_chronicles.json */; };
+		AEDD2C6B2DB5E83B005722C1 /* 2_chronicles.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C692DB5E83B005722C1 /* 2_chronicles.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -90,6 +94,10 @@
 		AEDD2C5E2DB45F84005722C1 /* 1_samuel.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = 1_samuel.json; path = REA/Data/1_samuel.json; sourceTree = SOURCE_ROOT; };
 		AEDD2C5F2DB45F84005722C1 /* ruth.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = ruth.json; path = REA/Data/ruth.json; sourceTree = SOURCE_ROOT; };
 		AEDD2C622DB48A91005722C1 /* 2_samuel.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = 2_samuel.json; path = REA/Data/2_samuel.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C642DB5D9E5005722C1 /* 1_kings.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = 1_kings.json; path = REA/Data/1_kings.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C652DB5D9E5005722C1 /* 2_kings.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = 2_kings.json; path = REA/Data/2_kings.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C682DB5E83B005722C1 /* 1_chronicles.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = 1_chronicles.json; path = REA/Data/1_chronicles.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C692DB5E83B005722C1 /* 2_chronicles.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = 2_chronicles.json; path = REA/Data/2_chronicles.json; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -214,6 +222,10 @@
 		AEA276242DAF3BF8007618C1 /* BookData */ = {
 			isa = PBXGroup;
 			children = (
+				AEDD2C682DB5E83B005722C1 /* 1_chronicles.json */,
+				AEDD2C692DB5E83B005722C1 /* 2_chronicles.json */,
+				AEDD2C642DB5D9E5005722C1 /* 1_kings.json */,
+				AEDD2C652DB5D9E5005722C1 /* 2_kings.json */,
 				AEDD2C622DB48A91005722C1 /* 2_samuel.json */,
 				AEDD2C5E2DB45F84005722C1 /* 1_samuel.json */,
 				AEDD2C5F2DB45F84005722C1 /* ruth.json */,
@@ -333,10 +345,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AEDD2C662DB5D9E5005722C1 /* 1_kings.json in Resources */,
 				AEDD2C612DB45F84005722C1 /* ruth.json in Resources */,
 				AE3DB3B72DA192BF0032901D /* Preview Assets.xcassets in Resources */,
+				AEDD2C6A2DB5E83B005722C1 /* 1_chronicles.json in Resources */,
 				AE68B9112DB29A870010C529 /* biblequest_logo2.png in Resources */,
+				AEDD2C6B2DB5E83B005722C1 /* 2_chronicles.json in Resources */,
 				AED148172DB2E1D9008FE102 /* leviticus.json in Resources */,
+				AEDD2C672DB5D9E5005722C1 /* 2_kings.json in Resources */,
 				AED1481B2DB35436008FE102 /* deuteronomy.json in Resources */,
 				AE3DB3B32DA192BF0032901D /* Assets.xcassets in Resources */,
 				AED1481F2DB3CB95008FE102 /* judges.json in Resources */,

@@ -26,7 +26,6 @@
         "verseReference": "2 Kings 5:1, 14",
         "verseText": "Naaman, commander of the army of the king of Syria, was a great man with his master and in high favor... He was a mighty man of valor, but he was a leper... So he went down and dipped himself seven times in the Jordan, according to the word of the man of God, and his flesh was restored like the flesh of a little child, and he was clean. (ESV)"
     },
-
     {
         "text": "What did Elisha ask for before Elijah was taken?",
         "options": ["A double portion of Elijah's spirit", "Riches and honor", "Elijah's mantle", "To accompany Elijah to heaven"],
@@ -63,7 +62,6 @@
         "verseReference": "2 Kings 12:4-5",
         "verseText": "Jehoash said to the priests, 'All the money of the holy things that is brought into the house of the LORD... let the priests take, each from his donor, and let them repair the house wherever any need of repair is discovered.' (ESV) [Note: Hezekiah and Josiah also made repairs/reforms]"
     },
-
     {
         "text": "What happened to the boys who mocked Elisha for his baldness near Bethel?",
         "options": ["Two bears came out of the woods and mauled 42 of them", "Elisha cursed them with leprosy", "They were struck blind", "They fell into a pit"],
@@ -90,5 +88,815 @@
         "difficulty": "Hard",
         "verseReference": "2 Kings 6:5-6",
         "verseText": "But as one was felling a beam, the axe head fell into the water. And he cried out, 'Alas, my master! It was borrowed.' Then the man of God said, 'Where did it fall?' When he showed him the place, he cut down a stick and threw it in there and made the iron float. (ESV)"
+    },
+    {
+        "text": "What nation conquered the northern kingdom of Israel?",
+        "options": ["Assyria", "Babylon", "Egypt", "Philistia"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Easy",
+        "verseReference": "2 Kings 17:6",
+        "verseText": "In the ninth year of Hoshea, the king of Assyria captured Samaria, and he carried the Israelites away to Assyria..."
+    },
+    {
+        "text": "Who was the king of Judah known for his great piety and reforms, during whose reign the Book of the Law was found?",
+        "options": ["Josiah", "Hezekiah", "Manasseh", "Ahaz"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Easy",
+        "verseReference": "2 Kings 22:1-2, 8",
+        "verseText": "Josiah was eight years old when he began to reign... And he did what was right in the eyes of the LORD... Hilkiah the high priest said to Shaphan the secretary, 'I have found the Book of the Law in the house of the LORD.'"
+    },
+    {
+        "text": "What did Elisha tell the widow of one of the sons of the prophets to collect from her neighbors?",
+        "options": ["Empty jars", "Flour", "Firewood", "Silver coins"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Easy",
+        "verseReference": "2 Kings 4:3",
+        "verseText": "Then he said, 'Go outside, borrow vessels from all your neighbors, empty vessels and not too few.'"
+    },
+    {
+        "text": "Which king of Judah became sick and was told by Isaiah he would die, but prayed and had his life extended?",
+        "options": ["Hezekiah", "Josiah", "Uzziah", "Jotham"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Easy",
+        "verseReference": "2 Kings 20:1, 5-6",
+        "verseText": "In those days Hezekiah became sick and was at the point of death. And Isaiah the prophet... said to him, 'Thus says the LORD, Set your house in order, for you shall die...' 'Turn back, and say to Hezekiah the leader of my people... I have heard your prayer; I have seen your tears. Behold, I will heal you... And I will add fifteen years to your life.'"
+    },
+    {
+        "text": "What happened to the Assyrian army when they besieged Jerusalem during Hezekiah's reign?",
+        "options": ["An angel of the LORD struck down 185,000 soldiers", "They ran out of supplies and retreated", "Hezekiah paid them to leave", "A plague broke out in their camp"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Easy",
+        "verseReference": "2 Kings 19:35",
+        "verseText": "And that night the angel of the LORD went out and struck down 185,000 in the camp of the Assyrians. And when people arose early in the morning, behold, these were all dead bodies."
+    },
+    {
+        "text": "Who was Elisha's servant who saw the heavenly army protecting them?",
+        "options": ["Gehazi (though unnamed in this specific instance)", "Obadiah", "Micaiah", "Shaphan"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Easy",
+        "verseReference": "2 Kings 6:15-17",
+        "verseText": "When the servant of the man of God rose early in the morning and went out, behold, an army with horses and chariots was all around the city. And the servant said, 'Alas, my master! What shall we do?' He said, 'Do not be afraid, for those who are with us are more than those who are with them.' Then Elisha prayed... and behold, the mountain was full of horses and chariots of fire all around Elisha."
+    },
+    {
+        "text": "What nation eventually conquered the southern kingdom of Judah and destroyed the Temple?",
+        "options": ["Babylon", "Assyria", "Persia", "Rome"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Easy",
+        "verseReference": "2 Kings 25:8-9",
+        "verseText": "In the fifth month, on the seventh day of the month—that was the nineteenth year of King Nebuchadnezzar, king of Babylon—Nebuzaradan, the captain of the bodyguard, a servant of the king of Babylon, came to Jerusalem. And he burned the house of the LORD..."
+    },
+    {
+        "text": "What did the Shunammite woman prepare for Elisha?",
+        "options": ["A room with a bed, table, chair, and lamp", "Daily meals", "A new cloak", "A donkey for travel"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Easy",
+        "verseReference": "2 Kings 4:10",
+        "verseText": "Let us make a small room on the roof with walls and put there for him a bed, a table, a chair, and a lamp, so that whenever he comes to us, he can go in there."
+    },
+    {
+        "text": "What did Elisha do for the Shunammite woman's son when he died?",
+        "options": ["He raised him back to life", "He comforted the woman", "He prophesied his return", "He buried him"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Easy",
+        "verseReference": "2 Kings 4:34-35",
+        "verseText": "Then he went up and lay on the child, putting his mouth on his mouth, his eyes on his eyes, and his hands on his hands. And as he stretched himself upon him, the flesh of the child became warm... the child sneezed seven times, and the child opened his eyes."
+    },
+    {
+        "text": "Who was the last king of the northern kingdom of Israel?",
+        "options": ["Hoshea", "Pekah", "Ahab", "Jehu"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Easy",
+        "verseReference": "2 Kings 17:1, 6",
+        "verseText": "In the twelfth year of Ahaz king of Judah, Hoshea the son of Elah began to reign in Samaria over Israel... In the ninth year of Hoshea, the king of Assyria captured Samaria..."
+    },
+    {
+        "text": "Who was the last king of the southern kingdom of Judah before the Babylonian exile?",
+        "options": ["Zedekiah", "Jehoiachin", "Jehoiakim", "Josiah"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Easy",
+        "verseReference": "2 Kings 24:18, 25:7",
+        "verseText": "Zedekiah was twenty-one years old when he began to reign... And they slaughtered the sons of Zedekiah before his eyes, and put out the eyes of Zedekiah and bound him in chains and took him to Babylon."
+    },
+    {
+        "text": "What did Jehu famously drive?",
+        "options": ["His chariot furiously", "A herd of cattle", "His enemies out of the land", "A bargain with the king"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Easy",
+        "verseReference": "2 Kings 9:20",
+        "verseText": "The watchman reported, saying, 'He came to them, but does not return. And the driving is like the driving of Jehu the son of Nimshi, for he drives furiously.'"
+    },
+    {
+        "text": "What happened to Jezebel's body after Jehu had her thrown from a window?",
+        "options": ["Dogs ate most of it, fulfilling Elijah's prophecy", "She was buried with honors", "It was burned", "It was taken away by her servants"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Easy",
+        "verseReference": "2 Kings 9:35-36",
+        "verseText": "But when they went to bury her, they found no more of her than the skull and the feet and the palms of her hands. When they came back and told him, he said, 'This is the word of the LORD, which he spoke by his servant Elijah the Tishbite...'"
+    },
+    {
+        "text": "What did Elisha put into the poisonous stew to make it safe to eat?",
+        "options": ["Flour", "Salt", "Oil", "A special herb"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Easy",
+        "verseReference": "2 Kings 4:41",
+        "verseText": "He said, 'Then bring flour.' And he threw it into the pot and said, 'Pour some out for the men, that they may eat.' And there was no harm in the pot."
+    },
+    {
+        "text": "How many times did Naaman dip in the Jordan River?",
+        "options": ["Seven times", "Three times", "Once", "Twelve times"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Easy",
+        "verseReference": "2 Kings 5:14",
+        "verseText": "So he went down and dipped himself seven times in the Jordan, according to the word of the man of God, and his flesh was restored like the flesh of a little child, and he was clean."
+    },
+    {
+        "text": "Who found the Book of the Law in the Temple during Josiah's reign?",
+        "options": ["Hilkiah the high priest", "Shaphan the scribe", "King Josiah himself", "Jeremiah the prophet"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Easy",
+        "verseReference": "2 Kings 22:8",
+        "verseText": "And Hilkiah the high priest said to Shaphan the secretary, 'I have found the Book of the Law in the house of the LORD.' And Hilkiah gave the book to Shaphan, and he read it."
+    },
+    {
+        "text": "What did King Josiah do after hearing the Book of the Law?",
+        "options": ["He tore his clothes and initiated reforms", "He ignored it", "He hid the book", "He questioned its authenticity"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Easy",
+        "verseReference": "2 Kings 22:11, 23:3",
+        "verseText": "When the king heard the words of the Book of the Law, he tore his clothes... And the king stood by the pillar and made a covenant before the LORD, to walk after the LORD and to keep his commandments..."
+    },
+    {
+        "text": "Which prophetess confirmed the authenticity of the Book of the Law found during Josiah's reign?",
+        "options": ["Huldah", "Deborah", "Miriam", "Anna"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Easy",
+        "verseReference": "2 Kings 22:14",
+        "verseText": "So Hilkiah the priest... went to Huldah the prophetess, the wife of Shallum the son of Tikvah, son of Harhas, keeper of the wardrobe (she lived in Jerusalem in the Second Quarter), and they spoke with her."
+    },
+    {
+        "text": "What did Elisha strike the Jordan River with to part the waters?",
+        "options": ["Elijah's mantle", "His staff", "His hand", "A stick"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Easy",
+        "verseReference": "2 Kings 2:14",
+        "verseText": "Then he took the cloak of Elijah that had fallen from him and struck the water, saying, 'Where is the LORD, the God of Elijah?' And when he had struck the water, the water was parted to the one side and to the other, and Elisha went over."
+    },
+    {
+        "text": "What did Elisha throw into the spring at Jericho to heal the water?",
+        "options": ["Salt", "Flour", "A branch", "Oil"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Easy",
+        "verseReference": "2 Kings 2:21",
+        "verseText": "Then he went to the spring of water and threw salt in it and said, 'Thus says the LORD, I have healed this water; from now on neither death nor miscarriage shall come from it.'"
+    },
+    {
+        "text": "Who was the king of Assyria who besieged Jerusalem during Hezekiah's reign?",
+        "options": ["Sennacherib", "Tiglath-Pileser III", "Shalmaneser V", "Ashurbanipal"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Easy",
+        "verseReference": "2 Kings 18:13",
+        "verseText": "In the fourteenth year of King Hezekiah, Sennacherib king of Assyria came up against all the fortified cities of Judah and took them."
+    },
+    {
+        "text": "What sign did God give Hezekiah to confirm he would be healed and his life extended?",
+        "options": ["The shadow on the sundial went backward ten steps", "A star appeared in the daytime", "It rained fire", "His hair grew back instantly"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Easy",
+        "verseReference": "2 Kings 20:9-11",
+        "verseText": "And Isaiah said, 'This is the sign to you from the LORD... Shall the shadow go forward ten steps, or go back ten steps?' And Hezekiah answered, 'It is an easy thing for the shadow to lengthen ten steps. Rather let the shadow go back ten steps.' And Isaiah the prophet called to the LORD, and he brought the shadow back ten steps..."
+    },
+    {
+        "text": "Who anointed Jehu as king over Israel?",
+        "options": ["A young prophet sent by Elisha", "Elisha himself", "Elijah", "The high priest"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Easy",
+        "verseReference": "2 Kings 9:1, 6",
+        "verseText": "Then Elisha the prophet called one of the sons of the prophets and said to him... 'go to Ramoth-gilead... look for Jehu the son of Jehoshaphat... take the flask of oil, and pour it on his head and say, 'Thus says the LORD, I anoint you king over Israel.'' ... So he arose and went into the house. And the young man poured the oil on his head..."
+    },
+    {
+        "text": "Which king of Israel did Jehu kill near Jezreel?",
+        "options": ["Joram (Jehoram)", "Ahab", "Ahaziah (King of Judah, killed at the same time)", "Omri"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Easy",
+        "verseReference": "2 Kings 9:24",
+        "verseText": "Jehu drew his bow with his full strength and shot Joram between the shoulders, so that the arrow pierced his heart, and he sank in his chariot."
+    },
+    {
+        "text": "What city was the capital of the northern kingdom of Israel when it fell?",
+        "options": ["Samaria", "Jerusalem", "Shechem", "Tirzah"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Easy",
+        "verseReference": "2 Kings 17:5-6",
+        "verseText": "The king of Assyria invaded all the land and came to Samaria, and for three years he besieged it. In the ninth year of Hoshea, the king of Assyria captured Samaria..."
+    },
+    {
+        "text": "How old was Josiah when he began to reign?",
+        "options": ["Eight years old", "Sixteen years old", "Twenty-five years old", "Thirty years old"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Easy",
+        "verseReference": "2 Kings 22:1",
+        "verseText": "Josiah was eight years old when he began to reign, and he reigned thirty-one years in Jerusalem."
+    },
+    {
+        "text": "What festival did Josiah command Judah to celebrate after finding the Book of the Law?",
+        "options": ["Passover", "Feast of Tabernacles", "Day of Atonement", "Pentecost"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Easy",
+        "verseReference": "2 Kings 23:21-22",
+        "verseText": "And the king commanded all the people, 'Keep the Passover to the LORD your God, as it is written in this Book of the Covenant.' For no such Passover had been kept since the days of the judges who judged Israel..."
+    },
+    {
+        "text": "What did the Moabite king sacrifice when he saw the battle was going against him?",
+        "options": ["His eldest son who would have reigned after him", "100 sheep", "His prized horses", "His captured enemies"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Medium",
+        "verseReference": "2 Kings 3:27",
+        "verseText": "Then he took his oldest son who was to reign in his place and offered him for a burnt offering on the wall. And there came great wrath against Israel. And they withdrew from him and returned to their own land."
+    },
+    {
+        "text": "What was the name of Elisha's servant who greedily took gifts from Naaman and was struck with leprosy?",
+        "options": ["Gehazi", "Obadiah", "Micaiah", "Eliakim"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Medium",
+        "verseReference": "2 Kings 5:20, 27",
+        "verseText": "Gehazi, the servant of Elisha the man of God, said... 'I will run after him and get something from him.' ... 'Therefore the leprosy of Naaman shall cling to you and your descendants forever.' So he went out from his presence a leper, like snow."
+    },
+    {
+        "text": "How did Elisha reveal the location of the Syrian army's ambushes to the king of Israel?",
+        "options": ["God revealed it to Elisha, who told the king", "He used spies", "He interpreted dreams", "He captured a Syrian soldier"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Medium",
+        "verseReference": "2 Kings 6:9-10",
+        "verseText": "But the man of God sent word to the king of Israel, 'Beware that you do not pass this place, for the Syrians are going down there.' And the king of Israel sent to the place about which the man of God told him. Thus he used to warn him, so that he saved himself there more than once or twice."
+    },
+    {
+        "text": "What did Elisha do to the Syrian army that came to capture him at Dothan?",
+        "options": ["He prayed for them to be struck with blindness, then led them to Samaria", "He called down fire from heaven", "He had them ambushed by the Israelite army", "He hid from them"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Medium",
+        "verseReference": "2 Kings 6:18-20",
+        "verseText": "And when the Syrians came down against him, Elisha prayed to the LORD and said, 'Please strike this people with blindness.' So he struck them with blindness in accordance with the prayer of Elisha. And Elisha said to them, 'This is not the way, and this is not the city. Follow me, and I will bring you to the man whom you seek.' And he led them to Samaria."
+    },
+    {
+        "text": "During the siege of Samaria, what horrific act did two women agree to do?",
+        "options": ["Boil and eat their sons", "Surrender the city", "Kill the king", "Betray Elisha"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Medium",
+        "verseReference": "2 Kings 6:28-29",
+        "verseText": "And the king asked her, 'What is your trouble?' She answered, 'This woman said to me, 'Give your son, that we may eat him today, and we will eat my son tomorrow.' So we boiled my son and ate him. And on the next day I said to her, 'Give your son, that we may eat him.' But she has hidden her son.'"
+    },
+    {
+        "text": "Who discovered that the Syrian army had abandoned their camp outside Samaria?",
+        "options": ["Four lepers", "Elisha's servant", "The king's scouts", "A group of women"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Medium",
+        "verseReference": "2 Kings 7:3, 8",
+        "verseText": "Now there were four men who were lepers at the entrance to the gate... When these lepers came to the edge of the camp, they went into a tent and ate and drank, and they carried off silver and gold and clothing..."
+    },
+    {
+        "text": "What did Elisha prophesy about the price of food in Samaria the day after the siege was lifted?",
+        "options": ["A seah of fine flour and two seahs of barley would sell for a shekel", "Food would remain scarce", "The king would distribute food freely", "Neighboring nations would send aid"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Medium",
+        "verseReference": "2 Kings 7:1",
+        "verseText": "But Elisha said, 'Hear the word of the LORD: thus says the LORD, Tomorrow about this time a seah of fine flour shall be sold for a shekel, and two seahs of barley for a shekel, at the gate of Samaria.'"
+    },
+    {
+        "text": "What happened to the royal officer who doubted Elisha's prophecy about the cheap food?",
+        "options": ["He was trampled to death at the gate and saw the food but did not eat it", "He was promoted by the king", "He became a leper", "He fled the city"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Medium",
+        "verseReference": "2 Kings 7:2, 17",
+        "verseText": "Then the captain on whose hand the king leaned said to the man of God, 'If the LORD himself should make windows in heaven, could this thing be?' But he said, 'You shall see it with your own eyes, but you shall not eat of it.' ... the people trampled him in the gate, so that he died, as the man of God had said..."
+    },
+    {
+        "text": "Who did Elisha prophesy would become king of Syria and do great evil to Israel?",
+        "options": ["Hazael", "Ben-hadad", "Naaman", "Rezin"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Medium",
+        "verseReference": "2 Kings 8:12-13, 15",
+        "verseText": "And Hazael said, 'Why does my lord weep?' He answered, 'Because I know the evil that you will do to the people of Israel...' And Hazael said, 'What is your servant, who is but a dog, that he should do this great thing?' Elisha answered, 'The LORD has shown me that you are to be king over Syria.' ... But the next day he took the bed-cloth and dipped it in water and spread it over his face, till he died. And Hazael became king in his place."
+    },
+    {
+        "text": "Who rescued the young prince Joash from Athaliah's massacre?",
+        "options": ["Jehosheba, his aunt and wife of the high priest Jehoiada", "His mother", "Elisha", "A loyal guard"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Medium",
+        "verseReference": "2 Kings 11:2",
+        "verseText": "But Jehosheba, the daughter of King Joram, sister of Ahaziah, took Joash the son of Ahaziah and stole him away from among the king's sons who were being put to death, and she put him and his nurse in a bedroom. Thus they hid him from Athaliah, so that he was not put to death."
+    },
+    {
+        "text": "How old was Joash (Jehoash) when he was crowned king of Judah?",
+        "options": ["Seven years old", "Twelve years old", "Eighteen years old", "Twenty years old"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Medium",
+        "verseReference": "2 Kings 11:21",
+        "verseText": "Jehoash was seven years old when he began to reign."
+    },
+    {
+        "text": "What did King Joash of Judah do with the Temple treasures when Hazael of Syria threatened Jerusalem?",
+        "options": ["He sent them as a bribe to Hazael to make him withdraw", "He hid them", "He used them to fortify the city", "He melted them down for weapons"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Medium",
+        "verseReference": "2 Kings 12:18",
+        "verseText": "Jehoash king of Judah took all the sacred gifts... and all the gold that was found in the treasuries of the house of the LORD and of the king's house, and sent them to Hazael king of Syria. Then Hazael went away from Jerusalem."
+    },
+    {
+        "text": "What symbolic action did Elisha have King Joash (Jehoash) of Israel perform before his death?",
+        "options": ["Shoot arrows out the window and strike the ground with arrows", "Break a pot", "Pour water on the ground", "Tear his clothes"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Medium",
+        "verseReference": "2 Kings 13:15-19",
+        "verseText": "And Elisha said to him, 'Take a bow and arrows.'... 'Open the window eastward.'... 'Shoot.' And he shot. And he said, 'The LORD's arrow of victory, the arrow of victory over Syria!'... 'Take the arrows,' and he took them. And he said to the king of Israel, 'Strike the ground,' and he struck three times and stopped. Then the man of God was angry with him and said, 'You should have struck five or six times; then you would have struck down Syria until you had made an end of it...'"
+    },
+    {
+        "text": "What miracle occurred when a dead man's body touched Elisha's bones?",
+        "options": ["The man came back to life", "The bones turned to dust", "A light shone from the tomb", "The ground shook"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Medium",
+        "verseReference": "2 Kings 13:21",
+        "verseText": "And as a man was being buried, behold, a marauding band was seen and the man was thrown into the grave of Elisha, and as soon as the man touched the bones of Elisha, he revived and stood on his feet."
+    },
+    {
+        "text": "Which king of Judah arrogantly challenged the king of Israel to battle and was defeated and captured?",
+        "options": ["Amaziah", "Uzziah (Azariah)", "Jotham", "Ahaz"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Medium",
+        "verseReference": "2 Kings 14:8, 11-13",
+        "verseText": "Then Amaziah sent messengers to Jehoash... king of Israel, saying, 'Come, let us look one another in the face.' ... But Amaziah would not listen. So Jehoash king of Israel went up, and he and Amaziah king of Judah faced one another in battle at Beth-shemesh... Judah was defeated by Israel... Jehoash king of Israel captured Amaziah king of Judah..."
+    },
+    {
+        "text": "What disease afflicted King Uzziah (Azariah) of Judah for challenging the priests' role?",
+        "options": ["Leprosy", "Blindness", "Paralysis", "Boils"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Medium",
+        "verseReference": "2 Kings 15:5 (Cross-ref 2 Chron 26:19-21)",
+        "verseText": "And the LORD touched the king, so that he was a leper to the day of his death, and he lived in a separate house. (ESV) [2 Chron 26:19 details the cause: ...he was angry with the priests, and leprosy broke out on his forehead...]"
+    },
+    {
+        "text": "Which king of Judah sought help from the king of Assyria against Israel and Syria, leading to vassalage?",
+        "options": ["Ahaz", "Hezekiah", "Jotham", "Manasseh"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Medium",
+        "verseReference": "2 Kings 16:7-8",
+        "verseText": "So Ahaz sent messengers to Tiglath-pileser king of Assyria, saying, 'I am your servant and your son. Come up and rescue me from the hand of the king of Syria and from the hand of the king of Israel, who are attacking me.' Ahaz also took the silver and gold that was found in the house of the LORD and in the treasures of the king's house and sent a present to the king of Assyria."
+    },
+    {
+        "text": "What pagan practice did King Ahaz introduce into the Temple worship?",
+        "options": ["Replacing the bronze altar with a copy of an Assyrian altar", "Setting up Asherah poles", "Sacrificing his son", "Worshipping Baal"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Medium",
+        "verseReference": "2 Kings 16:10-11",
+        "verseText": "When King Ahaz went to Damascus to meet Tiglath-pileser king of Assyria, he saw the altar that was at Damascus. And King Ahaz sent to Uriah the priest a model of the altar, and its pattern, exact in all its details. And Uriah the priest built the altar..."
+    },
+    {
+        "text": "Why was the northern kingdom of Israel taken into exile by the Assyrians?",
+        "options": ["Because they rejected God's commandments and worshipped idols", "They lost a single decisive battle", "They failed to pay tribute", "A famine weakened them"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Medium",
+        "verseReference": "2 Kings 17:7-8, 16",
+        "verseText": "And this occurred because the people of Israel had sinned against the LORD their God... and had feared other gods and walked in the customs of the nations whom the LORD drove out before the people of Israel... And they abandoned all the commandments of the LORD their God, and made for themselves metal images of two calves; and they made an Asherah and worshiped all the host of heaven and served Baal."
+    },
+    {
+        "text": "What problem did the foreign peoples settled in Samaria by the Assyrians initially face?",
+        "options": ["They were attacked by lions because they didn't fear the LORD", "They couldn't farm the land", "They were raided by Israelites", "A plague broke out"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Medium",
+        "verseReference": "2 Kings 17:25",
+        "verseText": "And at the beginning of their dwelling there, they did not fear the LORD. Therefore the LORD sent lions among them, which killed some of them."
+    },
+    {
+        "text": "What religious practice resulted from the mixing of foreign peoples and remaining Israelites in Samaria?",
+        "options": ["Syncretism: fearing the LORD but also serving their own gods", "Complete conversion to Judaism", "Strict adherence to Assyrian religion", "Atheism"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Medium",
+        "verseReference": "2 Kings 17:33, 41",
+        "verseText": "So they feared the LORD but also served their own gods, after the manner of the nations from among whom they had been carried away... So these nations feared the LORD and also served their carved images."
+    },
+    {
+        "text": "What structure did King Hezekiah build to provide water during the Assyrian siege?",
+        "options": ["A tunnel (Siloam Tunnel) to bring water from the Gihon Spring into the city", "Large cisterns on the Temple Mount", "An aqueduct from Bethlehem", "Deep wells within the city walls"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Medium",
+        "verseReference": "2 Kings 20:20",
+        "verseText": "The rest of the deeds of Hezekiah and all his might and how he made the pool and the conduit and brought water into the city, are they not written in the Book of the Chronicles of the Kings of Judah?"
+    },
+    {
+        "text": "Who was the Rabshakeh?",
+        "options": ["Sennacherib's chief officer who taunted Jerusalem", "The king of Egypt", "A prophet opposing Isaiah", "Hezekiah's general"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Medium",
+        "verseReference": "2 Kings 18:17, 19",
+        "verseText": "And the king of Assyria sent the Tartan, the Rabsaris, and the Rabshakeh with a great army from Lachish to King Hezekiah at Jerusalem... And the Rabshakeh said to them, 'Say to Hezekiah...'"
+    },
+    {
+        "text": "What foolish thing did Hezekiah do when envoys from Babylon came after his recovery?",
+        "options": ["He showed them all his treasures and armory", "He made a treaty with them against Assyria", "He insulted them", "He refused to see them"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Medium",
+        "verseReference": "2 Kings 20:13",
+        "verseText": "And Hezekiah welcomed them, and he showed them all his treasure house, the silver, the gold, the spices, the precious oil, his armory, all that was found in his storehouses. There was nothing in his house or in all his realm that Hezekiah did not show them."
+    },
+    {
+        "text": "What was Isaiah's prophecy after Hezekiah showed the Babylonian envoys his treasures?",
+        "options": ["Everything in his house would be carried to Babylon", "Babylon would become Judah's ally", "Assyria would destroy Babylon", "Hezekiah would have a long and prosperous reign"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Medium",
+        "verseReference": "2 Kings 20:17",
+        "verseText": "Behold, the days are coming, when all that is in your house, and that which your fathers have stored up till this day, shall be carried to Babylon. Nothing shall be left, says the LORD."
+    },
+    {
+        "text": "Who was Hezekiah's son, known as the most wicked king of Judah?",
+        "options": ["Manasseh", "Amon", "Josiah", "Jehoiakim"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Medium",
+        "verseReference": "2 Kings 21:1-2, 9",
+        "verseText": "Manasseh was twelve years old when he began to reign... And he did what was evil in the sight of the LORD... Manasseh led them astray to do more evil than the nations had done whom the LORD destroyed before the people of Israel."
+    },
+    {
+        "text": "What specific evil acts are attributed to King Manasseh?",
+        "options": ["Rebuilding high places, sacrificing his son, practicing witchcraft, shedding innocent blood", "Worshipping only Baal", "Making a treaty with Egypt", "Destroying the Temple"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Medium",
+        "verseReference": "2 Kings 21:3, 6, 16",
+        "verseText": "For he rebuilt the high places that Hezekiah his father had destroyed... And he burned his son as an offering and used fortune-telling and omens and dealt with mediums and necromancers... Moreover, Manasseh shed very much innocent blood, till he had filled Jerusalem from one end to another..."
+    },
+    {
+        "text": "How did King Amon, Manasseh's son, die?",
+        "options": ["His servants conspired against him and killed him", "In battle against Egypt", "Of a disease", "Assassinated by a foreign agent"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Medium",
+        "verseReference": "2 Kings 21:23",
+        "verseText": "And the servants of Amon conspired against him and put the king to death in his house."
+    },
+    {
+        "text": "What did King Josiah destroy at Bethel, fulfilling a prophecy made centuries earlier?",
+        "options": ["The altar built by Jeroboam I", "A temple to Baal", "An Assyrian shrine", "A golden calf"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Medium",
+        "verseReference": "2 Kings 23:15 (Ref 1 Kings 13:2)",
+        "verseText": "Moreover, the altar at Bethel, the high place erected by Jeroboam the son of Nebat, who made Israel to sin, that altar with the high place he pulled down and burned, reducing it to dust. He also burned the Asherah."
+    },
+    {
+        "text": "How did the righteous King Josiah die?",
+        "options": ["Killed in battle against Pharaoh Neco of Egypt at Megiddo", "Peacefully in old age", "Assassinated by his officers", "Struck by lightning"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Medium",
+        "verseReference": "2 Kings 23:29",
+        "verseText": "In his days Pharaoh Neco king of Egypt went up to the king of Assyria to the river Euphrates. King Josiah went to meet him, and Pharaoh Neco killed him at Megiddo when he saw him."
+    },
+    {
+        "text": "Who appointed Jehoiakim as king of Judah?",
+        "options": ["Pharaoh Neco of Egypt", "The people of Judah", "Nebuchadnezzar of Babylon", "The priests"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Medium",
+        "verseReference": "2 Kings 23:34",
+        "verseText": "And Pharaoh Neco made Eliakim the son of Josiah king in the place of Josiah his father, and changed his name to Jehoiakim. But he took Jehoahaz away, and he came to Egypt and died there."
+    },
+    {
+        "text": "Which king of Judah rebelled against Nebuchadnezzar after initially submitting?",
+        "options": ["Jehoiakim", "Jehoiachin", "Zedekiah", "Josiah"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Medium",
+        "verseReference": "2 Kings 24:1",
+        "verseText": "In his days, Nebuchadnezzar king of Babylon came up, and Jehoiakim became his servant for three years. Then he turned and rebelled against him."
+    },
+    {
+        "text": "What happened to King Jehoiachin after he surrendered to Nebuchadnezzar?",
+        "options": ["He was taken captive to Babylon along with treasures and skilled workers", "He was executed", "He was allowed to rule as a puppet king", "He escaped to Egypt"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Medium",
+        "verseReference": "2 Kings 24:12, 15",
+        "verseText": "And Jehoiachin the king of Judah gave himself up to the king of Babylon, himself and his mother and his servants and his officials and his palace officials... He carried away Jehoiachin to Babylon..."
+    },
+    {
+        "text": "Who did Nebuchadnezzar install as the final king of Judah in Jerusalem?",
+        "options": ["Zedekiah (Mattaniah), Jehoiachin's uncle", "Gedaliah", "Jehoiakim's son", "A Babylonian governor"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Medium",
+        "verseReference": "2 Kings 24:17",
+        "verseText": "And the king of Babylon made Mattaniah, Jehoiachin's uncle, king in his place, and changed his name to Zedekiah."
+    },
+    {
+        "text": "What happened to the pillars, the bronze sea, and the stands in Solomon's Temple during the final Babylonian conquest?",
+        "options": ["The Babylonians broke them up and carried the bronze away", "They were hidden by the priests", "They were left intact", "They were melted down by Zedekiah"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Medium",
+        "verseReference": "2 Kings 25:13",
+        "verseText": "And the pillars of bronze that were in the house of the LORD, and the stands and the bronze sea that were in the house of the LORD, the Chaldeans broke in pieces and carried the bronze to Babylon."
+    },
+    {
+        "text": "Who was Gedaliah?",
+        "options": ["The governor appointed by Babylon over Judah after Zedekiah's capture, later assassinated", "The last high priest", "Zedekiah's chief general", "A prophet during the exile"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Medium",
+        "verseReference": "2 Kings 25:22, 25",
+        "verseText": "And over the people who remained in the land of Judah, whom Nebuchadnezzar king of Babylon had left, he appointed Gedaliah the son of Ahikam... But in the seventh month, Ishmael the son of Nethaniah... came with ten men and struck down Gedaliah and put him to death..."
+    },
+    {
+        "text": "What was the name of the king of Moab mentioned at the beginning of 2 Kings who rebelled against Israel after Ahab's death?",
+        "options": ["Mesha", "Balak", "Chemosh", "Zimri"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Hard",
+        "verseReference": "2 Kings 1:1, 3:4-5",
+        "verseText": "After the death of Ahab, Moab rebelled against Israel... Now Mesha king of Moab was a sheep breeder... But when Ahab died, the king of Moab rebelled against the king of Israel."
+    },
+    {
+        "text": "King Ahaziah of Israel fell through the lattice of his upper chamber. Which god did he send messengers to inquire of regarding his recovery?",
+        "options": ["Baal-zebub, the god of Ekron", "Chemosh, the god of Moab", "Ashtoreth, the goddess of the Sidonians", "Molech, the god of the Ammonites"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Hard",
+        "verseReference": "2 Kings 1:2",
+        "verseText": "Now Ahaziah fell through the lattice in his upper chamber in Samaria, and lay sick; so he sent messengers, telling them, 'Go, inquire of Baal-zebub, the god of Ekron, whether I shall recover from this sickness.'"
+    },
+    {
+        "text": "How many groups of fifty soldiers, along with their captains, were sent by King Ahaziah to arrest Elijah, and what happened to the first two groups?",
+        "options": ["Three groups; fire from heaven consumed the first two groups", "Two groups; they were struck blind", "Four groups; they were killed by bears", "One group; Elijah surrendered peacefully"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Hard",
+        "verseReference": "2 Kings 1:9-14",
+        "verseText": "Then the king sent to him a captain of fifty with his fifty... 'O man of God, the king says, Come down.' But Elijah... said... 'let fire come down from heaven and consume you and your fifty.' Then fire came down from heaven and consumed him and his fifty. Again the king sent to him another captain of fifty with his fifty... [same result] Again the king sent the captain of a third fifty with his fifty..."
+    },
+    {
+        "text": "What three locations did Elijah visit with Elisha immediately before being taken up to heaven?",
+        "options": ["Gilgal, Bethel, Jericho", "Jerusalem, Bethlehem, Hebron", "Samaria, Jezreel, Mount Carmel", "Dan, Beersheba, Shiloh"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Hard",
+        "verseReference": "2 Kings 2:1-6",
+        "verseText": "Now when the LORD was about to take Elijah up to heaven by a whirlwind, Elijah and Elisha were on their way from Gilgal... Elijah said to Elisha, 'Please stay here, for the LORD has sent me as far as Bethel.'... Then Elijah said to him, 'Elisha, please stay here, for the LORD has sent me to Jericho.'... Then Elijah said to him, 'Please stay here, for the LORD has sent me to the Jordan.'"
+    },
+    {
+        "text": "What did the kings of Israel, Judah, and Edom do to find water for their armies in the campaign against Moab?",
+        "options": ["Elisha instructed them to dig ditches, and water filled them without rain", "They found a hidden spring", "They captured Moabite water supplies", "They prayed, and rain came"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Hard",
+        "verseReference": "2 Kings 3:16-17, 20",
+        "verseText": "And he said, 'Thus says the LORD, I will make this dry streambed full of pools.' For thus says the LORD, 'You shall not see wind or rain, but that streambed shall be full of water...' And the next morning... behold, water came from the direction of Edom, till the country was filled with water."
+    },
+    {
+        "text": "What was the initial reaction of Naaman when Elisha told him to wash in the Jordan?",
+        "options": ["He was angry and felt insulted, preferring the rivers of Damascus", "He obeyed immediately", "He questioned Elisha's authority", "He offered Elisha more gifts"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Hard",
+        "verseReference": "2 Kings 5:11-12",
+        "verseText": "But Naaman was angry and went away, saying, 'Behold, I thought that he would surely come out to me and stand and call upon the name of the LORD his God, and wave his hand over the place and cure the leper. Are not Abana and Pharpar, the rivers of Damascus, better than all the waters of Israel? Could I not wash in them and be clean?' So he turned and went away in a rage."
+    },
+    {
+        "text": "After being healed, what request did Naaman make regarding taking soil back to Syria?",
+        "options": ["To take two mule loads of earth to build an altar to the LORD", "To take soil for farming", "To take soil as a souvenir", "To take soil for medicinal purposes"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Hard",
+        "verseReference": "2 Kings 5:17",
+        "verseText": "Then Naaman said, 'If not, please let there be given to your servant two mule loads of earth, for from now on your servant will not offer burnt offering or sacrifice to any god but the LORD.'"
+    },
+    {
+        "text": "What did Elisha feed 100 men with, leaving leftovers?",
+        "options": ["Twenty loaves of barley and fresh ears of grain", "Five loaves and two fish", "A single pot of stew", "Seven baskets of bread"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Hard",
+        "verseReference": "2 Kings 4:42-44",
+        "verseText": "A man came from Baal-shalishah, bringing the man of God bread of the firstfruits, twenty loaves of barley and fresh ears of grain in his sack. And Elisha said, 'Give to the men, that they may eat.' ... 'Thus says the LORD, They shall eat and have some left.' So he set it before them. And they ate and had some left, according to the word of the LORD."
+    },
+    {
+        "text": "How did Hazael murder Ben-hadad, king of Syria, after Elisha's prophecy?",
+        "options": ["He suffocated him with a wet cloth", "He stabbed him", "He poisoned him", "He pushed him from a tower"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Hard",
+        "verseReference": "2 Kings 8:15",
+        "verseText": "But the next day he took the bed-cloth and dipped it in water and spread it over his face, till he died. And Hazael became king in his place."
+    },
+    {
+        "text": "What sign did Jehu give to the Baal worshippers to identify themselves before he slaughtered them?",
+        "options": ["He told them to put on special vestments provided for them", "He asked them to shout Baal's name", "He had them gather in a specific part of the temple", "He marked their foreheads"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Hard",
+        "verseReference": "2 Kings 10:22-23",
+        "verseText": "Then he said to him who was in charge of the wardrobe, 'Bring out the vestments for all the worshipers of Baal.' So he brought out the vestments for them. Then Jehu went into the house of Baal with Jehonadab the son of Rechab; and he said to the worshipers of Baal, 'Search, and see that there is no servant of the LORD here among you, but only the worshipers of Baal.'"
+    },
+    {
+        "text": "Who was Jehonadab son of Rechab, who met Jehu and rode with him in his chariot?",
+        "options": ["A leader of a conservative, ascetic group known for faithfulness", "Jehu's military commander", "A prophet", "The high priest"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Hard",
+        "verseReference": "2 Kings 10:15-16",
+        "verseText": "And when he departed from there, he met Jehonadab the son of Rechab coming to meet him. And he greeted him and said to him, 'Is your heart right, as my heart is with your heart?' And Jehonadab answered, 'It is.' Jehu said, 'If it is, give me your hand.' So he gave him his hand. And Jehu took him up with him into the chariot. And he said, 'Come with me, and see my zeal for the LORD.'"
+    },
+    {
+        "text": "Despite his zeal against Baal worship, what sin of Jeroboam I did Jehu fail to depart from?",
+        "options": ["The worship of the golden calves at Bethel and Dan", "Making alliances with foreign nations", "Marrying foreign wives", "Oppressing the poor"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Hard",
+        "verseReference": "2 Kings 10:29, 31",
+        "verseText": "But Jehu did not turn aside from the sins of Jeroboam the son of Nebat, which he made Israel to sin—that is, the golden calves that were in Bethel and in Dan... But Jehu was not careful to walk in the law of the LORD, the God of Israel, with all his heart. He did not turn from the sins of Jeroboam, which he made Israel to sin."
+    },
+    {
+        "text": "Who was the high priest who orchestrated the overthrow of Queen Athaliah and the coronation of Joash?",
+        "options": ["Jehoiada", "Hilkiah", "Zadok", "Abiathar"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Hard",
+        "verseReference": "2 Kings 11:4, 9",
+        "verseText": "But in the seventh year Jehoiada sent and brought the captains of the Carites and of the guards... And he made a covenant with them... and showed them the king's son... The captains did according to all that Jehoiada the priest commanded..."
+    },
+    {
+        "text": "How did King Joash (Jehoash) of Judah die?",
+        "options": ["His servants conspired against him and assassinated him", "In battle against Israel", "Of old age", "Killed by Hazael of Syria"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Hard",
+        "verseReference": "2 Kings 12:20-21",
+        "verseText": "His servants arose and made a conspiracy and struck down Joash in the house of Millo... Jozacar the son of Shimeath and Jehozabad the son of Shomer, his servants, struck him down, so that he died."
+    },
+    {
+        "text": "What was the insulting parable King Jehoash of Israel told King Amaziah of Judah before defeating him?",
+        "options": ["A thistle asking a cedar for marriage, then being trampled by a beast", "A fox inviting a stork to dinner", "An eagle carrying away a lamb", "A foolish man building his house on sand"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Hard",
+        "verseReference": "2 Kings 14:9",
+        "verseText": "And Jehoash king of Israel sent word to Amaziah king of Judah, 'A thistle on Lebanon sent to a cedar on Lebanon, saying, Give your daughter to my son for a wife, and a wild beast of Lebanon passed by and trampled down the thistle.'"
+    },
+    {
+        "text": "Which Israelite king assassinated his predecessor Shallum after Shallum had reigned only one month?",
+        "options": ["Menahem", "Pekah", "Pekahiah", "Hoshea"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Hard",
+        "verseReference": "2 Kings 15:13-14",
+        "verseText": "Shallum the son of Jabesh began to reign in the thirty-ninth year of Uzziah king of Judah, and he reigned one month in Samaria. Then Menahem the son of Gadi came up from Tirzah and came to Samaria, and he struck down Shallum the son of Jabesh in Samaria and put him to death and reigned in his place."
+    },
+    {
+        "text": "Which Assyrian king, mentioned by his name 'Pul' and 'Tiglath-Pileser', exacted tribute from King Menahem of Israel?",
+        "options": ["Tiglath-Pileser III", "Sennacherib", "Shalmaneser V", "Sargon II"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Hard",
+        "verseReference": "2 Kings 15:19, 29",
+        "verseText": "Pul the king of Assyria came against the land, and Menahem gave Pul a thousand talents of silver... In the days of Pekah king of Israel, Tiglath-pileser king of Assyria came and captured Ijon, Abel-beth-maacah, Janoah, Kedesh, Hazor, Gilead, and Galilee, all the land of Naphtali, and he carried the people captive to Assyria. [Note: Pul and Tiglath-Pileser III are generally considered the same person]"
+    },
+    {
+        "text": "Who assassinated King Pekahiah of Israel in the citadel of Samaria?",
+        "options": ["Pekah, his captain", "Hoshea", "Menahem", "Shallum"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Hard",
+        "verseReference": "2 Kings 15:25",
+        "verseText": "And Pekah the son of Remaliah, his captain, conspired against him with fifty men of the people of Gilead, and struck him down in Samaria, in the citadel of the king's house with Argob and Arieh; he put him to death and reigned in his place."
+    },
+    {
+        "text": "During whose reign in Judah did Pekah of Israel and Rezin of Syria besiege Jerusalem?",
+        "options": ["Ahaz", "Jotham", "Hezekiah", "Uzziah"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Hard",
+        "verseReference": "2 Kings 16:5",
+        "verseText": "Then Rezin king of Syria and Pekah the son of Remaliah, king of Israel, came up to wage war on Jerusalem, and they besieged Ahaz but could not conquer him."
+    },
+    {
+        "text": "What specific idolatrous object did Hezekiah destroy that had been made by Moses?",
+        "options": ["The bronze serpent (Nehushtan)", "The Ark of the Covenant", "Aaron's staff", "The golden calf"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Hard",
+        "verseReference": "2 Kings 18:4",
+        "verseText": "He removed the high places and broke the pillars and cut down the Asherah. And he broke in pieces the bronze serpent that Moses had made, for until those days the people of Israel had made offerings to it (it was called Nehushtan)."
+    },
+    {
+        "text": "What argument did the Rabshakeh use to try and demoralize the people of Jerusalem, speaking in Hebrew?",
+        "options": ["Trusting in Egypt was futile, and the LORD had told Assyria to attack Judah", "Assyria offered better terms of surrender", "Hezekiah was lying about God's protection", "Their own gods had abandoned them"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Hard",
+        "verseReference": "2 Kings 18:21, 25, 28",
+        "verseText": "Behold, you are trusting now in Egypt, that broken reed of a staff... Moreover, is it without the LORD that I have come up against this place to destroy it? The LORD said to me, Go up against this land, and destroy it.' ... Then the Rabshakeh stood and called out in a loud voice in the language of Judah..."
+    },
+    {
+        "text": "What was the content of Sennacherib's letter to Hezekiah?",
+        "options": ["A boast about conquering other nations and their gods, implying Judah's God couldn't save them", "An offer of peace terms", "A demand for more tribute", "A personal threat against Hezekiah"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Hard",
+        "verseReference": "2 Kings 19:10-13",
+        "verseText": "'Do not let your God in whom you trust deceive you by promising that Jerusalem will not be given into the hand of the king of Assyria. Behold, you have heard what the kings of Assyria have done to all lands, devoting them to destruction. And shall you be delivered? Have the gods of the nations delivered them...?'"
+    },
+    {
+        "text": "How did Sennacherib, king of Assyria, die?",
+        "options": ["His own sons assassinated him while he was worshipping his god Nisroch", "Killed in battle", "Died of disease", "Overthrown in a coup"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Hard",
+        "verseReference": "2 Kings 19:36-37",
+        "verseText": "Then Sennacherib king of Assyria departed and went home and lived at Nineveh. And as he was worshiping in the house of Nisroch his god, Adrammelech and Sharezer, his sons, struck him down with the sword and escaped into the land of Ararat. And Esarhaddon his son reigned in his place."
+    },
+    {
+        "text": "What judgment did the prophetess Huldah pronounce on Judah despite Josiah's reforms?",
+        "options": ["Disaster would still come upon Jerusalem because of Manasseh's sins, but not in Josiah's day", "Josiah's reforms were insufficient", "Babylon would be destroyed", "Judah would prosper under Josiah"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Hard",
+        "verseReference": "2 Kings 22:16-17, 20",
+        "verseText": "'Thus says the LORD, Behold, I will bring disaster upon this place and upon its inhabitants... because they have forsaken me and have made offerings to other gods... Therefore, behold, I will gather you to your fathers, and you shall be gathered to your grave in peace, and your eyes shall not see all the disaster that I will bring upon this place.'"
+    },
+    {
+        "text": "Who succeeded Josiah as king, reigned only three months, and was taken captive to Egypt by Pharaoh Neco?",
+        "options": ["Jehoahaz", "Jehoiakim", "Jehoiachin", "Zedekiah"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Hard",
+        "verseReference": "2 Kings 23:31, 33",
+        "verseText": "Jehoahaz was twenty-three years old when he began to reign, and he reigned three months in Jerusalem... And Pharaoh Neco put him in bonds at Riblah in the land of Hamath, that he might not reign in Jerusalem, and laid on the land a tribute... and took Jehoahaz away; and he came to Egypt and died there."
+    },
+    {
+        "text": "What happened to King Jehoiachin years later while in exile in Babylon?",
+        "options": ["He was released from prison and treated kindly by the new Babylonian king, Evil-merodach", "He led a revolt", "He died in prison", "He returned to Judah"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Hard",
+        "verseReference": "2 Kings 25:27-30",
+        "verseText": "And in the thirty-seventh year of the exile of Jehoiachin king Judah... Evil-merodach king of Babylon... graciously freed Jehoiachin king of Judah fom prison... spoke kindly to him, and gave him a seat above the seats of the kings who were with him in Babylon... So Jehoiachin ate bread regularly before the king all the days of his life..."
+    },
+    {
+        "text": "After Gedaliah's assassination, where did the remaining Jewish leaders and people flee against Jeremiah's advice?",
+        "options": ["Egypt", "Assyria", "Moab", "Edom"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Hard",
+        "verseReference": "2 Kings 25:26 (Context Jer 42-43)",
+        "verseText": "Then all the people, both small and great, and the captains of the forces arose and went to Egypt, for they were afraid of the Chaldeans. [Jeremiah 43 details their disregard for Jeremiah's warning not to go to Egypt]"
     }
 ]
