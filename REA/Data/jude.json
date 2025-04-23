@@ -1,0 +1,92 @@
+[
+  {
+    "text": "Who identifies himself as the author of the Epistle of Jude?",
+    "options": ["Judas Iscariot", "Jude, a servant of Jesus Christ and brother of James", "An unknown Jude", "Paul"],
+    "correctAnswerIndex": 1,
+    "book": "Jude",
+    "difficulty": "Easy",
+    "verseReference": "Jude 1",
+    "verseText": "Jude, a servant of Jesus Christ and brother of James, To those who are called, beloved in God the Father and kept for Jesus Christ:"
+  },
+  {
+    "text": "What did Jude originally intend to write about before changing his topic?",
+    "options": ["The end times", "Church leadership", "Their common salvation", "How to pray"],
+    "correctAnswerIndex": 2,
+    "book": "Jude",
+    "difficulty": "Medium",
+    "verseReference": "Jude 3",
+    "verseText": "Beloved, although I was very eager to write to you about our common salvation, I found it necessary to write appealing to you to contend for the faith..."
+  },
+  {
+    "text": "What did Jude find it necessary to urge his readers to do instead?",
+    "options": ["Separate from the world", "Contend earnestly for the faith once for all delivered to the saints", "Focus on spiritual gifts", "Build a larger church"],
+    "correctAnswerIndex": 1,
+    "book": "Jude",
+    "difficulty": "Easy",
+    "verseReference": "Jude 3",
+    "verseText": "...I found it necessary to write appealing to you to contend for the faith that was once for all delivered to the saints."
+  },
+  {
+    "text": "Why was it necessary for Jude to urge them to contend for the faith?",
+    "options": ["Because of Roman persecution", "Because certain people had crept in unnoticed, promoting ungodliness", "Because the apostles were dying", "Because of a famine"],
+    "correctAnswerIndex": 1,
+    "book": "Jude",
+    "difficulty": "Medium",
+    "verseReference": "Jude 4",
+    "verseText": "For certain people have crept in unnoticed who long ago were designated for this condemnation, ungodly people, who pervert the grace of our God into sensuality and deny our only Master and Lord, Jesus Christ."
+  },
+  {
+    "text": "Jude uses several Old Testament examples to illustrate the judgment that falls on the ungodly and apostate. Which examples does he use?",
+    "options": ["David, Solomon, Hezekiah", "Israelites delivered from Egypt who later disbelieved, angels who sinned, Sodom and Gomorrah", "Abraham, Isaac, Jacob", "Moses, Aaron, Miriam"],
+    "correctAnswerIndex": 1,
+    "book": "Jude",
+    "difficulty": "Hard",
+    "verseReference": "Jude 5-7",
+    "verseText": "Now I want to remind you... that Jesus, who saved a people out of the land of Egypt, afterward destroyed those who did not believe. And the angels who did not stay within their own position of authority... he has kept in eternal chains... just as Sodom and Gomorrah... serve as an example by undergoing a punishment of eternal fire."
+  },
+  {
+    "text": "Jude also compares the false teachers to which three rebellious Old Testament figures?",
+    "options": ["Saul, Absalom, Jeroboam", "Cain, Balaam, Korah", "Achan, Samson, Eli's sons", "Pharaoh, Nebuchadnezzar, Haman"],
+    "correctAnswerIndex": 1,
+    "book": "Jude",
+    "difficulty": "Hard",
+    "verseReference": "Jude 11",
+    "verseText": "Woe to them! For they walked in the way of Cain and abandoned themselves for the sake of gain to Balaam's error and perished in Korah's rebellion."
+  },
+  {
+    "text": "What event involving the Archangel Michael and the devil does Jude reference (from non-biblical tradition)?",
+    "options": ["A battle over heaven", "A dispute about the body of Moses", "A debate about Job", "A wrestling match"],
+    "correctAnswerIndex": 1,
+    "book": "Jude",
+    "difficulty": "Hard",
+    "verseReference": "Jude 9",
+    "verseText": "But when the archangel Michael, contending with the devil, was disputing about the body of Moses, he did not presume to pronounce a blasphemous judgment, but said, “The Lord rebuke you.”"
+  },
+  {
+    "text": "How does Jude instruct believers to build themselves up and keep themselves in God's love?",
+    "options": ["By arguing with false teachers", "By isolating themselves", "By building themselves up in their most holy faith and praying in the Holy Spirit", "By accumulating wealth"],
+    "correctAnswerIndex": 2,
+    "book": "Jude",
+    "difficulty": "Medium",
+    "verseReference": "Jude 20-21",
+    "verseText": "But you, beloved, building yourselves up in your most holy faith and praying in the Holy Spirit, keep yourselves in the love of God, waiting for the mercy of our Lord Jesus Christ that leads to eternal life."
+  },
+  {
+    "text": "How should believers treat those who doubt or are caught up in the error Jude describes?",
+    "options": ["Condemn them immediately", "Have mercy on those who doubt; save others by snatching them out of the fire", "Ignore them", "Argue with them forcefully"],
+    "correctAnswerIndex": 1,
+    "book": "Jude",
+    "difficulty": "Medium",
+    "verseReference": "Jude 22-23",
+    "verseText": "And have mercy on those who doubt; save others by snatching them out of the fire; to others show mercy with fear, hating even the garment stained by the flesh."
+  },
+  {
+    "text": "The book of Jude ends with a powerful doxology (praise) to whom?",
+    "options": ["The angels", "The apostles", "God, who is able to keep believers from stumbling and present them blameless", "The church leaders"],
+    "correctAnswerIndex": 2,
+    "book": "Jude",
+    "difficulty": "Easy",
+    "verseReference": "Jude 24-25",
+    "verseText": "Now to him who is able to keep you from stumbling and to present you blameless before the presence of his glory with great joy, to the only God, our Savior, through Jesus Christ our Lord, be glory, majesty, dominion, and authority, before all time and now and forever. Amen."
+  }
+]

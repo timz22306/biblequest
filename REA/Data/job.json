@@ -1,0 +1,92 @@
+[
+  {
+    "text": "In which land did Job live?",
+    "options": ["Canaan", "Egypt", "Uz", "Midian"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Easy",
+    "verseReference": "Job 1:1",
+    "verseText": "There was a man in the land of Uz whose name was Job, and that man was blameless and upright, one who feared God and turned away from evil."
+  },
+  {
+    "text": "How is Job described in the first verse of the book?",
+    "options": ["Wealthy and powerful", "Blameless and upright", "A great prophet", "A king"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Easy",
+    "verseReference": "Job 1:1",
+    "verseText": "There was a man in the land of Uz whose name was Job, and that man was blameless and upright, one who feared God and turned away from evil."
+  },
+  {
+    "text": "Who came before God among the 'sons of God' and accused Job?",
+    "options": ["An angel", "Satan", "A demon", "One of Job's sons"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Easy",
+    "verseReference": "Job 1:6",
+    "verseText": "Now there was a day when the sons of God came to present themselves before the LORD, and Satan also came among them."
+  },
+  {
+    "text": "What was Satan's primary accusation against Job?",
+    "options": ["Job secretly sinned", "Job only feared God because he was blessed", "Job was plotting against God", "Job's wealth was ill-gotten"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 1:9-11",
+    "verseText": "Then Satan answered the LORD and said, “Does Job fear God for no reason? Have you not put a hedge around him and his house and all that he has, on every side? You have blessed the work of his hands, and his possessions have increased in the land. But stretch out your hand and touch all that he has, and he will curse you to your face.”"
+  },
+  {
+    "text": "What was the first catastrophe that befell Job?",
+    "options": ["His children were killed", "His livestock were stolen and servants killed", "He was struck with sores", "His wife left him"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 1:14-15",
+    "verseText": "and there came a messenger to Job and said, “The oxen were plowing and the donkeys feeding beside them, and the Sabeans fell upon them and took them and struck down the servants with the edge of the sword, and I alone have escaped to tell you.”"
+  },
+  {
+    "text": "How did Job react immediately after losing his possessions and children?",
+    "options": ["He cursed God", "He blamed Satan", "He tore his robe, shaved his head, and worshiped", "He questioned his friends"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 1:20-21",
+    "verseText": "Then Job arose and tore his robe and shaved his head and fell on the ground and worshiped. And he said, “Naked I came from my mother's womb, and naked shall I return. The LORD gave, and the LORD has taken away; blessed be the name of the LORD.”"
+  },
+  {
+    "text": "What did God permit Satan to do to Job the second time, with a limitation?",
+    "options": ["Take his wealth", "Take his life", "Afflict his body, but spare his life", "Turn his friends against him"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 2:6",
+    "verseText": "And the LORD said to Satan, “Behold, he is in your hand; only spare his life.”"
+  },
+  {
+    "text": "What affliction did Satan strike Job with?",
+    "options": ["Blindness", "Leprosy", "Painful sores from head to toe", "Paralysis"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Easy",
+    "verseReference": "Job 2:7",
+    "verseText": "So Satan went out from the presence of the LORD and struck Job with loathsome sores from the sole of his foot to the crown of his head."
+  },
+  {
+    "text": "What did Job's wife advise him to do in his suffering?",
+    "options": ["Pray harder", "Seek medical help", "Curse God and die", "Leave the land of Uz"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Easy",
+    "verseReference": "Job 2:9",
+    "verseText": "Then his wife said to him, “Do you still hold fast your integrity? Curse God and die.”"
+  },
+  {
+    "text": "Who were the three friends who came to comfort Job?",
+    "options": ["Elihu, Bildad, Zophar", "Eliphaz, Bildad, Zophar", "Eliphaz, Elihu, Zophar", "Eliphaz, Bildad, Elihu"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Easy",
+    "verseReference": "Job 2:11",
+    "verseText": "Now when Job's three friends heard of all this evil that had come upon him, they came each from his own place, Eliphaz the Temanite, Bildad the Shuhite, and Zophar the Naamathite. They made an appointment together to come to show him sympathy and comfort him."
+  }
+]

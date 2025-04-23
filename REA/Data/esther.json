@@ -1,0 +1,92 @@
+[
+  {
+    "text": "In which Persian city does the story of Esther primarily take place?",
+    "options": ["Babylon", "Jerusalem", "Susa", "Ecbatana"],
+    "correctAnswerIndex": 2,
+    "book": "Esther",
+    "difficulty": "Easy",
+    "verseReference": "Esther 1:2",
+    "verseText": "in those days when King Ahasuerus sat on his royal throne in Susa the citadel,"
+  },
+  {
+    "text": "Who was the king of Persia during the time of Esther?",
+    "options": ["Cyrus", "Darius", "Artaxerxes", "Ahasuerus (Xerxes I)"],
+    "correctAnswerIndex": 3,
+    "book": "Esther",
+    "difficulty": "Easy",
+    "verseReference": "Esther 1:1",
+    "verseText": "Now in the days of Ahasuerus, the Ahasuerus who reigned from India to Ethiopia over 127 provinces,"
+  },
+  {
+    "text": "Why did King Ahasuerus depose Queen Vashti?",
+    "options": ["She committed treason", "She refused to appear before him and his guests", "She was discovered to be Jewish", "She insulted his advisor"],
+    "correctAnswerIndex": 1,
+    "book": "Esther",
+    "difficulty": "Easy",
+    "verseReference": "Esther 1:12",
+    "verseText": "But Queen Vashti refused to come at the king's command delivered by the eunuchs. At this the king became enraged, and his anger burned within him."
+  },
+  {
+    "text": "Who was Esther's cousin who raised her?",
+    "options": ["Haman", "Mordecai", "Hegai", "Harbona"],
+    "correctAnswerIndex": 1,
+    "book": "Esther",
+    "difficulty": "Easy",
+    "verseReference": "Esther 2:7",
+    "verseText": "He was bringing up Hadassah, that is Esther, the daughter of his uncle, for she had neither father nor mother. The young woman had a beautiful figure and was lovely to look at, and when her father and her mother died, Mordecai took her as his own daughter."
+  },
+  {
+    "text": "What secret did Mordecai tell Esther to keep?",
+    "options": ["Her wealth", "Her age", "Her Jewish identity", "Her plan to become queen"],
+    "correctAnswerIndex": 2,
+    "book": "Esther",
+    "difficulty": "Easy",
+    "verseReference": "Esther 2:10",
+    "verseText": "Esther had not made known her people or kindred, for Mordecai had commanded her not to make it known."
+  },
+  {
+    "text": "Who was the wicked advisor to the king who plotted against the Jews?",
+    "options": ["Mordecai", "Bigthan", "Teresh", "Haman"],
+    "correctAnswerIndex": 3,
+    "book": "Esther",
+    "difficulty": "Easy",
+    "verseReference": "Esther 3:1",
+    "verseText": "After these things King Ahasuerus promoted Haman the Agagite, the son of Hammedatha, and advanced him and set his throne above all the officials who were with him."
+  },
+  {
+    "text": "Why did Haman despise Mordecai?",
+    "options": ["Mordecai refused to bow down to Haman", "Mordecai exposed Haman's plot", "Mordecai was richer than Haman", "Mordecai insulted Haman's wife"],
+    "correctAnswerIndex": 0,
+    "book": "Esther",
+    "difficulty": "Easy",
+    "verseReference": "Esther 3:5",
+    "verseText": "And when Haman saw that Mordecai did not bow down or pay homage to him, Haman was filled with fury."
+  },
+  {
+    "text": "What method was used to determine the date for the destruction of the Jews?",
+    "options": ["Astrology", "Consulting prophets", "Casting lots (Pur)", "A royal decree"],
+    "correctAnswerIndex": 2,
+    "book": "Esther",
+    "difficulty": "Medium",
+    "verseReference": "Esther 3:7",
+    "verseText": "In the first month, which is the month of Nisan, in the twelfth year of King Ahasuerus, they cast Pur (that is, they cast lots) before Haman day after day; and they cast it month after month till the twelfth month, which is the month of Adar."
+  },
+  {
+    "text": "What message did Mordecai send to Esther, urging her to intervene with the king?",
+    "options": ["'Perhaps you were born for such a time as this.'", "'Flee the palace immediately.'", "'Gather an army to fight Haman.'", "'Pray for deliverance.'"],
+    "correctAnswerIndex": 0,
+    "book": "Esther",
+    "difficulty": "Medium",
+    "verseReference": "Esther 4:14",
+    "verseText": "For if you keep silent at this time, relief and deliverance will rise for the Jews from another place, but you and your father's house will perish. And who knows whether you have not come to the kingdom for such a time as this?”"
+  },
+  {
+    "text": "What risk did Esther take by going to the king without being summoned?",
+    "options": ["Loss of wealth", "Imprisonment", "Death", "Banishment"],
+    "correctAnswerIndex": 2,
+    "book": "Esther",
+    "difficulty": "Easy",
+    "verseReference": "Esther 4:11",
+    "verseText": "“All the king's servants and the people of the king's provinces know that if any man or woman goes to the king inside the inner court without being called, there is but one law—to be put to death, except the one to whom the king holds out the golden scepter so that he may live..."
+  }
+]

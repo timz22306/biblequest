@@ -1,0 +1,92 @@
+[
+  {
+    "text": "Who wrote the Epistle to Titus?",
+    "options": ["Titus", "Paul", "Barnabas", "Apollos"],
+    "correctAnswerIndex": 1,
+    "book": "Titus",
+    "difficulty": "Easy",
+    "verseReference": "Titus 1:1",
+    "verseText": "Paul, a servant of God and an apostle of Jesus Christ, for the sake of the faith of God's elect and their knowledge of the truth, which accords with godliness,"
+  },
+  {
+    "text": "To whom is the letter addressed?",
+    "options": ["Timothy", "The church in Crete", "Titus, Paul's 'true child in a common faith'", "Philemon"],
+    "correctAnswerIndex": 2,
+    "book": "Titus",
+    "difficulty": "Easy",
+    "verseReference": "Titus 1:4",
+    "verseText": "To Titus, my true child in a common faith: Grace and peace from God the Father and Christ Jesus our Savior."
+  },
+  {
+    "text": "Where had Paul left Titus to carry out his ministry?",
+    "options": ["Ephesus", "Rome", "Crete", "Corinth"],
+    "correctAnswerIndex": 2,
+    "book": "Titus",
+    "difficulty": "Medium",
+    "verseReference": "Titus 1:5",
+    "verseText": "This is why I left you in Crete, so that you might put what remained into order, and appoint elders in every town as I directed you—"
+  },
+  {
+    "text": "What was one of the main tasks Paul instructed Titus to do in Crete?",
+    "options": ["Build a temple", "Appoint elders in every town", "Organize a missionary journey", "Write a gospel account"],
+    "correctAnswerIndex": 1,
+    "book": "Titus",
+    "difficulty": "Easy",
+    "verseReference": "Titus 1:5",
+    "verseText": "This is why I left you in Crete, so that you might put what remained into order, and appoint elders in every town as I directed you—"
+  },
+  {
+    "text": "Similar to 1 Timothy, Titus 1 lists qualifications for which church office?",
+    "options": ["Deacons", "Apostles", "Elders (Overseers)", "Prophets"],
+    "correctAnswerIndex": 2,
+    "book": "Titus",
+    "difficulty": "Easy",
+    "verseReference": "Titus 1:6-9",
+    "verseText": "if anyone is above reproach, the husband of one wife, and his children are believers and not open to the charge of debauchery or insubordination. For an overseer, as God's steward, must be above reproach..."
+  },
+  {
+    "text": "How did Paul generally characterize the people of Crete, quoting one of their own prophets (Titus 1)?",
+    "options": ["'Cretans are always truthful and hardworking'", "'Cretans are always liars, evil beasts, lazy gluttons'", "'Cretans are always hospitable and kind'", "'Cretans are always wise and philosophical'"],
+    "correctAnswerIndex": 1,
+    "book": "Titus",
+    "difficulty": "Medium",
+    "verseReference": "Titus 1:12",
+    "verseText": "One of the Cretans, a prophet of their own, said, “Cretans are always liars, evil beasts, lazy gluttons.”"
+  },
+  {
+    "text": "In Titus 2, Paul instructs Titus to teach sound doctrine appropriate for different groups. What should older women teach the younger women?",
+    "options": ["How to gain wealth", "How to rule their households", "To love their husbands and children, to be self-controlled, pure, working at home, kind, and submissive to their own husbands", "To remain silent"],
+    "correctAnswerIndex": 2,
+    "book": "Titus",
+    "difficulty": "Medium",
+    "verseReference": "Titus 2:3-5",
+    "verseText": "Older women likewise are to be reverent in behavior... They are to teach what is good, and so train the young women to love their husbands and children, to be self-controlled, pure, working at home, kind, and submissive to their own husbands, that the word of God may not be reviled."
+  },
+  {
+    "text": "What does Titus 2:11 say has appeared, bringing salvation for all people?",
+    "options": ["A new law", "The grace of God", "A great prophet", "Roman peace"],
+    "correctAnswerIndex": 1,
+    "book": "Titus",
+    "difficulty": "Easy",
+    "verseReference": "Titus 2:11",
+    "verseText": "For the grace of God has appeared, bringing salvation for all people,"
+  },
+  {
+    "text": "According to Titus 3:5, God saved believers not because of righteous things they had done, but because of what?",
+    "options": ["Their ancestry", "His own mercy", "Their great knowledge", "Their obedience to the Law"],
+    "correctAnswerIndex": 1,
+    "book": "Titus",
+    "difficulty": "Easy",
+    "verseReference": "Titus 3:5",
+    "verseText": "he saved us, not because of works done by us in righteousness, but according to his own mercy, by the washing of regeneration and renewal of the Holy Spirit,"
+  },
+  {
+    "text": "What does Paul instruct Titus to do regarding a person who stirs up division after a first and second warning?",
+    "options": ["Debate with them endlessly", "Appoint them as a leader", "Have nothing more to do with them", "Pray for them only"],
+    "correctAnswerIndex": 2,
+    "book": "Titus",
+    "difficulty": "Medium",
+    "verseReference": "Titus 3:10",
+    "verseText": "As for a person who stirs up division, after warning him once and then twice, have nothing more to do with him,"
+  }
+]

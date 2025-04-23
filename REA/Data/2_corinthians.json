@@ -1,0 +1,92 @@
+[
+  {
+    "text": "Who is the primary author of 2 Corinthians?",
+    "options": ["Timothy", "Titus", "Paul", "Barnabas"],
+    "correctAnswerIndex": 2,
+    "book": "2 Corinthians",
+    "difficulty": "Easy",
+    "verseReference": "2 Corinthians 1:1",
+    "verseText": "Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother, To the church of God that is at Corinth, with all the saints who are in the whole of Achaia:"
+  },
+  {
+    "text": "Compared to 1 Corinthians, 2 Corinthians is generally considered more...",
+    "options": ["Systematic and doctrinal", "Impersonal and formal", "Personal, emotional, and defensive", "Focused on Old Testament law"],
+    "correctAnswerIndex": 2,
+    "book": "2 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "2 Corinthians 2:4, 6:11, 11:1-12:13",
+    "verseText": "(The letter reveals much about Paul's personal struggles, his deep affection for the Corinthians, and his defense against opponents challenging his apostleship)."
+  },
+  {
+    "text": "In 2 Corinthians 1, Paul speaks about the comfort God gives in affliction so that believers can do what?",
+    "options": ["Avoid future suffering", "Boast about their endurance", "Comfort others who are in affliction", "Become wealthy"],
+    "correctAnswerIndex": 2,
+    "book": "2 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "2 Corinthians 1:3-4",
+    "verseText": "Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort, who comforts us in all our affliction, so that we may be able to comfort those who are in any affliction, with the comfort with which we ourselves are comforted by God."
+  },
+  {
+    "text": "What ministry does Paul describe in 2 Corinthians 3, contrasting it with the ministry of the Old Covenant?",
+    "options": ["The ministry of condemnation", "The ministry of the Spirit / righteousness / the New Covenant", "The ministry of angels", "The ministry of judgment"],
+    "correctAnswerIndex": 1,
+    "book": "2 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "2 Corinthians 3:6-9",
+    "verseText": "who has made us sufficient to be ministers of a new covenant, not of the letter but of the Spirit. For the letter kills, but the Spirit gives life... For if there was glory in the ministry of condemnation, the ministry of righteousness must far exceed it in glory."
+  },
+  {
+    "text": "According to 2 Corinthians 4:7, believers have the treasure of the gospel in what kind of vessels?",
+    "options": ["Golden vessels", "Unbreakable vessels", "Jars of clay (earthen vessels)", "Silver vessels"],
+    "correctAnswerIndex": 2,
+    "book": "2 Corinthians",
+    "difficulty": "Easy",
+    "verseReference": "2 Corinthians 4:7",
+    "verseText": "But we have this treasure in jars of clay, to show that the surpassing power belongs to God and not to us."
+  },
+  {
+    "text": "What ministry has been given to believers, according to 2 Corinthians 5:18-20?",
+    "options": ["The ministry of healing", "The ministry of prophecy", "The ministry of reconciliation", "The ministry of teaching"],
+    "correctAnswerIndex": 2,
+    "book": "2 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "2 Corinthians 5:18-19",
+    "verseText": "All this is from God, who through Christ reconciled us to himself and gave us the ministry of reconciliation; that is, in Christ God was reconciling the world to himself, not counting their trespasses against them, and entrusting to us the message of reconciliation."
+  },
+  {
+    "text": "In 2 Corinthians 6:14, Paul warns believers not to be unequally yoked with whom?",
+    "options": ["Other believers", "Unbelievers", "Animals", "Roman soldiers"],
+    "correctAnswerIndex": 1,
+    "book": "2 Corinthians",
+    "difficulty": "Easy",
+    "verseReference": "2 Corinthians 6:14",
+    "verseText": "Do not be unequally yoked with unbelievers. For what partnership has righteousness with lawlessness? Or what fellowship has light with darkness?"
+  },
+  {
+    "text": "Chapters 8 and 9 of 2 Corinthians primarily encourage the Corinthians regarding what?",
+    "options": ["Prayer and fasting", "Generous giving to help needy believers in Jerusalem", "Evangelism", "Church discipline"],
+    "correctAnswerIndex": 1,
+    "book": "2 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "2 Corinthians 8:7, 9:6-7",
+    "verseText": "But as you excel in everything—in faith, in speech, in knowledge, in all earnestness, and in our love for you—see that you excel in this act of grace also... The point is this: whoever sows sparingly will also reap sparingly, and whoever sows bountifully will also reap bountifully. Each one must give as he has decided in his heart, not reluctantly or under compulsion, for God loves a cheerful giver."
+  },
+  {
+    "text": "In 2 Corinthians 10-13, Paul defends his apostleship against opponents he sarcastically calls what?",
+    "options": ["'True apostles'", "'Super-apostles'", "'Gentle apostles'", "'Wise apostles'"],
+    "correctAnswerIndex": 1,
+    "book": "2 Corinthians",
+    "difficulty": "Hard",
+    "verseReference": "2 Corinthians 11:5, 12:11",
+    "verseText": "Indeed, I consider that I am not in the least inferior to these super-apostles... For I am not at all inferior to these super-apostles, even though I am nothing."
+  },
+  {
+    "text": "What did Paul ask God three times to remove from him, which he referred to as a 'thorn in the flesh' (2 Corinthians 12)?",
+    "options": ["His imprisonment", "His opponents", "An unspecified affliction", "His poverty"],
+    "correctAnswerIndex": 2,
+    "book": "2 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "2 Corinthians 12:7-9",
+    "verseText": "So to keep me from becoming conceited because of the surpassing greatness of the revelations, a thorn was given me in the flesh, a messenger of Satan to harass me, to keep me from becoming conceited. Three times I pleaded with the Lord about this, that it should leave me. But he said to me, “My grace is sufficient for you, for my power is made perfect in weakness.”"
+  }
+]

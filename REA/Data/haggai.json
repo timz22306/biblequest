@@ -1,0 +1,92 @@
+[
+  {
+    "text": "During the reign of which Persian king did Haggai prophesy?",
+    "options": ["Cyrus", "Darius", "Artaxerxes", "Xerxes"],
+    "correctAnswerIndex": 1,
+    "book": "Haggai",
+    "difficulty": "Easy",
+    "verseReference": "Haggai 1:1",
+    "verseText": "In the second year of Darius the king, in the sixth month, on the first day of the month, the word of the LORD came by the hand of Haggai the prophet to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Jehozadak, the high priest."
+  },
+  {
+    "text": "What main task did Haggai urge the returned exiles to undertake?",
+    "options": ["Rebuild the city walls", "Rebuild the Temple", "Appoint a king", "Conquer neighboring nations"],
+    "correctAnswerIndex": 1,
+    "book": "Haggai",
+    "difficulty": "Easy",
+    "verseReference": "Haggai 1:4, 8",
+    "verseText": "“Is it a time for you yourselves to dwell in your paneled houses, while this house lies in ruins?... Go up to the hills and bring wood and build the house, that I may take pleasure in it and that I may be glorified, says the LORD."
+  },
+  {
+    "text": "According to Haggai 1, why were the people experiencing poor harvests and economic hardship?",
+    "options": ["Because of a natural drought", "Because they were neglecting God's house (the Temple)", "Because of Persian taxes", "Because of enemy attacks"],
+    "correctAnswerIndex": 1,
+    "book": "Haggai",
+    "difficulty": "Medium",
+    "verseReference": "Haggai 1:6, 9-11",
+    "verseText": "You have sown much, and harvested little... You looked for much, and behold, it came to little... Why? declares the LORD of hosts. Because of my house that lies in ruins, while each of you busies himself with his own house. Therefore... the earth has withheld its produce... I have called for a drought..."
+  },
+  {
+    "text": "Who were the two main leaders Haggai addressed?",
+    "options": ["Nehemiah and Ezra", "Zerubbabel (governor) and Joshua (high priest)", "Daniel and Ezekiel", "Mordecai and Esther"],
+    "correctAnswerIndex": 1,
+    "book": "Haggai",
+    "difficulty": "Easy",
+    "verseReference": "Haggai 1:1",
+    "verseText": "...the word of the LORD came by the hand of Haggai the prophet to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Jehozadak, the high priest."
+  },
+  {
+    "text": "How did the leaders and people respond to Haggai's first message?",
+    "options": ["They ignored him", "They argued with him", "They obeyed and began working on the Temple", "They asked for a sign"],
+    "correctAnswerIndex": 2,
+    "book": "Haggai",
+    "difficulty": "Easy",
+    "verseReference": "Haggai 1:12, 14",
+    "verseText": "Then Zerubbabel... and Joshua... with all the remnant of the people, obeyed the voice of the LORD their God... And the LORD stirred up the spirit of Zerubbabel... and the spirit of Joshua... and the spirit of all the remnant of the people. And they came and worked on the house of the LORD of hosts, their God,"
+  },
+  {
+    "text": "What concern did some older people have about the second Temple (Haggai 2:3)?",
+    "options": ["It was too expensive", "It seemed insignificant compared to Solomon's Temple", "It was in the wrong location", "The priests were unqualified"],
+    "correctAnswerIndex": 1,
+    "book": "Haggai",
+    "difficulty": "Medium",
+    "verseReference": "Haggai 2:3",
+    "verseText": "‘Who is left among you who saw this house in its former glory? How do you see it now? Is it not as nothing in your eyes?’"
+  },
+  {
+    "text": "What future promise did God give regarding the second Temple in Haggai 2:7-9?",
+    "options": ["It would be destroyed by enemies", "He would fill it with glory, and the latter glory would be greater than the former", "It would be replaced by a heavenly temple", "It would be expanded by Herod"],
+    "correctAnswerIndex": 1,
+    "book": "Haggai",
+    "difficulty": "Medium",
+    "verseReference": "Haggai 2:7, 9",
+    "verseText": "And I will shake all nations, so that the treasures of all nations shall come in, and I will fill this house with glory, says the LORD of hosts... The latter glory of this house shall be greater than the former, says the LORD of hosts. And in this place I will give peace, declares the LORD of hosts.’”"
+  },
+  {
+    "text": "What principle did Haggai teach using the priests' rulings on holiness and defilement (Haggai 2:11-14)?",
+    "options": ["Holiness is contagious", "Defilement is contagious, and the people's neglect of the Temple had defiled their efforts", "Sacrifices automatically make one holy", "Only priests can handle holy things"],
+    "correctAnswerIndex": 1,
+    "book": "Haggai",
+    "difficulty": "Hard",
+    "verseReference": "Haggai 2:12-14",
+    "verseText": "‘If someone carries holy meat in the fold of his garment... does it make it holy?’ The priests answered and said, ‘No.’... ‘If someone who is unclean by contact with a dead body touches any of these, does it become unclean?’ The priests answered and said, ‘It does become unclean.’ Then Haggai answered and said, ‘So is it with this people... and with all the work of their hands. And what they offer there is unclean.’"
+  },
+  {
+    "text": "What specific promise did God make to Zerubbabel at the end of the book (Haggai 2:23)?",
+    "options": ["He would live a long life", "He would conquer Egypt", "He would be made like a signet ring, chosen by God", "He would become High Priest"],
+    "correctAnswerIndex": 2,
+    "book": "Haggai",
+    "difficulty": "Medium",
+    "verseReference": "Haggai 2:23",
+    "verseText": "On that day, declares the LORD of hosts, I will take you, O Zerubbabel my servant, the son of Shealtiel, declares the LORD, and make you like a signet ring, for I have chosen you, declares the LORD of hosts.”"
+  },
+  {
+    "text": "What is the central theme connecting all of Haggai's messages?",
+    "options": ["The importance of political alliances", "The need for social justice", "Prioritizing God's house and work leads to blessing", "The coming judgment on the nations"],
+    "correctAnswerIndex": 2,
+    "book": "Haggai",
+    "difficulty": "Easy",
+    "verseReference": "Haggai 1:4-11; 2:18-19",
+    "verseText": "(The contrast between neglect leading to curse and obedience leading to blessing is central throughout the book)."
+  }
+]

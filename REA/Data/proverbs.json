@@ -1,0 +1,92 @@
+[
+  {
+    "text": "According to Proverbs 1:7, what is the beginning of knowledge?",
+    "options": ["Hard work", "The fear of the LORD", "Listening to elders", "Studying the Law"],
+    "correctAnswerIndex": 1,
+    "book": "Proverbs",
+    "difficulty": "Easy",
+    "verseReference": "Proverbs 1:7",
+    "verseText": "The fear of the LORD is the beginning of knowledge; fools despise wisdom and instruction."
+  },
+  {
+    "text": "Proverbs 3:5 advises trusting in the LORD with what?",
+    "options": ["Some of your heart", "Your mind", "All your heart", "Your strength"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Easy",
+    "verseReference": "Proverbs 3:5",
+    "verseText": "Trust in the LORD with all your heart, and do not lean on your own understanding."
+  },
+  {
+    "text": "What does Proverbs 6:6 tell the sluggard to consider?",
+    "options": ["The eagle", "The lion", "The ant", "The bee"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Easy",
+    "verseReference": "Proverbs 6:6",
+    "verseText": "Go to the ant, O sluggard; consider her ways, and be wise."
+  },
+  {
+    "text": "Proverbs 10:4 contrasts a slack hand with a diligent hand. What does the hand of the diligent do?",
+    "options": ["Causes poverty", "Brings anger", "Makes rich", "Leads to shame"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 10:4",
+    "verseText": "A slack hand causes poverty, but the hand of the diligent makes rich."
+  },
+  {
+    "text": "According to Proverbs 15:1, what turns away wrath?",
+    "options": ["A harsh word", "Silence", "A soft answer", "A loud voice"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Easy",
+    "verseReference": "Proverbs 15:1",
+    "verseText": "A soft answer turns away wrath, but a harsh word stirs up anger."
+  },
+  {
+    "text": "Proverbs 16:9 states that 'The heart of man plans his way, but...'?",
+    "options": ["...his friends direct his steps.", "...the LORD establishes his steps.", "...chance determines his steps.", "...his wisdom guides his steps."],
+    "correctAnswerIndex": 1,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 16:9",
+    "verseText": "The heart of man plans his way, but the LORD establishes his steps."
+  },
+  {
+    "text": "What does Proverbs 17:17 say a friend does?",
+    "options": ["Loves at all times", "Helps only in need", "Offers advice constantly", "Keeps secrets"],
+    "correctAnswerIndex": 0,
+    "book": "Proverbs",
+    "difficulty": "Easy",
+    "verseReference": "Proverbs 17:17",
+    "verseText": "A friend loves at all times, and a brother is born for adversity."
+  },
+  {
+    "text": "Proverbs 18:24 contrasts having many companions with what kind of friend?",
+    "options": ["A wealthy friend", "A powerful friend", "A friend who sticks closer than a brother", "A wise friend"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 18:24",
+    "verseText": "A man of many companions may come to ruin, but there is a friend who sticks closer than a brother."
+  },
+  {
+    "text": "According to Proverbs 22:6, what is the result of training up a child in the way he should go?",
+    "options": ["He will become wealthy", "He will be famous", "He will not depart from it when he is old", "He will always obey his parents"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Easy",
+    "verseReference": "Proverbs 22:6",
+    "verseText": "Train up a child in the way he should go; even when he is old he will not depart from it."
+  },
+  {
+    "text": "What is compared to 'apples of gold in a setting of silver' in Proverbs 25:11?",
+    "options": ["Wisdom", "A word fitly spoken", "Righteousness", "Wealth"],
+    "correctAnswerIndex": 1,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 25:11",
+    "verseText": "A word fitly spoken is like apples of gold in a setting of silver."
+  }
+]

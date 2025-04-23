@@ -1,1012 +1,866 @@
 [
     {
-        "text": "1 Chronicles begins with a long section primarily focused on what?",
-        "options": ["Genealogies", "The Exodus", "The reign of Solomon", "The creation story"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Easy",
-        "verseReference": "1 Chronicles 1-9",
-        "verseText": "[Chapters 1-9 contain extensive genealogical lists tracing lineage from Adam.]"
-    },
-    {
-        "text": "Who was anointed king over all Israel after Saul's death, according to 1 Chronicles 11?",
-        "options": ["David", "Ish-bosheth", "Solomon", "Joab"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Easy",
-        "verseReference": "1 Chronicles 11:1-3",
-        "verseText": "Then all Israel gathered together to David at Hebron and said, 'Behold, we are your bone and flesh.'"
-    },
-    {
-        "text": "In 1 Chronicles 2:3, who is listed as the first son of Judah?",
-        "options": ["Er", "Perez", "Hezron", "Jerahmeel"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Easy",
-        "verseReference": "1 Chronicles 2:3",
-        "verseText": "The sons of Judah: Er, Onan, and Shelah; these three the wife of Er bore to him, and Er, Judah’s firstborn, was wicked in the sight of the LORD."
-    },
-    {
-        "text": "What city did David capture from the Jebusites and make his capital?",
-        "options": ["Jerusalem", "Hebron", "Zion", "Gath"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Easy",
-        "verseReference": "1 Chronicles 11:4-5",
-        "verseText": "David and all Israel went to Jerusalem (that is, Jebus)… and David took the stronghold of Zion."
-    },
-    {
-        "text": "Who alone could carry the ark of the covenant according to David’s regulations?",
-        "options": ["Levites", "Priests", "Nobles", "Kings"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Easy",
-        "verseReference": "1 Chronicles 15:2",
-        "verseText": "David said, 'No one but the Levites may carry the ark of God, for the LORD chose them to carry the ark of the LORD and to minister before him forever.'"
-    },
-    {
-        "text": "Who joined David’s mighty men by drawing water for him from the well of Bethlehem?",
-        "options": ["Abishai", "Sadoc", "Benaiah", "Ittai"],
-        "correctAnswerIndex": 2,
-        "book": "1 Chronicles",
-        "difficulty": "Easy",
-        "verseReference": "1 Chronicles 11:17",
-        "verseText": "Abishai… drew water for David from the well of Bethlehem, though the troops were encamped at the stronghold."
-    },
-    {
-        "text": "Which tribe was assigned to keep watch at the gates of the tabernacle?",
-        "options": ["Judah", "Benjamin", "Gad", "Levi"],
-        "correctAnswerIndex": 3,
-        "book": "1 Chronicles",
-        "difficulty": "Easy",
-        "verseReference": "1 Chronicles 9:23",
-        "verseText": "But the Levites were officers and judges, officials every matter related to God, and they assisted the people of Israel in the law of God."
-    },
-    {
-        "text": "Who was described as 'the chief of the Levites' in 1 Chronicles 23?",
-        "options": ["Ethan", "Amminadab", "Jehiel", "Heman"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Easy",
-        "verseReference": "1 Chronicles 23:1",
-        "verseText": "When David was old… he made Solomon his son king… and gathered the leaders of Israel, the priests and the Levites."
-    },
-    {
-        "text": "Which family among the Levites was in charge of singing?"
-        ,
-        "options": ["Asaph", "Korah", "Gershon", "Moses"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Easy",
-        "verseReference": "1 Chronicles 6:31-32",
-        "verseText": "The sons of Asaph were Asaph, Zachariah,… and their descendants: 128,000 to give thanks to the LORD."
-    },
-    {
-        "text": "Which son of David was appointed to prepare food before the ark?",
-        "options": ["Amnon", "Absalom", "Shammua", "Uzziah"],
-        "correctAnswerIndex": 2,
-        "book": "1 Chronicles",
-        "difficulty": "Easy",
-        "verseReference": "1 Chronicles 16:4",
-        "verseText": "He appointed some of the Levites to minister before the ark of the LORD, to invoke, to give thanks, and to praise the LORD, the God of Israel."
-    },
-    {
-        "text": "Who was the third son of Jesse according to the genealogy in 1 Chronicles?",
-        "options": ["Abinadab", "Simeah", "Nethanel", "Shammah"],
-        "correctAnswerIndex": 1,
-        "book": "1 Chronicles",
-        "difficulty": "Easy",
-        "verseReference": "1 Chronicles 2:13-14",
-        "verseText": "Abinadab… Shimea the third."
-    },
-    {
-        "text": "Who carried the ark of God with levers on their shoulders?",
-        "options": ["Priests", "Levites", "Elders", "Soldiers"],
-        "correctAnswerIndex": 1,
-        "book": "1 Chronicles",
-        "difficulty": "Easy",
-        "verseReference": "1 Chronicles 15:15",
-        "verseText": "The Levites carried the ark of God on their shoulders with the poles, as Moses commanded."
-    },
-    {
-        "text": "Who did David bless in the name of the LORD in 1 Chronicles 29?",
-        "options": ["His people", "The priests", "The Levites", "His family"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Easy",
-        "verseReference": "1 Chronicles 29:10-13",
-        "verseText": "David praised the LORD in the presence of all the assembly, saying, 'Blessed are You, O LORD, the God of Israel our father…'"
-    },
-    {
-        "text": "Which man was chosen as the first priest after the ark was moved to Jerusalem?",
-        "options": ["Abiathar", "Ezra", "Hilkiah", "Zadok"],
-        "correctAnswerIndex": 3,
-        "book": "1 Chronicles",
-        "difficulty": "Easy",
-        "verseReference": "1 Chronicles 16:39",
-        "verseText": "And he left Zadok the priest before the tabernacle of the LORD at Gibeon."
-    },
-    {
-        "text": "Which tribe gave 100,000 foot soldiers and 28,000 cavalry to David’s army?",
-        "options": ["Benjamites", "Levitical clans", "Judahites", "Issacharites"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Easy",
-        "verseReference": "1 Chronicles 12:1",
-        "verseText": "These were the men who came to David at Ziklag, while he was still hiding… Benjamites: 1,800 men."
-    },
-    {
-        "text": "Who invited David to eat bread in their home when he was fleeing Saul?",
-        "options": ["Ahimelech", "Nabal", "Shelah", "Jonathan"],
-        "correctAnswerIndex": 3,
-        "book": "1 Chronicles",
-        "difficulty": "Easy",
-        "verseReference": "1 Chronicles 10:1",
-        "verseText": "Jonathan and Saul, his father, were sitting under a pomegranate tree at Migron."
-    },
-    {
-        "text": "Who officiated as gatekeepers in Jerusalem?",
-        "options": ["Porters", "Sentinels", "Doorkeepers", "Judges"],
-        "correctAnswerIndex": 2,
-        "book": "1 Chronicles",
-        "difficulty": "Easy",
-        "verseReference": "1 Chronicles 9:21",
-        "verseText": "Shallum, Akkub, and Talmon were gatekeepers."
-    },
-    {
-        "text": "What did David do before God’s people when he blessed them in 1 Chronicles 29?",
-        "options": ["Offered sacrifices", "Pacific address", "Raised his hands", "Sang a psalm"],
-        "correctAnswerIndex": 2,
-        "book": "1 Chronicles",
-        "difficulty": "Easy",
-        "verseReference": "1 Chronicles 29:20",
-        "verseText": "Then David blessed the assembly in the name of the LORD, and day by day they offered to the LORD."
-    },
-    {
-        "text": "Who was appointed to oversee the work on the temple gates?",
-        "options": ["Uzziel", "Othni", "Shemaiah", "Mattithiah"],
-        "correctAnswerIndex": 3,
-        "book": "1 Chronicles",
-        "difficulty": "Easy",
-        "verseReference": "1 Chronicles 26:16",
-        "verseText": "Mattithiah the son of Micah… were in charge of the oversight of the gates of the camp."
-    },
-    {
-        "text": "Which descendant of Levi was in charge of the treasuries of the house of God?",
-        "options": ["Shebuel", "Jeiel", "Zalaph", "Meremoth"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Easy",
-        "verseReference": "1 Chronicles 26:20",
-        "verseText": "All these were under the hand of Shebuel the son of Gershom, the son of Moses."
-    },
-    {
-        "text": "Which son of Asaph was the father of Heman the singer?",
-        "options": ["Zaccur", "Jeduthun", "Ethan", "Asaph"],
-        "correctAnswerIndex": 2,
-        "book": "1 Chronicles",
-        "difficulty": "Easy",
-        "verseReference": "1 Chronicles 6:44",
-        "verseText": "Ethan the son of Kishi, the son of Abdi, the son of Malluchi, the son of Mazharioth;"
-    },
-    {
-        "text": "What instrument did the sons of Heman play?",
-        "options": ["Cymbals", "Trumpets", "Lyres", "Harp"],
-        "correctAnswerIndex": 3,
-        "book": "1 Chronicles",
-        "difficulty": "Easy",
-        "verseReference": "1 Chronicles 15:21",
-        "verseText": "And shekels of silver… for cymbals, lyres, and harps."
-    },
-    {
-        "text": "Who was the father of King Asa, listed in the genealogy?",
-        "options": ["Solomon", "Rehoboam", "Abijah", "Jehoshaphat"],
-        "correctAnswerIndex": 1,
-        "book": "1 Chronicles",
-        "difficulty": "Easy",
-        "verseReference": "1 Chronicles 3:10-12",
-        "verseText": "And Jehoshaphat his son… Jehoram his son… Ahaziah his son… Jehoash his son… Amaziah his son… Uzziah his son… Jotham his son… Ahaz his son… Hezekiah his son… Manasseh his son… Amon his son… Josiah his son… Jehoiachin his son."
-    },
-    {
-        "text": "Who was the first to carry the ark into the tent David had prepared?",
-        "options": ["David", "Uriah", "Eleazar", "Joab"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Easy",
-        "verseReference": "1 Chronicles 15:25",
-        "verseText": "So David… and the priests and the Levites, and all Israel, brought up the ark of the covenant of the LORD with shouting."
-    },
-    {
-        "text": "Which son of Korah is named among temple musicians?",
-        "options": ["Asaph", "Ethan", "Heman", "Korah’s sons"],
-        "correctAnswerIndex": 3,
-        "book": "1 Chronicles",
-        "difficulty": "Easy",
-        "verseReference": "1 Chronicles 6:31",
-        "verseText": "Their brothers the Korahites… who were among those appointed to give thanks at the house of the LORD."
-    },
-    {
-        "text": "Who did David set over the rooms and treasuries of the house of God?",
-        "options": ["Azmaveth", "Jehiel", "Shebuel", "Obed-Edom"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Easy",
-        "verseReference": "1 Chronicles 26:23",
-        "verseText": "Azmaveth the son of Adiel was over the treasuries."
-    }, 
-    {
-        "text": "What theme does David emphasize in his prayer recorded in 1 Chronicles 17?",
-        "options": ["Covenant promises", "Military strength", "Temple architecture", "Lineage significance"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Medium",
-        "verseReference": "1 Chronicles 17:16-17",
-        "verseText": "Then David the king went in and sat before the LORD and said, 'Who am I, O Lord GOD, and what is my house, that you have brought me thus far...'"
-    },
-    {
-        "text": "Why does David assign the Levites to specific temple duties in 1 Chronicles 23?",
-        "options": ["For hereditary service", "For military conscription", "To form a trade guild", "To arrange marriages"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Medium",
-        "verseReference": "1 Chronicles 23:4-5",
-        "verseText": "He set apart the sons of Aaron and the Levites to minister before the priests..."
-    },
-    {
-        "text": "In 1 Chronicles 21:1, what motive is attributed to Satan in inciting David to number Israel?",
-        "options": ["Pride and control", "Divine command", "Philistine threat", "Priestly counsel"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Medium",
-        "verseReference": "1 Chronicles 21:1",
-        "verseText": "Satan stood up against Israel and incited David to number Israel."
-    },
-    {
-        "text": "What is the significance of the foreign warriors joining David at Ziklag in 1 Chronicles 12?",
-        "options": ["A show of divine support", "A sign of tribal envy", "An attempt to undermine David", "An economic alliance"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Medium",
-        "verseReference": "1 Chronicles 12:17-18",
-        "verseText": "All these men of war who could keep rank under the commander of the army..."
-    },
-    {
-        "text": "How does 1 Chronicles 16 portray corporate worship under David?",
-        "options": ["Through psalms of thanksgiving", "By silent meditation", "With burnt offerings only", "Via private prayer"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Medium",
-        "verseReference": "1 Chronicles 16:4-7",
-        "verseText": "He appointed some of the Levites to minister before the ark of the LORD, to invoke, to give thanks, and to praise the LORD..."
-    },
-    {
-        "text": "What organizational principle underlies the gatekeepers’ assignments in 1 Chronicles 26?",
-        "options": ["Family lineage", "Random selection", "Military rank", "Volunteer sign‑up"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Medium",
-        "verseReference": "1 Chronicles 26:1-2",
-        "verseText": "Moreover David and the officials made the sons of the Korahites and of the Merarites the gatekeepers..."
-    },
-    {
-        "text": "What personal quality does David encourage Solomon to exhibit in 1 Chronicles 28:20?",
-        "options": ["Strong and courageous", "Wealth accumulation", "Ritual precision", "Political alliance"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Medium",
-        "verseReference": "1 Chronicles 28:20",
-        "verseText": "Be strong and courageous; do not be afraid or discouraged..."
-    },
-    {
-        "text": "What was David’s reaction when he realized his census displeased God in 1 Chronicles 21:8?",
-        "options": ["Confession and repentance", "Celebration and feast", "Commanding more soldiers", "Building an altar immediately"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Medium",
-        "verseReference": "1 Chronicles 21:8",
-        "verseText": "And David said to God, 'I have sinned greatly... I have done the very thing I should not have done.'"
-    },
-    {
-        "text": "What motivated David to collect materials for the temple in 1 Chronicles 22:5?",
-        "options": ["His desire to honor God", "His fear of invasion", "His wish to build a palace", "His plan to trade metals"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Medium",
-        "verseReference": "1 Chronicles 22:5",
-        "verseText": "And David said, 'Solomon my son is young and inexperienced... I will now make preparation for him.'"
-    },
-    {
-        "text": "What role did the descendants of Asaph serve according to 1 Chronicles 25:1?",
-        "options": ["Temple musicians", "Gatekeepers", "Priestly judges", "Warriors"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Medium",
-        "verseReference": "1 Chronicles 25:1",
-        "verseText": "David and the commanders of the army set apart some of the sons of Asaph, Heman, and Jeduthun..."
-    },
-    {
-        "text": "What does the gathering at Hebron in 1 Chronicles 12 reveal about Israel’s tribal loyalty?",
-        "options": ["Broad support for David", "Deep division among tribes", "Fear of Philistine raids", "Fulfillment of prophecy"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Medium",
-        "verseReference": "1 Chronicles 12:38",
-        "verseText": "They came to Hebron to turn the kingdom of Saul to David..."
-    },
-    {
-        "text": "Why did Uzzah touch the ark in 1 Chronicles 13:9-10, despite the prohibition?",
-        "options": ["Because the oxen stumbled", "To show reverence", "To inspect its condition", "To guard it from enemies"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Medium",
-        "verseReference": "1 Chronicles 13:9-10",
-        "verseText": "And when they came to Nachon’s threshing floor, Uzzah put out his hand to the ark because the oxen stumbled."
-    },
-    {
-        "text": "David’s decision to move the ark in 1 Chronicles 13 indicates what about his leadership?",
-        "options": ["Ambition to centralize worship", "Desire to conquer neighboring lands", "Plan to record history", "Strategy to weaken priests"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Medium",
-        "verseReference": "1 Chronicles 13:3",
-        "verseText": "Then David consulted with the commanders of thousands and hundreds..."
-    },
-    {
-        "text": "What theological point is underscored by the account of Philistine giants in 1 Chronicles 20:8?",
-        "options": ["God’s empowerment of the weak", "Israel’s rejection of foreign allies", "The importance of genealogy", "The costliness of God’s work"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Medium",
-        "verseReference": "1 Chronicles 20:8",
-        "verseText": "And in another battle, Sibbecai the Hushathite killed Saph, who was of the children of the giant."
-    },
-    {
-        "text": "What principle guided the division of priests into 24 courses in 1 Chronicles 24:3?",
-        "options": ["Equitable rotation of service", "Reward for military valor", "Age and seniority", "Family wealth"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Medium",
-        "verseReference": "1 Chronicles 24:3",
-        "verseText": "So David, with Zadok and Ahimelech, divided them into divisions."
-    },
-    {
-        "text": "How were the porters chosen in 1 Chronicles 26:4-5?",
-        "options": ["By lot", "By family seniority", "By wealth", "By military rank"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Medium",
-        "verseReference": "1 Chronicles 26:4-5",
-        "verseText": "The porters were chosen by their clans at the king’s command."
-    },
-    {
-        "text": "What does David’s organization of the tribes under captains in 1 Chronicles 27 reflect?",
-        "options": ["Administrative efficiency", "Tribal isolation", "Military defiance", "Religious ritual"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Medium",
-        "verseReference": "1 Chronicles 27:1-2",
-        "verseText": "All these were appointed by name under the authority of King David for the service of the regular forces."
-    },
-    {
-        "text": "In David’s final speech (1 Chronicles 29:10-12), which attribute of God is most emphasized?",
-        "options": ["Sovereignty over creation", "Lineage importance", "Architectural design", "Musical skill"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Medium",
-        "verseReference": "1 Chronicles 29:11",
-        "verseText": "'Yours, O LORD, is the greatness and the power and the glory... for everything in heaven and earth is yours.'"
-    },
-    {
-        "text": "Why does David insist on voluntary contributions in 1 Chronicles 29:5?",
-        "options": ["To reflect genuine devotion", "To ensure timely completion", "To test loyalty", "To fund the royal court"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Medium",
-        "verseReference": "1 Chronicles 29:5",
-        "verseText": "Then the people rejoiced because they had given willingly."
-    },
-    {
-        "text": "How does God’s promise to establish David’s house in 1 Chronicles 17:11-14 shape Israel’s monarchy theology?",
-        "options": ["Emphasizes a dynastic covenant", "Undermines priestly authority", "Promotes temple building", "Diminishes tribal identity"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Medium",
-        "verseReference": "1 Chronicles 17:11-14",
-        "verseText": "'When your days are fulfilled... I will raise up your offspring after you and establish his kingdom forever.'"
-    },
-    {
-        "text": "What does David’s purchase of Araunah’s threshing floor in 1 Chronicles 21:22 signify?",
-        "options": ["A humble act of redemption", "A military strategy", "An agricultural blessing", "A political tribute"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Medium",
-        "verseReference": "1 Chronicles 21:22",
-        "verseText": "David said to Araunah, 'No, but I will buy it from you for a price...' and build an altar."
-    },
-    {
-        "text": "What does the song in 1 Chronicles 16:34 primarily celebrate?",
-        "options": ["God’s enduring faithfulness", "David’s military victories", "Temple construction", "Genealogical records"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Medium",
-        "verseReference": "1 Chronicles 16:34",
-        "verseText": "'O give thanks to the LORD, for he is good; for his steadfast love endures forever.'"
-    },
-    {
-        "text": "How does the listing of David’s mighty warriors in 1 Chronicles 11:10-47 serve the narrative?",
-        "options": ["It highlights God’s empowerment of the humble", "It asserts David’s genealogical claim", "It frames Levitical duties", "It details temple preparations"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Medium",
-        "verseReference": "1 Chronicles 11:10",
-        "verseText": "And these are the numbers of the mighty men whom David had:..."
-    },
-    {
-        "text": "Why did David appoint Heman and Jeduthun along with Asaph in 1 Chronicles 16:41-42?",
-        "options": ["To lead musical worship", "To judge legal disputes", "To command troops", "To guard the gates"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Medium",
-        "verseReference": "1 Chronicles 16:41",
-        "verseText": "With them Heman and Jeduthun and the rest of those chosen..."
-    },
-    {
-        "text": "Which aspect of temple planning in 1 Chronicles 22:14-16 reveals David’s trust in God?",
-        "options": ["Acknowledging the Lord’s provision", "Detailing metal quantities", "Specifying overseers", "Scheduling work shifts"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Medium",
-        "verseReference": "1 Chronicles 22:14",
-        "verseText": "Behold, with a freewill heart I have offered all these things..."
-    },
-    {
-        "text": "What does the monthly tribal assignment in 1 Chronicles 27 reflect about David’s rule?",
-        "options": ["Structured governance", "Random patronage", "Seasonal worship", "Ceasing military duty"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Medium",
-        "verseReference": "1 Chronicles 27:1",
-        "verseText": "All these were in their divisions for the service of the king’s house..."
-    },
-    {
-        "text": "How does the narrative in 1 Chronicles 11:6 about Joab’s boldness drive the story forward?",
-        "options": ["Demonstrates loyalty crucial to regaining Jerusalem", "Illustrates temple construction", "Details Israel’s genealogy", "Explains tribal conflicts"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Medium",
-        "verseReference": "1 Chronicles 11:6",
-        "verseText": "...Joab… climbed up the water shaft and attacked the city."
-    },
-    {
-        "text": "What organizing principle underlies the division of temple service roles in 1 Chronicles 28:12?",
-        "options": ["Lineage-based assignments", "Selection by lot", "Military rank", "Monetary contribution"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Medium",
-        "verseReference": "1 Chronicles 28:12",
-        "verseText": "He put in the hand of his son the plans of the temple..."
-    },
-    {
-        "text": "What does the presenting of shields and spears to David in 1 Chronicles 12:18 symbolize?",
-        "options": ["Military alliance", "Religious offering", "Economic tribute", "Genealogical proof"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Medium",
-        "verseReference": "1 Chronicles 12:18",
-        "verseText": "And all the rest came under the command of Joab."
-    },
-    {
-        "text": "What was the outcome of placing the ark in Obed-Edom’s house in 1 Chronicles 13:13?",
-        "options": ["The LORD blessed his household", "A disaster struck", "The ark vanished", "David lamented"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Medium",
-        "verseReference": "1 Chronicles 13:13",
-        "verseText": "And the LORD blessed the house of Obed-Edom..."
-    },
-    {
-        "text": "What is the significance of the plague on Israel in 1 Chronicles 21:14?",
-        "options": ["Judgment for miscount", "Foreign invasion", "Famine warning", "Priestly desecration"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Medium",
-        "verseReference": "1 Chronicles 21:14",
-        "verseText": "And God sent the pestilence upon Israel, and 70,000 men fell."
-    },
-    {
-        "text": "What does David’s charge to Solomon in 1 Chronicles 22:13 tell us about David’s self-view?",
-        "options": ["He feels unfit as temple builder", "He sees himself as the chief architect", "He views himself as a military leader only", "He aspires to priesthood"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Medium",
-        "verseReference": "1 Chronicles 22:13",
-        "verseText": "Behold, a son shall be born to you who shall be a man of rest..."
-    },
-    {
-        "text": "Why does David emphasize the number of descendants in 1 Chronicles 25:8?",
-        "options": ["To show an abundance of worshipers", "To record tax brackets", "To list military conscripts", "To invite foreigners"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Medium",
-        "verseReference": "1 Chronicles 25:8",
-        "verseText": "Of them, men of war, 288, able to play instruments..."
-    },
-    {
-        "text": "What does the distribution of treasuries in 1 Chronicles 26:20 indicate about David’s governance?",
-        "options": ["Decentralized stewardship", "Centralized monarchy", "Tribal independence", "Nomadic heritage"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Medium",
-        "verseReference": "1 Chronicles 26:20",
-        "verseText": "All these were under the hand of Shebuel the son of Gershom..."
-    },
-    {
-        "text": "How does David’s prayer in 1 Chronicles 29:11-12 blend confession and praise?",
-        "options": ["By acknowledging God’s holiness before requesting favor", "By ignoring God’s past deeds", "By demanding sacrifices first", "By commanding silence"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Medium",
-        "verseReference": "1 Chronicles 29:11-12",
-        "verseText": "'Yours, O LORD, is the greatness...' and he says, 'And now, our God, we thank you...'"
-    },
-    {
-        "text": "What attitude toward wealth is reflected in 1 Chronicles 29:14?",
-        "options": ["Wealth is a gift to return", "Wealth is earned by toil", "Wealth should be hidden", "Wealth leads to sin"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Medium",
-        "verseReference": "1 Chronicles 29:14",
-        "verseText": "For all things come from you, and of your own have we given you."
-    },
-    {
-        "text": "What does the description of Benjamites in 1 Chronicles 12:2 suggest about their character?",
-        "options": ["Fierce loyalty to David", "Hesitant support for David", "Indifference to monarchy", "Hostility toward David"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Medium",
-        "verseReference": "1 Chronicles 12:2",
-        "verseText": "From Benjamin… fearless warriors waiting on David..."
-    },
-    {
-        "text": "Why were gatekeepers from the Korahite clan assigned in 1 Chronicles 9:19?",
-        "options": ["To ensure ceremonial purity", "To fight in wars", "To collect taxes", "To lead music"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Medium",
-        "verseReference": "1 Chronicles 9:19",
-        "verseText": "Shallum, Akkub, and Talmon... were gatekeepers."
-    },
-    {
-        "text": "What significance does Shimei’s shift in allegiance in 1 Chronicles 12:28 carry?",
-        "options": ["It shows tribal readiness for battle", "It reveals genealogical errors", "It highlights temple protocols", "It marks priestly lineage"],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Medium",
-        "verseReference": "1 Chronicles 12:28",
-        "verseText": "Then Shimei of the Benjamites... became David’s followers."
-    }, 
-
-    {
-        "text": "What narrative function does the emphasis on 'the three mighty men' led by Jashobeam serve in 1 Chronicles 11:14–19?",
-        "options": [
-        "Highlights the elite valor sustaining David’s rise",
-        "Marks a genealogical transition",
-        "Emphasizes David’s age",
-        "Introduces non‑Israelite allies"
-        ],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Hard",
-        "verseReference": "1 Chronicles 11:14–19",
-        "verseText": "[Jashobeam the Hakmonite, chief of the three mighty men, struck down three hundred men at one time.]"
-    },
-    {
-        "text": "In 1 Chronicles 12:32, the phrase 'men of Issachar, who understood the times' functions to underscore what deeper point?",
-        "options": [
-        "The importance of discerning divine purposes in political shifts",
-        "The musical leadership of the Levites",
-        "The wealth of Issachar’s land",
-        "A scribal gloss inserted by later editors"
-        ],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Hard",
-        "verseReference": "1 Chronicles 12:32",
-        "verseText": "[Of Issachar, men who understood the times, with knowledge of what Israel should do.]"
-    },
-    {
-        "text": "What political implication is conveyed by including Caleb’s descendants among Judah’s genealogies in 1 Chronicles 2:42–55?",
-        "options": [
-        "Affirmation of Calebite influence within southern Judah",
-        "Emphasis on priestly purity laws",
-        "Connection to northern tribal confederacies",
-        "Foreshadowing of exile"
-        ],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Hard",
-        "verseReference": "1 Chronicles 2:42–55",
-        "verseText": "[These are the sons of Caleb the son of Hezron… his descendants through Jerahmeel, Ram, and Caleb.]"
-    },
-    {
-        "text": "How do the temple‑building materials listed in 1 Chronicles 22:14–16 foreshadow Solomon’s architectural program?",
-        "options": [
-        "They prefigure the scale and richness of Solomon’s temple",
-        "They reflect David’s personal wealth only",
-        "They symbolize military might",
-        "They denote tribal quotas"
-        ],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Hard",
-        "verseReference": "1 Chronicles 22:14–16",
-        "verseText": "[Behold, with a freewill heart I have offered all these things… gold, silver, bronze, iron, wood, onyx stones, stones for setting.]"
-    },
-    {
-        "text": "What rhetorical structure in David’s covenant prayer in 1 Chronicles 17:3–15 exemplifies a chiasm, and to what theological end?",
-        "options": [
-        "The central promise of an enduring dynasty framed by divine initiative",
-        "A parallel listing of the northern and southern tribes",
-        "An alphabetical acrostic of virtues",
-        "A repetitive refrain on temple dimensions"
-        ],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Hard",
-        "verseReference": "1 Chronicles 17:3–15",
-        "verseText": "[When your days are fulfilled and you lie with your fathers, I will raise up your offspring after you… I will be to him a father, and he shall be to me a son.]"
-    },
-    {
-        "text": "Why does David’s division of priests into 24 courses in 1 Chronicles 24:3–19 represent more than administrative convenience?",
-        "options": [
-        "It encodes an equitable, covenantal order for cultic service",
-        "It mirrors royal succession patterns",
-        "It reflects Mosaic tribal territories",
-        "It lists military conscripts"
-        ],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Hard",
-        "verseReference": "1 Chronicles 24:3–19",
-        "verseText": "[David, with Zadok and Ahimelech, divided them according to their ancestral houses by lot… twenty-four divisions of priests.]"
-    },
-    {
-        "text": "What symbolic resonance does the number 288 have in the assignment of temple musicians in 1 Chronicles 25:7–8?",
-        "options": [
-        "It suggests completeness in worship and cosmic harmony",
-        "It corresponds to the 288 Levite towns",
-        "It denotes days in the liturgical calendar",
-        "It marks a boundary of tribal land"
-        ],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Hard",
-        "verseReference": "1 Chronicles 25:7–8",
-        "verseText": "[Of the sons of Asaph… 128,000 to give thanks, 288 of them were designated by name.]"
-    },
-    {
-        "text": "How does the inclusion of David’s personal scribe, and the preservation of royal records in 1 Chronicles 29:29–30, function theologically?",
-        "options": [
-        "It legitimizes David’s reign through divine‑sanctioned historiography",
-        "It establishes temple accounting procedures",
-        "It critiques Saul’s kingship",
-        "It outlines agricultural tithe requirements"
-        ],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Hard",
-        "verseReference": "1 Chronicles 29:29–30",
-        "verseText": "[The records of Samuel… the records of Nathan the prophet, and the records of Gad the seer, are written in the words of the annals of the kings.]"
-    },
-    {
-        "text": "What deeper ritual meaning lies in the detailed showbread table plans given to Solomon in 1 Chronicles 28:11–12?",
-        "options": [
-        "They establish a prototype for perpetual presence before God",
-        "They denote a harvest festival",
-        "They reflect David’s merchant alliances",
-        "They serve as military decorations"
-        ],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Hard",
-        "verseReference": "1 Chronicles 28:11–12",
-        "verseText": "[He put in the hand of his son the plans of the porch of the temple, its buildings, its treasuries… its shows, its knives, its gold.]"
-    },
-    {
-        "text": "In 1 Chronicles 12:2–9, the mention of Ishmaelite and other foreign warriors joining David reveals what strategic dynamic?",
-        "options": [
-        "David’s kingdom‑building through inclusion of non‑Israelite contingents",
-        "A prophetic sign against Saul",
-        "A critique of tribal isolationism",
-        "A legend added post‑exile"
-        ],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Hard",
-        "verseReference": "1 Chronicles 12:2–9",
-        "verseText": "[Among the Benjamites, from Machir, from among the Gadites… from the Manassites…] and Ishmaelite men of war joined David."
-    },
-    {
-        "text": "What theological motif is central to the 'Song of thanks' in 1 Chronicles 16:34–36?",
-        "options": [
-        "God’s enduring steadfast love across generations",
-        "The exclusivity of priestly authority",
-        "David’s military conquests",
-        "The architectural beauty of the temple"
-        ],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Hard",
-        "verseReference": "1 Chronicles 16:34–36",
-        "verseText": "[O give thanks to the LORD, for he is good; for his steadfast love endures forever.]"
-    },
-    {
-        "text": "How does the appointment of Shemaiah’s descendants as gatekeepers in 1 Chronicles 26:4–15 underscore temple theology?",
-        "options": [
-        "It links physical thresholds with familial consecration",
-        "It allocates military ranks",
-        "It records census data",
-        "It lists fiscal officers"
-        ],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Hard",
-        "verseReference": "1 Chronicles 26:4–15",
-        "verseText": "[The sons of Shemaiah… were in charge of the treasuries and the treasurers of the temple.]"
-    },
-    {
-        "text": "What narrative purpose is served by the blessing on Obed‑Edom’s house in 1 Chronicles 13:13?",
-        "options": [
-        "It demonstrates God’s favor when divine protocols are respected",
-        "It foreshadows David’s flight",
-        "It critiques priestly negligence",
-        "It emphasizes temple aesthetics"
-        ],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Hard",
-        "verseReference": "1 Chronicles 13:13",
-        "verseText": "[So David was afraid of God that day… and said, 'How can the ark of the Lord come to me?'] Yet the LORD blessed the house of Obed‑Edom."
-    },
-    {
-        "text": "How does the phrase 'did not seek him according to the rule' in 1 Chronicles 15:13 deepen our understanding of Levitical law?",
-        "options": [
-        "It highlights the necessity of precise ritual observance for divine presence",
-        "It suggests an optional improvisation",
-        "It critiques prophetic authority",
-        "It introduces a new Mosaic covenant"
-        ],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Hard",
-        "verseReference": "1 Chronicles 15:13",
-        "verseText": "[Because you did not carry it the first time, the LORD our God broke out against us, because we did not seek him according to the rule.]"
-    },
-    {
-        "text": "What editorial intent is suggested by the compilation of multiple psalms in 1 Chronicles 16:8–36?",
-        "options": [
-        "To present David as the ideal worship leader through curated liturgy",
-        "To record chronological history",
-        "To document royal edicts",
-        "To list agricultural laws"
-        ],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Hard",
-        "verseReference": "1 Chronicles 16:8–36",
-        "verseText": "[Oh give thanks to the LORD… and say, 'Save us, O God of our salvation; gather and rescue us from the nations.']"
-    },
-    {
-        "text": "What does David’s reorganization of tribal leaders in 1 Chronicles 27:6–15 reveal about his governance style?",
-        "options": [
-        "A systematic, merit‑based administration tied to tribal identity",
-        "A purely military mobilization",
-        "A patriarchal council structure",
-        "A focus on religious over civic roles"
-        ],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Hard",
-        "verseReference": "1 Chronicles 27:6–15",
-        "verseText": "[Over the Reubenites, Eliezer son of Zichri; Over the Gadites, Eliasaph son of Reuel… each with 1,000,000 men of valor.]"
-    },
-    {
-        "text": "How does David’s purchase of Araunah’s threshing floor in 1 Chronicles 21:22–25 serve as a legal and theological precedent?",
-        "options": [
-        "It establishes the principle of voluntary purchase rather than divine gift for sacred space",
-        "It begins royal taxation",
-        "It creates a new war monopoly",
-        "It demands tithe contributions"
-        ],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Hard",
-        "verseReference": "1 Chronicles 21:22–25",
-        "verseText": "[And David said to Araunah, 'No, but I will buy it from you… that the plague may be stayed from the people.']"
-    },
-    {
-        "text": "What does listing Shemei and Geber as Benjaminite leaders in 1 Chronicles 12:1 illustrate about tribal politics?",
-        "options": [
-        "The strategic alignment of key clan heads with David’s cause",
-        "A dissenting faction within David’s court",
-        "A Levite takeover",
-        "An editorial insertion from exile"
-        ],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Hard",
-        "verseReference": "1 Chronicles 12:1",
-        "verseText": "[From Benjamin… Shammah the Hararite, Jeiel the Meshullamite, Ismaiah… Shemei… Geber…]"
-    },
-    {
-        "text": "How does the census narrative in 1 Chronicles 21:1–7 reflect Israel’s theological ambivalence toward numbering its people?",
-        "options": [
-        "It portrays human counting as susceptible to sin without divine sanction",
-        "It mandates annual headcounts",
-        "It celebrates military drafts",
-        "It critiques urbanization"
-        ],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Hard",
-        "verseReference": "1 Chronicles 21:1–7",
-        "verseText": "[Satan incited David to number Israel… so David said to Joab… the total was 1,100,000 men able to draw the sword.]"
-    },
-    {
-        "text": "What critical function does placing genealogies at the start of 1 Chronicles serve in the book’s overall composition?",
-        "options": [
-        "It roots Israel’s identity and Davidic legitimacy in ancestral memory",
-        "It fills out idle scribal pages",
-        "It echoes pagan epic prologues",
-        "It provides agricultural statistics"
-        ],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Hard",
-        "verseReference": "1 Chronicles 1:1–9",
-        "verseText": "[These are the names of the people whom the LORD gave Abram… lists from Adam to Abraham.]"
-    },
-    {
-        "text": "How does the injunction to 'praise his name with dancing' in 1 Chronicles 16:31–33 deepen our understanding of worship in David’s reign?",
-        "options": [
-        "It integrates embodied celebration into covenantal praise",
-        "It restricts worship to the temple precinct",
-        "It forbids musical instruments",
-        "It emphasizes fasting only"
-        ],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Hard",
-        "verseReference": "1 Chronicles 16:31–33",
-        "verseText": "[Let the heavens be glad, and let the earth rejoice; and let them say among the nations, 'The LORD reigns!']"
-    },
-    {
-        "text": "What does the brief genealogy of Jabez in 1 Chronicles 4:9–10 demonstrate about the Chronicler’s editorial focus?",
-        "options": [
-        "Elevation of personal piety and prayer over mere lineage listing",
-        "Correction of earlier genealogical errors",
-        "Highlighting Caleb’s household",
-        "Emphasis on agricultural skill"
-        ],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Hard",
-        "verseReference": "1 Chronicles 4:9–10",
-        "verseText": "[Jabez was more honorable than his brothers… and he called upon the God of Israel… 'Oh that you would bless me and enlarge my border!']"
-    },
-    {
-        "text": "How does the parallel between David’s charge in 1 Chronicles 17 and his address in 28–29 function as a literary device?",
-        "options": [
-        "It creates a covenantal frame emphasizing continuity and promise",
-        "It repeats genealogical names",
-        "It alternates priestly and royal speeches",
-        "It contrasts northern and southern tribes"
-        ],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Hard",
-        "verseReference": "1 Chronicles 17:11–14; 28:20",
-        "verseText": "[When your days are fulfilled… I will establish his throne forever.] / [Be strong and courageous; do not be afraid or discouraged.]"
-    },
-    {
-        "text": "What does the depiction of God ‘preparing a dwelling place for his people’ in David’s final prayer (1 Chronicles 29:9–10) evoke from Israel’s earlier traditions?",
-        "options": [
-        "Imagery of the divine sanctuary akin to Edenic fellowship",
-        "A prophetic oracle against Moab",
-        "A liturgical calendar marker",
-        "A call to military mobilization"
-        ],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Hard",
-        "verseReference": "1 Chronicles 29:9–10",
-        "verseText": "[And all the assembly blessed the LORD,… saying, 'Yours, O LORD, is the greatness and the power and the glory…' ]"
-    },
-    {
-        "text": "What political‑theological statement is made by assigning each tribe a monthly service in 1 Chronicles 27?",
-        "options": [
-        "Integration of tribal identity into centralized rule under David",
-        "Division of the kingdom into two states",
-        "Separation of temple and state",
-        "Introduction of prophetic oversight"
-        ],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Hard",
-        "verseReference": "1 Chronicles 27:1–15",
-        "verseText": "[All these were in their divisions for the service of the king’s house, one month in a year…]"
-    },
-    {
-        "text": "How does the Merarite assignment to noisemaking at the temple gates in 1 Chronicles 26:1–5 reflect symbolic theology?",
-        "options": [
-        "It connects sound with sanctified boundary‑keeping",
-        "It indicates random labor distribution",
-        "It denotes land‑holding rights",
-        "It records tax collection"
-        ],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Hard",
-        "verseReference": "1 Chronicles 26:1–5",
-        "verseText": "[David and the officials… made the sons of the Korahites and Merarites the gatekeepers of the thresholds.]"
-    },
-    {
-        "text": "In 1 Chronicles 12:2–8, what strategic purpose do the non‑Israelite contingents serve in David’s campaign narrative?",
-        "options": [
-        "They underscore divine endorsement through broadened coalition",
-        "They demonstrate foreign oppression",
-        "They provide agricultural labor",
-        "They critique David’s leadership"
-        ],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Hard",
-        "verseReference": "1 Chronicles 12:2–8",
-        "verseText": "[From Manasseh… from Zebulun… from Naphtali… and foreign warriors joined David.]"
-    },
-    {
-        "text": "What typological significance do David’s temple plans in 1 Chronicles 28:11–12 hold for post‑exilic readers?",
-        "options": [
-        "They symbolize the hope for restored divine presence",
-        "They record royal genealogies",
-        "They detail priestly garments",
-        "They function as war strategies"
-        ],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Hard",
-        "verseReference": "1 Chronicles 28:11–12",
-        "verseText": "[He put in Solomon’s hand the plan of the porch of the temple and its buildings…]"
-    },
-    {
-        "text": "How does the Chronicler’s portrayal of Saul’s failures in contrast to David’s Levitical centralization advance the book’s theology?",
-        "options": [
-        "By validating David as God’s rightful anointed through proper worship order",
-        "By minimizing temple importance",
-        "By critiquing monarchy itself",
-        "By glorifying tribal autonomy"
-        ],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Hard",
-        "verseReference": "1 Chronicles 15:2; 21:1",
-        "verseText": "[Only Levites may carry the ark…] / [Satan incited David to number Israel.]"
-    },
-    {
-        "text": "What is the significance of the communal feast described at the dedication in 1 Chronicles 29:22–23?",
-        "options": [
-        "It enacts covenant renewal through shared celebration",
-        "It marks the end of military campaigns",
-        "It inaugurates a new tax cycle",
-        "It lists agricultural offerings"
-        ],
-        "correctAnswerIndex": 0,
-        "book": "1 Chronicles",
-        "difficulty": "Hard",
-        "verseReference": "1 Chronicles 29:22–23",
-        "verseText": "[They ate and drank… and made great sacrifices… for God gladdened them with the joy of their king.]"
+      "text": "The book of 1 Chronicles begins with a genealogy tracing back to whom?",
+      "options": ["Abraham", "Noah", "Adam", "David"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Easy",
+      "verseReference": "1 Chronicles 1:1",
+      "verseText": "Adam, Seth, Enosh;"
+    },
+    {
+      "text": "Which son of Noah is the ancestor of the Israelites listed in the genealogies?",
+      "options": ["Ham", "Japheth", "Shem", "Canaan"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Easy",
+      "verseReference": "1 Chronicles 1:17, 24",
+      "verseText": "The sons of Shem: Elam, Asshur, Arpachshad, Lud, Aram... Shem, Arpachshad, Shelah;"
+    },
+    {
+      "text": "Who is listed as the father of the Israelites (Jacob)?",
+      "options": ["Abraham", "Isaac", "Terah", "Nahor"],
+      "correctAnswerIndex": 1,
+      "book": "1 Chronicles",
+      "difficulty": "Easy",
+      "verseReference": "1 Chronicles 1:34",
+      "verseText": "Abraham fathered Isaac. The sons of Isaac: Esau and Israel."
+    },
+    {
+      "text": "How many sons did Jacob (Israel) have, whose descendants became the tribes?",
+      "options": ["7", "10", "12", "13"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Easy",
+      "verseReference": "1 Chronicles 2:1-2",
+      "verseText": "These are the sons of Israel: Reuben, Simeon, Levi, Judah, Issachar, Zebulun, Dan, Joseph, Benjamin, Naphtali, Gad, Asher."
+    },
+    {
+      "text": "From which son of Jacob did King David descend?",
+      "options": ["Reuben", "Levi", "Judah", "Benjamin"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Easy",
+      "verseReference": "1 Chronicles 2:3-15",
+      "verseText": "The sons of Judah... Jesse fathered Eliab his firstborn, Abinadab the second, Shimea the third, Nethanel the fourth, Raddai the fifth, Ozem the sixth, David the seventh."
+    },
+    {
+      "text": "Who was David's father?",
+      "options": ["Saul", "Samuel", "Jesse", "Boaz"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Easy",
+      "verseReference": "1 Chronicles 2:15",
+      "verseText": "Ozem the sixth, David the seventh..."
+    },
+    {
+      "text": "Which tribe is known for producing the priests?",
+      "options": ["Judah", "Levi", "Benjamin", "Ephraim"],
+      "correctAnswerIndex": 1,
+      "book": "1 Chronicles",
+      "difficulty": "Easy",
+      "verseReference": "1 Chronicles 6:1",
+      "verseText": "The sons of Levi: Gershom, Kohath, and Merari."
+    },
+    {
+      "text": "Who was the first king of Israel mentioned dying at the beginning of David's reign narrative in 1 Chronicles?",
+      "options": ["David", "Solomon", "Saul", "Rehoboam"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Easy",
+      "verseReference": "1 Chronicles 10:13-14",
+      "verseText": "So Saul died for his breach of faith... Therefore the LORD put him to death and turned the kingdom over to David the son of Jesse."
+    },
+    {
+      "text": "Why did Saul die, according to 1 Chronicles 10?",
+      "options": ["Old age", "Killed by David", "For his unfaithfulness to the LORD and consulting a medium", "Lost in battle"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Easy",
+      "verseReference": "1 Chronicles 10:13",
+      "verseText": "So Saul died for his breach of faith. He broke faith with the LORD in that he did not keep the command of the LORD, and also consulted a medium, seeking guidance."
+    },
+    {
+      "text": "Where was David officially anointed king over all Israel?",
+      "options": ["Jerusalem", "Bethlehem", "Hebron", "Gibeon"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Easy",
+      "verseReference": "1 Chronicles 11:1-3",
+      "verseText": "Then all Israel gathered together to David at Hebron... And David made a covenant with them at Hebron before the LORD, and they anointed David king over Israel..."
+    },
+    {
+      "text": "Which city did David capture from the Jebusites and make his capital?",
+      "options": ["Hebron", "Samaria", "Jerusalem (formerly Jebus)", "Bethel"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Easy",
+      "verseReference": "1 Chronicles 11:4-5",
+      "verseText": "And David and all Israel went to Jerusalem, that is Jebus, where the Jebusites were... Nevertheless, David took the stronghold of Zion, that is, the city of David."
+    },
+    {
+      "text": "What important sacred object did David decide to bring to Jerusalem?",
+      "options": ["The golden calf", "Aaron's rod", "The Ark of God (Ark of the Covenant)", "The Bronze Serpent"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Easy",
+      "verseReference": "1 Chronicles 13:3",
+      "verseText": "Then let us bring again the ark of our God to us, for we did not seek it in the days of Saul."
+    },
+    {
+      "text": "Who died tragically when he touched the Ark during its first attempted transport?",
+      "options": ["Abinadab", "Uzzah", "Ahio", "Obed-edom"],
+      "correctAnswerIndex": 1,
+      "book": "1 Chronicles",
+      "difficulty": "Easy",
+      "verseReference": "1 Chronicles 13:9-10",
+      "verseText": "And when they came to the threshing floor of Chidon, Uzzah put out his hand to take hold of the ark... And the anger of the LORD was kindled against Uzzah, and he struck him down because he put out his hand to the ark, and he died there before God."
+    },
+    {
+      "text": "In whose house did the Ark stay for three months, bringing blessing?",
+      "options": ["Uzzah's", "David's", "Obed-edom the Gittite's", "Zadok the priest's"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Easy",
+      "verseReference": "1 Chronicles 13:13-14",
+      "verseText": "So David did not take the ark home into the city of David, but took it aside to the house of Obed-edom the Gittite... And the ark of God remained with the household of Obed-edom in his house three months. And the LORD blessed the household of Obed-edom and all that he had."
+    },
+    {
+      "text": "Who were designated as the only ones permitted to carry the Ark of God?",
+      "options": ["The king's sons", "The mighty warriors", "The Levites", "The elders of Israel"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Easy",
+      "verseReference": "1 Chronicles 15:2",
+      "verseText": "Then David said, 'No one may carry the ark of God except the Levites, for the LORD chose them to carry the ark of the LORD and to minister to him forever.'"
+    },
+    {
+      "text": "How was the Ark transported successfully the second time?",
+      "options": ["On a new cart", "Carried on the shoulders of the Levites using poles", "Pulled by oxen led by priests", "Levitated by God's power"],
+      "correctAnswerIndex": 1,
+      "book": "1 Chronicles",
+      "difficulty": "Easy",
+      "verseReference": "1 Chronicles 15:15",
+      "verseText": "And the Levites carried the ark of God on their shoulders with the poles, as Moses had commanded according to the word of the LORD."
+    },
+    {
+      "text": "What was David doing as the Ark entered Jerusalem, which caused his wife Michal to despise him?",
+      "options": ["Riding a white horse", "Sacrificing oxen", "Singing solemnly", "Leaping and dancing"],
+      "correctAnswerIndex": 3,
+      "book": "1 Chronicles",
+      "difficulty": "Easy",
+      "verseReference": "1 Chronicles 15:29",
+      "verseText": "And as the ark of the covenant of the LORD came to the city of David, Michal the daughter of Saul looked out of the window and saw King David dancing and celebrating, and she despised him in her heart."
+    },
+    {
+      "text": "David desired to build what for the LORD?",
+      "options": ["A larger palace", "A permanent house (Temple)", "A new city wall", "A monument to Saul"],
+      "correctAnswerIndex": 1,
+      "book": "1 Chronicles",
+      "difficulty": "Easy",
+      "verseReference": "1 Chronicles 17:1",
+      "verseText": "Now when David lived in his house, David said to Nathan the prophet, 'Behold, I dwell in a house of cedar, but the ark of the covenant of the LORD is under a tent.'"
+    },
+    {
+      "text": "Who did the LORD, through Nathan the prophet, say would build the Temple?",
+      "options": ["David himself", "David's son (Solomon)", "Nathan the prophet", "The high priest"],
+      "correctAnswerIndex": 1,
+      "book": "1 Chronicles",
+      "difficulty": "Easy",
+      "verseReference": "1 Chronicles 17:11-12",
+      "verseText": "When your days are fulfilled to walk with your fathers, I will raise up your offspring after you, one of your own sons, and I will establish his kingdom. He shall build a house for me..."
+    },
+    {
+      "text": "Why was David not permitted to build the Temple?",
+      "options": ["He was too old", "He lacked the resources", "He was a man of war and had shed much blood", "He didn't have the plans"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Easy",
+      "verseReference": "1 Chronicles 22:8",
+      "verseText": "But the word of the LORD came to me, saying, 'You have shed much blood and have waged great wars. You shall not build a house to my name, because you have shed so much blood before me on the earth.'"
+    },
+    {
+      "text": "What did David spend much of his later reign doing in preparation for the Temple?",
+      "options": ["Writing psalms", "Gathering materials and organizing workers", "Expanding his kingdom", "Training his army"],
+      "correctAnswerIndex": 1,
+      "book": "1 Chronicles",
+      "difficulty": "Easy",
+      "verseReference": "1 Chronicles 22:2-5, 14",
+      "verseText": "David commanded to gather together the resident aliens... He also provided great quantities of iron... bronze... cedar timbers... David said, 'Solomon my son is young and inexperienced, and the house that is to be built for the LORD must be exceedingly magnificent... I will therefore make preparation for it.' So David provided materials in great quantity before his death."
+    },
+    {
+      "text": "Which son did David designate as his successor to the throne?",
+      "options": ["Absalom", "Adonijah", "Solomon", "Amnon"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Easy",
+      "verseReference": "1 Chronicles 23:1",
+      "verseText": "When David was old and full of days, he made Solomon his son king over Israel."
+    },
+    {
+      "text": "David organized the Levites into groups for various tasks including serving in the Temple, singing, and what other key role?",
+      "options": ["Tax collectors", "Royal guards", "Gatekeepers", "Farmers"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Easy",
+      "verseReference": "1 Chronicles 23:3-5",
+      "verseText": "The Levites, thirty years old and upward, were counted... 24,000 were to oversee the work of the house of the LORD, 6,000 were officers and judges, 4,000 were gatekeepers, and 4,000 were praising the LORD with instruments..."
+    },
+    {
+      "text": "Who was the primary leader of the Temple musicians appointed by David?",
+      "options": ["Zadok", "Abiathar", "Asaph", "Benaiah"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Easy",
+      "verseReference": "1 Chronicles 16:4-5",
+      "verseText": "Then he appointed some of the Levites as ministers before the ark of the LORD... Asaph was the chief..."
+    },
+    {
+      "text": "What sin did David commit by ordering a census of Israel, which angered the LORD?",
+      "options": ["Idolatry", "Adultery", "Numbering the fighting men (incited by Satan/adversary)", "Breaking a treaty"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Easy",
+      "verseReference": "1 Chronicles 21:1-3",
+      "verseText": "Then Satan stood against Israel and incited David to number Israel. So David said to Joab and the commanders... 'Go, number Israel...' But Joab said, '...Why should he bring guilt on Israel?'"
+    },
+    {
+      "text": "What were the three choices of punishment offered to David for his sinful census?",
+      "options": ["War, famine, or exile", "Three years of famine, three months of fleeing enemies, or three days of pestilence", "Flood, fire, or earthquake", "Poverty, sickness, or betrayal"],
+      "correctAnswerIndex": 1,
+      "book": "1 Chronicles",
+      "difficulty": "Easy",
+      "verseReference": "1 Chronicles 21:11-12",
+      "verseText": "So Gad came to David and said to him, 'Thus says the LORD, Choose what you will: either three years of famine, or three months of devastation by your foes... or else three days of the sword of the LORD, pestilence on the land...'"
+    },
+    {
+      "text": "Which punishment did David choose?",
+      "options": ["Famine", "Fleeing enemies", "Pestilence from the LORD", "He refused to choose"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Easy",
+      "verseReference": "1 Chronicles 21:13",
+      "verseText": "Then David said to Gad, 'I am in great distress. Let me fall into the hand of the LORD, for his mercy is very great, but do not let me fall into the hand of man.'"
+    },
+    {
+      "text": "Where did the plague stop, after David offered a sacrifice?",
+      "options": ["Mount Zion", "The Gihon Spring", "The threshing floor of Ornan (Araunah) the Jebusite", "The Mount of Olives"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Easy",
+      "verseReference": "1 Chronicles 21:15, 18, 28",
+      "verseText": "And God sent the angel to Jerusalem to destroy it... And the angel of the LORD was standing by the threshing floor of Ornan the Jebusite... Then the angel of the LORD commanded Gad to say to David that David should go up and raise an altar to the LORD on the threshing floor of Ornan..."
+    },
+    {
+      "text": "What significant site would later be built on the location of Ornan's threshing floor?",
+      "options": ["David's palace", "Solomon's Temple", "The Pool of Siloam", "Fortress Antonia"],
+      "correctAnswerIndex": 1,
+      "book": "1 Chronicles",
+      "difficulty": "Easy",
+      "verseReference": "1 Chronicles 22:1 (cf. 2 Chron 3:1)",
+      "verseText": "Then David said, 'Here shall be the house of the LORD God and here the altar of burnt offering for Israel.' (2 Chron 3:1 confirms Solomon built it there)"
+    },
+    {
+      "text": "In his final address, what did David charge Solomon and the leaders of Israel to do?",
+      "options": ["Expand the kingdom's borders", "Seek wisdom and build the Temple", "Make alliances with Egypt", "Avenge Saul's death"],
+      "correctAnswerIndex": 1,
+      "book": "1 Chronicles",
+      "difficulty": "Easy",
+      "verseReference": "1 Chronicles 28:9-10, 20",
+      "verseText": "'And you, Solomon my son, know the God of your father and serve him with a whole heart... for the LORD searches all hearts... If you seek him, he will be found by you... Be careful now, for the LORD has chosen you to build a house for the sanctuary; be strong and do it.'... 'Be strong and courageous and do it. Do not be afraid and do not be dismayed, for the LORD God, even my God, is with you.'"
+    },
+    { 
+      "text": "Besides David, which other two sons of Jesse are specifically mentioned as having daughters?",
+      "options": ["Eliab and Shimea", "Nethanel and Raddai", "No other sons are mentioned with daughters", "Ozem and Elihu"],
+      "correctAnswerIndex": 0,
+      "book": "1 Chronicles",
+      "difficulty": "Medium",
+      "verseReference": "1 Chronicles 2:16-17",
+      "verseText": "And their sisters were Zeruiah and Abigail. The sons of Zeruiah: Abishai, Joab, and Asahel, three. Abigail bore Amasa, and the father of Amasa was Jether the Ishmaelite. (Zeruiah and Abigail are Jesse's daughters/David's sisters)"
+    },
+    {
+      "text": "Achar (or Achan) from the tribe of Judah is mentioned for bringing disaster upon Israel. What was his specific sin (detailed in Joshua 7)?",
+      "options": ["Worshipping idols", "Taking forbidden spoils from Jericho", "Deserting in battle", "Lying to the priests"],
+      "correctAnswerIndex": 1,
+      "book": "1 Chronicles",
+      "difficulty": "Medium",
+      "verseReference": "1 Chronicles 2:7",
+      "verseText": "The son of Carmi: Achar, the troubler of Israel, who broke faith in the matter of the devoted things."
+    },
+    {
+      "text": "Who was the father of Caleb (son of Hezron, distinct from Caleb son of Jephunneh)?",
+      "options": ["Judah", "Perez", "Hezron", "Ram"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Medium",
+      "verseReference": "1 Chronicles 2:18",
+      "verseText": "Caleb the son of Hezron fathered children by Azubah his wife, and by Jerioth..."
+    },
+    {
+      "text": "Which group among the Levites were the descendants of Aaron, designated for the priesthood?",
+      "options": ["Gershomites", "Merarites", "Kohathites", "All Levites equally"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Medium",
+      "verseReference": "1 Chronicles 6:3, 49",
+      "verseText": "The children of Amram: Aaron, Moses, and Miriam. The sons of Aaron: Nadab, Abihu, Eleazar, and Ithamar... But Aaron and his sons made offerings... for all the work of the Most Holy Place..."
+    },
+    {
+      "text": "Which tribe is noted for its skilled archers and warriors who could use both the right and left hand?",
+      "options": ["Judah", "Benjamin", "Ephraim", "Manasseh"],
+      "correctAnswerIndex": 1,
+      "book": "1 Chronicles",
+      "difficulty": "Medium",
+      "verseReference": "1 Chronicles 12:2",
+      "verseText": "They were bowmen and could shoot arrows and sling stones with either the right or the left hand; they were Benjaminites, Saul's kinsmen."
+    },
+    {
+      "text": "Jashobeam, Eleazar, and Shammah were known collectively as what?",
+      "options": ["David's nephews", "Leaders of the Levites", "The Three (most prominent of David's mighty men)", "Captains of the guard"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Medium",
+      "verseReference": "1 Chronicles 11:11-12 (cf. 2 Samuel 23:8-12)",
+      "verseText": "This is the list of the mighty men whom David had: Jashobeam... And next to him among the three mighty men was Eleazar... (Shammah is included in 2 Samuel's account of The Three)"
+    },
+    {
+      "text": "What feat is attributed to Jashobeam the Hachmonite, chief of the Three?",
+      "options": ["Killing a lion in a pit on a snowy day", "Defeating an Egyptian giant", "Wielding his spear against 300 or 800 men at one time", "Bringing water from the well of Bethlehem"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Medium",
+      "verseReference": "1 Chronicles 11:11",
+      "verseText": "...Jashobeam, a Hachmonite, chief of the three. He wielded his spear against 300 whom he killed at one time. (Note: Number varies between 300 in Chron and 800 in 2 Sam)"
+    },
+    {
+      "text": "Benaiah son of Jehoiada, one of David's mighty men, was famous for striking down what impressive foes?",
+      "options": ["Goliath and his brothers", "Two ariel-like champions of Moab, a lion, and a formidable Egyptian", "The kings of Philistia", "The entire army of Ammon"],
+      "correctAnswerIndex": 1,
+      "book": "1 Chronicles",
+      "difficulty": "Medium",
+      "verseReference": "1 Chronicles 11:22-23",
+      "verseText": "And Benaiah the son of Jehoiada was a valiant man... he struck down the two heroes of Moab. He also went down and struck down a lion in a pit on a day when snow had fallen. And he struck down an Egyptian..."
+    },
+    {
+      "text": "Which king of Tyre sent cedar, carpenters, and masons to build David a palace?",
+      "options": ["Hiram (or Huram)", "Abimelech", "Ethbaal", "Ahiram"],
+      "correctAnswerIndex": 0,
+      "book": "1 Chronicles",
+      "difficulty": "Medium",
+      "verseReference": "1 Chronicles 14:1",
+      "verseText": "And Hiram king of Tyre sent messengers to David, and cedar trees, also masons and carpenters to build a house for him."
+    },
+    {
+      "text": "After defeating the Philistines at Baal-perazim, what did David call the place, meaning 'The Lord has broken through'?",
+      "options": ["Ebenezer", "Baal-perazim", "Ramah", "Mizpah"],
+      "correctAnswerIndex": 1,
+      "book": "1 Chronicles",
+      "difficulty": "Medium",
+      "verseReference": "1 Chronicles 14:11",
+      "verseText": "And they came up to Baal-perazim, and David struck them down there. And David said, 'God has broken through my enemies by my hand, like a bursting flood.' Therefore the name of that place is called Baal-perazim."
+    },
+    {
+      "text": "Who were the chief Levites appointed by David to oversee the music when the Ark was brought to Jerusalem?",
+      "options": ["Korah, Dathan, Abiram", "Nadab and Abihu", "Asaph, Heman, and Jeduthun (Ethan)", "Zadok and Abiathar"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Medium",
+      "verseReference": "1 Chronicles 15:16-17",
+      "verseText": "David also commanded the chiefs of the Levites to appoint their brothers as the singers who should play loudly on musical instruments... So the Levites appointed Heman the son of Joel; and of his brothers Asaph the son of Berechiah; and of the sons of Merari, their brothers, Ethan the son of Kushaiah. (Ethan is also called Jeduthun)"
+    },
+    {
+      "text": "The Psalm of Thanksgiving David delivered to Asaph in 1 Chronicles 16 is composed of sections from which other Psalms?",
+      "options": ["Psalm 1 & 2", "Psalm 23 & 27", "Psalm 19 & 119", "Psalm 105, 96, and 106"],
+      "correctAnswerIndex": 3,
+      "book": "1 Chronicles",
+      "difficulty": "Medium",
+      "verseReference": "1 Chronicles 16:8-36",
+      "verseText": "Compare 1 Chron 16:8-22 with Ps 105:1-15; 1 Chron 16:23-33 with Ps 96:1-13; 1 Chron 16:34-36 with Ps 106:1, 47-48"
+    },
+    {
+      "text": "What promise regarding David's lineage is central to the Davidic Covenant outlined in 1 Chronicles 17?",
+      "options": ["His sons would be great warriors", "His kingdom and throne would be established forever", "His descendants would never sin", "His family would always be wealthy"],
+      "correctAnswerIndex": 1,
+      "book": "1 Chronicles",
+      "difficulty": "Medium",
+      "verseReference": "1 Chronicles 17:12, 14",
+      "verseText": "He shall build a house for me, and I will establish his throne forever... I will confirm him in my house and in my kingdom forever, and his throne shall be established forever."
+    },
+    {
+      "text": "David defeated Hadadezer, king of which Aramean kingdom, capturing chariots and horsemen?",
+      "options": ["Damascus", "Zobah", "Geshur", "Maacah"],
+      "correctAnswerIndex": 1,
+      "book": "1 Chronicles",
+      "difficulty": "Medium",
+      "verseReference": "1 Chronicles 18:3",
+      "verseText": "David also defeated Hadadezer king of Zobah-Hamath, as he went to set up his monument at the river Euphrates."
+    },
+    {
+      "text": "From which conquered cities of Hadadezer did David take a large amount of bronze that Solomon later used for the Temple?",
+      "options": ["Tyre and Sidon", "Tibhath and Cun", "Rabbah and Medeba", "Damascus and Hamath"],
+      "correctAnswerIndex": 1,
+      "book": "1 Chronicles",
+      "difficulty": "Medium",
+      "verseReference": "1 Chronicles 18:8",
+      "verseText": "And from Tibhath and from Cun, cities of Hadadezer, David took a large amount of bronze. With it Solomon made the bronze sea and the pillars and the vessels of bronze."
+    },
+    {
+      "text": "Which Ammonite king insulted David's envoys by shaving off half their beards and cutting their garments?",
+      "options": ["Nahash", "Hanun", "Shobi", "Baalis"],
+      "correctAnswerIndex": 1,
+      "book": "1 Chronicles",
+      "difficulty": "Medium",
+      "verseReference": "1 Chronicles 19:1-4",
+      "verseText": "Now after this Nahash the king of the Ammonites died... So David sent messengers... But the princes of the Ammonites said to Hanun... Hanun took David's servants and shaved them and cut off their garments in the middle... and sent them away."
+    },
+    {
+      "text": "Who was the commander of David's army who led the siege against Rabbah of the Ammonites?",
+      "options": ["Abishai", "Benaiah", "Joab", "Asahel"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Medium",
+      "verseReference": "1 Chronicles 20:1",
+      "verseText": "In the spring of the year... Joab led out the army and ravaged the country of the Ammonites and came and besieged Rabbah. But David remained at Jerusalem. And Joab struck down Rabbah and overthrew it."
+    },
+    {
+      "text": "Sibbecai the Hushathite, one of David's men, is credited with killing which Philistine giant?",
+      "options": ["Goliath", "Lahmi, the brother of Goliath", "Sippai (Saph)", "Ishbi-benob"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Medium",
+      "verseReference": "1 Chronicles 20:4",
+      "verseText": "And after this there arose war with the Philistines at Gezer. Then Sibbecai the Hushathite struck down Sippai, who was one of the descendants of the giants..."
+    },
+    {
+      "text": "Elhanan son of Jair is credited in 1 Chronicles with killing whom?",
+      "options": ["Goliath the Gittite", "A giant with six fingers on each hand", "Sippai", "Lahmi the brother of Goliath the Gittite"],
+      "correctAnswerIndex": 3,
+      "book": "1 Chronicles",
+      "difficulty": "Medium",
+      "verseReference": "1 Chronicles 20:5",
+      "verseText": "And there was again war with the Philistines, and Elhanan the son of Jair struck down Lahmi the brother of Goliath the Gittite..."
+    },
+    {
+      "text": "What distinctive physical characteristic did the unnamed giant killed by Jonathan, David's nephew, possess?",
+      "options": ["Extra height", "A helmet of bronze", "Six fingers on each hand and six toes on each foot", "Two heads"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Medium",
+      "verseReference": "1 Chronicles 20:6",
+      "verseText": "And there was again war at Gath, where there was a man of great stature, who had six fingers on each hand and six toes on each foot, twenty-four in number..."
+    },
+    {
+      "text": "Why did David insist on paying Ornan the full price for his threshing floor, oxen, and wheat?",
+      "options": ["Ornan was poor", "David refused to offer the LORD that which cost him nothing", "It was required by law", "Joab advised him to"],
+      "correctAnswerIndex": 1,
+      "book": "1 Chronicles",
+      "difficulty": "Medium",
+      "verseReference": "1 Chronicles 21:24",
+      "verseText": "But King David said to Ornan, 'No, but I will buy them for the full price. I will not take for the LORD what is yours, nor offer burnt offerings that cost me nothing.'"
+    },
+    {
+      "text": "How much gold did David specify he had set aside for the 'house of the LORD' in his preparations?",
+      "options": ["1,000 talents", "10,000 talents", "100,000 talents", "1,000,000 talents"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Medium",
+      "verseReference": "1 Chronicles 22:14",
+      "verseText": "With great pains I have provided for the house of the LORD 100,000 talents of gold, a million talents of silver, and bronze and iron beyond weighing..."
+    },
+    {
+      "text": "At what age were the Levites counted for service according to David's final command (a change from the earlier requirement)?",
+      "options": ["20 years and upward", "25 years and upward", "30 years and upward", "50 years and upward"],
+      "correctAnswerIndex": 0,
+      "book": "1 Chronicles",
+      "difficulty": "Medium",
+      "verseReference": "1 Chronicles 23:24, 27",
+      "verseText": "These were the sons of Levi by their fathers' houses... those enrolled from twenty years old and upward... For by the last words of David the sons of Levi were numbered from twenty years old and upward."
+    },
+    {
+      "text": "How many divisions were the priests (sons of Aaron) organized into for Temple service?",
+      "options": ["10", "12", "24", "48"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Medium",
+      "verseReference": "1 Chronicles 24:1-4, 18-19",
+      "verseText": "The divisions of the sons of Aaron were these... they divided them by lot... sixteen heads of fathers' houses of the sons of Eleazar, and eight of the sons of Ithamar... The twenty-fourth was to Maaziah. These had as their appointed duty..."
+    },
+    {
+      "text": "What instruments were the sons of Asaph, Heman, and Jeduthun designated to play while prophesying?",
+      "options": ["Drums and flutes", "Trumpets and horns", "Lyres, harps, and cymbals", "Shofars and tambourines"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Medium",
+      "verseReference": "1 Chronicles 25:1",
+      "verseText": "David and the chiefs of the service also set apart for the service the sons of Asaph, and of Heman, and of Jeduthun, who prophesied with lyres, with harps, and with cymbals."
+    },
+    {
+      "text": "How many divisions of gatekeepers were established?",
+      "options": ["4", "12", "24", "There were specific families, not numbered divisions like the priests/musicians"],
+      "correctAnswerIndex": 3,
+      "book": "1 Chronicles",
+      "difficulty": "Medium",
+      "verseReference": "1 Chronicles 26:1-19",
+      "verseText": "As for the divisions of the gatekeepers: of the Korahites... Meshelemiah the son of Kore... Obed-edom also had sons... (Lists families and responsibilities by gate, not 24 divisions)"
+    },
+    {
+      "text": "Besides guarding the gates, what other responsibility did certain Levite families under Obed-edom have?",
+      "options": ["Managing the treasury and stores", "Baking the showbread", "Mixing the incense", "Repairing the temple walls"],
+      "correctAnswerIndex": 0,
+      "book": "1 Chronicles",
+      "difficulty": "Medium",
+      "verseReference": "1 Chronicles 26:20, 26",
+      "verseText": "And of the Levites, Ahijah had charge of the treasuries of the house of God and the treasuries of the dedicated gifts... this Shebuel son of Gershom, son of Moses, was chief officer in charge of the treasuries."
+    },
+    {
+      "text": "David organized the army into how many monthly divisions, each serving for one month a year?",
+      "options": ["4", "10", "12", "24"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Medium",
+      "verseReference": "1 Chronicles 27:1",
+      "verseText": "This is the number of the people of Israel... the commanders of thousands and hundreds... who served the king in all matters concerning the divisions that came and went, month after month throughout the year, each division numbering 24,000."
+    },
+    {
+      "text": "Who was David's uncle, known as a counselor, a man of understanding, and a scribe?",
+      "options": ["Joab", "Jonathan", "Abiathar", "Ahithophel"],
+      "correctAnswerIndex": 1,
+      "book": "1 Chronicles",
+      "difficulty": "Medium",
+      "verseReference": "1 Chronicles 27:32",
+      "verseText": "Jonathan, David's uncle, was a counselor, being a man of understanding and a scribe..."
+    },
+    {
+      "text": "Who was commander of David's army?",
+      "options": ["Benaiah son of Jehoiada", "Abner son of Ner", "Joab son of Zeruiah", "Amasa son of Jether"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Medium",
+      "verseReference": "1 Chronicles 27:34",
+      "verseText": "After Ahithophel came Jehoiada the son of Benaiah and Abiathar. Joab was commander of the king's army."
+    },
+    {
+      "text": "What materials did David specifically list when urging the leaders and people to contribute willingly to the Temple?",
+      "options": ["Only gold and silver", "Stone, wood, and water", "Gold, silver, bronze, iron, wood, onyx stones, stones for setting, antimony, colored stones, all sorts of precious stones, and marble", "Grain, wine, and oil"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Medium",
+      "verseReference": "1 Chronicles 29:2",
+      "verseText": "So I have provided for the house of my God, so far as I was able, the gold... silver... bronze... iron... wood... onyx stones... stones for setting... antimony... colored stones... all sorts of precious stones... and marble."
+    },
+    {
+      "text": "How much personal gold and silver did David state he was donating from his private treasury?",
+      "options": ["1,000 talents gold, 5,000 talents silver", "3,000 talents gold, 7,000 talents silver", "10,000 talents gold, 10,000 talents silver", "100 talents gold, 1,000 talents silver"],
+      "correctAnswerIndex": 1,
+      "book": "1 Chronicles",
+      "difficulty": "Medium",
+      "verseReference": "1 Chronicles 29:4",
+      "verseText": "3,000 talents of gold, of the gold of Ophir, and 7,000 talents of refined silver..."
+    },
+    {
+      "text": "What was the people's reaction to the generous giving towards the Temple?",
+      "options": ["They grumbled about the cost", "They were fearful", "They rejoiced with great joy because they gave willingly", "They demanded a tax cut"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Medium",
+      "verseReference": "1 Chronicles 29:9",
+      "verseText": "Then the people rejoiced because they had given willingly, for with a whole heart they had offered freely to the LORD. David the king also rejoiced greatly."
+    },
+    {
+      "text": "In David's prayer in 1 Chronicles 29, what does he acknowledge about wealth and honor?",
+      "options": ["They come from hard work", "They come from the king", "They come from God", "They are illusions"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Medium",
+      "verseReference": "1 Chronicles 29:12",
+      "verseText": "Both riches and honor come from you, and you rule over all. In your hand are power and might, and in your hand it is to make great and to give strength to all."
+    },
+    {
+      "text": "How long did David reign over Israel in total (combining time in Hebron and Jerusalem)?",
+      "options": ["20 years", "30 years", "40 years", "50 years"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Medium",
+      "verseReference": "1 Chronicles 29:27",
+      "verseText": "The time that he reigned over Israel was forty years. He reigned seven years in Hebron and thirty-three years in Jerusalem."
+    },
+    {
+      "text": "Which three prophetic sources are mentioned at the end of 1 Chronicles as containing the records of King David's reign?",
+      "options": ["Isaiah, Jeremiah, Ezekiel", "Samuel the seer, Nathan the prophet, Gad the seer", "Moses, Joshua, Samuel", "Hosea, Joel, Amos"],
+      "correctAnswerIndex": 1,
+      "book": "1 Chronicles",
+      "difficulty": "Medium",
+      "verseReference": "1 Chronicles 29:29",
+      "verseText": "Now the acts of King David, from first to last, are written in the Chronicles of Samuel the seer, and in the Chronicles of Nathan the prophet, and in the Chronicles of Gad the seer..."
+    },
+    {
+      "text": "Who were the three sons of Zeruiah, David's sister, famous as military leaders?",
+      "options": ["Eliab, Abinadab, Shimea", "Abishai, Joab, Asahel", "Amnon, Absalom, Adonijah", "Elhanan, Shammah, Jonathan"],
+      "correctAnswerIndex": 1,
+      "book": "1 Chronicles",
+      "difficulty": "Medium",
+      "verseReference": "1 Chronicles 2:16",
+      "verseText": "And their sisters were Zeruiah and Abigail. The sons of Zeruiah: Abishai, Joab, and Asahel, three."
+    },
+    { 
+      "text": "Who is listed as the firstborn son of Reuben who lost his birthright?",
+      "options": ["Pallu", "Hezron", "Carmi", "Hanoch"],
+      "correctAnswerIndex": 3,
+      "book": "1 Chronicles",
+      "difficulty": "Hard",
+      "verseReference": "1 Chronicles 5:1, 3",
+      "verseText": "The sons of Reuben the firstborn of Israel (for he was the firstborn, but because he defiled his father's couch, his birthright was given to the sons of Joseph...)... The sons of Reuben, the firstborn of Israel: Hanoch, Pallu, Hezron, and Carmi."
+    },
+    {
+      "text": "To which son of Joseph was the birthright (double portion) effectively given, though Judah received the leadership?",
+      "options": ["Ephraim", "Manasseh", "Benjamin", "It wasn't specified as given to Joseph's sons in 1 Chron 5"],
+      "correctAnswerIndex": 0,
+      "book": "1 Chronicles",
+      "difficulty": "Hard",
+      "verseReference": "1 Chronicles 5:1-2",
+      "verseText": "...his birthright was given to the sons of Joseph son of Israel, so that he could not be enrolled as the oldest son; though Judah became strong among his brothers and a chief came from him, yet the birthright belonged to Joseph. (Ephraim typically received the preeminence associated with the birthright among Joseph's sons)."
+    },
+    {
+      "text": "Beerah, a prince of the Reubenites, was carried away captive by which Assyrian king?",
+      "options": ["Shalmaneser V", "Sargon II", "Sennacherib", "Tiglath-pileser (Tilgath-pilneser)"],
+      "correctAnswerIndex": 3,
+      "book": "1 Chronicles",
+      "difficulty": "Hard",
+      "verseReference": "1 Chronicles 5:6",
+      "verseText": "Beerah his son, whom Tiglath-pileser king of Assyria carried away into exile; he was a chief of the Reubenites."
+    },
+    {
+      "text": "The tribes of Reuben, Gad, and the half-tribe of Manasseh were defeated and exiled because they 'broke faith' and 'played the whore' with the gods of which peoples?",
+      "options": ["Philistines and Egyptians", "Ammonites and Moabites", "Peoples of the land whom God had destroyed before them", "Canaanites and Perizzites"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Hard",
+      "verseReference": "1 Chronicles 5:25",
+      "verseText": "But they broke faith with the God of their fathers, and whored after the gods of the peoples of the land, whom God had destroyed before them."
+    },
+    {
+      "text": "Which high priest served at the time the Ark was brought into Solomon's Temple (mentioned in the genealogies)?",
+      "options": ["Phinehas", "Eli", "Azariah", "Zadok"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Hard",
+      "verseReference": "1 Chronicles 6:10",
+      "verseText": "Johanan fathered Azariah (it was he who served as priest in the house that Solomon built in Jerusalem)."
+    },
+    {
+      "text": "Shubael, descended from Moses' son Gershom, held what important position under David?",
+      "options": ["Chief musician", "Chief gatekeeper", "Chief officer over the treasuries", "Commander of a military division"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Hard",
+      "verseReference": "1 Chronicles 26:24",
+      "verseText": "And Shebuel the son of Gershom, son of Moses, was chief officer in charge of the treasuries. (Note: Shebuel and Shubael often refer to the same person)"
+    },
+    {
+      "text": "The list of mighty men who came to David at Ziklag includes warriors from which tribe, surprisingly, given it was Saul's own tribe?",
+      "options": ["Judah", "Gad", "Manasseh", "Benjamin"],
+      "correctAnswerIndex": 3,
+      "book": "1 Chronicles",
+      "difficulty": "Hard",
+      "verseReference": "1 Chronicles 12:1-2",
+      "verseText": "Now these were the men who came to David at Ziklag... They were bowmen and could shoot arrows... with either the right or the left hand; they were Benjaminites, Saul's kinsmen."
+    },
+    {
+      "text": "Certain Gadite warriors who joined David were described with what fierce imagery?",
+      "options": ["Swift as eagles", "Strong as oxen", "Faces like the faces of lions, swift as gazelles on mountains", "Wise as serpents, innocent as doves"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Hard",
+      "verseReference": "1 Chronicles 12:8",
+      "verseText": "From the Gadites there went over to David at the stronghold in the wilderness mighty and experienced warriors... whose faces were like the faces of lions and who were swift as gazelles upon the mountains."
+    },
+    {
+      "text": "Amasai, chief of the 'Thirty' (or captains), spoke under the Spirit when pledging allegiance to David. What was his key affirmation?",
+      "options": ["'We are yours, O David, and with you!'", "'Long live the king!'", "'Saul is dead, David is king!'", "'Lead us into battle!'"],
+      "correctAnswerIndex": 0,
+      "book": "1 Chronicles",
+      "difficulty": "Hard",
+      "verseReference": "1 Chronicles 12:18",
+      "verseText": "Then the Spirit clothed Amasai, chief of the thirty, and he said, 'We are yours, O David, and with you, O son of Jesse! Peace, peace to you, and peace to your helpers! For your God helps you.' Then David received them..."
+    },
+    {
+      "text": "Which tribe provided the largest contingent of soldiers (120,000) when David was made king at Hebron?",
+      "options": ["Judah", "Simeon", "The Transjordan tribes (Reuben, Gad, Manasseh)", "Ephraim"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Hard",
+      "verseReference": "1 Chronicles 12:37",
+      "verseText": "And from the other side of the Jordan, of the Reubenites and Gadites and the half-tribe of Manasseh, 120,000, armed with all the weapons of war."
+    },
+    {
+      "text": "The men of which tribe were noted for 'understanding the times, to know what Israel ought to do'?",
+      "options": ["Zebulun", "Naphtali", "Issachar", "Asher"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Hard",
+      "verseReference": "1 Chronicles 12:32",
+      "verseText": "Of Issachar, men who had understanding of the times, to know what Israel ought to do, 200 chiefs, and all their kinsmen under their command."
+    },
+    {
+      "text": "What objects did David and Israel burn after the Philistines abandoned them following their defeat at Baal-perazim?",
+      "options": ["Their chariots", "Their weapons", "Their gods (idols)", "Their food supplies"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Hard",
+      "verseReference": "1 Chronicles 14:12",
+      "verseText": "And they left their gods there, and David commanded them to be burned."
+    },
+    {
+      "text": "Which two specific Levites were designated as the chief priests before the Ark in Jerusalem and the Tabernacle at Gibeon, respectively?",
+      "options": ["Asaph and Heman", "Obed-edom and Jehiel", "Abiathar and Zadok", "No distinction was made"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Hard",
+      "verseReference": "1 Chronicles 16:37, 39",
+      "verseText": "So David left Asaph and his brothers there before the ark... to minister regularly... And he left Zadok the priest and his brothers the priests before the tabernacle of the LORD in the high place that was at Gibeon..."
+    },
+    {
+      "text": "David's census was incited by 'Satan' in 1 Chronicles 21. How does the parallel account in 2 Samuel 24 describe the source of the incitement?",
+      "options": ["David's own pride", "Joab", "The anger of the LORD", "The Philistines"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Hard",
+      "verseReference": "1 Chronicles 21:1 (cf. 2 Samuel 24:1)",
+      "verseText": "Then Satan stood against Israel and incited David to number Israel. (2 Sam 24:1 says 'Again the anger of the LORD was kindled against Israel, and he incited David against them, saying, Go, number Israel and Judah.')"
+    },
+    {
+      "text": "How many shekels of gold did David pay Ornan for the threshing floor site (not just the oxen/wheat for the immediate sacrifice)?",
+      "options": ["50 shekels of silver", "50 shekels of gold", "600 shekels of gold", "100 talents of silver"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Hard",
+      "verseReference": "1 Chronicles 21:25",
+      "verseText": "So David paid Ornan 600 shekels of gold by weight for the site. (Note: 2 Sam 24:24 mentions 50 shekels of silver, often thought to be for the oxen and threshing floor implements only, while 1 Chron gives the price for the entire site.)"
+    },
+    {
+      "text": "Where was the Tabernacle of Moses and the altar of burnt offering located during the latter part of David's reign, preventing David from inquiring there after the census?",
+      "options": ["Jerusalem", "Shiloh", "Hebron", "Gibeon"],
+      "correctAnswerIndex": 3,
+      "book": "1 Chronicles",
+      "difficulty": "Hard",
+      "verseReference": "1 Chronicles 21:29",
+      "verseText": "For the tabernacle of the LORD, which Moses had made in the wilderness, and the altar of burnt offering were at that time in the high place at Gibeon."
+    },
+    {
+      "text": "Chenaniah, chief of the Levites, was skillful in what specific area related to the Ark's transport?",
+      "options": ["Engraving", "Playing the harp", "Singing/music direction ('lifting up the voice')", "Logistics/carrying"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Hard",
+      "verseReference": "1 Chronicles 15:22",
+      "verseText": "Chenaniah, chief of the Levites, was in charge of lifting up the voice (or singing/transport); he instructed about the lifting up the voice because he was skillful."
+    },
+    {
+      "text": "Shelomoth and his brothers, descendants of Moses through Eliezer, had charge over what specific items?",
+      "options": ["The priestly garments", "The musical instruments", "All the dedicated gifts consecrated by David and his commanders", "The Urim and Thummim"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Hard",
+      "verseReference": "1 Chronicles 26:25-26",
+      "verseText": "His brothers: from Eliezer were his son Rehabiah... Shelomoth and his brothers were in charge of all the treasuries of the dedicated gifts that David the king... had dedicated."
+    },
+    {
+      "text": "Which two Levites were appointed as officers and judges 'for all the work of the LORD and for the service of the king' west of the Jordan?",
+      "options": ["Asaph and Jeduthun", "Hashabiah and his brothers (1,700 men of valor)", "Kenaniah and his sons", "Zadok and Abiathar"],
+      "correctAnswerIndex": 1,
+      "book": "1 Chronicles",
+      "difficulty": "Hard",
+      "verseReference": "1 Chronicles 26:30",
+      "verseText": "Of the Hebronites, Hashabiah and his brothers, 1,700 men of valor, had the oversight of Israel westward of the Jordan for all the work of the LORD and for the service of the king."
+    },
+    {
+      "text": "Jerijah, a descendant of Hebron, was found to be chief of the Hebronites according to genealogies in which specific year of David's reign?",
+      "options": ["1st year", "10th year", "20th year", "40th year"],
+      "correctAnswerIndex": 3,
+      "book": "1 Chronicles",
+      "difficulty": "Hard",
+      "verseReference": "1 Chronicles 26:31",
+      "verseText": "Of the Hebronites, Jerijah was the chief... In the fortieth year of the reign of David they were sought out, and mighty men of valor were found among them at Jazer in Gilead."
+    },
+    {
+      "text": "Who was over the king's treasures (not the temple's)?",
+      "options": ["Jehiel the Gershonite", "Shebuel son of Gershom", "Azmaveth son of Adiel", "Obed-edom the Gittite"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Hard",
+      "verseReference": "1 Chronicles 27:25",
+      "verseText": "Over the king's treasuries was Azmaveth the son of Adiel..."
+    },
+    {
+      "text": "Who was David's seer (prophet)?",
+      "options": ["Nathan", "Samuel", "Gad", "Asaph"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Hard",
+      "verseReference": "1 Chronicles 21:9",
+      "verseText": "And the LORD spoke to Gad, David's seer, saying..."
+    },
+    {
+      "text": "Who was David's 'friend' or chief advisor listed after Ahithophel?",
+      "options": ["Jonathan", "Joab", "Benaiah", "Hushai the Archite"],
+      "correctAnswerIndex": 3,
+      "book": "1 Chronicles",
+      "difficulty": "Hard",
+      "verseReference": "1 Chronicles 27:33",
+      "verseText": "Ahithophel was the king's counselor, and Hushai the Archite was the king's friend."
+    },
+    {
+      "text": "How many talents of gold did the leaders of Israel (princes, commanders, officials) contribute for the work of the Temple?",
+      "options": ["1,000", "5,000", "10,000", "100,000"],
+      "correctAnswerIndex": 1,
+      "book": "1 Chronicles",
+      "difficulty": "Hard",
+      "verseReference": "1 Chronicles 29:6-7",
+      "verseText": "Then the leaders of fathers' houses made their freewill offerings... They gave for the service of the house of God 5,000 talents... of gold, 10,000 talents of silver..."
+    },
+    {
+      "text": "Who is listed as the father of Saul, the first king?",
+      "options": ["Ner", "Abiel", "Kish", "Aphiah"],
+      "correctAnswerIndex": 2,
+      "book": "1 Chronicles",
+      "difficulty": "Hard",
+      "verseReference": "1 Chronicles 8:33 (and 9:39)",
+      "verseText": "Ner fathered Kish, Kish fathered Saul, Saul fathered Jonathan..."
+    },
+    {
+      "text": "Which son of Saul survived and had descendants listed in the Benjaminite genealogy?",
+      "options": ["Ish-bosheth", "Abinadab", "Malchi-shua", "Jonathan (through Mephibosheth)"],
+      "correctAnswerIndex": 3,
+      "book": "1 Chronicles",
+      "difficulty": "Hard",
+      "verseReference": "1 Chronicles 8:34 (and 9:40)",
+      "verseText": "The son of Jonathan was Merib-baal (Mephibosheth); and Merib-baal fathered Micah."
+    },
+    {
+      "text": "The genealogies in chapter 9 list the first inhabitants returning to Jerusalem after the exile primarily from which tribes?",
+      "options": ["Judah, Benjamin, Levi, Ephraim, Manasseh", "Judah, Simeon, Reuben, Gad", "Only Judah and Benjamin", "All twelve tribes proportionally"],
+      "correctAnswerIndex": 0,
+      "book": "1 Chronicles",
+      "difficulty": "Hard",
+      "verseReference": "1 Chronicles 9:1-3",
+      "verseText": "So all Israel was enrolled by genealogies... And the first to dwell again in their property in their cities were Israel, the priests, the Levites, and the temple servants. And some of the people of Judah, Benjamin, Ephraim, and Manasseh lived in Jerusalem."
+    },
+    {
+      "text": "What specific duty was assigned to the Kohathite Levites Mattithiah, Shallum, and their brothers regarding the Temple offerings?",
+      "options": ["Singing the morning psalm", "Preparing the bread of the Presence (showbread)", "Mixing the holy incense", "Guarding the Most Holy Place"],
+      "correctAnswerIndex": 1,
+      "book": "1 Chronicles",
+      "difficulty": "Hard",
+      "verseReference": "1 Chronicles 9:31-32",
+      "verseText": "Mattithiah, one of the Levites, the firstborn of Shallum the Korahite, was entrusted with the baking of the flat cakes. Also some of their brothers of the Kohathites had charge of the rows of bread (showbread) to prepare them every Sabbath."
+    },
+    {
+      "text": "What was the name of Joab's armor-bearer who is also listed among David's mighty men?",
+      "options": ["Nahari the Beerothite", "Asahel", "Zelek the Ammonite", "Ira the Ithrite"],
+      "correctAnswerIndex": 0,
+      "book": "1 Chronicles",
+      "difficulty": "Hard",
+      "verseReference": "1 Chronicles 11:39",
+      "verseText": "Zelek the Ammonite, Naharai the Beerothite, the armor-bearer of Joab the son of Zeruiah,"
     }
-]
-    
-
-    
+  ]

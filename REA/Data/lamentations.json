@@ -1,0 +1,92 @@
+[
+  {
+    "text": "The Book of Lamentations mourns the destruction of which city?",
+    "options": ["Babylon", "Nineveh", "Jerusalem", "Samaria"],
+    "correctAnswerIndex": 2,
+    "book": "Lamentations",
+    "difficulty": "Easy",
+    "verseReference": "Lamentations 1:1",
+    "verseText": "How lonely sits the city that was full of people! How like a widow has she become, she who was great among the nations! She who was a princess among the provinces has become a slave."
+  },
+  {
+    "text": "Who is traditionally considered the author of Lamentations?",
+    "options": ["Isaiah", "Ezekiel", "Daniel", "Jeremiah"],
+    "correctAnswerIndex": 3,
+    "book": "Lamentations",
+    "difficulty": "Easy",
+    "verseReference": "(Traditional Attribution)",
+    "verseText": "(Based on tradition linking the weeping prophet Jeremiah to the content and timing of Lamentations)"
+  },
+  {
+    "text": "What literary structure is used in the first four chapters of Lamentations?",
+    "options": ["Sonnet form", "Acrostic poems based on the Hebrew alphabet", "Rhyming couplets", "Free verse"],
+    "correctAnswerIndex": 1,
+    "book": "Lamentations",
+    "difficulty": "Medium",
+    "verseReference": "Lamentations (Chapters 1-4 Structure)",
+    "verseText": "(Describes the structure where verses or groups of verses begin with successive letters of the Hebrew alphabet)"
+  },
+  {
+    "text": "Lamentations primarily expresses feelings of...",
+    "options": ["Joy and celebration", "Anger and revenge", "Grief, sorrow, and repentance", "Hope and victory"],
+    "correctAnswerIndex": 2,
+    "book": "Lamentations",
+    "difficulty": "Easy",
+    "verseReference": "Lamentations (Overall Theme)",
+    "verseText": "(Reflects the book's focus on mourning the fall of Jerusalem and the resulting suffering)"
+  },
+  {
+    "text": "In Lamentations 3, amidst deep despair, the author recalls what truth that gives him hope?",
+    "options": ["God's anger lasts forever", "His enemies will soon be destroyed", "The steadfast love and mercies of the LORD never cease", "He will soon be rescued"],
+    "correctAnswerIndex": 2,
+    "book": "Lamentations",
+    "difficulty": "Medium",
+    "verseReference": "Lamentations 3:21-23",
+    "verseText": "But this I call to mind, and therefore I have hope: The steadfast love of the LORD never ceases; his mercies never come to an end; they are new every morning; great is your faithfulness."
+  },
+  {
+    "text": "What phrase is repeated in Lamentations 3:22-23, emphasizing God's reliability?",
+    "options": ["'His anger is fierce'", "'Vengeance is mine'", "'Great is your faithfulness'", "'Judgment is coming'"],
+    "correctAnswerIndex": 2,
+    "book": "Lamentations",
+    "difficulty": "Easy",
+    "verseReference": "Lamentations 3:23",
+    "verseText": "they are new every morning; great is your faithfulness."
+  },
+  {
+    "text": "According to Lamentations 3:33, God does not willingly do what?",
+    "options": ["Bless His people", "Afflict or grieve the children of men", "Hear prayers", "Show mercy"],
+    "correctAnswerIndex": 1,
+    "book": "Lamentations",
+    "difficulty": "Medium",
+    "verseReference": "Lamentations 3:33",
+    "verseText": "For he does not afflict from his heart or grieve the children of men."
+  },
+  {
+    "text": "What physical suffering is described vividly in Lamentations, resulting from the siege?",
+    "options": ["Excessive wealth", "Constant feasting", "Extreme famine and starvation", "Peaceful sleep"],
+    "correctAnswerIndex": 2,
+    "book": "Lamentations",
+    "difficulty": "Easy",
+    "verseReference": "Lamentations 2:11-12, 4:4",
+    "verseText": "(Examples: 'My eyes are spent with weeping... because children and infants faint in the streets of the city'; 'The tongue of the nursing infant sticks to the roof of its mouth for thirst; the children beg for bread, but no one gives to them.')"
+  },
+  {
+    "text": "Chapter 5 of Lamentations takes the form of a...",
+    "options": ["Victory song", "Royal decree", "Community prayer or plea", "Historical narrative"],
+    "correctAnswerIndex": 2,
+    "book": "Lamentations",
+    "difficulty": "Medium",
+    "verseReference": "Lamentations 5",
+    "verseText": "(Describes the chapter as a collective appeal to God, starting 'Remember, O LORD, what has befallen us; look, and see our disgrace!')"
+  },
+  {
+    "text": "How does the book of Lamentations end?",
+    "options": ["With a promise of immediate restoration", "With a curse on Babylon", "With a question asking if God has utterly rejected them", "With a celebration"],
+    "correctAnswerIndex": 2,
+    "book": "Lamentations",
+    "difficulty": "Medium",
+    "verseReference": "Lamentations 5:22",
+    "verseText": "unless you have utterly rejected us, and you remain exceedingly angry with us."
+  }
+]

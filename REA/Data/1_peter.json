@@ -1,0 +1,92 @@
+[
+  {
+    "text": "Who is the author of the first Epistle of Peter?",
+    "options": ["John", "Paul", "Peter", "James"],
+    "correctAnswerIndex": 2,
+    "book": "1 Peter",
+    "difficulty": "Easy",
+    "verseReference": "1 Peter 1:1",
+    "verseText": "Peter, an apostle of Jesus Christ, To those who are elect exiles of the Dispersion in Pontus, Galatia, Cappadocia, Asia, and Bithynia,"
+  },
+  {
+    "text": "A major theme in 1 Peter is how believers should respond to what?",
+    "options": ["Prosperity", "Suffering and persecution", "Political power", "False teaching"],
+    "correctAnswerIndex": 1,
+    "book": "1 Peter",
+    "difficulty": "Easy",
+    "verseReference": "1 Peter 1:6-7, 2:19-21, 3:14, 4:12-13",
+    "verseText": "In this you rejoice, though now for a little while, if necessary, you have been grieved by various trials... For this is a gracious thing, when, mindful of God, one endures sorrows while suffering unjustly... But even if you should suffer for righteousness' sake, you will be blessed... Beloved, do not be surprised at the fiery trial when it comes upon you to test you..."
+  },
+  {
+    "text": "1 Peter 1 describes the believer's inheritance as what?",
+    "options": ["Earthly wealth", "Temporary and fading", "Imperishable, undefiled, and unfading, kept in heaven", "Dependent on works"],
+    "correctAnswerIndex": 2,
+    "book": "1 Peter",
+    "difficulty": "Medium",
+    "verseReference": "1 Peter 1:4",
+    "verseText": "to an inheritance that is imperishable, undefiled, and unfading, kept in heaven for you,"
+  },
+  {
+    "text": "What command does Peter give in 1 Peter 1:15-16, quoting Leviticus?",
+    "options": ["'Love your neighbor'", "'Be fruitful and multiply'", "'Be holy, for I am holy'", "'Honor your father and mother'"],
+    "correctAnswerIndex": 2,
+    "book": "1 Peter",
+    "difficulty": "Easy",
+    "verseReference": "1 Peter 1:15-16",
+    "verseText": "but as he who called you is holy, you also be holy in all your conduct, since it is written, “You shall be holy, for I am holy.”"
+  },
+  {
+    "text": "In 1 Peter 2, believers are described using what titles?",
+    "options": ["Outcasts and rebels", "A chosen race, a royal priesthood, a holy nation, a people for his own possession", "Masters and rulers", "Servants of sin"],
+    "correctAnswerIndex": 1,
+    "book": "1 Peter",
+    "difficulty": "Medium",
+    "verseReference": "1 Peter 2:9",
+    "verseText": "But you are a chosen race, a royal priesthood, a holy nation, a people for his own possession, that you may proclaim the excellencies of him who called you out of darkness into his marvelous light."
+  },
+  {
+    "text": "How does Peter instruct believers to relate to governing authorities (1 Peter 2)?",
+    "options": ["Rebel against them", "Ignore them", "Be subject for the Lord's sake to every human institution", "Try to overthrow them"],
+    "correctAnswerIndex": 2,
+    "book": "1 Peter",
+    "difficulty": "Medium",
+    "verseReference": "1 Peter 2:13-14",
+    "verseText": "Be subject for the Lord's sake to every human institution, whether it be to the emperor as supreme, or to governors as sent by him to punish those who do evil and to praise those who do good."
+  },
+  {
+    "text": "1 Peter 3 provides instructions for wives and husbands. What example is given for wives regarding submission and conduct?",
+    "options": ["Jezebel", "Esther", "Holy women of the past, like Sarah", "Eve"],
+    "correctAnswerIndex": 2,
+    "book": "1 Peter",
+    "difficulty": "Medium",
+    "verseReference": "1 Peter 3:1, 5-6",
+    "verseText": "Likewise, wives, be subject to your own husbands... For this is how the holy women who hoped in God used to adorn themselves, by submitting to their own husbands, as Sarah obeyed Abraham, calling him lord."
+  },
+  {
+    "text": "What should be the believer's response when asked about the hope that is in them (1 Peter 3)?",
+    "options": ["Refuse to answer", "Become defensive", "Always be prepared to make a defense with gentleness and respect", "Argue aggressively"],
+    "correctAnswerIndex": 2,
+    "book": "1 Peter",
+    "difficulty": "Easy",
+    "verseReference": "1 Peter 3:15",
+    "verseText": "but in your hearts honor Christ the Lord as holy, always being prepared to make a defense to anyone who asks you for a reason for the hope that is in you; yet do it with gentleness and respect,"
+  },
+  {
+    "text": "According to 1 Peter 4, since Christ suffered in the flesh, believers should arm themselves with what same way of thinking?",
+    "options": ["Seeking revenge", "Avoiding all suffering", "Being finished with sin", "Pursuing pleasure"],
+    "correctAnswerIndex": 2,
+    "book": "1 Peter",
+    "difficulty": "Medium",
+    "verseReference": "1 Peter 4:1",
+    "verseText": "Since therefore Christ suffered in the flesh, arm yourselves with the same way of thinking, for whoever has suffered in the flesh has ceased from sin,"
+  },
+  {
+    "text": "Who does Peter warn believers about in 1 Peter 5, describing him as a 'roaring lion'?",
+    "options": ["The Roman Emperor", "False apostles", "The devil", "Corrupt priests"],
+    "correctAnswerIndex": 2,
+    "book": "1 Peter",
+    "difficulty": "Easy",
+    "verseReference": "1 Peter 5:8",
+    "verseText": "Be sober-minded; be watchful. Your adversary the devil prowls around like a roaring lion, seeking someone to devour."
+  }
+]

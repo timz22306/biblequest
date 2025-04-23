@@ -1,0 +1,92 @@
+[
+  {
+    "text": "Who identifies himself as the author of 3 John?",
+    "options": ["James", "The elder", "Paul", "Peter"],
+    "correctAnswerIndex": 1,
+    "book": "3 John",
+    "difficulty": "Easy",
+    "verseReference": "3 John 1",
+    "verseText": "The elder to the beloved Gaius, whom I love in truth."
+  },
+  {
+    "text": "To whom is the letter of 3 John primarily addressed?",
+    "options": ["Diotrephes", "Demetrius", "Gaius", "'The elect lady'"],
+    "correctAnswerIndex": 2,
+    "book": "3 John",
+    "difficulty": "Easy",
+    "verseReference": "3 John 1",
+    "verseText": "The elder to the beloved Gaius, whom I love in truth."
+  },
+  {
+    "text": "What does John commend Gaius for?",
+    "options": ["His wealth", "His speaking ability", "His faithfulness and hospitality to fellow Christians, especially traveling missionaries", "His political influence"],
+    "correctAnswerIndex": 2,
+    "book": "3 John",
+    "difficulty": "Medium",
+    "verseReference": "3 John 3, 5-6",
+    "verseText": "For I rejoiced greatly when the brothers came and testified to your truth, as indeed you are walking in the truth... Beloved, it is a faithful thing you do in all your efforts for these brothers, strangers as they are, who testified to your love before the church."
+  },
+  {
+    "text": "What brings John 'no greater joy' than this?",
+    "options": ["Seeing churches grow large", "Hearing that his children are walking in the truth", "Receiving gifts", "Performing miracles"],
+    "correctAnswerIndex": 1,
+    "book": "3 John",
+    "difficulty": "Easy",
+    "verseReference": "3 John 4",
+    "verseText": "I have no greater joy than to hear that my children are walking in the truth."
+  },
+  {
+    "text": "Who does John condemn in the letter for loving to be first and refusing to welcome the brothers?",
+    "options": ["Gaius", "Demetrius", "Diotrephes", "Paul"],
+    "correctAnswerIndex": 2,
+    "book": "3 John",
+    "difficulty": "Medium",
+    "verseReference": "3 John 9",
+    "verseText": "I have written something to the church, but Diotrephes, who likes to put himself first, does not acknowledge our authority."
+  },
+  {
+    "text": "What specific actions did Diotrephes take against John and other believers?",
+    "options": ["He praised them publicly", "He sent them money", "He spoke wicked nonsense against John, refused to welcome brothers, and put others out of the church", "He started a rival church"],
+    "correctAnswerIndex": 2,
+    "book": "3 John",
+    "difficulty": "Medium",
+    "verseReference": "3 John 10",
+    "verseText": "So if I come, I will bring up what he is doing, talking wicked nonsense against us. And not content with that, he refuses to welcome the brothers, and also stops those who want to and puts them out of the church."
+  },
+  {
+    "text": "What instruction does John give Gaius regarding good and evil?",
+    "options": ["Imitate both good and evil", "Do not imitate evil, but imitate good", "Focus only on good, ignore evil", "Define good and evil for yourself"],
+    "correctAnswerIndex": 1,
+    "book": "3 John",
+    "difficulty": "Easy",
+    "verseReference": "3 John 11",
+    "verseText": "Beloved, do not imitate evil but imitate good. Whoever does good is from God; whoever does evil has not seen God."
+  },
+  {
+    "text": "Who does John commend as having a good testimony from everyone and from the truth itself?",
+    "options": ["Diotrephes", "Gaius", "Demetrius", "Himself"],
+    "correctAnswerIndex": 2,
+    "book": "3 John",
+    "difficulty": "Medium",
+    "verseReference": "3 John 12",
+    "verseText": "Demetrius has received a good testimony from everyone, and from the truth itself. We also add our testimony, and you know that our testimony is true."
+  },
+  {
+    "text": "Similar to 2 John, how does the author of 3 John express his desire for further communication?",
+    "options": ["He will send another letter soon", "He hopes to see Gaius soon and speak face to face", "He will send Timothy", "He expects Gaius to visit him"],
+    "correctAnswerIndex": 1,
+    "book": "3 John",
+    "difficulty": "Easy",
+    "verseReference": "3 John 13-14",
+    "verseText": "I had much to write to you, but I would rather not write with pen and ink. I hope to see you soon, and we will talk face to face."
+  },
+  {
+    "text": "3 John contrasts the behavior of Gaius (hospitality, supporting truth) with that of Diotrephes (pride, opposing apostolic authority), highlighting the importance of supporting whom?",
+    "options": ["Only local leaders", "Those who faithfully serve and travel for the sake of the Name", "Only those who agree on every detail", "Government officials"],
+    "correctAnswerIndex": 1,
+    "book": "3 John",
+    "difficulty": "Medium",
+    "verseReference": "3 John 5-8",
+    "verseText": "Beloved, it is a faithful thing you do in all your efforts for these brothers, strangers as they are... Therefore we ought to support people like these, that we may be fellow workers for the truth."
+  }
+]

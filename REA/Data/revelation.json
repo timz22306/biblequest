@@ -1,0 +1,92 @@
+[
+  {
+    "text": "Who is the human author of the Book of Revelation?",
+    "options": ["Peter", "Paul", "John", "James"],
+    "correctAnswerIndex": 2,
+    "book": "Revelation",
+    "difficulty": "Easy",
+    "verseReference": "Revelation 1:1, 4, 9",
+    "verseText": "The revelation of Jesus Christ, which God gave him to show to his servants... John to the seven churches that are in Asia... I, John, your brother and partner in the tribulation..."
+  },
+  {
+    "text": "Where was John when he received the visions recorded in Revelation?",
+    "options": ["Jerusalem", "Rome", "The island of Patmos", "Ephesus"],
+    "correctAnswerIndex": 2,
+    "book": "Revelation",
+    "difficulty": "Easy",
+    "verseReference": "Revelation 1:9",
+    "verseText": "I, John, your brother and partner in the tribulation and the kingdom and the patient endurance that are in Jesus, was on the island called Patmos on account of the word of God and the testimony of Jesus."
+  },
+  {
+    "text": "Revelation belongs to a genre of literature characterized by symbolic visions and prophecies about the end times, known as what?",
+    "options": ["Historical Narrative", "Wisdom Literature", "Apocalyptic Literature", "Epistle"],
+    "correctAnswerIndex": 2,
+    "book": "Revelation",
+    "difficulty": "Medium",
+    "verseReference": "N/A (Genre)",
+    "verseText": "(Revelation uses vivid imagery, symbolism, and prophecy typical of apocalyptic writings to reveal God's ultimate triumph over evil)."
+  },
+  {
+    "text": "Chapters 2 and 3 of Revelation contain letters addressed to whom?",
+    "options": ["The twelve apostles", "The Roman Emperor", "Seven churches in Asia Minor", "Believers scattered everywhere"],
+    "correctAnswerIndex": 2,
+    "book": "Revelation",
+    "difficulty": "Easy",
+    "verseReference": "Revelation 1:11, 2:1, 8, 12, 18; 3:1, 7, 14",
+    "verseText": "“Write what you see in a book and send it to the seven churches, to Ephesus and to Smyrna and to Pergamum and to Thyatira and to Sardis and to Philadelphia and to Laodicea.”"
+  },
+  {
+    "text": "In John's vision in Revelation 4-5, who is found worthy to open the scroll with seven seals?",
+    "options": ["An angel", "One of the elders", "The Lamb who was slain (Jesus Christ)", "John himself"],
+    "correctAnswerIndex": 2,
+    "book": "Revelation",
+    "difficulty": "Easy",
+    "verseReference": "Revelation 5:5-7, 9",
+    "verseText": "And one of the elders said to me, “Weep no more; behold, the Lion of the tribe of Judah, the Root of David, has conquered, so that he can open the scroll and its seven seals.” And between the throne and the four living creatures and among the elders I saw a Lamb standing, as though it had been slain... And he went and took the scroll from the right hand of him who was seated on the throne... “Worthy are you to take the scroll and to open its seals, for you were slain...”"
+  },
+  {
+    "text": "The opening of the seven seals, the sounding of the seven trumpets, and the pouring out of the seven bowls represent what?",
+    "options": ["Blessings on the church", "Periods of peace", "Series of divine judgments upon the earth", "Calls to worship"],
+    "correctAnswerIndex": 2,
+    "book": "Revelation",
+    "difficulty": "Medium",
+    "verseReference": "Revelation 6, 8-9, 16",
+    "verseText": "(These three series of seven depict escalating judgments poured out as God deals with sin and rebellion)."
+  },
+  {
+    "text": "Who is the 'dragon' described in Revelation 12, who opposes the woman and her child?",
+    "options": ["The Roman Empire", "Herod", "Satan (the devil)", "A literal dragon"],
+    "correctAnswerIndex": 2,
+    "book": "Revelation",
+    "difficulty": "Medium",
+    "verseReference": "Revelation 12:3, 9",
+    "verseText": "And another sign appeared in heaven: behold, a great red dragon... And the great dragon was thrown down, that ancient serpent, who is called the devil and Satan, the deceiver of the whole world..."
+  },
+  {
+    "text": "What symbolic name is given to the corrupt world system, depicted as a harlot city allied with the beast (Revelation 17-18)?",
+    "options": ["Jerusalem", "Rome", "Babylon the Great", "Nineveh"],
+    "correctAnswerIndex": 2,
+    "book": "Revelation",
+    "difficulty": "Medium",
+    "verseReference": "Revelation 17:5, 18:2",
+    "verseText": "And on her forehead was written a name of mystery: “Babylon the great, mother of prostitutes and of earth's abominations.”... Fallen, fallen is Babylon the great!"
+  },
+  {
+    "text": "Revelation 19 describes the return of Christ. How is He depicted?",
+    "options": ["As a humble shepherd", "As a suffering servant", "As a victorious warrior King ('King of kings and Lord of lords') riding a white horse", "As a baby in a manger"],
+    "correctAnswerIndex": 2,
+    "book": "Revelation",
+    "difficulty": "Medium",
+    "verseReference": "Revelation 19:11, 16",
+    "verseText": "Then I saw heaven opened, and behold, a white horse! The one sitting on it is called Faithful and True, and in righteousness he judges and makes war... On his robe and on his thigh he has a name written, King of kings and Lord of lords."
+  },
+  {
+    "text": "What does Revelation 21-22 describe as the ultimate destiny for believers?",
+    "options": ["Annihilation", "An eternal spiritual existence without bodies", "A new heaven and a new earth, with the New Jerusalem where God dwells with His people", "Reincarnation"],
+    "correctAnswerIndex": 2,
+    "book": "Revelation",
+    "difficulty": "Easy",
+    "verseReference": "Revelation 21:1-3",
+    "verseText": "Then I saw a new heaven and a new earth, for the first heaven and the first earth had passed away... And I saw the holy city, new Jerusalem, coming down out of heaven from God... And I heard a loud voice from the throne saying, “Behold, the dwelling place of God is with man. He will dwell with them, and they will be his people, and God himself will be with them as their God.”"
+  }
+]

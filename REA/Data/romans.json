@@ -1,0 +1,92 @@
+[
+  {
+    "text": "Who is the author of the Book of Romans?",
+    "options": ["Peter", "John", "Paul", "James"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Easy",
+    "verseReference": "Romans 1:1",
+    "verseText": "Paul, a servant of Christ Jesus, called to be an apostle, set apart for the gospel of God,"
+  },
+  {
+    "text": "What is the central theme of Romans?",
+    "options": ["The history of Israel", "The end times", "The gospel of God's righteousness revealed through faith in Jesus Christ", "Instructions for church leadership"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Easy",
+    "verseReference": "Romans 1:16-17",
+    "verseText": "For I am not ashamed of the gospel, for it is the power of God for salvation to everyone who believes, to the Jew first and also to the Greek. For in it the righteousness of God is revealed from faith for faith, as it is written, “The righteous shall live by faith.”"
+  },
+  {
+    "text": "According to Romans 3:23, who has sinned and fallen short of the glory of God?",
+    "options": ["Only the Gentiles", "Only the Jews", "Only the worst sinners", "All people"],
+    "correctAnswerIndex": 3,
+    "book": "Romans",
+    "difficulty": "Easy",
+    "verseReference": "Romans 3:23",
+    "verseText": "for all have sinned and fall short of the glory of God,"
+  },
+  {
+    "text": "Romans 5:1 states that since we have been justified by faith, we have what with God?",
+    "options": ["Fear", "Uncertainty", "Peace", "Conflict"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Easy",
+    "verseReference": "Romans 5:1",
+    "verseText": "Therefore, since we have been justified by faith, we have peace with God through our Lord Jesus Christ."
+  },
+  {
+    "text": "What concept does Paul explain in Romans 6, emphasizing freedom from sin's dominion?",
+    "options": ["Justification by works", "Predestination", "Baptism into Christ's death and resurrection", "The gift of prophecy"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 6:3-4, 11",
+    "verseText": "Do you not know that all of us who have been baptized into Christ Jesus were baptized into his death? We were buried therefore with him by baptism into death, in order that, just as Christ was raised from the dead by the glory of the Father, we too might walk in newness of life... So you also must consider yourselves dead to sin and alive to God in Christ Jesus."
+  },
+  {
+    "text": "Romans 8:1 declares that there is now no what for those who are in Christ Jesus?",
+    "options": ["Suffering", "Temptation", "Condemnation", "Wealth"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Easy",
+    "verseReference": "Romans 8:1",
+    "verseText": "There is therefore now no condemnation for those who are in Christ Jesus."
+  },
+  {
+    "text": "What famous passage in Romans 8 assures believers that nothing can separate them from God's love?",
+    "options": ["Romans 8:1-4", "Romans 8:18-25", "Romans 8:28", "Romans 8:38-39"],
+    "correctAnswerIndex": 3,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 8:38-39",
+    "verseText": "For I am sure that neither death nor life, nor angels nor rulers, nor things present nor things to come, nor powers, nor height nor depth, nor anything else in all creation, will be able to separate us from the love of God in Christ Jesus our Lord."
+  },
+  {
+    "text": "In Romans 9-11, Paul discusses the complex relationship between God's plan and whom?",
+    "options": ["The Roman Empire", "The Gentile believers", "The nation of Israel", "The angelic hosts"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 9:4-5, 11:1, 11:25-26",
+    "verseText": "(These chapters explore God's sovereignty, Israel's unbelief, the inclusion of Gentiles, and God's ultimate saving purposes for Israel)."
+  },
+  {
+    "text": "Romans 12:1 urges believers to present their bodies as what?",
+    "options": ["Fit for battle", "A living sacrifice, holy and acceptable to God", "Objects of worship", "Tools for personal gain"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Easy",
+    "verseReference": "Romans 12:1",
+    "verseText": "I appeal to you therefore, brothers, by the mercies of God, to present your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual worship."
+  },
+  {
+    "text": "How does Paul instruct believers in Rome to relate to governing authorities (Romans 13)?",
+    "options": ["Rebel against them", "Ignore them", "Be subject to them, for they are instituted by God", "Overthrow them"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 13:1",
+    "verseText": "Let every person be subject to the governing authorities. For there is no authority except from God, and those that exist have been instituted by God."
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "text": "Ezekiel was a prophet to the Israelites during their exile in which empire?",
+    "options": ["Egypt", "Assyria", "Babylon", "Persia"],
+    "correctAnswerIndex": 2,
+    "book": "Ezekiel",
+    "difficulty": "Easy",
+    "verseReference": "Ezekiel 1:1-3",
+    "verseText": "In the thirtieth year, in the fourth month, on the fifth day of the month, as I was among the exiles by the Chebar canal, the heavens were opened... the word of the LORD came to Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the Chebar canal..."
+  },
+  {
+    "text": "What river was Ezekiel near when he received his first vision?",
+    "options": ["Jordan", "Nile", "Tigris", "Chebar Canal"],
+    "correctAnswerIndex": 3,
+    "book": "Ezekiel",
+    "difficulty": "Easy",
+    "verseReference": "Ezekiel 1:1",
+    "verseText": "as I was among the exiles by the Chebar canal, the heavens were opened, and I saw visions of God."
+  },
+  {
+    "text": "In Ezekiel's first vision (Chapter 1), what did the four living creatures resemble?",
+    "options": ["Angels with harps", "Serpents and dragons", "Creatures with faces of a man, lion, ox, and eagle", "Pillars of fire"],
+    "correctAnswerIndex": 2,
+    "book": "Ezekiel",
+    "difficulty": "Medium",
+    "verseReference": "Ezekiel 1:10",
+    "verseText": "As for the likeness of their faces, each had a human face. The four had the face of a lion on the right side, the four had the face of an ox on the left side, and the four had the face of an eagle."
+  },
+  {
+    "text": "What was Ezekiel commanded to eat in chapter 3, which tasted like honey?",
+    "options": ["Manna", "A scroll", "Locusts", "Bread"],
+    "correctAnswerIndex": 1,
+    "book": "Ezekiel",
+    "difficulty": "Easy",
+    "verseReference": "Ezekiel 3:1-3",
+    "verseText": "And he said to me, “Son of man, eat whatever you find here. Eat this scroll, and go, speak to the house of Israel.”... Then I ate it, and it was in my mouth as sweet as honey."
+  },
+  {
+    "text": "Ezekiel was appointed by God to be a __________ for the house of Israel.",
+    "options": ["King", "Priest", "Watchman", "Judge"],
+    "correctAnswerIndex": 2,
+    "book": "Ezekiel",
+    "difficulty": "Easy",
+    "verseReference": "Ezekiel 3:17",
+    "verseText": "“Son of man, I have made you a watchman for the house of Israel. Whenever you hear a word from my mouth, you shall give them warning from me."
+  },
+  {
+    "text": "What symbolic act did Ezekiel perform to represent the siege of Jerusalem?",
+    "options": ["He built a large fire", "He lay on his side for many days next to a model of the city", "He wore sackcloth and ashes", "He broke a potter's vessel"],
+    "correctAnswerIndex": 1,
+    "book": "Ezekiel",
+    "difficulty": "Medium",
+    "verseReference": "Ezekiel 4:1-6",
+    "verseText": "“And you, son of man, take a brick and lay it before you, and engrave on it a city, even Jerusalem... Lie on your left side, and place the punishment of the house of Israel upon it... Then, when you have completed these, you shall lie down a second time, but on your right side, and bear the punishment of the house of Judah."
+  },
+  {
+    "text": "What vision did Ezekiel see in chapter 37 involving bones?",
+    "options": ["Bones turning into gold", "A valley full of dry bones coming to life", "Bones being crushed by enemies", "A single bone speaking"],
+    "correctAnswerIndex": 1,
+    "book": "Ezekiel",
+    "difficulty": "Easy",
+    "verseReference": "Ezekiel 37:1-10",
+    "verseText": "The hand of the LORD was upon me, and he brought me out in the Spirit of the LORD and set me down in the middle of the valley; it was full of bones... and behold, there were sinews on them, and flesh had come upon them, and skin had covered them... and breath came into them, and they lived and stood on their feet, an exceedingly great army."
+  },
+  {
+    "text": "What did the vision of the dry bones represent?",
+    "options": ["The resurrection of the dead at the end of time", "The restoration of the whole house of Israel", "The power of Babylon", "The creation of Adam"],
+    "correctAnswerIndex": 1,
+    "book": "Ezekiel",
+    "difficulty": "Medium",
+    "verseReference": "Ezekiel 37:11",
+    "verseText": "Then he said to me, “Son of man, these bones are the whole house of Israel. Behold, they say, ‘Our bones are dried up, and our hope is lost; we are indeed cut off.’"
+  },
+  {
+    "text": "In the latter chapters (40-48), Ezekiel sees a detailed vision of what?",
+    "options": ["The fall of Babylon", "A new Temple and the restored land", "The creation of the world", "Heavenly chariots"],
+    "correctAnswerIndex": 1,
+    "book": "Ezekiel",
+    "difficulty": "Medium",
+    "verseReference": "Ezekiel 40-48 (Overview)",
+    "verseText": "(Describes the extensive vision of the future Temple, its measurements, ordinances, and the division of the land)"
+  },
+  {
+    "text": "What is the name of the city described at the very end of Ezekiel?",
+    "options": ["New Jerusalem", "The City of David", "Yahweh-Shammah (The LORD Is There)", "Zion"],
+    "correctAnswerIndex": 2,
+    "book": "Ezekiel",
+    "difficulty": "Medium",
+    "verseReference": "Ezekiel 48:35",
+    "verseText": "The circumference of the city shall be 18,000 cubits. And the name of the city from that time on shall be, The LORD Is There."
+  }
+]

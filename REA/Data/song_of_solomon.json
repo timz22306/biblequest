@@ -1,0 +1,92 @@
+[
+  {
+    "text": "The Song of Solomon is primarily interpreted as a dialogue expressing love between whom?",
+    "options": ["God and Israel", "Christ and the Church", "A bridegroom and his bride", "All of the above interpretations exist"],
+    "correctAnswerIndex": 3,
+    "book": "Song of Solomon",
+    "difficulty": "Easy",
+    "verseReference": "Song of Solomon (General)",
+    "verseText": "(Interpretive question about the nature of the book)"
+  },
+  {
+    "text": "Who is traditionally attributed as the author of the Song of Solomon?",
+    "options": ["David", "Solomon", "Moses", "An unknown poet"],
+    "correctAnswerIndex": 1,
+    "book": "Song of Solomon",
+    "difficulty": "Easy",
+    "verseReference": "Song of Solomon 1:1",
+    "verseText": "The Song of Songs, which is Solomon's."
+  },
+  {
+    "text": "In Song of Solomon 1:5, the woman describes herself as dark but...",
+    "options": ["Poor", "Lovely", "Wise", "Humble"],
+    "correctAnswerIndex": 1,
+    "book": "Song of Solomon",
+    "difficulty": "Medium",
+    "verseReference": "Song of Solomon 1:5",
+    "verseText": "I am very dark, but lovely, O daughters of Jerusalem, like the tents of Kedar, like the curtains of Solomon."
+  },
+  {
+    "text": "What does the beloved compare his lover's eyes to in Song of Solomon 1:15?",
+    "options": ["Stars", "Pools", "Doves", "Jewels"],
+    "correctAnswerIndex": 2,
+    "book": "Song of Solomon",
+    "difficulty": "Medium",
+    "verseReference": "Song of Solomon 1:15",
+    "verseText": "Behold, you are beautiful, my love; behold, you are beautiful; your eyes are doves."
+  },
+  {
+    "text": "In Song of Solomon 2:1, the woman compares herself to which flowers?",
+    "options": ["A rose of Sharon, a lily of the valleys", "A tulip of the field, a daisy of the hills", "A sunflower of the plains, an orchid of the mountains", "A violet of the garden, a poppy of the meadow"],
+    "correctAnswerIndex": 0,
+    "book": "Song of Solomon",
+    "difficulty": "Easy",
+    "verseReference": "Song of Solomon 2:1",
+    "verseText": "I am a rose of Sharon, a lily of the valleys."
+  },
+  {
+    "text": "What phrase is repeated, urging the 'daughters of Jerusalem' not to awaken love until it pleases?",
+    "options": ["'Love is patient, love is kind'", "'Do not stir up or awaken love until it pleases'", "'Set me as a seal upon your heart'", "'Many waters cannot quench love'"],
+    "correctAnswerIndex": 1,
+    "book": "Song of Solomon",
+    "difficulty": "Medium",
+    "verseReference": "Song of Solomon 2:7, 3:5, 8:4",
+    "verseText": "I adjure you, O daughters of Jerusalem, by the gazelles or the does of the field, that you not stir up or awaken love until it pleases."
+  },
+  {
+    "text": "In Song of Solomon 2:15, what are they asked to catch?",
+    "options": ["The birds that sing", "The deer on the mountains", "The little foxes that spoil the vineyards", "The fish in the streams"],
+    "correctAnswerIndex": 2,
+    "book": "Song of Solomon",
+    "difficulty": "Medium",
+    "verseReference": "Song of Solomon 2:15",
+    "verseText": "Catch the foxes for us, the little foxes that spoil the vineyards, for our vineyards are in blossom."
+  },
+  {
+    "text": "What declaration does the woman make about her beloved in Song of Solomon 2:16?",
+    "options": ["'My beloved is strong and mighty'", "'My beloved is wise and understanding'", "'My beloved is mine, and I am his'", "'My beloved is handsome and charming'"],
+    "correctAnswerIndex": 2,
+    "book": "Song of Solomon",
+    "difficulty": "Easy",
+    "verseReference": "Song of Solomon 2:16",
+    "verseText": "My beloved is mine, and I am his; he grazes among the lilies."
+  },
+  {
+    "text": "In Song of Solomon 8:6, the woman asks her beloved to set her as what upon his heart and arm?",
+    "options": ["A crown", "A jewel", "A seal", "A banner"],
+    "correctAnswerIndex": 2,
+    "book": "Song of Solomon",
+    "difficulty": "Medium",
+    "verseReference": "Song of Solomon 8:6",
+    "verseText": "Set me as a seal upon your heart, as a seal upon your arm, for love is strong as death, jealousy is fierce as the grave. Its flashes are flashes of fire, the very flame of the LORD."
+  },
+  {
+    "text": "According to Song of Solomon 8:7, what cannot quench love?",
+    "options": ["Time", "Distance", "Many waters", "Wealth"],
+    "correctAnswerIndex": 2,
+    "book": "Song of Solomon",
+    "difficulty": "Easy",
+    "verseReference": "Song of Solomon 8:7",
+    "verseText": "Many waters cannot quench love, neither can floods drown it. If a man offered for love all the wealth of his house, he would be utterly despised."
+  }
+]

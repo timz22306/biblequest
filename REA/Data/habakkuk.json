@@ -1,0 +1,92 @@
+[
+  {
+    "text": "The Book of Habakkuk is structured primarily as a dialogue between the prophet and whom?",
+    "options": ["The King of Judah", "The people of Israel", "God", "The prophet Jeremiah"],
+    "correctAnswerIndex": 2,
+    "book": "Habakkuk",
+    "difficulty": "Easy",
+    "verseReference": "Habakkuk 1:2, 1:12, 2:1",
+    "verseText": "(Structure involves Habakkuk's complaints/questions and God's replies)"
+  },
+  {
+    "text": "What is Habakkuk's first complaint to God in chapter 1?",
+    "options": ["Why God allows wickedness and injustice in Judah to go unpunished", "Why God chose Israel", "Why the Temple is corrupt", "Why there is a famine"],
+    "correctAnswerIndex": 0,
+    "book": "Habakkuk",
+    "difficulty": "Medium",
+    "verseReference": "Habakkuk 1:2-4",
+    "verseText": "O LORD, how long shall I cry for help, and you will not hear? Or cry to you “Violence!” and you will not save?... So the law is paralyzed, and justice never goes forth."
+  },
+  {
+    "text": "What nation does God say He is raising up to judge Judah, which troubles Habakkuk even more?",
+    "options": ["Egypt", "Assyria", "The Chaldeans (Babylonians)", "Persia"],
+    "correctAnswerIndex": 2,
+    "book": "Habakkuk",
+    "difficulty": "Easy",
+    "verseReference": "Habakkuk 1:6",
+    "verseText": "For behold, I am raising up the Chaldeans, that bitter and hasty nation, who march through the breadth of the earth, to seize dwellings not their own."
+  },
+  {
+    "text": "What is Habakkuk's second complaint or question to God?",
+    "options": ["Why God would use a wicked nation (Babylon) to judge His own people who are more righteous", "Why the judgment is taking so long", "Why God doesn't destroy Babylon immediately", "Why God doesn't give him more power"],
+    "correctAnswerIndex": 0,
+    "book": "Habakkuk",
+    "difficulty": "Medium",
+    "verseReference": "Habakkuk 1:13",
+    "verseText": "You who are of purer eyes than to see evil and cannot look at wrong, why do you idly look at traitors and remain silent when the wicked swallows up the man more righteous than he?"
+  },
+  {
+    "text": "In Habakkuk 2:4, what principle is stated regarding the righteous?",
+    "options": ["The righteous will conquer", "The righteous will be rich", "The righteous shall live by his faith/faithfulness", "The righteous will never suffer"],
+    "correctAnswerIndex": 2,
+    "book": "Habakkuk",
+    "difficulty": "Easy",
+    "verseReference": "Habakkuk 2:4",
+    "verseText": "“Behold, his soul is puffed up; it is not upright within him, but the righteous shall live by his faith."
+  },
+  {
+    "text": "Habakkuk 2 contains a series of 'Woes' against whom?",
+    "options": ["The priests of Judah", "The surrounding nations like Edom and Moab", "The unjust and idolatrous practices, likely embodied by Babylon", "The prophet himself"],
+    "correctAnswerIndex": 2,
+    "book": "Habakkuk",
+    "difficulty": "Medium",
+    "verseReference": "Habakkuk 2:6-20",
+    "verseText": "(Woes against extortion, unjust gain, bloodshed, making others drunk, and idolatry)"
+  },
+  {
+    "text": "What famous declaration about God's presence is made in Habakkuk 2:20?",
+    "options": ["'The LORD has forsaken His temple'", "'The LORD reigns from Babylon'", "'The LORD is in his holy temple; let all the earth keep silence before him'", "'The LORD fights for His people'"],
+    "correctAnswerIndex": 2,
+    "book": "Habakkuk",
+    "difficulty": "Easy",
+    "verseReference": "Habakkuk 2:20",
+    "verseText": "But the LORD is in his holy temple; let all the earth keep silence before him."
+  },
+  {
+    "text": "Chapter 3 of Habakkuk takes the form of what?",
+    "options": ["A historical narrative", "A legal dispute", "A prayer or psalm of Habakkuk, recounting God's power and expressing faith", "A collection of proverbs"],
+    "correctAnswerIndex": 2,
+    "book": "Habakkuk",
+    "difficulty": "Easy",
+    "verseReference": "Habakkuk 3:1-2",
+    "verseText": "A prayer of Habakkuk the prophet, according to Shigionoth. O LORD, I have heard the report of you, and your work, O LORD, do I fear."
+  },
+  {
+    "text": "Despite anticipating great hardship (fig tree not blossoming, no fruit on vines, etc.), how does Habakkuk resolve to respond in Habakkuk 3:18?",
+    "options": ["He will despair", "He will rebel against God", "He will rejoice in the LORD; exult in the God of his salvation", "He will flee the land"],
+    "correctAnswerIndex": 2,
+    "book": "Habakkuk",
+    "difficulty": "Easy",
+    "verseReference": "Habakkuk 3:17-18",
+    "verseText": "Though the fig tree should not blossom, nor fruit be on the vines... yet I will rejoice in the LORD; I will take joy in the God of my salvation."
+  },
+  {
+    "text": "What does Habakkuk say God makes his feet like in Habakkuk 3:19?",
+    "options": ["Feet of iron", "Feet of clay", "Deer's feet (hind's feet)", "Feet of stone"],
+    "correctAnswerIndex": 2,
+    "book": "Habakkuk",
+    "difficulty": "Medium",
+    "verseReference": "Habakkuk 3:19",
+    "verseText": "GOD, the Lord, is my strength; he makes my feet like the deer's; he makes me tread on my high places."
+  }
+]

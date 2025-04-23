@@ -1,0 +1,92 @@
+[
+  {
+    "text": "Who is the author of the Epistle to the Ephesians?",
+    "options": ["Timothy", "Paul", "Apollos", "Silas"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Easy",
+    "verseReference": "Ephesians 1:1",
+    "verseText": "Paul, an apostle of Christ Jesus by the will of God, To the saints who are in Ephesus, and are faithful in Christ Jesus:"
+  },
+  {
+    "text": "A major theme in Ephesians is the concept of the Church as what?",
+    "options": ["A political entity", "A temporary gathering", "The body of Christ, uniting Jews and Gentiles", "A building made of stone"],
+    "correctAnswerIndex": 2,
+    "book": "Ephesians",
+    "difficulty": "Easy",
+    "verseReference": "Ephesians 1:22-23, 2:14-16, 4:4",
+    "verseText": "And he put all things under his feet and gave him as head over all things to the church, which is his body... For he himself is our peace, who has made us both one and has broken down in his flesh the dividing wall of hostility... that he might create in himself one new man in place of the two... There is one body and one Spirit..."
+  },
+  {
+    "text": "Ephesians 2:8-9 states that salvation comes by grace through faith, and not as a result of what?",
+    "options": ["Predestination", "Works", "Knowledge", "Baptism"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Easy",
+    "verseReference": "Ephesians 2:8-9",
+    "verseText": "For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast."
+  },
+  {
+    "text": "In Ephesians 2:19-22, the Church is described as a household built on the foundation of whom/what?",
+    "options": ["Peter and the apostles", "The Law of Moses", "The apostles and prophets, with Christ Jesus himself as the cornerstone", "Good deeds"],
+    "correctAnswerIndex": 2,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 2:19-20",
+    "verseText": "So then you are no longer strangers and aliens, but you are fellow citizens with the saints and members of the household of God, built on the foundation of the apostles and prophets, Christ Jesus himself being the cornerstone,"
+  },
+  {
+    "text": "What does Paul pray for the Ephesians in chapter 3, regarding God's love?",
+    "options": ["That they would understand its basic principles", "That they would have strength to comprehend its breadth, length, height, and depth", "That they would show it only to fellow believers", "That it would make them wealthy"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 3:17-19",
+    "verseText": "so that Christ may dwell in your hearts through faith—that you, being rooted and grounded in love, may have strength to comprehend with all the saints what is the breadth and length and height and depth, and to know the love of Christ that surpasses knowledge, that you may be filled with all the fullness of God."
+  },
+  {
+    "text": "Ephesians 4 urges believers to 'walk in a manner worthy of the calling' and maintain what?",
+    "options": ["Their cultural traditions", "The unity of the Spirit in the bond of peace", "Separation from the world", "Strict adherence to rules"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Easy",
+    "verseReference": "Ephesians 4:1-3",
+    "verseText": "I therefore, a prisoner for the Lord, urge you to walk in a manner worthy of the calling to which you have been called, with all humility and gentleness, with patience, bearing with one another in love, eager to maintain the unity of the Spirit in the bond of peace."
+  },
+  {
+    "text": "What roles or gifts does Ephesians 4:11 list as given by Christ for equipping the saints?",
+    "options": ["Healing, miracles, tongues", "Apostles, prophets, evangelists, shepherds (pastors), teachers", "Wisdom, knowledge, faith", "Administrators, helpers, leaders"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 4:11-12",
+    "verseText": "And he gave the apostles, the prophets, the evangelists, the shepherds and teachers, to equip the saints for the work of ministry, for building up the body of Christ,"
+  },
+  {
+    "text": "Ephesians 5 contains instructions for relationships within the household, including husbands and wives, comparing the husband's love for his wife to what?",
+    "options": ["A king's love for his subjects", "Christ's love for the church", "A master's love for his servant", "A father's love for his child"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 5:25",
+    "verseText": "Husbands, love your wives, as Christ loved the church and gave himself up for her,"
+  },
+  {
+    "text": "What metaphor does Paul use in Ephesians 6 to describe the believer's defense against spiritual evil?",
+    "options": ["A fortified city", "A well-trained army", "The armor of God", "A sturdy ship"],
+    "correctAnswerIndex": 2,
+    "book": "Ephesians",
+    "difficulty": "Easy",
+    "verseReference": "Ephesians 6:11, 13",
+    "verseText": "Put on the whole armor of God, that you may be able to stand against the schemes of the devil... Therefore take up the whole armor of God, that you may be able to withstand in the evil day, and having done all, to stand firm."
+  },
+  {
+    "text": "Which piece of the armor of God is identified as the Word of God?",
+    "options": ["The belt of truth", "The breastplate of righteousness", "The shield of faith", "The sword of the Spirit"],
+    "correctAnswerIndex": 3,
+    "book": "Ephesians",
+    "difficulty": "Easy",
+    "verseReference": "Ephesians 6:17",
+    "verseText": "and take the helmet of salvation, and the sword of the Spirit, which is the word of God,"
+  }
+]

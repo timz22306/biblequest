@@ -1,0 +1,92 @@
+[
+  {
+    "text": "Who is the primary author of the Epistle to the Philippians?",
+    "options": ["Silas", "Timothy", "Paul", "Luke"],
+    "correctAnswerIndex": 2,
+    "book": "Philippians",
+    "difficulty": "Easy",
+    "verseReference": "Philippians 1:1",
+    "verseText": "Paul and Timothy, servants of Christ Jesus, To all the saints in Christ Jesus who are at Philippi, with the overseers and deacons:"
+  },
+  {
+    "text": "From where did Paul likely write Philippians?",
+    "options": ["Jerusalem", "Antioch", "While imprisoned (likely in Rome)", "Corinth"],
+    "correctAnswerIndex": 2,
+    "book": "Philippians",
+    "difficulty": "Medium",
+    "verseReference": "Philippians 1:13-14",
+    "verseText": "so that it has become known throughout the whole imperial guard and to all the rest that my imprisonment is for Christ. And most of the brothers, having become confident in the Lord by my imprisonment, are much more bold to speak the word without fear."
+  },
+  {
+    "text": "What is a dominant theme throughout Philippians, despite Paul's imprisonment?",
+    "options": ["Sorrow and despair", "Anger at his accusers", "Joy and rejoicing in Christ", "Detailed theological arguments"],
+    "correctAnswerIndex": 2,
+    "book": "Philippians",
+    "difficulty": "Easy",
+    "verseReference": "Philippians 1:4, 18; 2:17-18; 3:1; 4:4",
+    "verseText": "always in every prayer of mine for you all making my prayer with joy... Yes, and I will rejoice... Even if I am to be poured out as a drink offering upon the sacrificial offering of your faith, I am glad and rejoice with you all. Likewise you also should be glad and rejoice with me... Finally, my brothers, rejoice in the Lord... Rejoice in the Lord always; again I will say, rejoice."
+  },
+  {
+    "text": "Philippians 1:21 contains Paul's famous statement: 'For to me to live is Christ, and to die is...' what?",
+    "options": ["Loss", "Gain", "Sleep", "Judgment"],
+    "correctAnswerIndex": 1,
+    "book": "Philippians",
+    "difficulty": "Easy",
+    "verseReference": "Philippians 1:21",
+    "verseText": "For to me to live is Christ, and to die is gain."
+  },
+  {
+    "text": "What passage in Philippians 2 describes Christ's humility, incarnation, and exaltation (often called the 'Kenosis Hymn')?",
+    "options": ["Philippians 2:1-4", "Philippians 2:5-11", "Philippians 2:12-18", "Philippians 2:19-30"],
+    "correctAnswerIndex": 1,
+    "book": "Philippians",
+    "difficulty": "Medium",
+    "verseReference": "Philippians 2:5-11",
+    "verseText": "Have this mind among yourselves, which is yours in Christ Jesus, who, though he was in the form of God, did not count equality with God a thing to be grasped, but emptied himself, by taking the form of a servant, being born in the likeness of men... Therefore God has highly exalted him..."
+  },
+  {
+    "text": "In Philippians 3, Paul contrasts confidence in the flesh (his former Jewish credentials) with what?",
+    "options": ["Confidence in his apostleship", "The surpassing worth of knowing Christ Jesus", "Confidence in the Philippian church", "Confidence in Roman citizenship"],
+    "correctAnswerIndex": 1,
+    "book": "Philippians",
+    "difficulty": "Medium",
+    "verseReference": "Philippians 3:7-8",
+    "verseText": "But whatever gain I had, I counted as loss for the sake of Christ. Indeed, I count everything as loss because of the surpassing worth of knowing Christ Jesus my Lord. For his sake I have suffered the loss of all things and count them as rubbish, in order that I may gain Christ"
+  },
+  {
+    "text": "What does Paul urge the Philippians to do in Philippians 4:6 instead of being anxious?",
+    "options": ["Work harder", "Store up treasures", "Pray with thanksgiving", "Seek revenge"],
+    "correctAnswerIndex": 2,
+    "book": "Philippians",
+    "difficulty": "Easy",
+    "verseReference": "Philippians 4:6",
+    "verseText": "do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God."
+  },
+  {
+    "text": "What is the result promised in Philippians 4:7 for those who pray with thanksgiving?",
+    "options": ["Wealth and prosperity", "Freedom from prison", "The peace of God, which surpasses all understanding", "Perfect health"],
+    "correctAnswerIndex": 2,
+    "book": "Philippians",
+    "difficulty": "Easy",
+    "verseReference": "Philippians 4:7",
+    "verseText": "And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus."
+  },
+  {
+    "text": "What does Paul say he has learned in Philippians 4:11-13?",
+    "options": ["How to escape prison", "How to debate philosophers", "The secret of contentment in any circumstance through Christ", "How to perform miracles"],
+    "correctAnswerIndex": 2,
+    "book": "Philippians",
+    "difficulty": "Medium",
+    "verseReference": "Philippians 4:11-13",
+    "verseText": "Not that I am speaking of being in need, for I have learned in whatever situation I am to be content. I know how to be brought low, and I know how to abound. In any and every circumstance, I have learned the secret of facing plenty and hunger, abundance and need. I can do all things through him who strengthens me."
+  },
+  {
+    "text": "Paul thanks the Philippians for their partnership in the gospel, particularly for what practical support?",
+    "options": ["Praying for him constantly", "Sending him financial gifts and support", "Visiting him in prison", "Writing letters of recommendation"],
+    "correctAnswerIndex": 1,
+    "book": "Philippians",
+    "difficulty": "Medium",
+    "verseReference": "Philippians 4:10, 15-16",
+    "verseText": "I rejoiced in the Lord greatly that now at length you have revived your concern for me... And you Philippians yourselves know that in the beginning of the gospel, when I left Macedonia, no church entered into partnership with me in giving and receiving, except you only. Even in Thessalonica you sent me help for my needs once and again."
+  }
+]

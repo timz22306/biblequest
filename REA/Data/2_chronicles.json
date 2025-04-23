@@ -1,993 +1,893 @@
 [
-    {
-      "text": "Which king oversaw the construction of the temple described in 2 Chronicles 2?",
-      "options": ["Solomon", "David", "Rehoboam", "Hezekiah"],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Easy",
-      "verseReference": "2 Chronicles 2:1",
-      "verseText": "[Now Solomon purposed to build a house for the name of the LORD and a royal palace for himself.]"
-    },
-    {
-      "text": "From which king did Solomon request cedar, cypress, and gold for the temple construction?",
-      "options": ["Hiram of Tyre", "Nebuchadnezzar", "Pharaoh", "Ahab"],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Easy",
-      "verseReference": "2 Chronicles 2:3–4",
-      "verseText": "[I send you a message: 'I have work for you to do… cedar, cypress, and algum wood.']"
-    },
-    {
-      "text": "Who led the Levites in consecrating the temple at its dedication in 2 Chronicles 5?",
-      "options": ["Heman and Jeduthun", "Asaph", "Jehozabad", "Azaziah"],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Easy",
-      "verseReference": "2 Chronicles 5:12",
-      "verseText": "[The Levites… Heman, Asaph, and Jeduthun, with their sons and kinsmen, were clapping their hands and shouting to the LORD…]"
-    },
-    {
-      "text": "What sign of divine approval appeared when Solomon finished praying at the temple dedication?",
-      "options": ["Fire from heaven", "A dove descended", "A thunderclap", "A rainbow appeared"],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Easy",
-      "verseReference": "2 Chronicles 7:1",
-      "verseText": "[When Solomon finished… fire came down from heaven and consumed the burnt offering and the sacrifices.]"
-    },
-    {
-      "text": "Which queen visited Solomon in 2 Chronicles 9, bringing spices, gold, and precious stones?",
-      "options": ["The Queen of Sheba", "The Queen of Egypt", "The Queen of Tyre", "The Queen of Persia"],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Easy",
-      "verseReference": "2 Chronicles 9:1–2",
-      "verseText": "[The queen of Sheba… when she heard of the fame of Solomon and… came to test him with hard questions.]"
-    },
-    {
-      "text": "Who succeeded Solomon as king over Judah in 2 Chronicles 9?",
-      "options": ["Rehoboam", "Abijah", "Asa", "Jehoshaphat"],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Easy",
-      "verseReference": "2 Chronicles 9:29",
-      "verseText": "[So Solomon reigned in Jerusalem over all Israel forty years. And Solomon slept with his fathers… and Rehoboam his son reigned in his place.]"
-    },
-    {
-      "text": "Which practice did Rehoboam adopt that provoked the anger of the LORD, in 2 Chronicles 12?",
-      "options": ["High places worship", "Sacrificing children", "Consulting mediums", "Burning incense to Baal"],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Easy",
-      "verseReference": "2 Chronicles 12:13",
-      "verseText": "[And he abandoned the law of the LORD… they did not turn from their practices.]"
-    },
-    {
-      "text": "Which king of Judah famously sought the LORD in the days of Azariah the prophet, as recorded in 2 Chronicles 26?",
-      "options": ["Uzziah", "Jotham", "Jehoshaphat", "Hezekiah"],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Easy",
-      "verseReference": "2 Chronicles 26:5",
-      "verseText": "[He sought God in the days of Zechariah… and as long as he sought the LORD, God made him prosper.]"
-    },
-    {
-      "text": "Who helped Jehoshaphat by teaching in the courts of the LORD and in the cities of Judah, according to 2 Chronicles 17?",
-      "options": ["Levitical priests", "Foreign prophets", "Samsonian judges", "Levites and priests"],
-      "correctAnswerIndex": 3,
-      "book": "2 Chronicles",
-      "difficulty": "Easy",
-      "verseReference": "2 Chronicles 17:8–9",
-      "verseText": "[His heart was devoted to seek the LORD… and he sent… Levites and priests to teach in Judah.]"
-    },
-    {
-      "text": "Which prophet encouraged Jehoshaphat with the words, 'Do not be afraid or discouraged,' in 2 Chronicles 20?",
-      "options": ["Jahaziel", "Elijah", "Micaiah", "Isaiah"],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Easy",
-      "verseReference": "2 Chronicles 20:15",
-      "verseText": "[And he said, 'Listen, all Judah… Do not be afraid… for the battle is not yours but God’s.']"
-    },
-    {
-      "text": "What condition did God set for healing the land in Solomon’s prayer, as recorded in 2 Chronicles 7:14?",
-      "options": ["If my people… will humble themselves", "If my people… bring sacrifices", "If my people… build altars", "If my people… wage war"],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Easy",
-      "verseReference": "2 Chronicles 7:14",
-      "verseText": "[If my people who are called by my name humble themselves… then I will heal their land.]"
-    },
-    {
-      "text": "Which king found the Book of the Law in the temple and led Judah to renew the covenant, as recorded in 2 Chronicles 34?",
-      "options": ["Josiah", "Hezekiah", "Manasseh", "Amon"],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Easy",
-      "verseReference": "2 Chronicles 34:14–15",
-      "verseText": "[Shaphan… read it before the king, and the king tore his clothes.]"
-    },
-    {
-      "text": "Who was the high priest that joined Joshua in leading the people during the reform under Josiah, according to 2 Chronicles 35?",
-      "options": ["Hilkiah", "Jehoiada", "Zadok", "Abiathar"],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Easy",
-      "verseReference": "2 Chronicles 35:3",
-      "verseText": "[Josiah commanded the Levites… to prepare the passover… and… the priests the sons of Aaron.]"
-    },
-    {
-      "text": "Which king’s reign marked the end of the divided monarchy, as noted in 2 Chronicles 36?",
-      "options": ["Zedekiah", "Jehoiachin", "Jehoiakim", "Nebuchadnezzar"],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Easy",
-      "verseReference": "2 Chronicles 36:13–14",
-      "verseText": "[Zedekiah… did evil… and all the army of the Chaldeans… captured Jerusalem.]"
-    },
-    {
-      "text": "Who issued the decree allowing the exiles to return and rebuild the temple in 2 Chronicles 36?",
-      "options": ["Cyrus the Persian", "Darius the Mede", "Artaxerxes", "Alexander the Great"],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Easy",
-      "verseReference": "2 Chronicles 36:22–23",
-      "verseText": "[Thus says Cyrus king of Persia: 'The LORD… has charged me… Let him go up to Jerusalem… and rebuild the house of the LORD.']"
-    },
-    {
-      "text": "What did Solomon dedicate to the LORD at the altar made of earth, as described in 2 Chronicles 1?",
-      "options": ["Burnt offerings and peace offerings", "Incense offerings only", "Grain offerings only", "Drink offerings only"],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Easy",
-      "verseReference": "2 Chronicles 1:5",
-      "verseText": "[Solomon built the bronze altar… and offered a thousand burnt offerings on it.]"
-    },
-    {
-      "text": "Which mountain did Solomon go to offer sacrifices after the temple dedication, in 2 Chronicles 7?",
-      "options": ["Zion", "Mount Moriah", "Mount Carmel", "Mount Sinai"],
-      "correctAnswerIndex": 1,
-      "book": "2 Chronicles",
-      "difficulty": "Easy",
-      "verseReference": "2 Chronicles 7:8",
-      "verseText": "[Then Solomon held the feast… before the LORD our God for seven days; and all Israel with him—a very great assembly, from Lebo-hamath to the Brook of Egypt.]"
-    },
-    {
-      "text": "Who brought cedar logs from Lebanon to help with the temple construction in Solomon’s reign, according to 2 Chronicles 2?",
-      "options": ["Cedars were cut by Huram-abi", "David’s slaves", "Egyptian laborers", "Babylonian exiles"],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Easy",
-      "verseReference": "2 Chronicles 2:10–11",
-      "verseText": "[Send me also cedar, cypress, and algum… for the temple I am building will be great and wonderful.]"
-    },
-    {
-      "text": "Which role did Jehoshaphat assign to Levites and priests during his reforms, according to 2 Chronicles 19?",
-      "options": ["Judges in the land", "Temple musicians", "Military captains", "Gatekeepers"],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Easy",
-      "verseReference": "2 Chronicles 19:8",
-      "verseText": "[And he set judges in the land… and charged them: 'Consider what you do, for you judge not for man but for the LORD.']"
-    },
-    {
-      "text": "Which prophet told Hezekiah to be strong and courageous when faced with the Assyrian threat, in 2 Chronicles 32?",
-      "options": ["Isaiah", "Micah", "Amos", "Hosea"],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Easy",
-      "verseReference": "2 Chronicles 32:7",
-      "verseText": "[Be strong and courageous… Do not fear or be dismayed for the king of Assyria…] "
-    },
-    {
-      "text": "Which of Josiah’s reforms involved tearing down houses of male cult prostitutes, according to 2 Chronicles 34?",
-      "options": ["Removing idolatrous altars", "Building city walls", "Collecting silver", "Planting vineyards"],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Easy",
-      "verseReference": "2 Chronicles 34:3–4",
-      "verseText": "[For he did what was right in the eyes of the LORD… he tore down the altars of the foreign gods.]"
-    },
-    {
-      "text": "Which instrument does 2 Chronicles 5:12 mention among those used in the temple music?",
-      "options": ["Cymbals", "Trumpets", "Harp", "Flute"],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Easy",
-      "verseReference": "2 Chronicles 5:12",
-      "verseText": "[With their trumpets and cymbals and other musical instruments…]"
-    },
-    {
-      "text": "What did Solomon ask for when God appeared to him at Gibeon, as recorded in 2 Chronicles 1?",
-      "options": ["Wisdom to govern", "Long life", "Wealth", "Military victory"],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Easy",
-      "verseReference": "2 Chronicles 1:10",
-      "verseText": "[Give your servant… an understanding mind to govern your people and to discern between good and evil.]"
-    },
-    {
-      "text": "Which group did Solomon appoint to oversee the work on the temple and the palace, according to 2 Chronicles 8?",
-      "options": ["Chief officers", "Priests", "Levites", "Prophets"],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Easy",
-      "verseReference": "2 Chronicles 8:14",
-      "verseText": "[Solomon had all that he desired… the burnt offerings and the sin offerings.]"
-    },
-    {
-      "text": "What was the primary material used for the two cherubim in the inner sanctuary, as described in 2 Chronicles 3?",
-      "options": ["Olive wood overlaid with gold", "Stone", "Silver", "Bronze"],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Easy",
-      "verseReference": "2 Chronicles 3:7",
-      "verseText": "[He made… two cherubim of olive wood, each ten cubits high.]"
-    },
-    {
-      "text": "What phrase concludes Solomon’s dedication prayer signifying God’s presence would dwell in the temple, in 2 Chronicles 6?",
-      "options": ["'To hear the prayer'", "'To bring peace'", "'To multiply wealth'", "'To grant victory'"],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Easy",
-      "verseReference": "2 Chronicles 6:21",
-      "verseText": "[Then hear in heaven your dwelling place and forgive… so that all the peoples of the earth may know your name and fear you.]"
-    },
-    {
-      "text": "How does Solomon’s choice to offer a thousand burnt offerings at Gibeon (2 Chronicles 1:3–6) illustrate his priorities as king?",
-      "options": [
-        "He valued relational worship over conquest",
-        "He sought military alliance",
-        "He wanted political recognition from Egypt",
-        "He aimed to expand trade routes"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Medium",
-      "verseReference": "2 Chronicles 1:3–6",
-      "verseText": "[He offered sacrifices and burned incense… he went up to Gibeon to sacrifice… a thousand burnt offerings.]"
-    },
-    {
-      "text": "In 2 Chronicles 7:14, why does the condition 'if my people humble themselves' connect national repentance with environmental restoration?",
-      "options": [
-        "It ties covenant fidelity to land health",
-        "It mandates agricultural rituals",
-        "It praises the Temple’s architecture",
-        "It focuses on military strength"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Medium",
-      "verseReference": "2 Chronicles 7:14",
-      "verseText": "[If my people… humble themselves… then I will heal their land.]"
-    },
-    {
-      "text": "What does the Chronicler achieve by framing Solomon’s reign with both wisdom narratives and temple construction accounts?",
-      "options": [
-        "He integrates theological insight with cultic centralization",
-        "He prioritizes genealogy over worship",
-        "He critiques tribal councils",
-        "He underscores court politics"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Medium",
-      "verseReference": "2 Chronicles 1–9",
-      "verseText": "[Narratives of Solomon’s wisdom and the building of the temple…]"
-    },
-    {
-      "text": "How does Jehoshaphat’s alliance with Ahab’s daughter (2 Chronicles 18) reflect both political savvy and theological risk?",
-      "options": [
-        "It secured military support but compromised faith purity",
-        "It expanded trade but hindered worship",
-        "It promoted prophetic activity but weakened the throne",
-        "It improved agriculture but caused famine"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Medium",
-      "verseReference": "2 Chronicles 18:1",
-      "verseText": "[He allied himself by marriage with Ahab… they concluded a covenant.]"
-    },
-    {
-      "text": "Why does the Chronicler include Jehoshaphat’s reform of appointing judges (2 Chronicles 19:5–7)?",
-      "options": [
-        "To emphasize justice as foundational to godly rule",
-        "To detail tribal borders",
-        "To record architectural plans",
-        "To list temple musicians"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Medium",
-      "verseReference": "2 Chronicles 19:5–7",
-      "verseText": "[He said to the judges… 'Consider what you do, for you judge not for man but for the LORD.']"
-    },
-    {
-      "text": "In 2 Chronicles 20, how does the narrative structure of Judah’s crisis and divine deliverance model communal faith under pressure?",
-      "options": [
-        "It moves from prayer to prophetic word to victory song",
-        "It focuses solely on royal decree",
-        "It centers on military strategy only",
-        "It rejects prophetic involvement"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Medium",
-      "verseReference": "2 Chronicles 20:5–30",
-      "verseText": "[Jehoshaphat… stood before the assembly… then the Spirit came… the enemy destroyed themselves…]"
-    },
-    {
-      "text": "How does Uzziah’s leprosy incident in 2 Chronicles 26 illustrate the limits of royal authority before divine holiness?",
-      "options": [
-        "It shows that access to the sanctuary belongs to priests, not kings",
-        "It validates royal supremacy over cultic law",
-        "It demonstrates tribal immunity",
-        "It celebrates military conquest"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Medium",
-      "verseReference": "2 Chronicles 26:16–20",
-      "verseText": "[King Uzziah entered the temple… but he was leprous until the day of his death.]"
-    },
-    {
-      "text": "What theological theme does Hezekiah’s purification of the temple in 2 Chronicles 29 emphasize?",
-      "options": [
-        "Restoration of proper worship after apostasy",
-        "Economic prosperity through trade",
-        "Expansion of military territory",
-        "Consolidation of tribal authority"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Medium",
-      "verseReference": "2 Chronicles 29:3–5",
-      "verseText": "[Hezekiah… opened the doors of the house of the LORD… cleaned them… and restored the worship.]"
-    },
-    {
-      "text": "How does the Chronicler’s portrayal of Manasseh’s repentance in 2 Chronicles 33:12–13 serve as a critique of unrepentant idolatry?",
-      "options": [
-        "It contrasts earlier unfaithfulness with later humility",
-        "It ignores prior reforms",
-        "It depicts idolatry as beneficial",
-        "It celebrates Manasseh’s longevity"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Medium",
-      "verseReference": "2 Chronicles 33:12–13",
-      "verseText": "[Manasseh humbled himself… and the LORD brought him back to Jerusalem.]"
-    },
-    {
-      "text": "Why does the Chronicler emphasize the number of Levites involved in temple reforms under Jehoiada (2 Chronicles 23)?",
-      "options": [
-        "To show broad clerical support for covenant renewal",
-        "To rank Levites by seniority",
-        "To establish new tribal lands",
-        "To recruit temple warriors"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Medium",
-      "verseReference": "2 Chronicles 23:1–5",
-      "verseText": "[Jehoiada gathered the captains of hundreds and… the Levites and heads of fathers’ houses of Israel to restore the house of the LORD.]"
-    },
-    {
-      "text": "In what way does the Chronicler use the motif of fire descending in both Solomon’s dedication (2 Chronicles 7:1) and Jehoiada’s reforms (2 Chronicles 23:8)?",
-      "options": [
-        "To signal divine endorsement of covenant actions",
-        "To mark times of famine",
-        "To warn of exile",
-        "To celebrate royal birthdays"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Medium",
-      "verseReference": "2 Chronicles 7:1; 23:8",
-      "verseText": "[Fire came down from heaven… the Levites… burned sacrifices…]"
-    },
-    {
-      "text": "How does the alliance between Hezekiah and the prophet Isaiah in 2 Chronicles 32 highlight prophetic‑royal collaboration?",
-      "options": [
-        "By combining faith and strategy against Assyria",
-        "By establishing new tribal rituals",
-        "By condemning all foreign alliances",
-        "By focusing only on temple liturgy"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Medium",
-      "verseReference": "2 Chronicles 32:20–21",
-      "verseText": "[This same Hezekiah… trusted in the LORD… therefore the LORD saved them.]"
-    },
-    {
-      "text": "What does the renewal of the Passover under Hezekiah in 2 Chronicles 30 convey about national identity restoration?",
-      "options": [
-        "It reintegrates the people into covenant memory",
-        "It promotes new feast days",
-        "It replaces the Sabbath",
-        "It abolishes temple taxes"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Medium",
-      "verseReference": "2 Chronicles 30:5–7",
-      "verseText": "[Hezekiah sent word… that the children of Israel should celebrate the Passover…]"
-    },
-    {
-      "text": "Why is the death of King Uzziah at the end of 2 Chronicles 26 narrated alongside his leprosy, and what does it signify?",
-      "options": [
-        "It underscores divine judgment concluding a troubled reign",
-        "It notes his burial place",
-        "It lauds his military achievements only",
-        "It highlights his family lineage"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Medium",
-      "verseReference": "2 Chronicles 26:23",
-      "verseText": "[So Uzziah rested with his fathers… he was a leper to the day of his death.]"
-    },
-    {
-      "text": "How does Jehoash’s repair of the temple in 2 Chronicles 24 function as a statement of collaborative leadership?",
-      "options": [
-        "It mobilizes both priests and people to contribute resources",
-        "It centralizes power in the king alone",
-        "It privatizes temple maintenance",
-        "It restricts work to foreigners"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Medium",
-      "verseReference": "2 Chronicles 24:5–14",
-      "verseText": "[Joash… collected money… repaired the temple with all the contributions.]"
-    },
-    {
-      "text": "What does the Chronicler’s inclusion of Jehoiada’s oath renewal for the king and the people in 2 Chronicles 23:16 reveal about covenant theology?",
-      "options": [
-        "It binds king and people equally under divine law",
-        "It grants immunity to the monarchy",
-        "It creates new tribal divisions",
-        "It replaces the Mosaic covenant"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Medium",
-      "verseReference": "2 Chronicles 23:16",
-      "verseText": "[Then Jehoiada made a covenant between the LORD and the king and the people…]"
-    },
-    {
-      "text": "How does the Chronicler frame the violent death of Joash in 2 Chronicles 24:25 as a cautionary motif?",
-      "options": [
-        "It serves as a warning against forsaking God",
-        "It celebrates palace intrigue",
-        "It highlights architectural achievements",
-        "It commemorates military victories"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Medium",
-      "verseReference": "2 Chronicles 24:25",
-      "verseText": "[After the death of Jehoiada… Aristrymagus and Jozacar struck down Joash in the house of Millo.]"
-    },
-    {
-      "text": "Why does the Chronicler mention the sepulcher of Zechariah in 2 Chronicles 24:20–21, and what is its significance?",
-      "options": [
-        "To identify the location of righteous martyrdom",
-        "To map tribal lands",
-        "To list temple treasures",
-        "To record agricultural yields"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Medium",
-      "verseReference": "2 Chronicles 24:20–21",
-      "verseText": "[For he was seeking to the LORD… because they did not seek to the LORD… they buried him in the city of David.]"
-    },
-    {
-      "text": "In 2 Chronicles 28, how does Ahaz’s adoption of Syrian and Ephraimite religious practices illustrate the perils of syncretism?",
-      "options": [
-        "It leads to national defeat and moral decline",
-        "It strengthens Judah’s economy",
-        "It expands the temple treasury",
-        "It promotes tribal unity"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Medium",
-      "verseReference": "2 Chronicles 28:23–24",
-      "verseText": "[He burned his sons as an offering… practiced sorcery… angered the LORD.]"
-    },
-    {
-      "text": "How does the Chronicler’s treatment of foreign soldiers in 2 Chronicles 17:11–12 compare to their role under David in 1 Chronicles 12?",
-      "options": [
-        "They serve as auxiliaries but remain outside Israel’s covenant community",
-        "They become Levites",
-        "They lead musical worship",
-        "They replace Israelite troops"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Medium",
-      "verseReference": "2 Chronicles 17:11–12",
-      "verseText": "[Of Zebulun who… were experts in war… of Naphtali… who… served with bows.]"
-    },
-    {
-      "text": "Why does the Chronicler record Hezekiah’s inflation of tribute to Assyria in 2 Chronicles 32:9, and what lesson does it convey?",
-      "options": [
-        "Overreliance on political appeasement undermines trust in God",
-        "It demonstrates wise diplomacy",
-        "It ensures temple provision",
-        "It grants priests more power"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Medium",
-      "verseReference": "2 Chronicles 32:9",
-      "verseText": "[He removed the hand of the LORD from him… and pyramids of silver and gold.]"
-    },
-    {
-      "text": "What does Josiah’s public reading of the Book of the Law in 2 Chronicles 34:30 illustrate about the power of scripture?",
-      "options": [
-        "It mobilizes national repentance and reform",
-        "It centralizes royal authority",
-        "It standardizes temple architecture",
-        "It replaces Levitical music"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Medium",
-      "verseReference": "2 Chronicles 34:30",
-      "verseText": "[Then the king stood in his place and made a covenant before the LORD to walk after the LORD…]"
-    },
-    {
-      "text": "In what way does the restoration of Passover under Hezekiah (2 Chronicles 30) differ from the original institution, and why is this significant?",
-      "options": [
-        "It invites all Israel and Judah, showing inclusive covenant renewal",
-        "It mandates new sacrifices",
-        "It changes the date",
-        "It excludes Levites"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Medium",
-      "verseReference": "2 Chronicles 30:1–3",
-      "verseText": "[Hezekiah sent to all Israel… that they should come to the house of the LORD to keep the Passover.]"
-    },
-    {
-      "text": "How does the Chronicler use contrasting accounts of kings ‘doing right’ versus ‘doing evil’ in 2 Chronicles 25–36 to advance his theological agenda?",
-      "options": [
-        "By linking covenant faithfulness with national stability",
-        "By ignoring political events",
-        "By homogenizing all reigns",
-        "By focusing only on military campaigns"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Medium",
-      "verseReference": "2 Chronicles 25–36",
-      "verseText": "[Repeated refrains of ‘did right in the eyes of the LORD’ or ‘did evil’.]"
-    },
-    {
-      "text": "Why does the Chronicler detail the overthrow of Athaliah in 2 Chronicles 23:12–21, and how does it underscore the theme of rightful worship?",
-      "options": [
-        "To show restoration of Davidic line and temple order after apostasy",
-        "To document palace intrigue",
-        "To list agricultural reforms",
-        "To mark a new tax system"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Medium",
-      "verseReference": "2 Chronicles 23:12–21",
-      "verseText": "[And they killed Athaliah with the sword… and made the covenant before the LORD…]"
-    },
-    {
-      "text": "How does the Chronicler’s commentary on the length of each king’s reign (2 Chronicles 36:9–23) function as a moral evaluation?",
-      "options": [
-        "Long reigns are paired with repentance; short ones with unfaithfulness",
-        "Length of reign is arbitrary",
-        "It only tracks chronology",
-        "It emphasizes palace expenditures"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Medium",
-      "verseReference": "2 Chronicles 36:9–23",
-      "verseText": "[Jehoiachin… served the king of Babylon…] / [Cyrus’s decree…]"
-    },
-    {
-      "text": "What role does the motif of ‘seeking the LORD’ play in the reforms of Asa, Jehoshaphat, Hezekiah, and Josiah?",
-      "options": [
-        "It marks successful reforms with charismatic leadership",
-        "It appears only in Asa’s reign",
-        "It mandates temple wealth",
-        "It correlates with military victories only"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Medium",
-      "verseReference": "2 Chronicles 15:2; 17:3; 29:2; 34:3",
-      "verseText": "[They sought the LORD with all their heart…]"
-    },
-    {
-      "text": "Why does the Chronicler record the temple gifts and treasuries in 2 Chronicles 31:11–12 after Hezekiah’s Passover?",
-      "options": [
-        "To demonstrate generous support for ongoing worship",
-        "To signal temple closure",
-        "To allocate land grants",
-        "To recruit foreign labor"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Medium",
-      "verseReference": "2 Chronicles 31:11–12",
-      "verseText": "[Hezekiah… gave to the priests and Levites… abundantly for each day’s need.]"
-    },
-    {
-      "text": "How does the Chronicler portray the fall of Jerusalem under Zedekiah (2 Chronicles 36:17–20) as the culmination of covenant unfaithfulness?",
-      "options": [
-        "He attributes exile directly to repeated idolatry and ignoring prophets",
-        "He blames only foreign powers",
-        "He praises Zedekiah’s reforms",
-        "He notes economic failures only"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Medium",
-      "verseReference": "2 Chronicles 36:17–20",
-      "verseText": "[They burned the house of God… and carried the people captive.]"
-    },
-    {
-      "text": "In 2 Chronicles 30:18–20, what does God’s response to Hezekiah’s prayer during the Passover reveal about divine compassion?",
-      "options": [
-        "God gave them deliverance and forgiveness",
-        "God demanded stricter sacrifice",
-        "God withdrew presence",
-        "God punished them further"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Medium",
-      "verseReference": "2 Chronicles 30:18–20",
-      "verseText": "[The LORD… healed the people… and turned the heart of the king of Assyria.]"
-    },
-    {
-      "text": "How does the Chronicler’s use of census figures for soldiers in 2 Chronicles 17:14 and 27:6 serve his historiographical purposes?",
-      "options": [
-        "They underscore divine blessing in numbers tied to faithfulness",
-        "They inflate Judah’s might for propaganda",
-        "They ignore covenant themes",
-        "They serve as tax records"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Medium",
-      "verseReference": "2 Chronicles 17:14; 27:6",
-      "verseText": "[Zebulun… 50,000… Naphtali 1,000,000 men of valor.]"
-    },
-    {
-      "text": "What does the Chronicler achieve by ending 2 Chronicles with the decree of Cyrus rather than with return narrative details?",
-      "options": [
-        "He links restoration directly to divine promise fulfillment",
-        "He abandons hope for return",
-        "He shifts focus to Persia’s politics",
-        "He foreshadows Greek conquest"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Medium",
-      "verseReference": "2 Chronicles 36:22–23",
-      "verseText": "[Cyrus’s decree letting the exiles return to rebuild the temple.]"
-    },
-    {
-      "text": "Analyze the chiastic structure in Solomon’s dedication prayer (2 Chronicles 6:14–42) and explain its theological significance.",
-      "options": [
-        "Central plea for God’s presence framed by covenant recall",
-        "Alternating lists of tribes and offerings",
-        "Parallel accounts of David and Solomon",
-        "Alphabetical acrostic of virtues"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Hard",
-      "verseReference": "2 Chronicles 6:14–42",
-      "verseText": "[When Solomon finished praying… then hear in heaven… forgive…]"
-    },
-    {
-      "text": "What is the rhetorical effect of interspersing Solomon’s wisdom anecdotes (2 Chronicles 1–9) with temple construction details?",
-      "options": [
-        "It balances intellectual insight with cultic centrality",
-        "It distracts from the main narrative",
-        "It undermines Solomon’s authority",
-        "It prioritizes foreign alliances"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Hard",
-      "verseReference": "2 Chronicles 1–9",
-      "verseText": "[Wisdom stories juxtaposed with detailed plans and execution of temple building.]"
-    },
-    {
-      "text": "Discuss how the motif of divine fire both inaugurates the temple (2 Chronicles 7:1) and legitimizes Jehoiada’s coup (2 Chronicles 23:8).",
-      "options": [
-        "In both instances fire signals divine endorsement of covenant acts",
-        "Fire appears only in Solomon’s reign",
-        "Fire punishes apostasy only",
-        "Fire symbolizes royal power"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Hard",
-      "verseReference": "2 Chronicles 7:1; 23:8",
-      "verseText": "[Fire from heaven consumes offerings…]"
-    },
-    {
-      "text": "Examine the theological implications of Uzziah’s pride and consequent leprosy (2 Chronicles 26:16–21) for understanding sacred space boundaries.",
-      "options": [
-        "Kings may not overstep cultic roles reserved for priests",
-        "Leprosy is unrelated to cultic law",
-        "Priests must obey kings in all things",
-        "Royal palace is a holy place"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Hard",
-      "verseReference": "2 Chronicles 26:16–21",
-      "verseText": "[Uzziah entered the sanctuary to burn incense; the LORD struck him with leprosy.]"
-    },
-    {
-      "text": "How does Hezekiah’s celebration of Passover in 2 Chronicles 30 function as a narrative counterpoint to Ahaz’s idolatrous practices in 2 Chronicles 28?",
-      "options": [
-        "It contrasts covenant restoration with prior apostasy",
-        "It ignores earlier kings",
-        "It celebrates foreign customs",
-        "It repeats Ahaz’s policies"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Hard",
-      "verseReference": "2 Chronicles 28; 30",
-      "verseText": "[Ahaz’s sacrifices…] / [Hezekiah’s national Passover.]"
-    },
-    {
-      "text": "What editorial purpose does the Chronicler serve by detailing the roles of gatekeepers, treasurers, and musicians (2 Chronicles 8–31)?",
-      "options": [
-        "To portray an ideal, ordered cultic system under God’s kingship",
-        "To inflate temple payroll",
-        "To document census data",
-        "To compare Judah with Israel"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Hard",
-      "verseReference": "2 Chronicles 8:14; 31:2–12",
-      "verseText": "[Overseers of the work… officers of the house of God… Levites in charge of the treasuries.]"
-    },
-    {
-      "text": "In 2 Chronicles 32:24–26, Hezekiah’s pride after deliverance invites Isaiah’s rebuke. Analyze this sequence in light of covenant theology.",
-      "options": [
-        "It illustrates that divine deliverance does not exempt kings from covenant faithfulness",
-        "It praises Hezekiah’s self-confidence",
-        "It contradicts earlier prophetic oracles",
-        "It establishes new laws"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Hard",
-      "verseReference": "2 Chronicles 32:24–26",
-      "verseText": "[Yet Hezekiah did not respond according to the benefit done to him…]"
-    },
-    {
-      "text": "Discuss the significance of Josiah discovering the Book of the Law (2 Chronicles 34:14–19) in shaping subsequent reforms.",
-      "options": [
-        "It provides a scriptural mandate for wide‑ranging covenant renewal",
-        "It has no effect on national policy",
-        "It removes earlier laws",
-        "It replaces temple rituals"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Hard",
-      "verseReference": "2 Chronicles 34:14–19",
-      "verseText": "[Hilkiah found the book…] / [Josiah tore his clothes and sought the LORD.]"
-    },
-    {
-      "text": "How does the Chronicler’s portrayal of Manasseh’s later penitence (2 Chronicles 33:12–17) serve as a theological corrective to his earlier reign?",
-      "options": [
-        "It shows the possibility of return even after deep apostasy",
-        "It downplays previous reforms",
-        "It focuses on temple architecture",
-        "It commemorates his victories"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Hard",
-      "verseReference": "2 Chronicles 33:12–17",
-      "verseText": "[Manasseh humbled himself greatly… and the LORD restored him.]"
-    },
-    {
-      "text": "Analyze the function of covenant renewal ceremonies in the reigns of Asa (2 Chronicles 15), Jehoshaphat (2 Chronicles 20), and Josiah (2 Chronicles 34).",
-      "options": [
-        "They punctuate eras where leadership aligns national identity with divine law",
-        "They are mere formalities",
-        "They replace Mosaic festivals",
-        "They are purely royal propaganda"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Hard",
-      "verseReference": "2 Chronicles 15; 20; 34",
-      "verseText": "[Asa’s covenant… Jehoshaphat’s assembly… Josiah’s reforms.]"
-    },
-    {
-      "text": "What narrative strategy does the Chronicler employ by ending with Cyrus’s decree rather than a triumphant return, and how does this shape the book’s theological horizon?",
-      "options": [
-        "He emphasizes God’s sovereignty in exile restoration over human achievement",
-        "He ignores the restoration altogether",
-        "He celebrates Persian culture",
-        "He forecasts the end of days"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Hard",
-      "verseReference": "2 Chronicles 36:22–23",
-      "verseText": "[Cyrus’s decree that the LORD… commanded me to build him a house at Jerusalem…]"
-    },
-    {
-      "text": "Examine the Chronicler’s portrayal of the role of prophets in 2 Chronicles. How do figures like Isaiah, Zechariah, and Jahaziel function within the narrative?",
-      "options": [
-        "They serve as God’s mouthpiece, guiding kings back to covenantal faith",
-        "They remain silent during crises",
-        "They primarily perform sacrifices",
-        "They oversee temple construction"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Hard",
-      "verseReference": "2 Chronicles 20; 32; 34",
-      "verseText": "[Jahaziel… Isaiah’s oracles… Hilkiah’s discovery.]"
-    },
-    {
-      "text": "How does the Chronicler use the motif of ‘seeking the LORD’ (Heb. darash) across multiple reigns to underscore his theological message?",
-      "options": [
-        "He links national flourishing directly to covenantal pursuit of God",
-        "He uses it only once",
-        "He associates it with military prowess",
-        "He downplays prophetic activity"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Hard",
-      "verseReference": "2 Chronicles 15:2; 17:3; 29:2; 34:3",
-      "verseText": "[They sought the LORD with all their heart…]"
-    },
-    {
-      "text": "Discuss the significance of the Chronicler’s focus on temple personnel (2 Chronicles 8; 23; 31) for understanding post‑exilic community restoration ideals.",
-      "options": [
-        "He models an ideal roster of cultic roles for a renewed society",
-        "He omits all mention of temple staff",
-        "He criticizes priestly involvement",
-        "He recounts only royal lineages"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Hard",
-      "verseReference": "2 Chronicles 8:14; 23:4–5; 31:2–12",
-      "verseText": "[Officers over the work… Levites appointed to oversee contributions.]"
-    },
-    {
-      "text": "Analyze the portrayal of divine reward and punishment in 2 Chronicles 26–28 through the reigns of Uzziah, Jotham, Ahaz, and Hezekiah.",
-      "options": [
-        "Righteous reigns yield prosperity; unfaithful reigns yield calamity",
-        "All reigns are portrayed neutrally",
-        "Punishment is unrelated to covenant fidelity",
-        "Reward is purely material"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Hard",
-      "verseReference": "2 Chronicles 26–28",
-      "verseText": "[Uzziah’s success then leprosy… Ahaz’s idolatry… Hezekiah’s restoration.]"
-    },
-    {
-      "text": "What is the significance of the Chronicler’s inclusion of detailed financial contributions in 2 Chronicles 31:11–12 and 2 Chronicles 34:9–13?",
-      "options": [
-        "They demonstrate that proper worship requires communal sacrifice",
-        "They inflate the treasury records",
-        "They record royal taxes",
-        "They highlight foreign exchange"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Hard",
-      "verseReference": "2 Chronicles 31:11–12; 34:9–13",
-      "verseText": "[Hezekiah gave abundantly… Hilkiah’s treasures.]"
-    },
-    {
-      "text": "Evaluate the Chronicler’s historiographical method in portraying the Davidic line from Solomon through Zedekiah. What patterns emerge?",
-      "options": [
-        "A pattern of conditional faithfulness linked to covenant blessings",
-        "A purely chronological record without evaluation",
-        "A laudatory account of all kings",
-        "A focus on military exploits alone"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Hard",
-      "verseReference": "2 Chronicles 1–36",
-      "verseText": "[Repeated refrains of ‘did right’ or ‘did evil.’]"
-    },
-    {
-      "text": "How does the Chronicler portray the relationship between royal authority and priestly/Levitical authority across 2 Chronicles?",
-      "options": [
-        "Royal initiatives succeed when aligned with priestly/Levitical support",
-        "Royals always dominate cultic leadership",
-        "Priests are independent of kings",
-        "Levites lead military campaigns"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Hard",
-      "verseReference": "2 Chronicles 19; 23; 29",
-      "verseText": "[Jehoshaphat’s judges… Jehoiada and the priesthood… Hezekiah’s Levites.]"
-    },
-    {
-      "text": "Discuss the theological import of Cyrus’s decree (2 Chronicles 36:22–23) as the book’s conclusion rather than a return narrative.",
-      "options": [
-        "It underscores that restoration comes by divine initiative before human action",
-        "It minimizes the exile experience",
-        "It celebrates Persian culture",
-        "It foreshadows Roman rule"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Hard",
-      "verseReference": "2 Chronicles 36:22–23",
-      "verseText": "[Cyrus… commanded to build him a house at Jerusalem in Judah.]"
-    },
-    {
-      "text": "How does the Chronicler’s thematic focus on ‘seeking the LORD’ inform our understanding of leadership in 2 Chronicles?",
-      "options": [
-        "Leaders who seek God foster national covenantal health",
-        "Leadership is assessed solely by military success",
-        "Temples matter more than kings",
-        "Foreign alliances are paramount"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Hard",
-      "verseReference": "2 Chronicles 15:2; 17:3; 29:2; 34:3",
-      "verseText": "[They sought the LORD wholeheartedly…]"
-    },
-    {
-      "text": "Analyze the role of prophetic critique in shaping Judah’s history as recorded in 2 Chronicles. How do prophets function in kings’ reforms and failures?",
-      "options": [
-        "Prophets serve as divine messengers who call kings back to covenant fidelity",
-        "Prophets only predict foreign threats",
-        "Prophets are absent in reform narratives",
-        "Prophets only record genealogies"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Hard",
-      "verseReference": "2 Chronicles 20; 32; 34; 36",
-      "verseText": "[Jahaziel… Isaiah… Hilkiah’s discovery…]"
-    },
-    {
-      "text": "What does the recurrent motif of temple purification (2 Chronicles 29; 34) reveal about the Chronicler’s view of national identity?",
-      "options": [
-        "That true identity is restored through right worship practices",
-        "That identity lies in military prowess",
-        "That identity depends on palace splendor",
-        "That identity is purely ethnic"
-      ],
-      "correctAnswerIndex": 0,
-      "book": "2 Chronicles",
-      "difficulty": "Hard",
-      "verseReference": "2 Chronicles 29; 34",
-      "verseText": "[Hezekiah’s cleansing… Josiah’s reforms.]"
-    }
-  ]
-  
+  {
+    "text": "Which king oversaw the construction of the temple described in 2 Chronicles 2?",
+    "options": ["Solomon", "David", "Rehoboam", "Hezekiah"],
+    "correctAnswerIndex": 0,
+    "book": "2 Chronicles",
+    "difficulty": "Easy",
+    "verseReference": "2 Chronicles 2:1",
+    "verseText": "Now Solomon purposed to build a house for the name of the LORD and a royal palace for himself."
+  },
+  {
+    "text": "From which king did Solomon request cedar, cypress, and gold for the temple construction?",
+    "options": ["Hiram of Tyre", "Nebuchadnezzar", "Pharaoh", "Ahab"],
+    "correctAnswerIndex": 0,
+    "book": "2 Chronicles",
+    "difficulty": "Easy",
+    "verseReference": "2 Chronicles 2:3",
+    "verseText": "And Solomon sent word to Hiram the king of Tyre..."
+  },
+  {
+    "text": "What appeared to Solomon at Gibeon in a dream?",
+    "options": ["An Angel", "The LORD", "His father David", "A Cherub"],
+    "correctAnswerIndex": 1,
+    "book": "2 Chronicles",
+    "difficulty": "Easy",
+    "verseReference": "2 Chronicles 1:7",
+    "verseText": "In that night God appeared to Solomon and said to him, 'Ask what I shall give you.'"
+  },
+  {
+    "text": "What did Solomon ask God for instead of riches or long life?",
+    "options": ["Military power", "Fame", "Wisdom and knowledge", "Vengeance on enemies"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Easy",
+    "verseReference": "2 Chronicles 1:10",
+    "verseText": "Give me now wisdom and knowledge that I may go out and come in before this people..."
+  },
+  {
+    "text": "How many years did it take Solomon to build the Temple?",
+    "options": ["3 years", "7 years", "10 years", "20 years"],
+    "correctAnswerIndex": 1,
+    "book": "2 Chronicles",
+    "difficulty": "Easy",
+    "verseReference": "Compare 1 Kings 6:38",
+    "verseText": "While 2 Chronicles doesn't explicitly state the 7 years, 1 Kings 6:38 does, and 2 Chron focuses on the completion."
+  },
+  {
+    "text": "What filled the Temple when the priests came out of the Holy Place during the dedication?",
+    "options": ["Smoke", "Water", "A cloud representing the glory of the LORD", "A strong wind"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Easy",
+    "verseReference": "2 Chronicles 5:13-14",
+    "verseText": "...the house, the house of the LORD, was filled with a cloud... for the glory of the LORD filled the house of God."
+  },
+  {
+    "text": "Which queen visited Solomon to test his wisdom?",
+    "options": ["Queen Esther", "Queen Jezebel", "The Queen of Sheba", "Queen Vashti"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Easy",
+    "verseReference": "2 Chronicles 9:1",
+    "verseText": "Now when the queen of Sheba heard of the fame of Solomon, she came to Jerusalem to test him with hard questions..."
+  },
+  {
+    "text": "Who succeeded Solomon as king?",
+    "options": ["Jeroboam", "Rehoboam", "Abijah", "Asa"],
+    "correctAnswerIndex": 1,
+    "book": "2 Chronicles",
+    "difficulty": "Easy",
+    "verseReference": "2 Chronicles 9:31",
+    "verseText": "And Solomon slept with his fathers... And Rehoboam his son reigned in his place."
+  },
+  {
+    "text": "Which king caused the kingdom to divide by rejecting the counsel of the older men?",
+    "options": ["Solomon", "David", "Rehoboam", "Asa"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Easy",
+    "verseReference": "2 Chronicles 10:13-14",
+    "verseText": "And the king answered them harshly, and forsaking the counsel of the old men... spoke to them according to the counsel of the young men..."
+  },
+  {
+    "text": "Which king of Judah reigned for 41 years and generally did what was right in the eyes of the LORD?",
+    "options": ["Rehoboam", "Abijah", "Asa", "Jehoshaphat"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Easy",
+    "verseReference": "2 Chronicles 14:2, 16:13",
+    "verseText": "And Asa did what was good and right in the eyes of the LORD his God... Asa reigned forty-one years in Jerusalem."
+  },
+  {
+    "text": "Which king of Judah made an alliance with Ahab, king of Israel?",
+    "options": ["Asa", "Jehoshaphat", "Joram", "Ahaziah"],
+    "correctAnswerIndex": 1,
+    "book": "2 Chronicles",
+    "difficulty": "Easy",
+    "verseReference": "2 Chronicles 18:1",
+    "verseText": "Now Jehoshaphat had great riches and honor, and he made a marriage alliance with Ahab."
+  },
+  {
+    "text": "Which prophet rebuked King Jehoshaphat for helping the wicked King Ahab?",
+    "options": ["Elijah", "Elisha", "Jehu son of Hanani", "Isaiah"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Easy",
+    "verseReference": "2 Chronicles 19:2",
+    "verseText": "But Jehu the son of Hanani the seer went out to meet him and said to King Jehoshaphat, 'Should you help the wicked and love those who hate the LORD?'"
+  },
+  {
+    "text": "When faced with a vast army, what was King Jehoshaphat's first response?",
+    "options": ["Prepare for battle", "Flee the city", "Seek the LORD and proclaim a fast", "Send spies"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Easy",
+    "verseReference": "2 Chronicles 20:3",
+    "verseText": "Then Jehoshaphat was afraid and set his face to seek the LORD, and proclaimed a fast throughout all Judah."
+  },
+  {
+    "text": "Who usurped the throne of Judah after King Ahaziah's death by killing the royal offspring?",
+    "options": ["Jehoram", "Jezebel", "Athaliah", "Joash"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Easy",
+    "verseReference": "2 Chronicles 22:10",
+    "verseText": "Now when Athaliah the mother of Ahaziah saw that her son was dead, she arose and destroyed all the royal family of the house of Judah."
+  },
+  {
+    "text": "Which young king was hidden in the Temple for six years?",
+    "options": ["Ahaziah", "Joash (Jehoash)", "Amaziah", "Uzziah"],
+    "correctAnswerIndex": 1,
+    "book": "2 Chronicles",
+    "difficulty": "Easy",
+    "verseReference": "2 Chronicles 22:12",
+    "verseText": "And he was with them hidden in the house of God for six years, while Athaliah reigned over the land."
+  },
+  {
+    "text": "Which priest led the coup against Athaliah and restored Joash to the throne?",
+    "options": ["Zadok", "Abiathar", "Jehoiada", "Hilkiah"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Easy",
+    "verseReference": "2 Chronicles 23:1",
+    "verseText": "But in the seventh year Jehoiada took courage... and they went about through Judah and gathered the Levites..."
+  },
+  {
+    "text": "King Joash repaired which important building?",
+    "options": ["The city walls", "His palace", "The Temple of the LORD", "The royal stables"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Easy",
+    "verseReference": "2 Chronicles 24:4",
+    "verseText": "After this Joash decided to restore the house of the LORD."
+  },
+  {
+    "text": "Which king was struck with leprosy for unlawfully burning incense in the Temple?",
+    "options": ["Joash", "Amaziah", "Uzziah (Azariah)", "Jotham"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Easy",
+    "verseReference": "2 Chronicles 26:19-20",
+    "verseText": "Then Uzziah was angry... And when he was angry with the priests, leprosy broke out on his forehead..."
+  },
+  {
+    "text": "Which king of Judah famously reopened and cleansed the Temple after his father Ahaz had closed it?",
+    "options": ["Jotham", "Manasseh", "Hezekiah", "Josiah"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Easy",
+    "verseReference": "2 Chronicles 29:3",
+    "verseText": "In the first year of his reign, in the first month, he opened the doors of the house of the LORD and repaired them."
+  },
+  {
+    "text": "King Hezekiah reinstituted the celebration of which major festival?",
+    "options": ["Feast of Tabernacles", "Passover", "Pentecost", "Day of Atonement"],
+    "correctAnswerIndex": 1,
+    "book": "2 Chronicles",
+    "difficulty": "Easy",
+    "verseReference": "2 Chronicles 30:1",
+    "verseText": "Hezekiah sent to all Israel and Judah, and wrote letters also to Ephraim and Manasseh, that they should come to the house of the LORD at Jerusalem to keep the Passover to the LORD..."
+  },
+  {
+    "text": "Which Assyrian king besieged Jerusalem during Hezekiah's reign?",
+    "options": ["Tiglath-Pileser III", "Shalmaneser V", "Sargon II", "Sennacherib"],
+    "correctAnswerIndex": 3,
+    "book": "2 Chronicles",
+    "difficulty": "Easy",
+    "verseReference": "2 Chronicles 32:1",
+    "verseText": "After these things and these acts of faithfulness, Sennacherib king of Assyria came and invaded Judah and besieged the fortified cities..."
+  },
+  {
+    "text": "How was Sennacherib's army defeated outside Jerusalem?",
+    "options": ["By Hezekiah's army", "By a plague sent by an angel of the LORD", "By starvation", "By internal rebellion"],
+    "correctAnswerIndex": 1,
+    "book": "2 Chronicles",
+    "difficulty": "Easy",
+    "verseReference": "2 Chronicles 32:21",
+    "verseText": "And the LORD sent an angel, who cut off all the mighty warriors and commanders and officers in the camp of the king of Assyria."
+  },
+  {
+    "text": "Which king had the longest reign in Judah (55 years) and was known for his extreme wickedness, though he later repented?",
+    "options": ["Hezekiah", "Manasseh", "Amon", "Josiah"],
+    "correctAnswerIndex": 1,
+    "book": "2 Chronicles",
+    "difficulty": "Easy",
+    "verseReference": "2 Chronicles 33:1, 12-13",
+    "verseText": "Manasseh was twelve years old when he began to reign, and he reigned fifty-five years in Jerusalem... And when he was in distress, he entreated the favor of the LORD his God..."
+  },
+  {
+    "text": "Which righteous king began seeking God at age 16 and started major reforms, including the destruction of idols?",
+    "options": ["Hezekiah", "Manasseh", "Amon", "Josiah"],
+    "correctAnswerIndex": 3,
+    "book": "2 Chronicles",
+    "difficulty": "Easy",
+    "verseReference": "2 Chronicles 34:3",
+    "verseText": "For in the eighth year of his reign, while he was yet a boy, he began to seek the God of David his father, and in the twelfth year he began to purge Judah and Jerusalem..."
+  },
+  {
+    "text": "What important item was found in the Temple during Josiah's repairs?",
+    "options": ["The Ark of the Covenant", "The Book of the Law", "Aaron's rod", "A pot of manna"],
+    "correctAnswerIndex": 1,
+    "book": "2 Chronicles",
+    "difficulty": "Easy",
+    "verseReference": "2 Chronicles 34:14",
+    "verseText": "While they were bringing out the money... Hilkiah the priest found the Book of the Law of the LORD given through Moses."
+  },
+  {
+    "text": "How did the righteous King Josiah die?",
+    "options": ["Old age", "Illness", "In battle against Pharaoh Neco", "Assassination"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Easy",
+    "verseReference": "2 Chronicles 35:23-24",
+    "verseText": "And the archers shot King Josiah. And the king said to his servants, 'Take me away, for I am badly wounded.'... And he died..."
+  },
+  {
+    "text": "Which Babylonian king conquered Jerusalem and carried the people of Judah into exile?",
+    "options": ["Sennacherib", "Pharaoh Neco", "Nebuchadnezzar", "Cyrus"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Easy",
+    "verseReference": "2 Chronicles 36:17",
+    "verseText": "Therefore he brought up against them the king of the Chaldeans..."
+  },
+  {
+    "text": "What happened to the Temple vessels during the Babylonian exile?",
+    "options": ["They were hidden", "They were destroyed", "They were taken to Babylon", "They were melted down"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Easy",
+    "verseReference": "2 Chronicles 36:18",
+    "verseText": "And all the vessels of the house of God, great and small, and the treasures of the house of the LORD... he brought them all to Babylon."
+  },
+  {
+    "text": "Which Persian king issued a decree allowing the Jews to return and rebuild the Temple?",
+    "options": ["Darius", "Xerxes (Ahasuerus)", "Artaxerxes", "Cyrus"],
+    "correctAnswerIndex": 3,
+    "book": "2 Chronicles",
+    "difficulty": "Easy",
+    "verseReference": "2 Chronicles 36:22-23",
+    "verseText": "Now in the first year of Cyrus king of Persia... the LORD stirred up the spirit of Cyrus king of Persia, so that he made a proclamation... 'Whoever is among you of all his people, may the LORD his God be with him. Let him go up.'"
+  },
+  { 
+    "text": "What specific types of skilled workers did Solomon request from Hiram?",
+    "options": ["Farmers and shepherds", "Soldiers and guards", "Craftsmen in gold, silver, bronze, iron, purple, crimson, and blue fabrics, and engravers", "Scribes and administrators"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Medium",
+    "verseReference": "2 Chronicles 2:7",
+    "verseText": "So now send me a man skilled to work in gold, silver, bronze, and iron, and in purple, crimson, and blue fabrics, trained also in engraving..."
+  },
+  {
+    "text": "What were the names of the two large bronze pillars placed at the entrance of the Temple?",
+    "options": ["Boaz and Jachin", "Alpha and Omega", "David and Solomon", "Mercy and Judgment"],
+    "correctAnswerIndex": 0,
+    "book": "2 Chronicles",
+    "difficulty": "Medium",
+    "verseReference": "2 Chronicles 3:17",
+    "verseText": "He set up the pillars in front of the temple, one on the south, the other on the north; that on the south he called Jachin, and that on the north Boaz."
+  },
+  {
+    "text": "How many lampstands of gold did Solomon place inside the nave of the Temple?",
+    "options": ["One", "Two", "Seven", "Ten"],
+    "correctAnswerIndex": 3,
+    "book": "2 Chronicles",
+    "difficulty": "Medium",
+    "verseReference": "2 Chronicles 4:7",
+    "verseText": "And he made ten golden lampstands according to the specifications for them, and set them in the temple, five on the south side and five on the north."
+  },
+  {
+    "text": "In Solomon's prayer of dedication, he asked God to hear prayers offered towards the Temple even from what group of people?",
+    "options": ["Only Levites", "Only the king", "Foreigners", "Only residents of Jerusalem"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Medium",
+    "verseReference": "2 Chronicles 6:32",
+    "verseText": "'Likewise, when a foreigner, who is not of your people Israel, comes from a far country for your great name's sake... and prays toward this house...'"
+  },
+  {
+    "text": "What consumed the burnt offering and sacrifices when Solomon finished praying at the Temple dedication?",
+    "options": ["Water from heaven", "Locusts", "Fire from heaven", "An earthquake"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Medium",
+    "verseReference": "2 Chronicles 7:1",
+    "verseText": "As soon as Solomon finished his prayer, fire came down from heaven and consumed the burnt offering and the sacrifices, and the glory of the LORD filled the temple."
+  },
+  {
+    "text": "What condition did God give Solomon for establishing his throne forever in 2 Chronicles 7?",
+    "options": ["Conquering more nations", "Building more palaces", "Walking before God faithfully and obeying His commands", "Accumulating more wealth"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Medium",
+    "verseReference": "2 Chronicles 7:17-18",
+    "verseText": "'And as for you, if you will walk before me as David your father walked, doing according to all that I have commanded you and keeping my statutes and my rules, then I will establish your royal throne...'"
+  },
+  {
+    "text": "Where did Solomon build a fleet of ships, assisted by Hiram's servants?",
+    "options": ["Mediterranean Sea", "Sea of Galilee", "Ezion-geber near Eloth on the shore of the Red Sea", "The Nile River"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Medium",
+    "verseReference": "2 Chronicles 8:17",
+    "verseText": "Then Solomon went to Ezion-geber and Eloth on the shore of the sea, in the land of Edom."
+  },
+  {
+    "text": "How much gold did the Queen of Sheba give Solomon?",
+    "options": ["1 talent", "10 talents", "120 talents", "1000 talents"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Medium",
+    "verseReference": "2 Chronicles 9:9",
+    "verseText": "Then she gave the king 120 talents of gold, and a very great quantity of spices, and precious stones."
+  },
+  {
+    "text": "Which Egyptian king plundered the Temple and royal palace during Rehoboam's reign?",
+    "options": ["Pharaoh Neco", "Pharaoh Hophra", "Shishak", "Thutmose"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Medium",
+    "verseReference": "2 Chronicles 12:9",
+    "verseText": "So Shishak king of Egypt came up against Jerusalem. He took away the treasures of the house of the LORD and the treasures of the king's house. He took away everything."
+  },
+  {
+    "text": "Which prophet warned Rehoboam about the impending attack by Shishak due to Judah's unfaithfulness?",
+    "options": ["Shemaiah", "Ahijah", "Iddo", "Oded"],
+    "correctAnswerIndex": 0,
+    "book": "2 Chronicles",
+    "difficulty": "Medium",
+    "verseReference": "2 Chronicles 12:5",
+    "verseText": "Then Shemaiah the prophet came to Rehoboam and to the princes of Judah, who had gathered at Jerusalem because of Shishak, and said to them, 'Thus says the LORD, You abandoned me, so I have abandoned you to the hand of Shishak.'"
+  },
+  {
+    "text": "King Abijah of Judah won a major victory against which king of Israel?",
+    "options": ["Ahab", "Omri", "Jeroboam", "Baasha"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Medium",
+    "verseReference": "2 Chronicles 13:19-20",
+    "verseText": "And Abijah pursued Jeroboam and took cities from him... Jeroboam did not recover his power in the days of Abijah."
+  },
+  {
+    "text": "King Asa faced a massive army led by which Cushite commander?",
+    "options": ["Sennacherib", "Nebuchadnezzar", "Zerah", "Hadadezer"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Medium",
+    "verseReference": "2 Chronicles 14:9",
+    "verseText": "Zerah the Ethiopian came out against them with an army of a million men and 300 chariots..."
+  },
+  {
+    "text": "Which prophet encouraged Asa to continue his reforms after the victory over the Cushites?",
+    "options": ["Hanani", "Azariah son of Oded", "Jehu son of Hanani", "Micah"],
+    "correctAnswerIndex": 1,
+    "book": "2 Chronicles",
+    "difficulty": "Medium",
+    "verseReference": "2 Chronicles 15:1,8",
+    "verseText": "The Spirit of God came upon Azariah the son of Oded... When Asa heard these words, the prophecy of Azariah the son of Oded, he took courage..."
+  },
+  {
+    "text": "Why was the seer Hanani imprisoned by King Asa?",
+    "options": ["For prophesying defeat", "For rebuking Asa for relying on the king of Syria instead of God", "For conspiring against the king", "For demanding higher taxes"],
+    "correctAnswerIndex": 1,
+    "book": "2 Chronicles",
+    "difficulty": "Medium",
+    "verseReference": "2 Chronicles 16:7,10",
+    "verseText": "At that time Hanani the seer came to Asa king of Judah and said to him, 'Because you relied on the king of Syria, and did not rely on the LORD your God...' Then Asa was angry with the seer and put him in the stocks..."
+  },
+  {
+    "text": "What educational initiative did King Jehoshaphat implement throughout Judah?",
+    "options": ["Building libraries", "Sending princes and Levites to teach the Book of the Law", "Establishing philosophical schools", "Translating foreign texts"],
+    "correctAnswerIndex": 1,
+    "book": "2 Chronicles",
+    "difficulty": "Medium",
+    "verseReference": "2 Chronicles 17:7-9",
+    "verseText": "In the third year of his reign he sent his officials... And with them the Levites... And they taught in Judah, having the Book of the Law of the LORD with them."
+  },
+  {
+    "text": "Which prophet predicted King Ahab's death in the battle at Ramoth-gilead, despite 400 other prophets predicting victory?",
+    "options": ["Elijah", "Jehu son of Hanani", "Micaiah son of Imlah", "Isaiah"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Medium",
+    "verseReference": "2 Chronicles 18:16",
+    "verseText": "But Micaiah said, 'As the LORD lives, what my God says, that I will speak.'... 'I saw all Israel scattered on the mountains, as sheep that have no shepherd.'"
+  },
+  {
+    "text": "How did the LORD defeat the armies of Ammon, Moab, and Mount Seir when they came against Jehoshaphat?",
+    "options": ["A great earthquake", "They turned on each other and destroyed themselves", "A flood", "Disease"],
+    "correctAnswerIndex": 1,
+    "book": "2 Chronicles",
+    "difficulty": "Medium",
+    "verseReference": "2 Chronicles 20:22-23",
+    "verseText": "And when they began to sing and praise, the LORD set an ambush against the men of Ammon, Moab, and Mount Seir... and they were routed... they helped to destroy one another."
+  },
+  {
+    "text": "What gruesome end did King Jehoram of Judah (Jehoshaphat's son) suffer due to his wickedness?",
+    "options": ["Killed in battle", "Assassinated by servants", "Struck by lightning", "His bowels came out due to a disease"],
+    "correctAnswerIndex": 3,
+    "book": "2 Chronicles",
+    "difficulty": "Medium",
+    "verseReference": "2 Chronicles 21:18-19",
+    "verseText": "And after all this the LORD struck him in his bowels with an incurable disease... his bowels came out because of the disease, and he died in great agony."
+  },
+  {
+    "text": "Which relative advised the wicked King Ahaziah of Judah?",
+    "options": ["His father Jehoram", "His mother Athaliah", "His uncle Ahab", "His grandfather Jehoshaphat"],
+    "correctAnswerIndex": 1,
+    "book": "2 Chronicles",
+    "difficulty": "Medium",
+    "verseReference": "2 Chronicles 22:3",
+    "verseText": "He also walked in the ways of the house of Ahab, for his mother was his counselor in doing wickedly."
+  },
+  {
+    "text": "Who killed King Ahaziah of Judah while purging the house of Ahab in Israel?",
+    "options": ["Athaliah", "Jehu", "Hazael of Syria", "His own servants"],
+    "correctAnswerIndex": 1,
+    "book": "2 Chronicles",
+    "difficulty": "Medium",
+    "verseReference": "2 Chronicles 22:8-9",
+    "verseText": "When Jehu was executing judgment on the house of Ahab... He searched for Ahaziah, and he was captured... and brought to Jehu and put to death."
+  },
+  {
+    "text": "King Joash turned away from God after the death of which influential figure?",
+    "options": ["His mother Zibiah", "The prophet Zechariah", "The priest Jehoiada", "His son Amaziah"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Medium",
+    "verseReference": "2 Chronicles 24:17",
+    "verseText": "Now after the death of Jehoiada the princes of Judah came and paid homage to the king. Then the king listened to them."
+  },
+  {
+    "text": "Which prophet, the son of Jehoiada the priest, did King Joash have stoned to death in the Temple court?",
+    "options": ["Isaiah", "Jeremiah", "Zechariah", "Hosea"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Medium",
+    "verseReference": "2 Chronicles 24:20-21",
+    "verseText": "Then the Spirit of God clothed Zechariah the son of Jehoiada the priest... But they conspired against him, and by command of the king they stoned him with stones in the court of the house of the LORD."
+  },
+  {
+    "text": "King Amaziah hired soldiers from which nation, only to send them back at a prophet's warning?",
+    "options": ["Egypt", "Syria (Aram)", "Israel (Ephraim)", "Edom"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Medium",
+    "verseReference": "2 Chronicles 25:6-7",
+    "verseText": "He hired also 100,000 mighty men of valor from Israel for 100 talents of silver. But a man of God came to him and said, 'O king, do not let the army of Israel go with you...'"
+  },
+  {
+    "text": "After defeating the Edomites, what foolish thing did King Amaziah do?",
+    "options": ["Made an alliance with Syria", "Attacked Egypt", "Brought back the gods of Edom and worshipped them", "Disbanded his army"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Medium",
+    "verseReference": "2 Chronicles 25:14",
+    "verseText": "After Amaziah came from striking down the Edomites, he brought the gods of the men of Seir and set them up as his gods and bowed down before them and burned incense to them."
+  },
+  {
+    "text": "Which king of Israel defeated and captured King Amaziah of Judah?",
+    "options": ["Jeroboam II", "Jehu", "Jehoash (Joash)", "Pekah"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Medium",
+    "verseReference": "2 Chronicles 25:21-23",
+    "verseText": "So Joash king of Israel went up... Joash king of Israel captured Amaziah king of Judah..."
+  },
+  {
+    "text": "King Uzziah became famous for strengthening Jerusalem and developing what?",
+    "options": ["A large navy", "International trade routes", "Agriculture and military inventions", "A school of prophets"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Medium",
+    "verseReference": "2 Chronicles 26:9-10, 15",
+    "verseText": "Moreover, Uzziah built towers in Jerusalem... And he built towers in the wilderness and dug many cisterns, for he had large herds... he made engines, invented by skillful men..."
+  },
+  {
+    "text": "Which king of Judah was contemporary with the prophets Isaiah and Micah?",
+    "options": ["Amaziah", "Uzziah", "Jotham", "Ahaz"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Medium",
+    "verseReference": "2 Chronicles 27:Intro, Isaiah 1:1, Micah 1:1",
+    "verseText": "Jotham was twenty-five years old when he began to reign... (Isaiah 1:1 and Micah 1:1 list Jotham as a king during their ministry)"
+  },
+  {
+    "text": "King Ahaz practiced extreme idolatry, including sacrificing his own sons in which valley?",
+    "options": ["Valley of Jezreel", "Kidron Valley", "Valley of Hinnom", "Valley of Elah"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Medium",
+    "verseReference": "2 Chronicles 28:3",
+    "verseText": "...and he burned his sons as an offering in the Valley of the Son of Hinnom, according to the abominations of the nations whom the LORD drove out..."
+  },
+  {
+    "text": "Which prophet intervened when Israel (Ephraim) took many captives from Judah during Ahaz's reign, causing them to be returned?",
+    "options": ["Isaiah", "Oded", "Micah", "Hosea"],
+    "correctAnswerIndex": 1,
+    "book": "2 Chronicles",
+    "difficulty": "Medium",
+    "verseReference": "2 Chronicles 28:9",
+    "verseText": "But a prophet of the LORD was there, whose name was Oded, and he went out to meet the army that came to Samaria and said to them..."
+  },
+  {
+    "text": "What did King Ahaz do to the Temple of the LORD before his death?",
+    "options": ["Renovated it lavishly", "Expanded it", "Shut its doors and made altars in every corner of Jerusalem", "Installed idols from Egypt"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Medium",
+    "verseReference": "2 Chronicles 28:24",
+    "verseText": "And Ahaz gathered together the vessels of the house of God and cut in pieces the vessels... and he shut up the doors of the house of the LORD, and he made himself altars in every corner of Jerusalem."
+  },
+  {
+    "text": "During Hezekiah's Passover celebration, many attendees were ritually unclean. How was this addressed?",
+    "options": ["They were sent away", "The celebration was postponed", "Hezekiah prayed for God to pardon them", "They performed extra sacrifices"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Medium",
+    "verseReference": "2 Chronicles 30:18-20",
+    "verseText": "For a majority of the people... had not cleansed themselves... But Hezekiah prayed for them, saying, 'May the good LORD pardon everyone...' And the LORD heard Hezekiah and healed the people."
+  },
+  {
+    "text": "What engineering feat did Hezekiah accomplish to secure Jerusalem's water supply against the Assyrians?",
+    "options": ["Built aqueducts from afar", "Dug massive wells inside the city", "Constructed a tunnel from the Gihon Spring into the city", "Created large rainwater reservoirs"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Medium",
+    "verseReference": "2 Chronicles 32:3-4, 30",
+    "verseText": "...this same Hezekiah closed the upper outlet of the waters of Gihon and directed them down to the west side of the city of David."
+  },
+  {
+    "text": "Why did envoys from Babylon come to Hezekiah?",
+    "options": ["To form a military alliance", "To offer tribute", "To inquire about the miraculous sign (sun's shadow moving back) that had happened", "To demand submission"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Medium",
+    "verseReference": "2 Chronicles 32:31",
+    "verseText": "And so in the matter of the envoys of the princes of Babylon, who had been sent to him to inquire about the sign that had been done in the land, God left him to himself, in order to test him..."
+  },
+  {
+    "text": "Where was King Manasseh taken captive by the Assyrians?",
+    "options": ["Nineveh", "Damascus", "Egypt", "Babylon"],
+    "correctAnswerIndex": 3,
+    "book": "2 Chronicles",
+    "difficulty": "Medium",
+    "verseReference": "2 Chronicles 33:11",
+    "verseText": "Therefore the LORD brought upon them the commanders of the army of the king of Assyria, who captured Manasseh with hooks and bound him with chains of bronze and brought him to Babylon."
+  },
+  {
+    "text": "After his repentance, what did Manasseh do upon returning to Jerusalem?",
+    "options": ["Abdicated the throne", "Built more pagan altars", "Removed foreign gods, restored the LORD's altar, and commanded Judah to serve God", "Focused only on military strength"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Medium",
+    "verseReference": "2 Chronicles 33:15-16",
+    "verseText": "And he took away the foreign gods and the idol from the house of the LORD... He also restored the altar of the LORD and offered on it sacrifices... and commanded Judah to serve the LORD, the God of Israel."
+  },
+  {
+    "text": "How long did King Amon, Manasseh's wicked son, reign before being assassinated?",
+    "options": ["6 months", "1 year", "2 years", "5 years"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Medium",
+    "verseReference": "2 Chronicles 33:21",
+    "verseText": "Amon was twenty-two years old when he began to reign, and he reigned two years in Jerusalem."
+  },
+  {
+    "text": "Besides Hilkiah the priest, who was the scribe who read the discovered Book of the Law to King Josiah?",
+    "options": ["Baruch", "Gemariah", "Shaphan", "Elishama"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Medium",
+    "verseReference": "2 Chronicles 34:15, 18",
+    "verseText": "Then Hilkiah answered and said to Shaphan the secretary, 'I have found the Book of the Law...' And Shaphan read from it before the king."
+  },
+  {
+    "text": "Which prophetess did Josiah's officials consult after the Book of the Law was found?",
+    "options": ["Deborah", "Miriam", "Huldah", "Anna"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Medium",
+    "verseReference": "2 Chronicles 34:22",
+    "verseText": "So Hilkiah and those whom the king had sent went to Huldah the prophetess..."
+  },
+  {
+    "text": "King Josiah's Passover celebration was noted for its scale and adherence to the Law, surpassing any Passover since the time of which judge/prophet?",
+    "options": ["Gideon", "Samson", "Samuel", "Eli"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Medium",
+    "verseReference": "2 Chronicles 35:18",
+    "verseText": "No Passover like it had been kept in Israel since the days of Samuel the prophet."
+  },
+  {
+    "text": "Why was Pharaoh Neco traveling through Judah when he confronted Josiah at Megiddo?",
+    "options": ["To conquer Judah", "To aid the king of Assyria against Babylon at Carchemish", "To trade with Tyre", "To establish a garrison"],
+    "correctAnswerIndex": 1,
+    "book": "2 Chronicles",
+    "difficulty": "Medium",
+    "verseReference": "2 Chronicles 35:20-21",
+    "verseText": "After all this... Neco king of Egypt went up to fight at Carchemish on the Euphrates... But Neco sent messengers to him, saying... 'I have not come against you this day, but against the house with which I am at war. And God has commanded me to hurry.'"
+  },
+  { 
+    "text": "What specific wood, besides cedar and cypress, did Solomon request from Hiram, known for its use in musical instruments and stairs?",
+    "options": ["Oak", "Algum (or Almug)", "Ebony", "Teak"],
+    "correctAnswerIndex": 1,
+    "book": "2 Chronicles",
+    "difficulty": "Hard",
+    "verseReference": "2 Chronicles 2:8",
+    "verseText": "Send me also cedar, cypress, and algum timber from Lebanon..."
+  },
+  {
+    "text": "How many chief officers did Solomon appoint to oversee the work on the Temple?",
+    "options": ["150", "550", "3,600", "30,000"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Hard",
+    "verseReference": "2 Chronicles 2:18",
+    "verseText": "He assigned 70,000 of them to bear burdens and 80,000 to quarry in the hill country, and 3,600 to oversee them."
+  },
+  {
+    "text": "The dimensions of the Most Holy Place (Holy of Holies) in Solomon's Temple were described as a perfect cube of what size?",
+    "options": ["10 cubits x 10 cubits x 10 cubits", "20 cubits x 20 cubits x 20 cubits", "30 cubits x 30 cubits x 30 cubits", "40 cubits x 40 cubits x 40 cubits"],
+    "correctAnswerIndex": 1,
+    "book": "2 Chronicles",
+    "difficulty": "Hard",
+    "verseReference": "2 Chronicles 3:8",
+    "verseText": "He made the Most Holy Place; its length, corresponding to the breadth of the house, was twenty cubits, and its breadth was twenty cubits."
+  },
+  {
+    "text": "What was the combined weight of gold used to overlay the Most Holy Place?",
+    "options": ["100 talents", "300 talents", "600 talents", "1000 talents"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Hard",
+    "verseReference": "2 Chronicles 3:8",
+    "verseText": "He overlaid it with fine gold amounting to 600 talents."
+  },
+  {
+    "text": "How many bronze lavers (basins) were made for the Temple priests to wash the offerings, in addition to the large 'Sea'?",
+    "options": ["One", "Five", "Ten", "Twelve"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Hard",
+    "verseReference": "2 Chronicles 4:6",
+    "verseText": "He also made ten basins in which to wash, and set five on the south side, and five on the north side. In these they were to rinse the parts of the burnt offering..."
+  },
+  {
+    "text": "How many kors of wheat and kors of pressed oil did Solomon give Hiram annually for his workers?",
+    "options": ["10,000 each", "20,000 each", "50,000 each", "100,000 each"],
+    "correctAnswerIndex": 1,
+    "book": "2 Chronicles",
+    "difficulty": "Hard",
+    "verseReference": "2 Chronicles 2:10",
+    "verseText": "I will give for your servants, the woodsmen who cut timber, 20,000 cors of crushed wheat, 20,000 cors of barley, 20,000 baths of wine, and 20,000 baths of oil. (Note: 'baths' used for liquids, 'cors' for grains)"
+  },
+  {
+    "text": "Which specific fortified cities did Rehoboam build up in Judah and Benjamin after the kingdom split?",
+    "options": ["Jericho, Ai, Bethel", "Bethlehem, Etam, Tekoa, Beth-zur, Soco, Adullam, Gath, Mareshah, Ziph, Adoraim, Lachish, Azekah, Zorah, Aijalon, Hebron", "Megiddo, Hazor, Gezer", "Samaria, Tirzah, Shechem"],
+    "correctAnswerIndex": 1,
+    "book": "2 Chronicles",
+    "difficulty": "Hard",
+    "verseReference": "2 Chronicles 11:5-10",
+    "verseText": "Rehoboam lived in Jerusalem and built fortified cities in Judah... Bethlehem, Etam, Tekoa... (lists all cities)"
+  },
+  {
+    "text": "From which specific tribes did priests and Levites migrate to Judah because Jeroboam had excluded them from serving the LORD in Israel?",
+    "options": ["Only Levi", "Levi and Benjamin", "From all the tribes of Israel", "Judah and Simeon"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Hard",
+    "verseReference": "2 Chronicles 11:13-14, 16",
+    "verseText": "And the priests and the Levites who were in all Israel presented themselves to him from all their territories... And those who had set their hearts to seek the LORD God of Israel came after them from all the tribes of Israel to Jerusalem..."
+  },
+  {
+    "text": "During the battle between Abijah and Jeroboam, how many chosen men comprised Abijah's army from Judah?",
+    "options": ["100,000", "200,000", "400,000", "800,000"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Hard",
+    "verseReference": "2 Chronicles 13:3",
+    "verseText": "Abijah went out to battle having an army of valiant men of war, 400,000 chosen men..."
+  },
+  {
+    "text": "King Asa removed his own grandmother, Maacah, from being queen mother because she had made what?",
+    "options": ["A treaty with Egypt", "An abominable image for Asherah", "A golden calf", "A competing temple"],
+    "correctAnswerIndex": 1,
+    "book": "2 Chronicles",
+    "difficulty": "Hard",
+    "verseReference": "2 Chronicles 15:16",
+    "verseText": "Even Maacah, his mother, King Asa removed from being queen mother because she had made an abominable image for Asherah. Asa cut down her image, crushed it, and burned it at the brook Kidron."
+  },
+  {
+    "text": "What specific disease afflicted King Asa in his old age, for which he sought physicians rather than the LORD?",
+    "options": ["Leprosy", "Boils", "A severe disease in his feet", "Blindness"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Hard",
+    "verseReference": "2 Chronicles 16:12",
+    "verseText": "In the thirty-ninth year of his reign Asa was diseased in his feet, and his disease became severe. Yet even in his disease he did not seek the LORD, but sought help from physicians."
+  },
+  {
+    "text": "Who was the commander of King Jehoshaphat's army, leading 300,000 mighty men of valor?",
+    "options": ["Jehoiada", "Adnah", "Amasiah", "Eliada"],
+    "correctAnswerIndex": 1,
+    "book": "2 Chronicles",
+    "difficulty": "Hard",
+    "verseReference": "2 Chronicles 17:14",
+    "verseText": "This was the muster of them by fathers' houses: Of Judah, the commanders of thousands: Adnah the commander, with 300,000 mighty men of valor..."
+  },
+  {
+    "text": "What did the singers whom Jehoshaphat appointed chant as they went out before the army against Moab and Ammon?",
+    "options": ["The LORD is my shepherd", "'Give thanks to the LORD, for his steadfast love endures forever'", "The LORD reigns", "A Mighty Fortress Is Our God"],
+    "correctAnswerIndex": 1,
+    "book": "2 Chronicles",
+    "difficulty": "Hard",
+    "verseReference": "2 Chronicles 20:21",
+    "verseText": "And when he had taken counsel with the people, he appointed those who were to sing to the LORD and praise him in holy attire, as they went before the army, and say, 'Give thanks to the LORD, for his steadfast love endures forever.'"
+  },
+  {
+    "text": "Which Edomite city revolted against Jehoram's rule over Judah?",
+    "options": ["Petra", "Bozrah", "Libnah", "Teman"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Hard",
+    "verseReference": "2 Chronicles 21:10",
+    "verseText": "So Edom revolted from the rule of Judah to this day. At that time Libnah also revolted from his rule, because he had forsaken the LORD, the God of his fathers."
+  },
+  {
+    "text": "Elijah sent a letter to King Jehoram predicting his gruesome death. What makes this unusual in the context of Elijah's ministry?",
+    "options": ["Elijah usually delivered prophecies orally", "Elijah primarily ministered in the Northern Kingdom (Israel), not Judah", "The letter was written after Elijah was taken to heaven", "Both A and B"],
+    "correctAnswerIndex": 3,
+    "book": "2 Chronicles",
+    "difficulty": "Hard",
+    "verseReference": "2 Chronicles 21:12",
+    "verseText": "And a letter came to him from Elijah the prophet, saying... (Elijah's main ministry was Israel, and sending a letter was less common than direct confrontation)"
+  },
+  {
+    "text": "During Jehoiada's restoration of Joash, specific groups were armed and stationed around the temple. Besides the Levites and guards, which other group from the people was involved?",
+    "options": ["Foreign mercenaries", "The king's personal cavalry", "The 'people of the land' who entered the house of Baal", "Elders from Bethlehem"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Hard",
+    "verseReference": "2 Chronicles 23:13, 17",
+    "verseText": "Then all the people went to the house of Baal and tore it down... (implying the general populace supported the coup and destruction)"
+  },
+  {
+    "text": "After Jehoiada's death, who specifically persuaded King Joash to abandon the house of the LORD and serve Asherim and idols?",
+    "options": ["His wives", "Officials/princes of Judah", "Merchants from Tyre", "Prophets of Baal"],
+    "correctAnswerIndex": 1,
+    "book": "2 Chronicles",
+    "difficulty": "Hard",
+    "verseReference": "2 Chronicles 24:17-18",
+    "verseText": "Now after the death of Jehoiada the officials of Judah came and paid homage to the king. Then the king listened to them. And they abandoned the house of the LORD... and served the Asherim and the idols."
+  },
+  {
+    "text": "How did King Joash die?",
+    "options": ["In battle against Syria", "From disease", "Assassinated by his own servants in his bed", "Fell from a tower"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Hard",
+    "verseReference": "2 Chronicles 24:25",
+    "verseText": "...his own servants conspired against him because of the blood of the son of Jehoiada the priest, and killed him on his bed."
+  },
+  {
+    "text": "King Amaziah challenged Jehoash, king of Israel, using a fable involving what two plants?",
+    "options": ["An olive tree and a fig tree", "A vine and a bramble", "A cedar and a thistle", "A mustard seed and a weed"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Hard",
+    "verseReference": "2 Chronicles 25:18",
+    "verseText": "And Joash the king of Israel sent word to Amaziah king of Judah, 'A thistle on Lebanon sent to a cedar on Lebanon, saying, Give your daughter to my son for a wife...'"
+  },
+  {
+    "text": "How many priests physically confronted King Uzziah when he entered the Temple to burn incense?",
+    "options": ["10", "40", "81 (Azariah and 80 brave priests)", "150"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Hard",
+    "verseReference": "2 Chronicles 26:17-18",
+    "verseText": "But Azariah the priest went in after him, and with him eighty priests of the LORD who were men of valor. And they withstood King Uzziah..."
+  },
+  {
+    "text": "King Jotham defeated the Ammonites and received tribute from them for how many consecutive years?",
+    "options": ["One year", "Two years", "Three years", "Five years"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Hard",
+    "verseReference": "2 Chronicles 27:5",
+    "verseText": "He fought with the king of the Ammonites and prevailed against them. And the Ammonites gave him in that year 100 talents of silver... This they paid him in the second and third years also."
+  },
+  {
+    "text": "Which two specific kings allied against Ahaz, leading him to appeal to Assyria for help?",
+    "options": ["King of Moab and King of Ammon", "Rezin king of Syria and Pekah king of Israel", "King of Egypt and King of Edom", "King of Babylon and King of Elam"],
+    "correctAnswerIndex": 1,
+    "book": "2 Chronicles",
+    "difficulty": "Hard",
+    "verseReference": "2 Chronicles 28:5-6 (Context matches Isaiah 7)",
+    "verseText": "Therefore the LORD his God gave him into the hand of the king of Syria, who defeated him... He was also given into the hand of the king of Israel, who struck him with great force."
+  },
+  {
+    "text": "How long did the Levites take to cleanse the Temple court and the Temple itself during Hezekiah's reforms?",
+    "options": ["3 days", "7 days", "16 days (8 days for court, 8 days for temple)", "30 days"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Hard",
+    "verseReference": "2 Chronicles 29:17",
+    "verseText": "They began to consecrate on the first day of the first month, and on the eighth day of the month they came to the vestibule of the LORD. Then for eight days they consecrated the house of the LORD, and on the sixteenth day of the first month they finished."
+  },
+  {
+    "text": "Hezekiah's display of treasures to the Babylonian envoys is mentioned as a test from God. Which prophet explicitly rebuked him for this action (detailed more in Isaiah/2 Kings)?",
+    "options": ["Micah", "Huldah", "Isaiah", "Jeremiah"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Hard",
+    "verseReference": "2 Chronicles 32:31 (Compare Isaiah 39:1-8)",
+    "verseText": "God left him to himself, in order to test him and to know all that was in his heart. (Isaiah 39 details Isaiah's rebuke)"
+  },
+  {
+    "text": "Where specifically was King Manasseh buried, indicating a lack of full royal honors despite his repentance?",
+    "options": ["In the tomb of the kings", "In his own house/garden", "On Mount Zion", "In Babylon"],
+    "correctAnswerIndex": 1,
+    "book": "2 Chronicles",
+    "difficulty": "Hard",
+    "verseReference": "2 Chronicles 33:20",
+    "verseText": "So Manasseh slept with his fathers, and they buried him in his own house..."
+  },
+  {
+    "text": "What was the specific reaction of King Josiah when he heard the words of the Book of the Law?",
+    "options": ["He rejoiced", "He questioned its authenticity", "He tore his clothes", "He immediately offered sacrifice"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Hard",
+    "verseReference": "2 Chronicles 34:19",
+    "verseText": "When the king heard the words of the Law, he tore his clothes."
+  },
+  {
+    "text": "What reason did Pharaoh Neco give Josiah for demanding passage, claiming divine direction?",
+    "options": ["He had a dream", "His astrologers advised it", "'God is with me, commanding me to hurry'", "He was pursuing fugitives"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Hard",
+    "verseReference": "2 Chronicles 35:21",
+    "verseText": "But Neco sent messengers to him, saying... 'God is with me, commanding me to hurry. Cease opposing God, who is with me, lest he destroy you.'"
+  },
+  {
+    "text": "Which prophet lamented for King Josiah after his death?",
+    "options": ["Isaiah", "Huldah", "Zephaniah", "Jeremiah"],
+    "correctAnswerIndex": 3,
+    "book": "2 Chronicles",
+    "difficulty": "Hard",
+    "verseReference": "2 Chronicles 35:25",
+    "verseText": "Jeremiah also uttered a lament for Josiah. And all the singing men and singing women have spoken of Josiah in their laments to this day."
+  },
+  {
+    "text": "How long did Jehoahaz (Shallum), Josiah's successor, reign before being deposed by Pharaoh Neco?",
+    "options": ["One month", "Three months", "Six months", "One year"],
+    "correctAnswerIndex": 1,
+    "book": "2 Chronicles",
+    "difficulty": "Hard",
+    "verseReference": "2 Chronicles 36:2",
+    "verseText": "Jehoahaz was twenty-three years old when he began to reign, and he reigned three months in Jerusalem."
+  },
+  {
+    "text": "How long did the land enjoy its Sabbaths during the Babylonian exile, fulfilling a prophecy?",
+    "options": ["40 years", "50 years", "70 years", "100 years"],
+    "correctAnswerIndex": 2,
+    "book": "2 Chronicles",
+    "difficulty": "Hard",
+    "verseReference": "2 Chronicles 36:21",
+    "verseText": "...to fulfill the word of the LORD by the mouth of Jeremiah, until the land had enjoyed its Sabbaths. All the days that it lay desolate it kept Sabbath, to fulfill seventy years."
+  }
+]

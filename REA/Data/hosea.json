@@ -1,0 +1,92 @@
+[
+  {
+    "text": "Hosea prophesied primarily to which kingdom?",
+    "options": ["Judah (Southern Kingdom)", "Israel (Northern Kingdom)", "Edom", "Assyria"],
+    "correctAnswerIndex": 1,
+    "book": "Hosea",
+    "difficulty": "Easy",
+    "verseReference": "Hosea 1:1 (Context)",
+    "verseText": "(Prophecy directed towards Ephraim/Israel, contrasting with Judah mentioned in the dating)"
+  },
+  {
+    "text": "What unusual command did God give Hosea at the beginning of his ministry?",
+    "options": ["To build an altar", "To marry a prostitute (a wife of whoredom)", "To live in the wilderness", "To shave his head"],
+    "correctAnswerIndex": 1,
+    "book": "Hosea",
+    "difficulty": "Easy",
+    "verseReference": "Hosea 1:2",
+    "verseText": "When the LORD first spoke through Hosea, the LORD said to Hosea, “Go, take to yourself a wife of whoredom and have children of whoredom, for the land commits great whoredom by forsaking the LORD.”"
+  },
+  {
+    "text": "Who was the woman Hosea married?",
+    "options": ["Jezebel", "Rahab", "Gomer", "Ruth"],
+    "correctAnswerIndex": 2,
+    "book": "Hosea",
+    "difficulty": "Easy",
+    "verseReference": "Hosea 1:3",
+    "verseText": "So he went and took Gomer, the daughter of Diblaim, and she conceived and bore him a son."
+  },
+  {
+    "text": "What did Hosea's marriage and his wife's unfaithfulness symbolize?",
+    "options": ["The faithfulness of God", "Israel's unfaithfulness to God", "The strength of marriage vows", "The wickedness of surrounding nations"],
+    "correctAnswerIndex": 1,
+    "book": "Hosea",
+    "difficulty": "Medium",
+    "verseReference": "Hosea 1:2, Chapter 2",
+    "verseText": "...for the land commits great whoredom by forsaking the LORD. (The subsequent chapters detail the comparison)"
+  },
+  {
+    "text": "What were the symbolic names of Hosea's children?",
+    "options": ["Faith, Hope, Love", "Jezreel, No Mercy (Lo-ruhama), Not My People (Lo-ammi)", "David, Solomon, Hezekiah", "Abraham, Isaac, Jacob"],
+    "correctAnswerIndex": 1,
+    "book": "Hosea",
+    "difficulty": "Medium",
+    "verseReference": "Hosea 1:4-9",
+    "verseText": "Call his name Jezreel... Call her name No Mercy... Call his name Not My People."
+  },
+  {
+    "text": "Despite Israel's unfaithfulness, what does God promise to do in Hosea 2?",
+    "options": ["Destroy them completely", "Forget them forever", "Allure her, speak tenderly, and betroth her to Himself forever", "Give them over to their enemies permanently"],
+    "correctAnswerIndex": 2,
+    "book": "Hosea",
+    "difficulty": "Medium",
+    "verseReference": "Hosea 2:14, 19",
+    "verseText": "“Therefore, behold, I will allure her, and bring her into the wilderness, and speak tenderly to her... And I will betroth you to me forever. I will betroth you to me in righteousness and in justice, in steadfast love and in mercy."
+  },
+  {
+    "text": "In Hosea 3, what was Hosea commanded to do regarding Gomer after she left him?",
+    "options": ["Forget her", "Denounce her publicly", "Go again, love her, and buy her back", "Marry another woman"],
+    "correctAnswerIndex": 2,
+    "book": "Hosea",
+    "difficulty": "Medium",
+    "verseReference": "Hosea 3:1-2",
+    "verseText": "And the LORD said to me, “Go again, love a woman who is loved by another man and is an adulteress, even as the LORD loves rescheduling the children of Israel, though they turn to other gods... So I bought her for fifteen shekels of silver..."
+  },
+  {
+    "text": "What accusation does God bring against Israel in Hosea 4:6?",
+    "options": ["They lack wealth", "They lack military strength", "They are destroyed for lack of knowledge (of God)", "They lack political allies"],
+    "correctAnswerIndex": 2,
+    "book": "Hosea",
+    "difficulty": "Easy",
+    "verseReference": "Hosea 4:6",
+    "verseText": "My people are destroyed for lack of knowledge; because you have rejected knowledge, I reject you from being a priest to me. And since you have forgotten the law of your God, I also will forget your children."
+  },
+  {
+    "text": "In Hosea 6:6, what does God desire more than sacrifice?",
+    "options": ["Burnt offerings", "Gold and silver", "Steadfast love and the knowledge of God", "Fasting and prayer"],
+    "correctAnswerIndex": 2,
+    "book": "Hosea",
+    "difficulty": "Easy",
+    "verseReference": "Hosea 6:6",
+    "verseText": "For I desire steadfast love and not sacrifice, the knowledge of God rather than burnt offerings."
+  },
+  {
+    "text": "What agricultural metaphor does Hosea use in chapter 10 to describe Israel's sin?",
+    "options": ["Sowing righteousness, reaping steadfast love", "Sowing wickedness, reaping injustice", "Planting vineyards, harvesting grapes", "Plowing fields, gathering grain"],
+    "correctAnswerIndex": 1,
+    "book": "Hosea",
+    "difficulty": "Medium",
+    "verseReference": "Hosea 10:12-13",
+    "verseText": "Sow for yourselves righteousness; reap steadfast love... You have plowed iniquity; you have reaped injustice; you have eaten the fruit of lies."
+  }
+]

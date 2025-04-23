@@ -1,0 +1,92 @@
+[
+  {
+    "text": "Isaiah prophesied primarily during the reigns of which kings of Judah?",
+    "options": ["Saul, David, Solomon", "Rehoboam, Abijah, Asa", "Uzziah, Jotham, Ahaz, Hezekiah", "Manasseh, Amon, Josiah"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 1:1",
+    "verseText": "The vision of Isaiah the son of Amoz, which he saw concerning Judah and Jerusalem in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah."
+  },
+  {
+    "text": "In Isaiah 6, what event prompted Isaiah's vision of the Lord in the Temple?",
+    "options": ["The dedication of the Temple", "The coronation of King Hezekiah", "The year that King Uzziah died", "The invasion by the Assyrians"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 6:1",
+    "verseText": "In the year that King Uzziah died I saw the Lord sitting upon a throne, high and lifted up; and the train of his robe filled the temple."
+  },
+  {
+    "text": "What creatures flew above the throne in Isaiah's vision, calling 'Holy, holy, holy'?",
+    "options": ["Cherubim", "Angels", "Seraphim", "Eagles"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Easy",
+    "verseReference": "Isaiah 6:2-3",
+    "verseText": "Above him stood the seraphim. Each had six wings: with two he covered his face, and with two he covered his feet, and with two he flew. And one called to another and said: “Holy, holy, holy is the LORD of hosts; the whole earth is full of his glory!”"
+  },
+  {
+    "text": "What sign did God promise Ahaz in Isaiah 7 concerning a virgin?",
+    "options": ["She would lead an army", "She would bear a son called Immanuel", "She would find hidden treasure", "She would live for 100 years"],
+    "correctAnswerIndex": 1,
+    "book": "Isaiah",
+    "difficulty": "Easy",
+    "verseReference": "Isaiah 7:14",
+    "verseText": "Therefore the Lord himself will give you a sign. Behold, the virgin shall conceive and bear a son, and shall call his name Immanuel."
+  },
+  {
+    "text": "Isaiah 9:6 prophesies a child who will be called 'Wonderful Counselor, Mighty God, Everlasting Father, Prince of...'?",
+    "options": ["Judah", "Israel", "Peace", "Glory"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Easy",
+    "verseReference": "Isaiah 9:6",
+    "verseText": "For to us a child is born, to us a son is given; and the government shall be upon his shoulder, and his name shall be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace."
+  },
+  {
+    "text": "According to Isaiah 11, what will come forth from the stump of Jesse?",
+    "options": ["A mighty river", "A great army", "A shoot (branch)", "A golden statue"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 11:1",
+    "verseText": "There shall come forth a shoot from the stump of Jesse, and a branch from his roots shall bear fruit."
+  },
+  {
+    "text": "Isaiah 40 begins with a call to do what in the wilderness?",
+    "options": ["Build a city", "Plant vineyards", "Prepare the way of the LORD", "Find water"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Easy",
+    "verseReference": "Isaiah 40:3",
+    "verseText": "A voice cries: “In the wilderness prepare the way of the LORD; make straight in the desert a highway for our God."
+  },
+  {
+    "text": "What does Isaiah 40:31 promise to those who wait for the LORD?",
+    "options": ["They will receive riches", "They will conquer nations", "They shall renew their strength; mount up with wings like eagles", "They will never suffer"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Easy",
+    "verseReference": "Isaiah 40:31",
+    "verseText": "but they who wait for the LORD shall renew their strength; they shall mount up with wings like eagles; they shall run and not be weary; they shall walk and not faint."
+  },
+  {
+    "text": "Isaiah 53 describes a suffering servant. What does it say he bore?",
+    "options": ["A royal crown", "Our griefs and sorrows", "A golden scepter", "The sins of the Gentiles only"],
+    "correctAnswerIndex": 1,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 53:4",
+    "verseText": "Surely he has borne our griefs and carried our sorrows; yet we esteemed him stricken, smitten by God, and afflicted."
+  },
+  {
+    "text": "What does Isaiah 55:1 invite those who are thirsty to do?",
+    "options": ["Dig wells", "Pray for rain", "Come to the waters", "Store up grain"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Easy",
+    "verseReference": "Isaiah 55:1",
+    "verseText": "“Come, everyone who thirsts, come to the waters; and he who has no money, come, buy and eat! Come, buy wine and milk without money and without price."
+  }
+]

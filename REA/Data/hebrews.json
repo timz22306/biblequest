@@ -1,0 +1,92 @@
+[
+  {
+    "text": "The primary theme of Hebrews is the superiority of whom/what?",
+    "options": ["The Law of Moses", "The Angels", "Christ and the New Covenant over the Old Covenant system", "The Temple"],
+    "correctAnswerIndex": 2,
+    "book": "Hebrews",
+    "difficulty": "Easy",
+    "verseReference": "Hebrews 1:1-4, 8:6",
+    "verseText": "Long ago, at many times and in many ways, God spoke to our fathers by the prophets, but in these last days he has spoken to us by his Son... He is the radiance of the glory of God... After making purification for sins, he sat down at the right hand of the Majesty on high... But as it is, Christ has obtained a ministry that is as much more excellent than the old as the covenant he mediates is better, since it is enacted on better promises."
+  },
+  {
+    "text": "How does Hebrews 1 describe the Son's relationship to the angels?",
+    "options": ["He is one of the angels", "He is inferior to the angels", "He is superior to the angels", "He is equal to the angels"],
+    "correctAnswerIndex": 2,
+    "book": "Hebrews",
+    "difficulty": "Easy",
+    "verseReference": "Hebrews 1:4-5",
+    "verseText": "having become as much superior to angels as the name he has inherited is more excellent than theirs. For to which of the angels did God ever say, “You are my Son, today I have begotten you”?"
+  },
+  {
+    "text": "Hebrews emphasizes Jesus' role as a great...",
+    "options": ["King", "Prophet", "High Priest", "Judge"],
+    "correctAnswerIndex": 2,
+    "book": "Hebrews",
+    "difficulty": "Easy",
+    "verseReference": "Hebrews 4:14",
+    "verseText": "Since then we have a great high priest who has passed through the heavens, Jesus, the Son of God, let us hold fast our confession."
+  },
+  {
+    "text": "According to Hebrews 4:12, the word of God is described as what?",
+    "options": ["Outdated and irrelevant", "Living and active, sharper than any two-edged sword", "Difficult to understand", "Only for priests"],
+    "correctAnswerIndex": 1,
+    "book": "Hebrews",
+    "difficulty": "Easy",
+    "verseReference": "Hebrews 4:12",
+    "verseText": "For the word of God is living and active, sharper than any two-edged sword, piercing to the division of soul and of spirit, of joints and of marrow, and discerning the thoughts and intentions of the heart."
+  },
+  {
+    "text": "Who is the mysterious priest-king mentioned in Hebrews 7, to whom Abraham paid tithes, and whose priesthood is compared to Christ's?",
+    "options": ["Aaron", "Levi", "Melchizedek", "Eli"],
+    "correctAnswerIndex": 2,
+    "book": "Hebrews",
+    "difficulty": "Medium",
+    "verseReference": "Hebrews 7:1-3, 17",
+    "verseText": "For this Melchizedek, king of Salem, priest of the Most High God, met Abraham returning from the slaughter of the kings and blessed him... He is without father or mother or genealogy, having neither beginning of days nor end of life, but resembling the Son of God he continues a priest forever... For it is witnessed of him, “You are a priest forever, after the order of Melchizedek.”"
+  },
+  {
+    "text": "What does Hebrews 9 contrast regarding the Old and New Covenants?",
+    "options": ["The locations of worship", "The earthly tabernacle and sacrifices with Christ's heavenly ministry and perfect sacrifice", "The roles of priests and kings", "The laws about food"],
+    "correctAnswerIndex": 1,
+    "book": "Hebrews",
+    "difficulty": "Medium",
+    "verseReference": "Hebrews 9:11-12, 24",
+    "verseText": "But when Christ appeared as a high priest of the good things that have come, then through the greater and more perfect tent (not made with hands...)... he entered once for all into the holy places, not by means of the blood of goats and calves but by means of his own blood, thus securing an eternal redemption... For Christ has entered, not into holy places made with hands, which are copies of the true things, but into heaven itself..."
+  },
+  {
+    "text": "What is the definition of faith given in Hebrews 11:1?",
+    "options": ["Blind belief without evidence", "Wishful thinking", "The assurance of things hoped for, the conviction of things not seen", "Perfect knowledge"],
+    "correctAnswerIndex": 2,
+    "book": "Hebrews",
+    "difficulty": "Easy",
+    "verseReference": "Hebrews 11:1",
+    "verseText": "Now faith is the assurance of things hoped for, the conviction of things not seen."
+  },
+  {
+    "text": "Hebrews chapter 11 is often called the 'Hall of Faith' because it lists examples of Old Testament figures who...",
+    "options": ["Were perfect", "Lived by faith", "Were wealthy", "Avoided suffering"],
+    "correctAnswerIndex": 1,
+    "book": "Hebrews",
+    "difficulty": "Easy",
+    "verseReference": "Hebrews 11:4, 5, 7, 8 etc.",
+    "verseText": "By faith Abel offered to God a more acceptable sacrifice... By faith Enoch was taken up... By faith Noah... constructed an ark... By faith Abraham obeyed..."
+  },
+  {
+    "text": "According to Hebrews 12, how should believers respond to God's discipline?",
+    "options": ["Rebel against it", "Ignore it", "Endure it, recognizing it as training from a loving Father", "Despair"],
+    "correctAnswerIndex": 2,
+    "book": "Hebrews",
+    "difficulty": "Medium",
+    "verseReference": "Hebrews 12:7, 11",
+    "verseText": "It is for discipline that you have to endure. God is treating you as sons. For what son is there whom his father does not discipline?... For the moment all discipline seems painful rather than pleasant, but later it yields the peaceful fruit of righteousness to those who have been trained by it."
+  },
+  {
+    "text": "What does Hebrews 13:8 declare about Jesus Christ?",
+    "options": ["He changes with the times", "He is the same yesterday and today and forever", "He is only relevant for the past", "He will return soon"],
+    "correctAnswerIndex": 1,
+    "book": "Hebrews",
+    "difficulty": "Easy",
+    "verseReference": "Hebrews 13:8",
+    "verseText": "Jesus Christ is the same yesterday and today and forever."
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "text": "Jeremiah was called to be a prophet during the reign of which king of Judah?",
+    "options": ["Hezekiah", "Manasseh", "Josiah", "David"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Medium",
+    "verseReference": "Jeremiah 1:2",
+    "verseText": "the word of the LORD came to him in the days of Josiah the son of Amon, king of Judah, in the thirteenth year of his reign."
+  },
+  {
+    "text": "What was Jeremiah's initial objection when God called him?",
+    "options": ["He was too old", "He was not eloquent", "He was only a youth", "He was afraid of the king"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Easy",
+    "verseReference": "Jeremiah 1:6",
+    "verseText": "Then I said, “Ah, Lord GOD! Behold, I do not know how to speak, for I am only a youth.”"
+  },
+  {
+    "text": "What two evils did God accuse His people of committing in Jeremiah 2:13?",
+    "options": ["Idolatry and injustice", "Forsaking Him (the fountain of living waters) and hewing out broken cisterns", "Ignoring the poor and oppressing the weak", "Breaking the Sabbath and disrespecting priests"],
+    "correctAnswerIndex": 1,
+    "book": "Jeremiah",
+    "difficulty": "Medium",
+    "verseReference": "Jeremiah 2:13",
+    "verseText": "for my people have committed two evils: they have forsaken me, the fountain of living waters, and hewed out cisterns for themselves, broken cisterns that can hold no water."
+  },
+  {
+    "text": "Jeremiah is often called the '__________ Prophet' because of his sorrowful message and experiences.",
+    "options": ["Joyful", "Weeping", "Silent", "Bold"],
+    "correctAnswerIndex": 1,
+    "book": "Jeremiah",
+    "difficulty": "Easy",
+    "verseReference": "Jeremiah (General Tone, e.g., 9:1)",
+    "verseText": "(Refers to the overall tone and Jeremiah's laments, like 'Oh that my head were waters, and my eyes a fountain of tears, that I might weep day and night for the slain of the daughter of my people!')"
+  },
+  {
+    "text": "What object lesson did God use in Jeremiah 18 involving a potter?",
+    "options": ["A broken pot cannot be mended", "God's sovereign power to reshape Israel like clay", "The high cost of pottery", "The need for skilled craftsmen"],
+    "correctAnswerIndex": 1,
+    "book": "Jeremiah",
+    "difficulty": "Medium",
+    "verseReference": "Jeremiah 18:4-6",
+    "verseText": "And the vessel he was making of clay was spoiled in the potter's hand, and he reworked it into another vessel, as it seemed good to the potter to do... O house of Israel, can I not do with you as this potter has done? declares the LORD. Behold, like the clay in the potter's hand, so are you in my hand, O house of Israel."
+  },
+  {
+    "text": "Who was Jeremiah's scribe who wrote down his prophecies on a scroll?",
+    "options": ["Ebed-melech", "Gedaliah", "Baruch", "Seraiah"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Medium",
+    "verseReference": "Jeremiah 36:4",
+    "verseText": "Then Jeremiah called Baruch the son of Neriah, and Baruch wrote on a scroll at the dictation of Jeremiah all the words of the LORD that he had spoken to him."
+  },
+  {
+    "text": "What did King Jehoiakim do with the scroll containing Jeremiah's prophecies?",
+    "options": ["He obeyed it", "He hid it", "He cut it up and burned it", "He sent it to Babylon"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Easy",
+    "verseReference": "Jeremiah 36:23",
+    "verseText": "As Jehudi read three or four columns, the king would cut them off with a scribe's knife and throw them into the fire in the brazier, until the entire scroll was consumed in the fire that was in the brazier."
+  },
+  {
+    "text": "In Jeremiah 29, what did Jeremiah advise the exiles in Babylon to do?",
+    "options": ["Rebel immediately", "Build houses, plant gardens, seek the welfare of the city", "Refuse to work", "Try to escape back to Jerusalem"],
+    "correctAnswerIndex": 1,
+    "book": "Jeremiah",
+    "difficulty": "Medium",
+    "verseReference": "Jeremiah 29:5-7",
+    "verseText": "Build houses and live in them; plant gardens and eat their produce... seek the welfare of the city where I have sent you into exile, and pray to the LORD on its behalf, for in its welfare you will find your welfare."
+  },
+  {
+    "text": "Jeremiah 31 speaks of a 'New Covenant'. How will it differ from the old one?",
+    "options": ["It will be written on stone tablets", "It will be only for the priests", "God will write His law on their hearts", "It will involve more sacrifices"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Medium",
+    "verseReference": "Jeremiah 31:33",
+    "verseText": "For this is the covenant that I will make with the house of Israel after those days, declares the LORD: I will put my law within them, and I will write it on their hearts. And I will be their God, and they shall be my people."
+  },
+  {
+    "text": "Where was Jeremiah thrown when he was accused of deserting to the Babylonians?",
+    "options": ["Into the sea", "Off a cliff", "Into an empty cistern/dungeon", "Into the king's prison"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Easy",
+    "verseReference": "Jeremiah 38:6",
+    "verseText": "So they took Jeremiah and cast him into the cistern of Malchiah, the king's son, which was in the court of the guard, letting Jeremiah down by ropes. And there was no water in the cistern, but only mud, and Jeremiah sank in the mud."
+  }
+]

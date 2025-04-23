@@ -1,0 +1,92 @@
+[
+  {
+    "text": "Who is the author of the letter to Philemon?",
+    "options": ["Timothy", "Onesimus", "Paul", "Philemon"],
+    "correctAnswerIndex": 2,
+    "book": "Philemon",
+    "difficulty": "Easy",
+    "verseReference": "Philemon 1",
+    "verseText": "Paul, a prisoner for Christ Jesus, and Timothy our brother, To Philemon our beloved fellow worker"
+  },
+  {
+    "text": "Philemon is one of Paul's letters often categorized as what?",
+    "options": ["Pastoral Epistles", "General Epistles", "Prison Epistles", "Major Epistles"],
+    "correctAnswerIndex": 2,
+    "book": "Philemon",
+    "difficulty": "Medium",
+    "verseReference": "Philemon 1, 9",
+    "verseText": "Paul, a prisoner for Christ Jesus... I, Paul, an old man and now a prisoner also for Christ Jesus— (Along with Ephesians, Philippians, Colossians, it was likely written during Paul's imprisonment)."
+  },
+  {
+    "text": "Who is the primary recipient of the letter?",
+    "options": ["The church in Colossae", "Onesimus", "Philemon", "Apphia"],
+    "correctAnswerIndex": 2,
+    "book": "Philemon",
+    "difficulty": "Easy",
+    "verseReference": "Philemon 1",
+    "verseText": "To Philemon our beloved fellow worker"
+  },
+  {
+    "text": "Who was Onesimus in relation to Philemon?",
+    "options": ["Philemon's brother", "Philemon's business partner", "Philemon's runaway slave", "Philemon's pastor"],
+    "correctAnswerIndex": 2,
+    "book": "Philemon",
+    "difficulty": "Easy",
+    "verseReference": "Philemon 15-16",
+    "verseText": "For this perhaps is why he was parted from you for a while, that you might have him back forever, no longer as a slave but more than a slave, as a beloved brother..."
+  },
+  {
+    "text": "What had happened to Onesimus after running away, while he was with Paul?",
+    "options": ["He was arrested", "He became a believer in Christ", "He became ill", "He started his own church"],
+    "correctAnswerIndex": 1,
+    "book": "Philemon",
+    "difficulty": "Medium",
+    "verseReference": "Philemon 10",
+    "verseText": "I appeal to you for my child, Onesimus, whose father I became in my imprisonment."
+  },
+  {
+    "text": "What is the main purpose of Paul's letter to Philemon?",
+    "options": ["To condemn slavery", "To ask Philemon for money", "To appeal to Philemon to receive Onesimus back, not as a slave, but as a beloved brother in Christ", "To give instructions on church leadership"],
+    "correctAnswerIndex": 2,
+    "book": "Philemon",
+    "difficulty": "Easy",
+    "verseReference": "Philemon 16-17",
+    "verseText": "no longer as a slave but more than a slave, as a beloved brother—specially to me, but how much more to you, both in the flesh and in the Lord. So if you consider me your partner, receive him as you would receive me."
+  },
+  {
+    "text": "How does Paul appeal to Philemon?",
+    "options": ["By commanding him as an apostle", "By threatening him", "By appealing on the basis of love and their partnership", "By offering to buy Onesimus"],
+    "correctAnswerIndex": 2,
+    "book": "Philemon",
+    "difficulty": "Medium",
+    "verseReference": "Philemon 8-9, 17",
+    "verseText": "Accordingly, though I am bold enough in Christ to command you to do what is required, yet for love's sake I prefer to appeal to you—I, Paul... So if you consider me your partner, receive him as you would receive me."
+  },
+  {
+    "text": "What does Paul offer to do regarding any debt Onesimus might owe Philemon?",
+    "options": ["Ask the church to pay it", "Tell Philemon to forgive it", "Charge it to his own account (pay it himself)", "Suggest Onesimus work it off"],
+    "correctAnswerIndex": 2,
+    "book": "Philemon",
+    "difficulty": "Medium",
+    "verseReference": "Philemon 18-19",
+    "verseText": "If he has wronged you at all, or owes you anything, charge that to my account. I, Paul, write this with my own hand: I will repay it—to say nothing of your owing me even your own self."
+  },
+  {
+    "text": "Paul describes Onesimus, who was formerly 'useless' to Philemon, as now being what?",
+    "options": ["Still useless", "Useful both to Philemon and to Paul", "A burden", "A leader"],
+    "correctAnswerIndex": 1,
+    "book": "Philemon",
+    "difficulty": "Medium",
+    "verseReference": "Philemon 11",
+    "verseText": "(Formerly he was useless to you, but now he is indeed useful to you and to me.) (This is a play on Onesimus' name, which means 'useful')."
+  },
+  {
+    "text": "This short letter provides a practical example of how the gospel transforms what?",
+    "options": ["Political systems", "Economic structures", "Social relationships", "Dietary laws"],
+    "correctAnswerIndex": 2,
+    "book": "Philemon",
+    "difficulty": "Medium",
+    "verseReference": "Philemon 16",
+    "verseText": "(The gospel changes the master-slave relationship into a brotherhood in Christ)."
+  }
+]

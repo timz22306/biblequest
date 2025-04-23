@@ -1,0 +1,92 @@
+[
+  {
+    "text": "Daniel and his friends Hananiah, Mishael, and Azariah were taken captive to which city?",
+    "options": ["Nineveh", "Jerusalem", "Babylon", "Susa"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Easy",
+    "verseReference": "Daniel 1:1-6",
+    "verseText": "In the third year of the reign of Jehoiakim king of Judah, Nebuchadnezzar king of Babylon came to Jerusalem and besieged it... Among these were Daniel, Hananiah, Mishael, and Azariah of the tribe of Judah."
+  },
+  {
+    "text": "What Babylonian names were given to Daniel, Hananiah, Mishael, and Azariah respectively?",
+    "options": ["Ashpenaz, Arioch, Melzar, Kileab", "Belteshazzar, Shadrach, Meshach, Abednego", "Nebuchadnezzar, Belshazzar, Nabonidus, Neriglissar", "Artaxerxes, Darius, Cyrus, Xerxes"],
+    "correctAnswerIndex": 1,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 1:7",
+    "verseText": "And the chief of the eunuchs gave them names: Daniel he called Belteshazzar, Hananiah he called Shadrach, Mishael he called Meshach, and Azariah he called Abednego."
+  },
+  {
+    "text": "Why did Daniel and his friends refuse the king's food and wine?",
+    "options": ["They were allergic", "It was too expensive", "They did not want to defile themselves", "They preferred vegetables"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Easy",
+    "verseReference": "Daniel 1:8",
+    "verseText": "But Daniel resolved that he would not defile himself with the king's food, or with the wine that he drank. Therefore he asked the chief of the eunuchs to allow him not to defile himself."
+  },
+  {
+    "text": "What did King Nebuchadnezzar dream about in Daniel 2 that only Daniel could interpret?",
+    "options": ["A talking animal", "A great flood", "A large statue made of different materials", "Seven years of famine"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Easy",
+    "verseReference": "Daniel 2:31-35",
+    "verseText": "“You saw, O king, and behold, a great image. This image, mighty and of exceeding brightness, stood before you, and its appearance was frightening. The head of this image was of fine gold, its chest and arms of silver, its middle and thighs of bronze, its legs of iron, its feet partly of iron and partly of clay..."
+  },
+  {
+    "text": "What happened to Shadrach, Meshach, and Abednego when they refused to worship Nebuchadnezzar's golden image?",
+    "options": ["They were banished", "They were thrown into a fiery furnace", "They were promoted", "They were forced to apologize"],
+    "correctAnswerIndex": 1,
+    "book": "Daniel",
+    "difficulty": "Easy",
+    "verseReference": "Daniel 3:19-23",
+    "verseText": "Then Nebuchadnezzar was filled with fury... He ordered the furnace heated seven times more than it was usually heated... and cast them into the burning fiery furnace."
+  },
+  {
+    "text": "Who appeared in the fiery furnace with Shadrach, Meshach, and Abednego?",
+    "options": ["Daniel", "An angel or 'a son of the gods'", "King Nebuchadnezzar", "No one, they were alone"],
+    "correctAnswerIndex": 1,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 3:25",
+    "verseText": "He answered and said, “But I see four men unbound, walking in the midst of the fire, and they are not hurt; and the appearance of the fourth is like a son of the gods.”"
+  },
+  {
+    "text": "What mysterious event occurred during King Belshazzar's feast in Daniel 5?",
+    "options": ["The food turned to stone", "A hand appeared and wrote on the wall", "An earthquake shook the palace", "Daniel performed miracles"],
+    "correctAnswerIndex": 1,
+    "book": "Daniel",
+    "difficulty": "Easy",
+    "verseReference": "Daniel 5:5",
+    "verseText": "Immediately the fingers of a human hand appeared and wrote on the plaster of the wall of the king's palace, opposite the lampstand. And the king saw the hand as it wrote."
+  },
+  {
+    "text": "What did the writing on the wall ('Mene, Mene, Tekel, Parsin') signify?",
+    "options": ["A blessing on the kingdom", "A call for celebration", "Judgment and the end of Belshazzar's kingdom", "Instructions for building a temple"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 5:25-28",
+    "verseText": "And this is the writing that was inscribed: MENE, MENE, TEKEL, and PARSIN. This is the interpretation of the matter: MENE, God has numbered the days of your kingdom and brought it to an end; TEKEL, you have been weighed in the balances and found wanting; PERES, your kingdom is divided and given to the Medes and Persians.”"
+  },
+  {
+    "text": "Why was Daniel thrown into the lions' den?",
+    "options": ["For stealing from the king", "For refusing to worship the king", "For praying to God despite a decree forbidding it", "For plotting against Darius"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Easy",
+    "verseReference": "Daniel 6:10-16",
+    "verseText": "When Daniel knew that the document had been signed, he went to his house where he had windows in his upper chamber open toward Jersualem. He got down on his knees three times a day and prayed and gave thanks before his God, as he had done previously... Then the king commanded, an they brought Daniel and cast him into the den of lions."
+  },
+  {
+    "text": "What happened to Daniel in the lions' den?",
+    "options": ["He fought the lions and won", "The lions ignored him; God shut their mouths", "He tamed the lions", "He was injured but survived"],
+    "correctAnswerIndex": 1,
+    "book": "Daniel",
+    "difficulty": "Easy",
+    "verseReference": "Daniel 6:22",
+    "verseText": "My God sent his angel and shut the lions' mouths, and they have not harmed me, because I was found blameless before him; and also before you, O king, I have done no harm.”"
+  }
+]

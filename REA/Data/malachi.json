@@ -1,0 +1,92 @@
+[
+  {
+    "text": "Malachi is the last book of which section of the Christian Bible?",
+    "options": ["Pentateuch", "Historical Books", "Major Prophets", "Minor Prophets (and Old Testament)"],
+    "correctAnswerIndex": 3,
+    "book": "Malachi",
+    "difficulty": "Easy",
+    "verseReference": "N/A (Canonical position)",
+    "verseText": "(Malachi is the final book of the Minor Prophets section and the entire Old Testament in the Protestant canon)."
+  },
+  {
+    "text": "Malachi's name means what?",
+    "options": ["God is gracious", "My messenger", "The LORD saves", "Servant of God"],
+    "correctAnswerIndex": 1,
+    "book": "Malachi",
+    "difficulty": "Medium",
+    "verseReference": "N/A (Etymology)",
+    "verseText": "(The Hebrew name Malachi means 'My messenger')."
+  },
+  {
+    "text": "The book of Malachi is structured around a series of disputes or dialogues between God and whom?",
+    "options": ["The surrounding nations", "The Persian king", "Israel (specifically the priests and the people)", "Angels"],
+    "correctAnswerIndex": 2,
+    "book": "Malachi",
+    "difficulty": "Easy",
+    "verseReference": "Malachi 1:2, 6, 7; 2:17; 3:7, 8, 13",
+    "verseText": "(The book uses a question-and-answer format, e.g., 'I have loved you,' says the LORD. But you say, ‘How have you loved us?’... 'A son honors his father... If then I am a father, where is my honor?'... But you say, ‘How have we despised your name?’)"
+  },
+  {
+    "text": "In Malachi 1, God condemns the priests for offering what kind of sacrifices?",
+    "options": ["Too many sacrifices", "Sacrifices at the wrong time", "Blind, lame, and sick animals (defiled sacrifices)", "Human sacrifices"],
+    "correctAnswerIndex": 2,
+    "book": "Malachi",
+    "difficulty": "Medium",
+    "verseReference": "Malachi 1:8, 13",
+    "verseText": "When you offer blind animals in sacrifice, is that not evil? And when you offer those that are lame or sick, is that not evil?... you bring what has been taken by violence or is lame or sick, and this you bring as your offering! Shall I accept that from your hand? says the LORD."
+  },
+  {
+    "text": "Malachi condemns the men of Judah for dealing treacherously with whom (Malachi 2:14-16)?",
+    "options": ["Their parents", "The poor", "The wives of their youth (through divorce)", "Foreign merchants"],
+    "correctAnswerIndex": 2,
+    "book": "Malachi",
+    "difficulty": "Medium",
+    "verseReference": "Malachi 2:14, 16",
+    "verseText": "But you say, “Why does he not?” Because the LORD was witness between you and the wife of your youth, to whom you have been faithless... “For the man who does not love his wife but divorces her, says the LORD the God of Israel, covers his garment with violence..."
+  },
+  {
+    "text": "According to Malachi 3:1, who will the Lord send to prepare the way before Him?",
+    "options": ["A king", "An army", "His messenger", "A prophet like Moses"],
+    "correctAnswerIndex": 2,
+    "book": "Malachi",
+    "difficulty": "Easy",
+    "verseReference": "Malachi 3:1",
+    "verseText": "“Behold, I send my messenger, and he will prepare the way before me. And the Lord whom you seek will suddenly come to his temple; and the messenger of the covenant in whom you delight, behold, he is coming, says the LORD of hosts."
+  },
+  {
+    "text": "In Malachi 3, God accuses the people of robbing Him in what way?",
+    "options": ["By stealing Temple furniture", "By not bringing the full tithes and contributions", "By working on the Sabbath", "By disrespecting the priests"],
+    "correctAnswerIndex": 1,
+    "book": "Malachi",
+    "difficulty": "Easy",
+    "verseReference": "Malachi 3:8",
+    "verseText": "Will man rob God? Yet you are robbing me. But you say, ‘How have we robbed you?’ In your tithes and contributions."
+  },
+  {
+    "text": "What does God promise to do for those who bring the full tithe into the storehouse (Malachi 3:10)?",
+    "options": ["Give them political power", "Open the windows of heaven and pour out blessing", "Make them priests", "Destroy their enemies"],
+    "correctAnswerIndex": 1,
+    "book": "Malachi",
+    "difficulty": "Easy",
+    "verseReference": "Malachi 3:10",
+    "verseText": "Bring the full tithe into the storehouse, that there may be food in my house. And thereby put me to the test, says the LORD of hosts, if I will not open the windows of heaven for you and pour down for you a blessing until there is no more need."
+  },
+  {
+    "text": "Malachi 3:16 speaks of what being written before the Lord?",
+    "options": ["A new law code", "A history of Israel", "A book of remembrance for those who feared the Lord", "A list of judgments"],
+    "correctAnswerIndex": 2,
+    "book": "Malachi",
+    "difficulty": "Medium",
+    "verseReference": "Malachi 3:16",
+    "verseText": "Then those who feared the LORD spoke with one another. The LORD paid attention and heard them, and a book of remembrance was written before him of those who feared the LORD and esteemed his name."
+  },
+  {
+    "text": "Who does Malachi 4:5 prophesy will be sent before the great and awesome day of the LORD?",
+    "options": ["Moses", "David", "Elijah the prophet", "The Messiah"],
+    "correctAnswerIndex": 2,
+    "book": "Malachi",
+    "difficulty": "Easy",
+    "verseReference": "Malachi 4:5",
+    "verseText": "“Behold, I will send you Elijah the prophet before the great and awesome day of the LORD comes."
+  }
+]

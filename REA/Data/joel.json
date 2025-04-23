@@ -1,0 +1,92 @@
+[
+  {
+    "text": "What natural disaster does Joel use as a primary image for God's judgment in chapter 1?",
+    "options": ["Earthquake", "Flood", "A devastating locust plague", "Famine"],
+    "correctAnswerIndex": 2,
+    "book": "Joel",
+    "difficulty": "Easy",
+    "verseReference": "Joel 1:4",
+    "verseText": "What the cutting locust left, the swarming locust has eaten. What the swarming locust left, the hopping locust has eaten, and what the hopping locust left, the destroying locust has eaten."
+  },
+  {
+    "text": "Joel calls the people to respond to the disaster with what actions?",
+    "options": ["Celebration and feasting", "Building stronger defenses", "Mourning, fasting, weeping, and repentance", "Seeking foreign aid"],
+    "correctAnswerIndex": 2,
+    "book": "Joel",
+    "difficulty": "Easy",
+    "verseReference": "Joel 1:13-14, 2:12-13",
+    "verseText": "Consecrate a fast; call a solemn assembly... “Yet even now,” declares the LORD, “return to me with all your heart, with fasting, with weeping, and with mourning; and rend your hearts and not your garments.”"
+  },
+  {
+    "text": "The locust plague is presented as a foreshadowing of what future event?",
+    "options": ["A time of great prosperity", "The Day of the LORD", "The rebuilding of the Temple", "The arrival of the Messiah"],
+    "correctAnswerIndex": 1,
+    "book": "Joel",
+    "difficulty": "Medium",
+    "verseReference": "Joel 1:15, 2:1-2",
+    "verseText": "Alas for the day! For the day of the LORD is near, and as destruction from the Almighty it comes... Blow a trumpet in Zion; sound an alarm on my holy mountain! Let all the inhabitants of the land tremble, for the day of the LORD is coming; it is near,"
+  },
+  {
+    "text": "In Joel 2, God promises to restore what the locusts have eaten if the people repent?",
+    "options": ["Their political power", "Their wealth", "The years", "Their reputation"],
+    "correctAnswerIndex": 2,
+    "book": "Joel",
+    "difficulty": "Medium",
+    "verseReference": "Joel 2:25",
+    "verseText": "I will restore to you the years that the swarming locust has eaten, the hopper, the destroyer, and the cutter, my great army, which I sent among you."
+  },
+  {
+    "text": "What significant promise does God make in Joel 2:28-29 concerning His Spirit?",
+    "options": ["He will pour out His Spirit only on the priests", "He will pour out His Spirit on all flesh (sons, daughters, old men, young men, servants)", "His Spirit will depart from them", "His Spirit will only empower prophets"],
+    "correctAnswerIndex": 1,
+    "book": "Joel",
+    "difficulty": "Easy",
+    "verseReference": "Joel 2:28-29",
+    "verseText": "“And it shall come to pass afterward, that I will pour out my Spirit on all flesh; your sons and your daughters shall prophesy, your old men shall dream dreams, and your young men shall see visions. Even on the male and female servants in those days I will pour out my Spirit."
+  },
+  {
+    "text": "Which New Testament event is seen as a fulfillment of Joel's prophecy about the outpouring of the Spirit?",
+    "options": ["Jesus' birth", "The Transfiguration", "The Day of Pentecost (Acts 2)", "The destruction of the Temple"],
+    "correctAnswerIndex": 2,
+    "book": "Joel",
+    "difficulty": "Easy",
+    "verseReference": "Acts 2:16-21",
+    "verseText": "(Peter explicitly quotes Joel 2:28-32 to explain the events of Pentecost)"
+  },
+  {
+    "text": "According to Joel 2:32, what will happen to everyone who calls on the name of the LORD?",
+    "options": ["They will become rich", "They will be delivered or saved", "They will become prophets", "They will defeat their enemies"],
+    "correctAnswerIndex": 1,
+    "book": "Joel",
+    "difficulty": "Easy",
+    "verseReference": "Joel 2:32",
+    "verseText": "And it shall come to pass that everyone who calls on the name of the LORD shall be saved. For in Mount Zion and in Jerusalem there shall be those who escape, as the LORD has said, and among the survivors shall be those whom the LORD calls."
+  },
+  {
+    "text": "In Joel 3, where does God say He will gather the nations for judgment?",
+    "options": ["Mount Sinai", "The plains of Megiddo (Armageddon)", "The Valley of Jehoshaphat (Valley of Decision)", "The city of Babylon"],
+    "correctAnswerIndex": 2,
+    "book": "Joel",
+    "difficulty": "Medium",
+    "verseReference": "Joel 3:2, 12, 14",
+    "verseText": "I will gather all the nations and bring them down to the Valley of Jehoshaphat... Let the nations stir themselves up and come up to the Valley of Jehoshaphat; for there I will sit to judge all the surrounding nations... Multitudes, multitudes, in the valley of decision! For the day of the LORD is near in the valley of decision."
+  },
+  {
+    "text": "What agricultural tools does Joel 3:10 urge the nations to turn into weapons?",
+    "options": ["Swords into plowshares", "Spears into pruning hooks", "Plowshares into swords, pruning hooks into spears", "Scythes into shields"],
+    "correctAnswerIndex": 2,
+    "book": "Joel",
+    "difficulty": "Medium",
+    "verseReference": "Joel 3:10",
+    "verseText": "Beat your plowshares into swords, and your pruning hooks into spears; let the weak say, “I am a warrior.”"
+  },
+  {
+    "text": "What comforting promise is given to Judah and Jerusalem at the end of Joel?",
+    "options": ["They will conquer the world", "They will be desolate forever", "The LORD will dwell in Zion; Judah and Jerusalem will abide forever", "They will merge with other nations"],
+    "correctAnswerIndex": 2,
+    "book": "Joel",
+    "difficulty": "Easy",
+    "verseReference": "Joel 3:20-21",
+    "verseText": "But Judah shall be inhabited forever, and Jerusalem to all generations... For the LORD dwells in Zion."
+  }
+]

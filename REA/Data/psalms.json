@@ -1,0 +1,92 @@
+[
+  {
+    "text": "Which Psalm begins with 'Blessed is the man who walks not in the counsel of the wicked'?",
+    "options": ["Psalm 1", "Psalm 23", "Psalm 91", "Psalm 119"],
+    "correctAnswerIndex": 0,
+    "book": "Psalms",
+    "difficulty": "Easy",
+    "verseReference": "Psalm 1:1",
+    "verseText": "Blessed is the man who walks not in the counsel of the wicked, nor stands in the way of sinners, nor sits in the seat of scoffers;"
+  },
+  {
+    "text": "Psalm 23 famously begins with 'The LORD is my...'?",
+    "options": ["Rock", "Shepherd", "King", "Light"],
+    "correctAnswerIndex": 1,
+    "book": "Psalms",
+    "difficulty": "Easy",
+    "verseReference": "Psalm 23:1",
+    "verseText": "The LORD is my shepherd; I shall not want."
+  },
+  {
+    "text": "According to Psalm 19, what declares the glory of God?",
+    "options": ["The Law", "The Prophets", "The Heavens", "The Earth"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Easy",
+    "verseReference": "Psalm 19:1",
+    "verseText": "The heavens declare the glory of God, and the sky above proclaims his handiwork."
+  },
+  {
+    "text": "Which Psalm is the longest chapter in the Bible?",
+    "options": ["Psalm 1", "Psalm 23", "Psalm 90", "Psalm 119"],
+    "correctAnswerIndex": 3,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 119",
+    "verseText": "(Reference to the entire Psalm structure)"
+  },
+  {
+    "text": "Psalm 51 is a well-known psalm of repentance attributed to which king after his sin with Bathsheba?",
+    "options": ["Saul", "David", "Solomon", "Hezekiah"],
+    "correctAnswerIndex": 1,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 51 (superscription)",
+    "verseText": "To the choirmaster. A Psalm of David, when Nathan the prophet went to him, after he had gone in to Bathsheba."
+  },
+  {
+    "text": "What does Psalm 46:1 call God?",
+    "options": ["Our shield and defender", "Our refuge and strength", "Our light and salvation", "Our king and creator"],
+    "correctAnswerIndex": 1,
+    "book": "Psalms",
+    "difficulty": "Easy",
+    "verseReference": "Psalm 46:1",
+    "verseText": "God is our refuge and strength, a very present help in trouble."
+  },
+  {
+    "text": "Which Psalm contains the verse 'Be still, and know that I am God'?",
+    "options": ["Psalm 27", "Psalm 46", "Psalm 91", "Psalm 100"],
+    "correctAnswerIndex": 1,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 46:10",
+    "verseText": "“Be still, and know that I am God. I will be exalted among the nations, I will be exalted in the earth!”"
+  },
+  {
+    "text": "Psalm 91 speaks of God's protection. Under what does the psalmist say one can find refuge?",
+    "options": ["His mighty hand", "His holy temple", "His shadow and wings", "His righteous law"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 91:1, 4",
+    "verseText": "He who dwells in the shelter of the Most High will abide in the shadow of the Almighty... He will cover you with his pinions, and under his wings you will find refuge;"
+  },
+  {
+    "text": "Psalm 100 is a call to do what?",
+    "options": ["Repentance", "Warfare", "Mourning", "Joyful praise and thanksgiving"],
+    "correctAnswerIndex": 3,
+    "book": "Psalms",
+    "difficulty": "Easy",
+    "verseReference": "Psalm 100:1-2",
+    "verseText": "Make a joyful noise to the LORD, all the earth! Serve the LORD with gladness! Come into his presence with singing!"
+  },
+  {
+    "text": "According to Psalm 139, where can one go to flee from God's Spirit?",
+    "options": ["To the heavens", "To Sheol", "To the depths of the sea", "Nowhere"],
+    "correctAnswerIndex": 3,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 139:7-10",
+    "verseText": "Where shall I go from your Spirit? Or where shall I flee from your presence? If I ascend to heaven, you are there! If I make my bed in Sheol, you are there! If I take the wings of the morning and dwell in the uttermost parts of the sea, even there your hand shall lead me, and your right hand shall hold me."
+  }
+]

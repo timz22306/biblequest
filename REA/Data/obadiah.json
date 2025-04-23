@@ -1,0 +1,65 @@
+[
+  {
+    "text": "The Book of Obadiah is the shortest book in the Old Testament. Which nation is its prophecy primarily directed against?",
+    "options": ["Israel", "Judah", "Babylon", "Edom"],
+    "correctAnswerIndex": 3,
+    "book": "Obadiah",
+    "difficulty": "Easy",
+    "verseReference": "Obadiah 1:1",
+    "verseText": "The vision of Obadiah. Thus says the Lord GOD concerning Edom..."
+  },
+  {
+    "text": "Why was God pronouncing judgment against Edom?",
+    "options": ["For worshipping idols", "For their pride and violence against their brother Jacob (Israel/Judah)", "For refusing to pay tribute", "For attacking Egypt"],
+    "correctAnswerIndex": 1,
+    "book": "Obadiah",
+    "difficulty": "Medium",
+    "verseReference": "Obadiah 1:3, 10",
+    "verseText": "The pride of your heart has deceived you... Because of the violence done to your brother Jacob, shame shall cover you, and you shall be cut off forever."
+  },
+  {
+    "text": "What specific action did Edom take during Jerusalem's calamity that angered God?",
+    "options": ["They offered help", "They stood aloof and rejoiced over Judah's destruction, even looting", "They warned Jerusalem", "They prayed for Judah"],
+    "correctAnswerIndex": 1,
+    "book": "Obadiah",
+    "difficulty": "Medium",
+    "verseReference": "Obadiah 1:11-14",
+    "verseText": "On the day that you stood aloof, on the day that strangers carried off his wealth and foreigners entered his gates and cast lots for Jerusalem, you were like one of them... you should not have rejoiced over the people of Judah in the day of their ruin..."
+  },
+  {
+    "text": "What does Obadiah say about Edom's dwelling place that contributed to their pride?",
+    "options": ["Fertile valleys", "Rich coastal plains", "Dwelling in the clefts of the rock, high habitation", "A large fortified city"],
+    "correctAnswerIndex": 2,
+    "book": "Obadiah",
+    "difficulty": "Medium",
+    "verseReference": "Obadiah 1:3",
+    "verseText": "The pride of your heart has deceived you, you who live in the clefts of the rock, in your lofty dwelling, who say in your heart, “Who will bring me down to the ground?”"
+  },
+  {
+    "text": "Obadiah contrasts Edom's downfall with the future restoration of whom?",
+    "options": ["Babylon", "Egypt", "The house of Jacob and the house of Joseph (Israel)", "Assyria"],
+    "correctAnswerIndex": 2,
+    "book": "Obadiah",
+    "difficulty": "Medium",
+    "verseReference": "Obadiah 1:17-18",
+    "verseText": "But in Mount Zion there shall be those who escape, and it shall be holy, and the house of Jacob shall possess their own possessions. The house of Jacob shall be a fire, and the house of Joseph a flame, and the house of Esau (Edom) stubble..."
+  },
+  {
+    "text": "What concept is mentioned in Obadiah 1:15 that signifies God's judgment on the nations?",
+    "options": ["The Year of Jubilee", "The Day of Atonement", "The Day of the LORD", "The Passover"],
+    "correctAnswerIndex": 2,
+    "book": "Obadiah",
+    "difficulty": "Easy",
+    "verseReference": "Obadiah 1:15",
+    "verseText": "For the day of the LORD is near upon all the nations. As you have done, it shall be done to you; your deeds shall return on your own head."
+  },
+  {
+    "text": "According to Obadiah, who will ultimately possess the kingdom?",
+    "options": ["Edom", "The nations", "Saviors from Mount Zion / The LORD", "Babylon"],
+    "correctAnswerIndex": 2,
+    "book": "Obadiah",
+    "difficulty": "Medium",
+    "verseReference": "Obadiah 1:21",
+    "verseText": "Saviors shall go up to Mount Zion to rule Mount Esau, and the kingdom shall be the LORD's."
+  }
+]

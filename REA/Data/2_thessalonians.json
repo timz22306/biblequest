@@ -1,0 +1,92 @@
+[
+  {
+    "text": "Who are the authors mentioned at the beginning of 2 Thessalonians?",
+    "options": ["Paul alone", "Paul and Timothy", "Paul, Silas (Silvanus), and Timothy", "Peter and Paul"],
+    "correctAnswerIndex": 2,
+    "book": "2 Thessalonians",
+    "difficulty": "Easy",
+    "verseReference": "2 Thessalonians 1:1",
+    "verseText": "Paul, Silvanus, and Timothy, To the church of the Thessalonians in God our Father and the Lord Jesus Christ:"
+  },
+  {
+    "text": "One main reason Paul wrote 2 Thessalonians was to correct a misunderstanding about what?",
+    "options": ["The nature of God", "The requirements for salvation", "The Day of the Lord (some thought it had already come)", "The role of women in the church"],
+    "correctAnswerIndex": 2,
+    "book": "2 Thessalonians",
+    "difficulty": "Easy",
+    "verseReference": "2 Thessalonians 2:1-2",
+    "verseText": "Now concerning the coming of our Lord Jesus Christ and our being gathered together to him, we ask you, brothers, not to be quickly shaken in mind or alarmed, either by a spirit or a spoken word, or a letter seeming to be from us, to the effect that the day of the Lord has come."
+  },
+  {
+    "text": "In 2 Thessalonians 1, Paul encourages the believers by reminding them of God's future judgment, which involves giving relief to the afflicted and affliction to whom?",
+    "options": ["The Roman authorities", "Those who afflict the believers and do not obey the gospel", "The Jewish leaders", "False apostles"],
+    "correctAnswerIndex": 1,
+    "book": "2 Thessalonians",
+    "difficulty": "Medium",
+    "verseReference": "2 Thessalonians 1:6-8",
+    "verseText": "since indeed God considers it just to repay with affliction those who afflict you, and to grant relief to you who are afflicted as well as to us, when the Lord Jesus is revealed from heaven with his mighty angels in flaming fire, inflicting vengeance on those who do not know God and on those who do not obey the gospel of our Lord Jesus."
+  },
+  {
+    "text": "According to 2 Thessalonians 2, what two things must happen before the Day of the Lord comes?",
+    "options": ["The rebuilding of the Temple and the return of Elijah", "Widespread peace and prosperity", "The rebellion (apostasy) and the revealing of the man of lawlessness", "The conversion of all Israel and the fall of Rome"],
+    "correctAnswerIndex": 2,
+    "book": "2 Thessalonians",
+    "difficulty": "Medium",
+    "verseReference": "2 Thessalonians 2:3",
+    "verseText": "Let no one deceive you in any way. For that day will not come, unless the rebellion comes first, and the man of lawlessness is revealed, the son of destruction,"
+  },
+  {
+    "text": "How is the 'man of lawlessness' described in 2 Thessalonians 2?",
+    "options": ["As a humble servant", "As one who opposes and exalts himself against God, proclaiming himself to be God", "As a peacemaker", "As a follower of Moses"],
+    "correctAnswerIndex": 1,
+    "book": "2 Thessalonians",
+    "difficulty": "Medium",
+    "verseReference": "2 Thessalonians 2:4",
+    "verseText": "who opposes and exalts himself against every so-called god or object of worship, so that he takes his seat in the temple of God, proclaiming himself to be God."
+  },
+  {
+    "text": "What does Paul say is currently restraining the man of lawlessness (2 Thessalonians 2)?",
+    "options": ["The Roman Empire", "The prayers of the saints", "Something or someone unspecified (the 'restrainer')", "The preaching of the gospel"],
+    "correctAnswerIndex": 2,
+    "book": "2 Thessalonians",
+    "difficulty": "Hard",
+    "verseReference": "2 Thessalonians 2:6-7",
+    "verseText": "And you know what is restraining him now so that he may be revealed in his time. For the mystery of lawlessness is already at work. Only he who now restrains it will do so until he is out of the way."
+  },
+  {
+    "text": "What will happen to the man of lawlessness when the Lord Jesus is revealed (2 Thessalonians 2)?",
+    "options": ["He will repent", "He will be killed by the breath of the Lord's mouth", "He will rule alongside Christ", "He will flee and hide"],
+    "correctAnswerIndex": 1,
+    "book": "2 Thessalonians",
+    "difficulty": "Medium",
+    "verseReference": "2 Thessalonians 2:8",
+    "verseText": "And then the lawless one will be revealed, whom the Lord Jesus will kill with the breath of his mouth and bring to nothing by the appearance of his coming."
+  },
+  {
+    "text": "In 2 Thessalonians 3, Paul addresses a problem among some believers regarding what?",
+    "options": ["Idolatry", "Doctrinal error", "Idleness and disorderly conduct (not working)", "Disrespect for leaders"],
+    "correctAnswerIndex": 2,
+    "book": "2 Thessalonians",
+    "difficulty": "Easy",
+    "verseReference": "2 Thessalonians 3:6, 11",
+    "verseText": "Now we command you, brothers, in the name of our Lord Jesus Christ, that you keep away from any brother who is walking in idleness and not in accord with the tradition that you received from us... For we hear that some among you walk in idleness, not busy at work, but busybodies."
+  },
+  {
+    "text": "What principle does Paul state in 2 Thessalonians 3:10 regarding work?",
+    "options": ["'Work is optional for believers'", "'If anyone is not willing to work, let him not eat'", "'The church should support everyone'", "'Work only six hours a day'"],
+    "correctAnswerIndex": 1,
+    "book": "2 Thessalonians",
+    "difficulty": "Easy",
+    "verseReference": "2 Thessalonians 3:10",
+    "verseText": "For even when we were with you, we would give you this command: If anyone is not willing to work, let him not eat."
+  },
+  {
+    "text": "How does Paul instruct the church to treat a brother who persists in idleness and disobedience?",
+    "options": ["Expel him immediately", "Ignore him completely", "Note him, have nothing to do with him that he may be ashamed, yet admonish him as a brother", "Appoint him as a leader"],
+    "correctAnswerIndex": 2,
+    "book": "2 Thessalonians",
+    "difficulty": "Medium",
+    "verseReference": "2 Thessalonians 3:14-15",
+    "verseText": "If anyone does not obey what we say in this letter, take note of that person, and have nothing to do with him, that he may be ashamed. Do not regard him as an enemy, but warn him as a brother."
+  }
+]

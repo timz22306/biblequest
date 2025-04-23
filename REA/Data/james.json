@@ -1,0 +1,92 @@
+[
+  {
+    "text": "Who is traditionally identified as the author of the Epistle of James?",
+    "options": ["James the apostle, son of Zebedee", "James the Less", "James, the brother (or half-brother) of Jesus", "An unknown James"],
+    "correctAnswerIndex": 2,
+    "book": "James",
+    "difficulty": "Easy",
+    "verseReference": "James 1:1 (cf. Galatians 1:19, Acts 15:13)",
+    "verseText": "James, a servant of God and of the Lord Jesus Christ, To the twelve tribes in the Dispersion: Greetings. (This James became a leader in the Jerusalem church)."
+  },
+  {
+    "text": "James emphasizes the relationship between faith and what?",
+    "options": ["Feelings", "Knowledge", "Works (deeds)", "Wealth"],
+    "correctAnswerIndex": 2,
+    "book": "James",
+    "difficulty": "Easy",
+    "verseReference": "James 2:17, 26",
+    "verseText": "So also faith by itself, if it does not have works, is dead... For as the body apart from the spirit is dead, so also faith apart from works is dead."
+  },
+  {
+    "text": "According to James 1, how should believers consider trials?",
+    "options": ["As punishment from God", "As reasons to complain", "As opportunities for joy, knowing they produce steadfastness", "As something to avoid at all costs"],
+    "correctAnswerIndex": 2,
+    "book": "James",
+    "difficulty": "Easy",
+    "verseReference": "James 1:2-3",
+    "verseText": "Count it all joy, my brothers, when you meet trials of various kinds, for you know that the testing of your faith produces steadfastness."
+  },
+  {
+    "text": "If a believer lacks wisdom, what does James 1 instruct them to do?",
+    "options": ["Read more books", "Consult philosophers", "Ask God, who gives generously without reproach", "Rely on their own understanding"],
+    "correctAnswerIndex": 2,
+    "book": "James",
+    "difficulty": "Easy",
+    "verseReference": "James 1:5",
+    "verseText": "If any of you lacks wisdom, let him ask God, who gives generously to all without reproach, and it will be given him."
+  },
+  {
+    "text": "What sin does James condemn in chapter 2, related to showing favoritism between rich and poor people?",
+    "options": ["Greed", "Partiality (discrimination)", "Gossip", "Anger"],
+    "correctAnswerIndex": 1,
+    "book": "James",
+    "difficulty": "Medium",
+    "verseReference": "James 2:1, 9",
+    "verseText": "My brothers, show no partiality as you hold the faith in our glorious Lord Jesus Christ... But if you show partiality, you are committing sin and are convicted by the law as transgressors."
+  },
+  {
+    "text": "James chapter 3 focuses heavily on the power and danger of what?",
+    "options": ["Wealth", "Political influence", "The tongue (speech)", "Spiritual gifts"],
+    "correctAnswerIndex": 2,
+    "book": "James",
+    "difficulty": "Easy",
+    "verseReference": "James 3:5-6, 8",
+    "verseText": "So also the tongue is a small member, yet it boasts of great things. How great a forest is set ablaze by such a small fire! And the tongue is a fire... but no human being can tame the tongue. It is a restless evil, full of deadly poison."
+  },
+  {
+    "text": "What does James say is the source of quarrels and fights among believers (James 4)?",
+    "options": ["The devil", "Misunderstandings", "Their passions (desires) at war within them", "Lack of resources"],
+    "correctAnswerIndex": 2,
+    "book": "James",
+    "difficulty": "Medium",
+    "verseReference": "James 4:1",
+    "verseText": "What causes quarrels and what causes fights among you? Is it not this, that your passions are at war within you?"
+  },
+  {
+    "text": "What instruction does James give regarding submission to God and resistance to the devil (James 4)?",
+    "options": ["Submit to the devil, resist God", "Submit to God, resist the devil", "Submit to both", "Resist both"],
+    "correctAnswerIndex": 1,
+    "book": "James",
+    "difficulty": "Easy",
+    "verseReference": "James 4:7",
+    "verseText": "Submit yourselves therefore to God. Resist the devil, and he will flee from you."
+  },
+  {
+    "text": "In James 5, James warns whom about impending judgment due to their mistreatment of others?",
+    "options": ["The poor", "The rich", "The church leaders", "The Roman authorities"],
+    "correctAnswerIndex": 1,
+    "book": "James",
+    "difficulty": "Medium",
+    "verseReference": "James 5:1-3",
+    "verseText": "Come now, you rich, weep and howl for the miseries that are coming upon you. Your riches have rotted and your garments are moth-eaten. Your gold and silver have corroded, and their corrosion will be evidence against you..."
+  },
+  {
+    "text": "What practice does James encourage for believers who are sick (James 5)?",
+    "options": ["Ignore the illness", "Rely only on medicine", "Call for the elders of the church to pray over them and anoint them with oil", "Complain to God"],
+    "correctAnswerIndex": 2,
+    "book": "James",
+    "difficulty": "Medium",
+    "verseReference": "James 5:14",
+    "verseText": "Is anyone among you sick? Let him call for the elders of the church, and let them pray over him, anointing him with oil in the name of the Lord."
+  }
+]

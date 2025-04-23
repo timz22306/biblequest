@@ -1,0 +1,92 @@
+[
+  {
+    "text": "How does the Gospel of John begin?",
+    "options": ["With Jesus' birth", "With Jesus' baptism", "With a prologue describing Jesus as the eternal Word (Logos)", "With the calling of disciples"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 1:1, 14",
+    "verseText": "In the beginning was the Word, and the Word was with God, and the Word was God... And the Word became flesh and dwelt among us..."
+  },
+  {
+    "text": "Compared to the Synoptic Gospels (Matthew, Mark, Luke), John's Gospel focuses more on...",
+    "options": ["Jesus' parables", "Jesus' exorcisms", "Jesus' identity, divinity, and relationship with the Father, often through long discourses", "Jesus' interactions with Gentiles"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 5:19-47, 6:25-59, 10:1-18, 14-17",
+    "verseText": "(John includes extended teachings and dialogues where Jesus reveals His divine nature and mission, differing in style and content from the Synoptics)."
+  },
+  {
+    "text": "What is the first sign (miracle) Jesus performs in John's Gospel?",
+    "options": ["Healing a blind man", "Walking on water", "Turning water into wine at Cana", "Feeding the 5000"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 2:11",
+    "verseText": "This, the first of his signs, Jesus did at Cana in Galilee, and manifested his glory. And his disciples believed in him."
+  },
+  {
+    "text": "In John 3, Jesus tells which Pharisee that one must be 'born again' (or 'born from above')?",
+    "options": ["Gamaliel", "Nicodemus", "Simon", "Joseph of Arimathea"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 3:1, 3",
+    "verseText": "Now there was a man of the Pharisees named Nicodemus, a ruler of the Jews... Jesus answered him, “Truly, truly, I say to you, unless one is born again he cannot see the kingdom of God.”"
+  },
+  {
+    "text": "John's Gospel features seven 'I am' statements by Jesus, including 'I am the bread of life', 'I am the light of the world', and...",
+    "options": ["'I am the Law'", "'I am the Temple'", "'I am the good shepherd', 'I am the resurrection and the life', 'I am the way, the truth, and the life', 'I am the true vine'", "'I am the King'"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 6:35, 8:12, 10:11, 11:25, 14:6, 15:1 (cf. 10:7)",
+    "verseText": "(These 'I am' statements are key declarations of Jesus' divine identity and function in John's Gospel)."
+  },
+  {
+    "text": "Which disciple, often called 'doubting', declared 'My Lord and my God!' after seeing the resurrected Jesus (John 20)?",
+    "options": ["Peter", "Andrew", "Thomas", "Philip"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 20:27-28",
+    "verseText": "Then he said to Thomas, “Put your finger here, and see my hands; and put out your hand, and place it in my side. Do not disbelieve, but believe.” Thomas answered him, “My Lord and my God!”"
+  },
+  {
+    "text": "What miracle, unique to John, involves Jesus raising his friend from the dead after four days?",
+    "options": ["Raising Jairus' daughter", "Raising the widow's son at Nain", "Raising Lazarus", "Healing the centurion's servant"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 11:38-44",
+    "verseText": "Then Jesus, deeply moved again, came to the tomb... Jesus said to them, “Take away the stone.”... When he had said these things, he cried out with a loud voice, “Lazarus, come out.” The man who had died came out..."
+  },
+  {
+    "text": "John 14-16 contains Jesus' Farewell Discourse to his disciples, promising the coming of whom?",
+    "options": ["Angels", "Another prophet", "The Holy Spirit (the Helper/Advocate/Comforter)", "Elijah"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 14:16-17, 26; 15:26; 16:7",
+    "verseText": "And I will ask the Father, and he will give you another Helper, to be with you forever, even the Spirit of truth... But the Helper, the Holy Spirit, whom the Father will send in my name, he will teach you all things..."
+  },
+  {
+    "text": "What is the stated purpose of John's Gospel (John 20:31)?",
+    "options": ["To provide a complete history of Jesus' life", "To encourage Jewish believers", "That readers may believe Jesus is the Christ, the Son of God, and have life in his name", "To condemn the Roman authorities"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 20:31",
+    "verseText": "but these are written so that you may believe that Jesus is the Christ, the Son of God, and that by believing you may have life in his name."
+  },
+  {
+    "text": "The author of John's Gospel identifies himself using what phrase?",
+    "options": ["'John, son of Zebedee'", "'The Apostle'", "'The disciple whom Jesus loved'", "'An eyewitness'"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 13:23, 19:26, 20:2, 21:7, 21:20, 24",
+    "verseText": "(The author refers to himself as 'the disciple whom Jesus loved', traditionally identified as the Apostle John)."
+  }
+]

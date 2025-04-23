@@ -1,0 +1,92 @@
+[
+  {
+    "text": "The prophecy of Nahum is primarily an oracle concerning the downfall of which city?",
+    "options": ["Jerusalem", "Babylon", "Thebes (Egypt)", "Nineveh (Assyria)"],
+    "correctAnswerIndex": 3,
+    "book": "Nahum",
+    "difficulty": "Easy",
+    "verseReference": "Nahum 1:1",
+    "verseText": "An oracle concerning Nineveh. The book of the vision of Nahum of Elkosh."
+  },
+  {
+    "text": "How is the LORD described in Nahum 1:2-3?",
+    "options": ["Weak and distant", "Indifferent and uncaring", "Jealous, avenging, wrathful, but also slow to anger and great in power", "Quick to forgive all nations"],
+    "correctAnswerIndex": 2,
+    "book": "Nahum",
+    "difficulty": "Medium",
+    "verseReference": "Nahum 1:2-3",
+    "verseText": "The LORD is a jealous and avenging God; the LORD is avenging and wrathful... The LORD is slow to anger and great in power, and the LORD will by no means clear the guilty."
+  },
+  {
+    "text": "While God is slow to anger, Nahum 1:3 emphasizes that He will by no means do what?",
+    "options": ["Show mercy", "Clear the guilty", "Forget His people", "Answer prayer"],
+    "correctAnswerIndex": 1,
+    "book": "Nahum",
+    "difficulty": "Medium",
+    "verseReference": "Nahum 1:3",
+    "verseText": "The LORD is slow to anger and great in power, and the LORD will by no means clear the guilty."
+  },
+  {
+    "text": "Despite the focus on judgment against Nineveh, what comfort does Nahum 1:7 offer?",
+    "options": ["Nineveh will be spared", "The LORD is a stronghold in the day of trouble; He knows those who take refuge in Him", "Assyria will rule forever", "Judah will also be destroyed"],
+    "correctAnswerIndex": 1,
+    "book": "Nahum",
+    "difficulty": "Easy",
+    "verseReference": "Nahum 1:7",
+    "verseText": "The LORD is good, a stronghold in the day of trouble; he knows those who take refuge in him."
+  },
+  {
+    "text": "Nahum 1:15 brings good news specifically to which kingdom?",
+    "options": ["Assyria", "Egypt", "Judah", "Babylon"],
+    "correctAnswerIndex": 2,
+    "book": "Nahum",
+    "difficulty": "Medium",
+    "verseReference": "Nahum 1:15",
+    "verseText": "Behold, upon the mountains, the feet of him who brings good news, who publishes peace! Keep your feasts, O Judah; fulfill your vows, for never again shall the worthless pass through you; he is utterly cut off."
+  },
+  {
+    "text": "Chapters 2 and 3 vividly describe what aspect of Nineveh?",
+    "options": ["Its great wisdom", "Its religious piety", "Its impending siege, battle, destruction, and wickedness", "Its alliance with Judah"],
+    "correctAnswerIndex": 2,
+    "book": "Nahum",
+    "difficulty": "Easy",
+    "verseReference": "Nahum (Chapters 2-3 Overview)",
+    "verseText": "(Describes the attack, chariots, bloodshed, plunder, and reasons for judgment like cruelty and idolatry)"
+  },
+  {
+    "text": "Nineveh is referred to metaphorically as what kind of city in Nahum 3:1?",
+    "options": ["City of peace", "City of wisdom", "City of bloodshed", "City of refuge"],
+    "correctAnswerIndex": 2,
+    "book": "Nahum",
+    "difficulty": "Easy",
+    "verseReference": "Nahum 3:1",
+    "verseText": "Woe to the bloody city, all full of lies and plunder— no end to the prey!"
+  },
+  {
+    "text": "What reason is given in Nahum 3:4 for Nineveh's judgment related to its influence on nations?",
+    "options": ["Its great trade routes", "Its beautiful architecture", "Its 'whoring' and 'witchcraft' that enslaved nations", "Its powerful army"],
+    "correctAnswerIndex": 2,
+    "book": "Nahum",
+    "difficulty": "Medium",
+    "verseReference": "Nahum 3:4",
+    "verseText": "And all for the countless whorings of the prostitute, graceful and of deadly charms, who betrays nations with her whorings, and peoples with her witchcraft."
+  },
+  {
+    "text": "Nahum compares Nineveh's fate to the previous fall of which great Egyptian city?",
+    "options": ["Memphis", "Alexandria", "Thebes (No-amon)", "Cairo"],
+    "correctAnswerIndex": 2,
+    "book": "Nahum",
+    "difficulty": "Hard",
+    "verseReference": "Nahum 3:8",
+    "verseText": "Are you better than Thebes (No-amon) that sat by the Nile, with water around her, her rampart a sea, and water her wall?"
+  },
+  {
+    "text": "What is the final, bleak assessment of Nineveh's situation in Nahum 3:19?",
+    "options": ["There is hope for recovery", "Allies will come to help", "There is no healing for its wound; all who hear the news clap their hands", "A new king will arise"],
+    "correctAnswerIndex": 2,
+    "book": "Nahum",
+    "difficulty": "Medium",
+    "verseReference": "Nahum 3:19",
+    "verseText": "There is no easing your hurt; your wound is grievous. All who hear the news about you clap their hands over you. For upon whom has not come your unceasing evil?"
+  }
+]

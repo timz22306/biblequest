@@ -1,0 +1,92 @@
+[
+  {
+    "text": "Who wrote the letter of 2 Timothy?",
+    "options": ["Timothy", "Luke", "Paul", "Titus"],
+    "correctAnswerIndex": 2,
+    "book": "2 Timothy",
+    "difficulty": "Easy",
+    "verseReference": "2 Timothy 1:1",
+    "verseText": "Paul, an apostle of Christ Jesus by the will of God according to the promise of the life that is in Christ Jesus,"
+  },
+  {
+    "text": "What is the likely situation of Paul as he writes 2 Timothy?",
+    "options": ["On a missionary journey", "Comfortably retired in Ephesus", "Imprisoned again in Rome, shortly before his death", "Debating in Athens"],
+    "correctAnswerIndex": 2,
+    "book": "2 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "2 Timothy 1:8, 16; 4:6-8",
+    "verseText": "Therefore do not be ashamed of the testimony about our Lord, nor of me his prisoner... May the Lord grant mercy to the household of Onesiphorus, for he often refreshed me and was not ashamed of my chains... For I am already being poured out as a drink offering, and the time of my departure has come. I have fought the good fight, I have finished the race, I have kept the faith."
+  },
+  {
+    "text": "2 Timothy has the tone of a final charge or testament from Paul to whom?",
+    "options": ["The church in Rome", "Peter", "Timothy", "The Emperor"],
+    "correctAnswerIndex": 2,
+    "book": "2 Timothy",
+    "difficulty": "Easy",
+    "verseReference": "2 Timothy 1:2, 4:1-5",
+    "verseText": "To Timothy, my beloved child... I charge you in the presence of God and of Christ Jesus... preach the word; be ready in season and out of season..."
+  },
+  {
+    "text": "Paul encourages Timothy not to be ashamed but to 'fan into flame' what (2 Timothy 1)?",
+    "options": ["His anger", "His ambition", "The gift of God within him", "His love for Paul"],
+    "correctAnswerIndex": 2,
+    "book": "2 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "2 Timothy 1:6-7",
+    "verseText": "For this reason I remind you to fan into flame the gift of God, which is in you through the laying on of my hands, for God gave us a spirit not of fear but of power and love and self-control."
+  },
+  {
+    "text": "What does Paul exhort Timothy to do with the gospel message he has received (2 Timothy 2)?",
+    "options": ["Keep it secret", "Entrust it to faithful men who will be able to teach others also", "Modify it for different audiences", "Use it for personal gain"],
+    "correctAnswerIndex": 1,
+    "book": "2 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "2 Timothy 2:2",
+    "verseText": "and what you have heard from me in the presence of many witnesses entrust to faithful men, who will be able to teach others also."
+  },
+  {
+    "text": "Paul uses metaphors like a soldier, an athlete, and a farmer in 2 Timothy 2 to illustrate what qualities needed for ministry?",
+    "options": ["Wealth and fame", "Endurance, discipline, and hard work focused on the goal", "Aggression and competitiveness", "Relaxation and ease"],
+    "correctAnswerIndex": 1,
+    "book": "2 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "2 Timothy 2:3-6",
+    "verseText": "Share in suffering as a good soldier of Christ Jesus. No soldier gets entangled in civilian pursuits, since his aim is to please the one who enlisted him. An athlete is not crowned unless he competes according to the rules. It is the hardworking farmer who ought to have the first share of the crops."
+  },
+  {
+    "text": "What does Paul famously state about 'All Scripture' in 2 Timothy 3:16?",
+    "options": ["It is outdated", "It contains errors", "It is God-breathed (inspired) and profitable for teaching, reproof, correction, and training in righteousness", "It is only for pastors"],
+    "correctAnswerIndex": 2,
+    "book": "2 Timothy",
+    "difficulty": "Easy",
+    "verseReference": "2 Timothy 3:16",
+    "verseText": "All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness,"
+  },
+  {
+    "text": "In 2 Timothy 4, Paul gives Timothy a solemn charge to do what?",
+    "options": ["Build a larger church building", "Travel to Spain", "Preach the word; be ready in season and out of season", "Write his own letters"],
+    "correctAnswerIndex": 2,
+    "book": "2 Timothy",
+    "difficulty": "Easy",
+    "verseReference": "2 Timothy 4:2",
+    "verseText": "preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching."
+  },
+  {
+    "text": "As Paul faces his imminent death, what does he declare he has done (2 Timothy 4)?",
+    "options": ["Amassed great wealth", "Defeated all his enemies", "Fought the good fight, finished the race, kept the faith", "Established churches in every city"],
+    "correctAnswerIndex": 2,
+    "book": "2 Timothy",
+    "difficulty": "Easy",
+    "verseReference": "2 Timothy 4:7",
+    "verseText": "I have fought the good fight, I have finished the race, I have kept the faith."
+  },
+  {
+    "text": "Who does Paul say deserted him, 'in love with this present world' (2 Timothy 4)?",
+    "options": ["Luke", "Mark", "Demas", "Tychicus"],
+    "correctAnswerIndex": 2,
+    "book": "2 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "2 Timothy 4:10",
+    "verseText": "For Demas, in love with this present world, has deserted me and gone to Thessalonica..."
+  }
+]

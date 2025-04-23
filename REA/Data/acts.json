@@ -1,0 +1,92 @@
+[
+  {
+    "text": "Who is the author of the Book of Acts?",
+    "options": ["Peter", "Paul", "Luke", "John"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Easy",
+    "verseReference": "Acts 1:1 (cf. Luke 1:3)",
+    "verseText": "In the first book, O Theophilus, I have dealt with all that Jesus began to do and teach, (Implied authorship by Luke, author of the 'first book')."
+  },
+  {
+    "text": "Acts begins with Jesus' final instructions to the apostles and what event?",
+    "options": ["His crucifixion", "His resurrection", "His ascension into heaven", "The Sermon on the Mount"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Easy",
+    "verseReference": "Acts 1:9",
+    "verseText": "And when he had said these things, as they were looking on, he was lifted up, and a cloud took him out of their sight."
+  },
+  {
+    "text": "What dramatic event occurred on the Day of Pentecost (Acts 2)?",
+    "options": ["The Temple was destroyed", "The Holy Spirit descended upon the believers with wind and tongues of fire", "Jesus appeared to the disciples again", "A great earthquake shook Jerusalem"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Easy",
+    "verseReference": "Acts 2:2-4",
+    "verseText": "And suddenly there came from heaven a sound like a mighty rushing wind, and it filled the entire house where they were sitting. And divided tongues as of fire appeared to them and rested on each one of them. And they were all filled with the Holy Spirit and began to speak in other tongues as the Spirit gave them utterance."
+  },
+  {
+    "text": "Who preached the first sermon recorded in Acts after the Spirit's arrival, leading to about 3,000 conversions?",
+    "options": ["John", "James", "Peter", "Stephen"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Easy",
+    "verseReference": "Acts 2:14, 41",
+    "verseText": "But Peter, standing with the eleven, lifted up his voice and addressed them... So those who received his word were baptized, and there were added that day about three thousand souls."
+  },
+  {
+    "text": "Who was the first Christian martyr recorded in Acts?",
+    "options": ["James", "Peter", "Stephen", "Paul"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 7:59-60",
+    "verseText": "And as they were stoning Stephen, he called out, “Lord Jesus, receive my spirit.” And falling to his knees he cried out with a loud voice, “Lord, do not hold this sin against them.” And when he had said this, he fell asleep."
+  },
+  {
+    "text": "What prominent persecutor of the church experienced a dramatic conversion on the road to Damascus?",
+    "options": ["Herod Agrippa", "Felix", "Saul (later called Paul)", "Gamaliel"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Easy",
+    "verseReference": "Acts 9:1-6",
+    "verseText": "But Saul, still breathing threats and murder against the disciples of the Lord... Now as he went on his way, he approached Damascus, and suddenly a light from heaven shone around him. And falling to the ground, he heard a voice saying to him, “Saul, Saul, why are you persecuting me?”"
+  },
+  {
+    "text": "In Acts 10, Peter receives a vision leading him to preach the gospel to whom?",
+    "options": ["The Roman Emperor", "Cornelius, a Roman centurion (a Gentile)", "The High Priest", "Samaritans"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 10:28, 44-45",
+    "verseText": "And he said to them, “You yourselves know how unlawful it is for a Jew to associate with or to visit anyone of another nation, but God has shown me that I should not call any person common or unclean.”... While Peter was still saying these things, the Holy Spirit fell on all who heard the word. And the believers from among the circumcised who had come with Peter were amazed, because the gift of the Holy Spirit was poured out even on the Gentiles."
+  },
+  {
+    "text": "What major issue was debated and decided upon at the Jerusalem Council in Acts 15?",
+    "options": ["Whether Jesus was divine", "Whether Gentile believers needed to be circumcised and follow the Law of Moses", "Who should lead the church", "When the Lord would return"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 15:1, 5, 19-20",
+    "verseText": "But some men came down from Judea and were teaching the brothers, “Unless you are circumcised according to the custom of Moses, you cannot be saved.”... But some believers who belonged to the party of the Pharisees rose up and said, “It is necessary to circumcise them and to order them to keep the law of Moses.”... Therefore my judgment is that we should not trouble those of the Gentiles who turn to God, but should write to them to abstain from the things polluted by idols, and from sexual immorality, and from what has been strangled, and from blood."
+  },
+  {
+    "text": "The latter half of Acts primarily focuses on the missionary journeys of which apostle?",
+    "options": ["Peter", "John", "Paul", "James"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Easy",
+    "verseReference": "Acts 13-28",
+    "verseText": "(Acts 13 marks the beginning of Paul's first missionary journey, and the rest of the book largely follows his travels, preaching, and trials)."
+  },
+  {
+    "text": "How does the Book of Acts end?",
+    "options": ["With Paul's martyrdom in Rome", "With the destruction of Jerusalem", "With Paul under house arrest in Rome, preaching the kingdom of God boldly", "With Peter establishing the church in Rome"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 28:30-31",
+    "verseText": "He lived there two whole years at his own expense, and welcomed all who came to him, proclaiming the kingdom of God and teaching about the Lord Jesus Christ with all boldness and without hindrance."
+  }
+]

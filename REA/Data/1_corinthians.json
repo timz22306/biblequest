@@ -1,0 +1,92 @@
+[
+  {
+    "text": "Who is the primary author of 1 Corinthians?",
+    "options": ["Peter", "James", "Paul", "John"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Easy",
+    "verseReference": "1 Corinthians 1:1",
+    "verseText": "Paul, called by the will of God to be an apostle of Christ Jesus, and our brother Sosthenes,"
+  },
+  {
+    "text": "The city of Corinth, where the recipients of this letter lived, was known for what?",
+    "options": ["Its strict moral code", "Its intellectual and cultural diversity, but also its rampant immorality", "Its isolation and lack of trade", "Its strong Jewish community"],
+    "correctAnswerIndex": 1,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "N/A (Historical Context)",
+    "verseText": "(Corinth was a major Roman port city known for its wealth, diverse population, pagan temples, and reputation for sexual immorality, which provides context for many issues Paul addresses)."
+  },
+  {
+    "text": "What was a major problem Paul addressed in the first few chapters of 1 Corinthians?",
+    "options": ["Persecution from Romans", "Lack of funds", "Divisions and factions within the church (following different leaders)", "False teachings about the resurrection"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Easy",
+    "verseReference": "1 Corinthians 1:11-12",
+    "verseText": "For it has been reported to me by Chloe's people that there is quarreling among you, my brothers. What I mean is that each one of you says, “I follow Paul,” or “I follow Apollos,” or “I follow Cephas,” or “I follow Christ.”"
+  },
+  {
+    "text": "In 1 Corinthians 5, Paul instructs the church to deal with a man involved in what specific sin?",
+    "options": ["Stealing", "Murder", "Sexual immorality with his father's wife", "Blasphemy"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 5:1",
+    "verseText": "It is actually reported that there is sexual immorality among you, and of a kind that is not tolerated even among pagans, for a man has his father's wife."
+  },
+  {
+    "text": "What topic does Paul address extensively in 1 Corinthians 7?",
+    "options": ["Spiritual gifts", "The Lord's Supper", "Marriage, singleness, and divorce", "Giving"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 7:1-2, 8-9, 10-11 etc.",
+    "verseText": "(Chapter 7 provides detailed instructions and principles regarding marriage, remaining single, and issues related to divorce and remarriage)."
+  },
+  {
+    "text": "In 1 Corinthians 8-10, Paul discusses the issue of eating food sacrificed to what?",
+    "options": ["The poor", "Idols", "The Emperor", "Animals"],
+    "correctAnswerIndex": 1,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 8:1, 4",
+    "verseText": "Now concerning food offered to idols: we know that “all of us possess knowledge.”... Therefore, as to the eating of food offered to idols, we know that “an idol has no real existence,” and that “there is no God but one.”"
+  },
+  {
+    "text": "1 Corinthians 12 compares the church to what, emphasizing unity and diversity of gifts?",
+    "options": ["A building", "An army", "A human body", "A family"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Easy",
+    "verseReference": "1 Corinthians 12:12, 27",
+    "verseText": "For just as the body is one and has many members, and all the members of the body, though many, are one body, so it is with Christ... Now you are the body of Christ and individually members of it."
+  },
+  {
+    "text": "What famous chapter on love is found in 1 Corinthians?",
+    "options": ["Chapter 1", "Chapter 7", "Chapter 13", "Chapter 15"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Easy",
+    "verseReference": "1 Corinthians 13:1",
+    "verseText": "If I speak in the tongues of men and of angels, but have not love, I am a noisy gong or a clanging cymbal."
+  },
+  {
+    "text": "What crucial doctrine does Paul defend and explain at length in 1 Corinthians 15?",
+    "options": ["The Trinity", "The inspiration of Scripture", "The resurrection of Christ and of believers", "The nature of angels"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Easy",
+    "verseReference": "1 Corinthians 15:3-4, 12",
+    "verseText": "For I delivered to you as of first importance what I also received: that Christ died for our sins in accordance with the Scriptures, that he was buried, that he was raised on the third day in accordance with the Scriptures... Now if Christ is proclaimed as raised from the dead, how can some of you say that there is no resurrection of the dead?"
+  },
+  {
+    "text": "What instructions does Paul give regarding the Lord's Supper in 1 Corinthians 11?",
+    "options": ["To eat it only once a year", "To examine oneself before partaking, discerning the body", "To use only specific types of bread and wine", "To exclude certain members"],
+    "correctAnswerIndex": 1,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 11:28-29",
+    "verseText": "Let a person examine himself, then, and so eat of the bread and drink of the cup. For anyone who eats and drinks without discerning the body eats and drinks judgment on himself."
+  }
+]

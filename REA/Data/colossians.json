@@ -1,0 +1,92 @@
+[
+  {
+    "text": "Who is the author of the Epistle to the Colossians?",
+    "options": ["Epaphras", "Timothy", "Paul", "Tychicus"],
+    "correctAnswerIndex": 2,
+    "book": "Colossians",
+    "difficulty": "Easy",
+    "verseReference": "Colossians 1:1",
+    "verseText": "Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother,"
+  },
+  {
+    "text": "A primary reason Paul wrote Colossians was to combat false teaching that diminished the supremacy and sufficiency of whom?",
+    "options": ["Moses", "The Holy Spirit", "Christ", "The Apostles"],
+    "correctAnswerIndex": 2,
+    "book": "Colossians",
+    "difficulty": "Easy",
+    "verseReference": "Colossians 2:8-10",
+    "verseText": "See to it that no one takes you captive by philosophy and empty deceit, according to human tradition, according to the elemental spirits of the world, and not according to Christ. For in him the whole fullness of deity dwells bodily, and you have been filled in him, who is the head of all rule and authority."
+  },
+  {
+    "text": "Colossians 1:15-20 contains a powerful description of Christ's nature and work, calling Him the 'image of the invisible God' and stating that all things were created through Him and for...",
+    "options": ["Israel", "The Church", "Him", "The Father"],
+    "correctAnswerIndex": 2,
+    "book": "Colossians",
+    "difficulty": "Medium",
+    "verseReference": "Colossians 1:15-16",
+    "verseText": "He is the image of the invisible God, the firstborn of all creation. For by him all things were created, in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities—all things were created through him and for him."
+  },
+  {
+    "text": "According to Colossians 1:18, Christ is the head of what?",
+    "options": ["The Roman Empire", "The universe", "The body, the church", "The angelic hosts"],
+    "correctAnswerIndex": 2,
+    "book": "Colossians",
+    "difficulty": "Easy",
+    "verseReference": "Colossians 1:18",
+    "verseText": "And he is the head of the body, the church. He is the beginning, the firstborn from the dead, that in everything he might be preeminent."
+  },
+  {
+    "text": "What does Paul warn the Colossians against in chapter 2, including philosophy, asceticism, and worship of angels?",
+    "options": ["Roman persecution", "Jewish legalism only", "Being taken captive by hollow and deceptive human traditions", "Ignoring spiritual gifts"],
+    "correctAnswerIndex": 2,
+    "book": "Colossians",
+    "difficulty": "Medium",
+    "verseReference": "Colossians 2:8, 18",
+    "verseText": "See to it that no one takes you captive by philosophy and empty deceit, according to human tradition, according to the elemental spirits of the world, and not according to Christ... Let no one disqualify you, insisting on asceticism and worship of angels, going on in detail about visions, puffed up without reason by his sensuous mind,"
+  },
+  {
+    "text": "Colossians 3:1-2 instructs believers, who have been raised with Christ, to set their minds on things...",
+    "options": ["Below, on earthly things", "Above, not on things that are on earth", "Of the past", "Of the future only"],
+    "correctAnswerIndex": 1,
+    "book": "Colossians",
+    "difficulty": "Easy",
+    "verseReference": "Colossians 3:1-2",
+    "verseText": "If then you have been raised with Christ, seek the things that are above, where Christ is, seated at the right hand of God. Set your minds on things that are above, not on things that are on earth."
+  },
+  {
+    "text": "What virtues does Paul tell the Colossians to 'put on' as God's chosen ones in Colossians 3:12?",
+    "options": ["Wealth, power, influence", "Anger, wrath, malice", "Compassionate hearts, kindness, humility, meekness, patience", "Robes, sandals, turbans"],
+    "correctAnswerIndex": 2,
+    "book": "Colossians",
+    "difficulty": "Medium",
+    "verseReference": "Colossians 3:12",
+    "verseText": "Put on then, as God's chosen ones, holy and beloved, compassionate hearts, kindness, humility, meekness, and patience,"
+  },
+  {
+    "text": "Similar to Ephesians, Colossians 3 includes instructions for household relationships. What is the primary instruction given to children?",
+    "options": ["Rule over your parents", "Ignore your parents", "Obey your parents in everything", "Teach your parents"],
+    "correctAnswerIndex": 2,
+    "book": "Colossians",
+    "difficulty": "Easy",
+    "verseReference": "Colossians 3:20",
+    "verseText": "Children, obey your parents in everything, for this pleases the Lord."
+  },
+  {
+    "text": "Who was the primary founder and evangelist of the church in Colossae, mentioned by Paul?",
+    "options": ["Paul himself", "Peter", "Epaphras", "Tychicus"],
+    "correctAnswerIndex": 2,
+    "book": "Colossians",
+    "difficulty": "Hard",
+    "verseReference": "Colossians 1:7, 4:12",
+    "verseText": "just as you learned it from Epaphras our beloved fellow servant. He is a faithful minister of Christ on your behalf... Epaphras, who is one of you, a servant of Christ Jesus, greets you, always struggling on your behalf in his prayers..."
+  },
+  {
+    "text": "What instruction does Paul give regarding the letter after it has been read by the Colossians?",
+    "options": ["Burn it", "Have it read also in the church of the Laodiceans", "Send it back to Paul", "Translate it into Latin"],
+    "correctAnswerIndex": 1,
+    "book": "Colossians",
+    "difficulty": "Medium",
+    "verseReference": "Colossians 4:16",
+    "verseText": "And when this letter has been read among you, have it also read in the church of the Laodiceans; and see that you also read the letter from Laodicea."
+  }
+]

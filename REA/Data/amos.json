@@ -1,0 +1,92 @@
+[
+  {
+    "text": "What was Amos's occupation before becoming a prophet?",
+    "options": ["Priest", "King's advisor", "Shepherd and dresser of sycamore figs", "Fisherman"],
+    "correctAnswerIndex": 2,
+    "book": "Amos",
+    "difficulty": "Easy",
+    "verseReference": "Amos 1:1, 7:14",
+    "verseText": "The words of Amos, who was among the shepherds of Tekoa... Then Amos answered and said to Amaziah, “I was no prophet, nor a prophet's son, but I was a herdsman and a dresser of sycamore figs."
+  },
+  {
+    "text": "Amos prophesied primarily against which kingdom?",
+    "options": ["Judah (Southern Kingdom)", "Israel (Northern Kingdom)", "Egypt", "Assyria"],
+    "correctAnswerIndex": 1,
+    "book": "Amos",
+    "difficulty": "Easy",
+    "verseReference": "Amos 1:1 (Context)",
+    "verseText": "...which he saw concerning Israel in the days of Uzziah king of Judah and in the days of Jeroboam the son of Joash, king of Israel..."
+  },
+  {
+    "text": "Amos begins his prophecy by pronouncing judgment on several nations surrounding Israel. What is the recurring phrase introducing these judgments?",
+    "options": ["'Thus says the LORD:'", "'Woe to you...'", "'For three transgressions of [nation], and for four, I will not revoke the punishment...'", "'Hear this word...'"],
+    "correctAnswerIndex": 2,
+    "book": "Amos",
+    "difficulty": "Medium",
+    "verseReference": "Amos 1:3, 6, 9, 11, 13, 2:1, 4, 6",
+    "verseText": "(Repeated formula introducing judgments on Damascus, Gaza, Tyre, Edom, Ammon, Moab, Judah, and Israel)"
+  },
+  {
+    "text": "What were some of the primary sins Amos condemned in Israel?",
+    "options": ["Lack of temple attendance", "Social injustice, oppressing the poor, empty religious ritualism", "Failure to conquer neighbors", "Speaking against the king"],
+    "correctAnswerIndex": 1,
+    "book": "Amos",
+    "difficulty": "Easy",
+    "verseReference": "Amos 2:6-7, 4:1, 5:11-12, 5:21-24",
+    "verseText": "(Examples: 'selling the righteous for silver, and the needy for a pair of sandals'; 'oppress the poor, crush the needy'; 'trample on the poor'; 'take bribes'; God hating their feasts and assemblies)"
+  },
+  {
+    "text": "In Amos 5:14, what are the people urged to seek instead of evil?",
+    "options": ["Wealth", "Power", "Good", "Knowledge"],
+    "correctAnswerIndex": 2,
+    "book": "Amos",
+    "difficulty": "Easy",
+    "verseReference": "Amos 5:14",
+    "verseText": "Seek good, and not evil, that you may live; and so the LORD, the God of hosts, will be with you, as you have said."
+  },
+  {
+    "text": "What does God say He despises and rejects in Amos 5:21-23?",
+    "options": ["Their prayers", "Their kings", "Their feasts, assemblies, offerings, and songs", "Their prophets"],
+    "correctAnswerIndex": 2,
+    "book": "Amos",
+    "difficulty": "Easy",
+    "verseReference": "Amos 5:21-23",
+    "verseText": "“I hate, I despise your feasts, and I take no delight in your solemn assemblies. Even though you offer me your burnt offerings and grain offerings, I will not accept them... Take away from me the noise of your songs; to the melody of your harps I will not listen."
+  },
+  {
+    "text": "Instead of empty rituals, what does God want to 'roll down like waters' in Amos 5:24?",
+    "options": ["Judgment", "Mercy", "Justice and righteousness", "Wealth"],
+    "correctAnswerIndex": 2,
+    "book": "Amos",
+    "difficulty": "Easy",
+    "verseReference": "Amos 5:24",
+    "verseText": "But let justice roll down like waters, and righteousness like an ever-flowing stream."
+  },
+  {
+    "text": "Amos saw five visions of judgment. Which of these involved a plumb line?",
+    "options": ["Locusts", "Fire", "A plumb line", "A basket of summer fruit", "The LORD by the altar"],
+    "correctAnswerIndex": 2,
+    "book": "Amos",
+    "difficulty": "Medium",
+    "verseReference": "Amos 7:7-8",
+    "verseText": "He showed me this: behold, the Lord was standing beside a wall built with a plumb line, with a plumb line in his hand. And the LORD said to me, “Amos, what do you see?” And I said, “A plumb line.” Then the Lord said, “Behold, I am setting a plumb line in the midst of my people Israel; I will never again pass by them;"
+  },
+  {
+    "text": "Who was the priest of Bethel who confronted Amos and told him to stop prophesying in Israel?",
+    "options": ["Eli", "Zadok", "Amaziah", "Abiathar"],
+    "correctAnswerIndex": 2,
+    "book": "Amos",
+    "difficulty": "Medium",
+    "verseReference": "Amos 7:10-13",
+    "verseText": "Then Amaziah the priest of Bethel sent to Jeroboam king of Israel, saying, “Amos has conspired against you in the midst of the house of Israel... O seer, go, flee away to the land of Judah, and eat bread there, and prophesy there, but never again prophesy at Bethel..."
+  },
+  {
+    "text": "Despite the messages of judgment, how does the book of Amos end?",
+    "options": ["With the destruction of Israel", "With Amos being killed", "With a promise of future restoration and blessing for David's fallen booth", "With a call for more sacrifices"],
+    "correctAnswerIndex": 2,
+    "book": "Amos",
+    "difficulty": "Easy",
+    "verseReference": "Amos 9:11-15",
+    "verseText": "“In that day I will raise up the booth of David that is fallen and repair its breaches... I will restore the fortunes of my people Israel... I will plant them on their land, and they shall never again be uprooted out of the land that I have given them,” says the LORD your God."
+  }
+]

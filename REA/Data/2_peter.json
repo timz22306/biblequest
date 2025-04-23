@@ -1,0 +1,92 @@
+[
+  {
+    "text": "Who identifies himself as the author of 2 Peter?",
+    "options": ["Paul", "John", "Simeon Peter", "James"],
+    "correctAnswerIndex": 2,
+    "book": "2 Peter",
+    "difficulty": "Easy",
+    "verseReference": "2 Peter 1:1",
+    "verseText": "Simeon Peter, a servant and apostle of Jesus Christ, To those who have obtained a faith of equal standing with ours by the righteousness of our God and Savior Jesus Christ:"
+  },
+  {
+    "text": "A primary purpose of 2 Peter is to warn against what?",
+    "options": ["Roman persecution", "Jewish legalism", "False teachers and scoffers", "Lack of giving"],
+    "correctAnswerIndex": 2,
+    "book": "2 Peter",
+    "difficulty": "Easy",
+    "verseReference": "2 Peter 2:1, 3:3",
+    "verseText": "But false prophets also arose among the people, just as there will be false teachers among you, who will secretly bring in destructive heresies... knowing this first of all, that scoffers will come in the last days with scoffing, following their own sinful desires."
+  },
+  {
+    "text": "In 2 Peter 1, Peter urges believers to supplement their faith with virtues like goodness, knowledge, self-control, steadfastness, godliness, brotherly affection, and what?",
+    "options": ["Wealth", "Power", "Love", "Wisdom"],
+    "correctAnswerIndex": 2,
+    "book": "2 Peter",
+    "difficulty": "Medium",
+    "verseReference": "2 Peter 1:5-7",
+    "verseText": "For this very reason, make every effort to supplement your faith with virtue, and virtue with knowledge, and knowledge with self-control, and self-control with steadfastness, and steadfastness with godliness, and godliness with brotherly affection, and brotherly affection with love."
+  },
+  {
+    "text": "Peter mentions being an eyewitness to what event involving Jesus (2 Peter 1)?",
+    "options": ["His birth", "His baptism", "His transfiguration", "His ascension"],
+    "correctAnswerIndex": 2,
+    "book": "2 Peter",
+    "difficulty": "Medium",
+    "verseReference": "2 Peter 1:16-18",
+    "verseText": "For we did not follow cleverly devised myths when we made known to you the power and coming of our Lord Jesus Christ, but we were eyewitnesses of his majesty. For when he received honor and glory from God the Father, and the voice was borne to him by the Majestic Glory, “This is my beloved Son, with whom I am well pleased,” we ourselves heard this very voice borne from heaven, for we were with him on the holy mountain."
+  },
+  {
+    "text": "According to 2 Peter 1:20-21, how did Scripture come about?",
+    "options": ["Through human wisdom alone", "By accident", "Men spoke from God as they were carried along by the Holy Spirit", "It evolved over time"],
+    "correctAnswerIndex": 2,
+    "book": "2 Peter",
+    "difficulty": "Easy",
+    "verseReference": "2 Peter 1:20-21",
+    "verseText": "knowing this first of all, that no prophecy of Scripture comes from someone's own interpretation. For no prophecy was ever produced by the will of man, but men spoke from God as they were carried along by the Holy Spirit."
+  },
+  {
+    "text": "In 2 Peter 2, Peter compares the false teachers to what Old Testament figures/events?",
+    "options": ["Moses and Abraham", "David and Solomon", "Angels who sinned, the ancient world (Noah's flood), Sodom and Gomorrah, Balaam", "Elijah and Elisha"],
+    "correctAnswerIndex": 2,
+    "book": "2 Peter",
+    "difficulty": "Hard",
+    "verseReference": "2 Peter 2:4-6, 15",
+    "verseText": "For if God did not spare angels when they sinned... if he did not spare the ancient world, but preserved Noah... if by turning the cities of Sodom and Gomorrah to ashes he condemned them to extinction... Forsaking the right way, they have gone astray. They have followed the way of Balaam..."
+  },
+  {
+    "text": "What do the scoffers mentioned in 2 Peter 3 question or deny?",
+    "options": ["The existence of God", "The resurrection of Jesus", "The promise of Christ's coming (return)", "The authority of the apostles"],
+    "correctAnswerIndex": 2,
+    "book": "2 Peter",
+    "difficulty": "Medium",
+    "verseReference": "2 Peter 3:3-4",
+    "verseText": "knowing this first of all, that scoffers will come in the last days with scoffing, following their own sinful desires. They will say, “Where is the promise of his coming? For ever since the fathers fell asleep, all things are continuing as they were from the beginning of creation.”"
+  },
+  {
+    "text": "Why does Peter say the Lord is patient, delaying His coming (2 Peter 3)?",
+    "options": ["He has forgotten His promise", "He is powerless to return", "He does not wish that any should perish, but that all should reach repentance", "He is waiting for a sign"],
+    "correctAnswerIndex": 2,
+    "book": "2 Peter",
+    "difficulty": "Easy",
+    "verseReference": "2 Peter 3:9",
+    "verseText": "The Lord is not slow to fulfill his promise as some count slowness, but is patient toward you, not wishing that any should perish, but that all should reach repentance."
+  },
+  {
+    "text": "How does Peter describe the Day of the Lord in 2 Peter 3?",
+    "options": ["As a time of peace", "As coming like a thief, with the heavens passing away and elements being destroyed by fire", "As a gradual transition", "As uncertain"],
+    "correctAnswerIndex": 1,
+    "book": "2 Peter",
+    "difficulty": "Medium",
+    "verseReference": "2 Peter 3:10",
+    "verseText": "But the day of the Lord will come like a thief, and then the heavens will pass away with a roar, and the heavenly bodies will be burned up and dissolved, and the earth and the works that are done on it will be exposed."
+  },
+  {
+    "text": "Peter mentions that some things in the letters of which other apostle are hard to understand and twisted by the ignorant?",
+    "options": ["James", "John", "Paul", "Himself"],
+    "correctAnswerIndex": 2,
+    "book": "2 Peter",
+    "difficulty": "Medium",
+    "verseReference": "2 Peter 3:15-16",
+    "verseText": "And count the patience of our Lord as salvation, just as our beloved brother Paul also wrote to you according to the wisdom given him, as he does in all his letters... There are some things in them that are hard to understand, which the ignorant and unstable twist to their own destruction, as they do the other Scriptures."
+  }
+]

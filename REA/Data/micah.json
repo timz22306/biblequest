@@ -1,0 +1,92 @@
+[
+  {
+    "text": "Micah prophesied during the reigns of which kings of Judah?",
+    "options": ["Saul, David, Solomon", "Uzziah, Ahaz, Manasseh", "Jotham, Ahaz, Hezekiah", "Josiah, Jehoiakim, Zedekiah"],
+    "correctAnswerIndex": 2,
+    "book": "Micah",
+    "difficulty": "Medium",
+    "verseReference": "Micah 1:1",
+    "verseText": "The word of the LORD that came to Micah of Moresheth in the days of Jotham, Ahaz, and Hezekiah, kings of Judah..."
+  },
+  {
+    "text": "Micah's prophecy concerned which two capital cities?",
+    "options": ["Babylon and Nineveh", "Thebes and Memphis", "Samaria (Israel) and Jerusalem (Judah)", "Damascus and Tyre"],
+    "correctAnswerIndex": 2,
+    "book": "Micah",
+    "difficulty": "Easy",
+    "verseReference": "Micah 1:1",
+    "verseText": "...which he saw concerning Samaria and Jerusalem."
+  },
+  {
+    "text": "Like Amos, Micah strongly condemned what sins?",
+    "options": ["Failure to observe festivals", "Social injustice, corruption among leaders and prophets, idolatry", "Lack of military preparedness", "Disrespect for foreign kings"],
+    "correctAnswerIndex": 1,
+    "book": "Micah",
+    "difficulty": "Easy",
+    "verseReference": "Micah 2:1-2, 3:1-3, 3:11, 6:10-12",
+    "verseText": "(Examples: Woe to those who devise wickedness... they covet fields and seize them; Is it not for you to know justice?— you who hate the good and love the evil; its heads give judgment for a bribe; its priests teach for a price; its prophets practice divination for money)"
+  },
+  {
+    "text": "In Micah 4, what famous prophecy is made about the mountain of the LORD's house and the nations?",
+    "options": ["It will be destroyed forever", "Nations will flow to it, and they will beat swords into plowshares", "Only Israel will be allowed there", "It will be moved to Babylon"],
+    "correctAnswerIndex": 1,
+    "book": "Micah",
+    "difficulty": "Medium",
+    "verseReference": "Micah 4:1-3",
+    "verseText": "It shall come to pass in the latter days that the mountain of the house of the LORD shall be established as the highest of the mountains... and nations shall flow to it... they shall beat their swords into plowshares, and their spears into pruning hooks; nation shall not lift up sword against nation, neither shall they learn war anymore."
+  },
+  {
+    "text": "Micah 5:2 prophesies that the future ruler of Israel will come from which small town?",
+    "options": ["Jerusalem", "Hebron", "Bethlehem Ephrathah", "Samaria"],
+    "correctAnswerIndex": 2,
+    "book": "Micah",
+    "difficulty": "Easy",
+    "verseReference": "Micah 5:2",
+    "verseText": "But you, O Bethlehem Ephrathah, who are too little to be among the clans of Judah, from you shall come forth for me one who is to be ruler in Israel, whose coming forth is from of old, from ancient days."
+  },
+  {
+    "text": "This prophecy from Micah 5:2 is famously quoted in the New Testament in relation to whose birth?",
+    "options": ["John the Baptist", "Jesus Christ", "Paul", "Peter"],
+    "correctAnswerIndex": 1,
+    "book": "Micah",
+    "difficulty": "Easy",
+    "verseReference": "Matthew 2:5-6",
+    "verseText": "(The chief priests and scribes quote Micah 5:2 to Herod when asked where the Christ was to be born)"
+  },
+  {
+    "text": "In Micah 6, God brings a legal case against Israel. What does He ask them in verse 3?",
+    "options": ["'Why have you forsaken me?'", "'Where are your sacrifices?'", "'O my people, what have I done to you? How have I wearied you?'", "'Will you not repent?'"],
+    "correctAnswerIndex": 2,
+    "book": "Micah",
+    "difficulty": "Medium",
+    "verseReference": "Micah 6:3",
+    "verseText": "“O my people, what have I done to you? How have I wearied you? Answer me!"
+  },
+  {
+    "text": "What three things does the LORD require of humanity, according to Micah 6:8?",
+    "options": ["Offer thousands of rams, ten thousand rivers of oil, give your firstborn", "Build temples, offer sacrifices, pray daily", "Do justice, love kindness (mercy), walk humbly with your God", "Keep the Sabbath, pay tithes, attend festivals"],
+    "correctAnswerIndex": 2,
+    "book": "Micah",
+    "difficulty": "Easy",
+    "verseReference": "Micah 6:8",
+    "verseText": "He has told you, O man, what is good; and what does the LORD require of you but to do justice, and to love kindness, and to walk humbly with your God?"
+  },
+  {
+    "text": "Despite the pervasive wickedness described in Micah 7, where does the prophet resolve to look?",
+    "options": ["To foreign allies for help", "To his own strength", "To the LORD; wait for the God of his salvation", "To the past glories of Israel"],
+    "correctAnswerIndex": 2,
+    "book": "Micah",
+    "difficulty": "Medium",
+    "verseReference": "Micah 7:7",
+    "verseText": "But as for me, I will look to the LORD; I will wait for the God of my salvation; my God will hear me."
+  },
+  {
+    "text": "How does Micah end, expressing confidence in God's character?",
+    "options": ["With a curse on Israel's enemies", "With a description of judgment", "With praise for God's pardoning iniquity and showing steadfast love and faithfulness", "With a call to arms"],
+    "correctAnswerIndex": 2,
+    "book": "Micah",
+    "difficulty": "Easy",
+    "verseReference": "Micah 7:18-20",
+    "verseText": "Who is a God like you, pardoning iniquity and passing over transgression for the remnant of his inheritance? He does not retain his anger forever, because he delights in steadfast love... You will show faithfulness to Jacob and steadfast love to Abraham..."
+  }
+]

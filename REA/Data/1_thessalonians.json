@@ -1,0 +1,92 @@
+[
+  {
+    "text": "Who are the authors mentioned at the beginning of 1 Thessalonians?",
+    "options": ["Paul, Silas (Silvanus), and Timothy", "Paul and Barnabas", "Peter, James, and John", "Paul alone"],
+    "correctAnswerIndex": 0,
+    "book": "1 Thessalonians",
+    "difficulty": "Easy",
+    "verseReference": "1 Thessalonians 1:1",
+    "verseText": "Paul, Silvanus, and Timothy, To the church of the Thessalonians in God the Father and the Lord Jesus Christ: Grace to you and peace."
+  },
+  {
+    "text": "Paul commends the Thessalonian believers for receiving the word with joy despite what?",
+    "options": ["Poverty", "Much affliction/persecution", "Internal divisions", "False teaching"],
+    "correctAnswerIndex": 1,
+    "book": "1 Thessalonians",
+    "difficulty": "Medium",
+    "verseReference": "1 Thessalonians 1:6",
+    "verseText": "And you became imitators of us and of the Lord, for you received the word in much affliction, with the joy of the Holy Spirit,"
+  },
+  {
+    "text": "In 1 Thessalonians 2, Paul defends his ministry among them, emphasizing that it was NOT characterized by what?",
+    "options": ["Boldness and miracles", "Hard work and gentleness", "Flattery, greed, or seeking glory from people", "Teaching about the Law"],
+    "correctAnswerIndex": 2,
+    "book": "1 Thessalonians",
+    "difficulty": "Medium",
+    "verseReference": "1 Thessalonians 2:5-6",
+    "verseText": "For we never came with words of flattery, as you know, nor with a pretext for greed—God is witness. Nor did we seek glory from people, whether from you or from others, though we could have made demands as apostles of Christ."
+  },
+  {
+    "text": "Who did Paul send back to Thessalonica to establish and exhort the believers in their faith when he couldn't go himself?",
+    "options": ["Silas", "Luke", "Timothy", "Titus"],
+    "correctAnswerIndex": 2,
+    "book": "1 Thessalonians",
+    "difficulty": "Medium",
+    "verseReference": "1 Thessalonians 3:1-2",
+    "verseText": "Therefore when we could bear it no longer, we were willing to be left behind at Athens alone, and we sent Timothy, our brother and God's coworker in the gospel of Christ, to establish and exhort you in your faith,"
+  },
+  {
+    "text": "What is the main topic Paul addresses in 1 Thessalonians 4:13-18?",
+    "options": ["Church leadership", "Marriage", "The return of Christ and the fate of believers who have died", "Giving"],
+    "correctAnswerIndex": 2,
+    "book": "1 Thessalonians",
+    "difficulty": "Easy",
+    "verseReference": "1 Thessalonians 4:13, 16-17",
+    "verseText": "But we do not want you to be uninformed, brothers, about those who are asleep, that you may not grieve as others do who have no hope... For the Lord himself will descend from heaven with a cry of command, with the voice of an archangel, and with the sound of the trumpet of God. And the dead in Christ will rise first. Then we who are alive, who are left, will be caught up together with them in the clouds to meet the Lord in the air..."
+  },
+  {
+    "text": "How does Paul say the Day of the Lord will come (1 Thessalonians 5)?",
+    "options": ["Slowly and predictably", "Like a thief in the night", "With many warning signs", "Only after the Temple is rebuilt"],
+    "correctAnswerIndex": 1,
+    "book": "1 Thessalonians",
+    "difficulty": "Easy",
+    "verseReference": "1 Thessalonians 5:2",
+    "verseText": "For you yourselves are fully aware that the day of the Lord will come like a thief in the night."
+  },
+  {
+    "text": "Since believers are 'children of light', how should they live in anticipation of the Day of the Lord (1 Thessalonians 5)?",
+    "options": ["Asleep and drunk", "Anxious and fearful", "Sober and alert, putting on faith, love, and hope", "Ignoring the world"],
+    "correctAnswerIndex": 2,
+    "book": "1 Thessalonians",
+    "difficulty": "Medium",
+    "verseReference": "1 Thessalonians 5:5-8",
+    "verseText": "For you are all children of light, children of the day. We are not of the night or of the darkness. So then let us not sleep, as others do, but let us keep awake and be sober... But since we belong to the day, let us be sober, having put on the breastplate of faith and love, and for a helmet the hope of salvation."
+  },
+  {
+    "text": "What short, practical instructions does Paul give in 1 Thessalonians 5:16-18?",
+    "options": ["Work hard, save money, build houses", "Judge fairly, show mercy, walk humbly", "Rejoice always, pray without ceasing, give thanks in all circumstances", "Study Scripture, attend church, obey leaders"],
+    "correctAnswerIndex": 2,
+    "book": "1 Thessalonians",
+    "difficulty": "Easy",
+    "verseReference": "1 Thessalonians 5:16-18",
+    "verseText": "Rejoice always, pray without ceasing, give thanks in all circumstances; for this is the will of God in Christ Jesus for you."
+  },
+  {
+    "text": "What does Paul instruct the Thessalonians NOT to quench (1 Thessalonians 5:19)?",
+    "options": ["Their thirst", "The Spirit", "Their zeal", "False teaching"],
+    "correctAnswerIndex": 1,
+    "book": "1 Thessalonians",
+    "difficulty": "Medium",
+    "verseReference": "1 Thessalonians 5:19",
+    "verseText": "Do not quench the Spirit."
+  },
+  {
+    "text": "Paul encourages the Thessalonians regarding sanctification (holy living), specifically urging them to abstain from what in chapter 4?",
+    "options": ["Certain foods", "Political involvement", "Sexual immorality", "Contact with Gentiles"],
+    "correctAnswerIndex": 2,
+    "book": "1 Thessalonians",
+    "difficulty": "Medium",
+    "verseReference": "1 Thessalonians 4:3",
+    "verseText": "For this is the will of God, your sanctification: that you abstain from sexual immorality;"
+  }
+]

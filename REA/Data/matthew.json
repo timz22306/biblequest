@@ -1,0 +1,92 @@
+[
+  {
+    "text": "The Gospel of Matthew begins with what?",
+    "options": ["The baptism of Jesus", "The birth of John the Baptist", "The genealogy of Jesus, tracing back to Abraham", "Jesus calling his disciples"],
+    "correctAnswerIndex": 2,
+    "book": "Matthew",
+    "difficulty": "Easy",
+    "verseReference": "Matthew 1:1-17",
+    "verseText": "The book of the genealogy of Jesus Christ, the son of David, the son of Abraham. Abraham was the father of Isaac..."
+  },
+  {
+    "text": "Matthew's Gospel emphasizes Jesus as the fulfillment of prophecies concerning whom?",
+    "options": ["A great prophet like Moses", "The promised Messiah and King from David's line", "A suffering servant", "A high priest"],
+    "correctAnswerIndex": 1,
+    "book": "Matthew",
+    "difficulty": "Easy",
+    "verseReference": "Matthew 1:1, 2:5-6, 21:5",
+    "verseText": "(Matthew frequently quotes Old Testament prophecies, presenting Jesus as the promised King, the 'Son of David')."
+  },
+  {
+    "text": "What major block of Jesus' teaching is found in Matthew chapters 5-7?",
+    "options": ["Parables of the Kingdom", "The Olivet Discourse", "The Sermon on the Mount", "Instructions to the disciples"],
+    "correctAnswerIndex": 2,
+    "book": "Matthew",
+    "difficulty": "Easy",
+    "verseReference": "Matthew 5:1-2",
+    "verseText": "Seeing the crowds, he went up on the mountain, and when he sat down, his disciples came to him. And he opened his mouth and taught them, saying..."
+  },
+  {
+    "text": "Who visited the young child Jesus in Matthew's account, following a star?",
+    "options": ["Shepherds", "Wise men (Magi) from the east", "Anna and Simeon", "His disciples"],
+    "correctAnswerIndex": 1,
+    "book": "Matthew",
+    "difficulty": "Easy",
+    "verseReference": "Matthew 2:1-2",
+    "verseText": "Now after Jesus was born in Bethlehem of Judea in the days of Herod the king, behold, wise men from the east came to Jerusalem, saying, “Where is he who has been born king of the Jews? For we saw his star when it rose and have come to worship him.”"
+  },
+  {
+    "text": "What is the 'Great Commission' given by Jesus at the end of Matthew's Gospel?",
+    "options": ["To feed the poor", "To heal the sick", "To make disciples of all nations, baptizing and teaching them", "To rebuild the Temple"],
+    "correctAnswerIndex": 2,
+    "book": "Matthew",
+    "difficulty": "Easy",
+    "verseReference": "Matthew 28:19-20",
+    "verseText": "Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age.”"
+  },
+  {
+    "text": "Matthew often uses the phrase 'Kingdom of...' instead of 'Kingdom of God'.",
+    "options": ["Light", "Heaven", "David", "Israel"],
+    "correctAnswerIndex": 1,
+    "book": "Matthew",
+    "difficulty": "Medium",
+    "verseReference": "Matthew 3:2, 4:17, 5:3 etc.",
+    "verseText": "(Matthew, likely writing for a Jewish audience respectful of using God's name, frequently uses 'Kingdom of Heaven' where other Gospels use 'Kingdom of God')."
+  },
+  {
+    "text": "Which disciple walks on water towards Jesus but begins to sink due to doubt (Matthew 14)?",
+    "options": ["James", "John", "Peter", "Andrew"],
+    "correctAnswerIndex": 2,
+    "book": "Matthew",
+    "difficulty": "Easy",
+    "verseReference": "Matthew 14:28-31",
+    "verseText": "And Peter answered him, “Lord, if it is you, command me to come to you on the water.” He said, “Come.” So Peter got out of the boat and walked on the water and came to Jesus. But when he saw the wind, he was afraid, and beginning to sink he cried out, “Lord, save me.”"
+  },
+  {
+    "text": "Matthew 16 contains Peter's confession of Jesus as the Christ and Jesus' subsequent prediction of what?",
+    "options": ["The destruction of the Temple", "His own death and resurrection", "The coming of the Holy Spirit", "The end of the world"],
+    "correctAnswerIndex": 1,
+    "book": "Matthew",
+    "difficulty": "Medium",
+    "verseReference": "Matthew 16:16, 21",
+    "verseText": "Simon Peter replied, “You are the Christ, the Son of the living God.”... From that time Jesus began to show his disciples that he must go to Jerusalem and suffer many things... and be killed, and on the third day be raised."
+  },
+  {
+    "text": "The parables of the Ten Virgins and the Talents are part of which discourse in Matthew?",
+    "options": ["Sermon on the Mount (Ch 5-7)", "Mission Discourse (Ch 10)", "Parables of the Kingdom (Ch 13)", "Olivet Discourse (Ch 24-25)"],
+    "correctAnswerIndex": 3,
+    "book": "Matthew",
+    "difficulty": "Medium",
+    "verseReference": "Matthew 25:1-30",
+    "verseText": "(These parables focusing on readiness for the Lord's return are part of the Olivet Discourse concerning the end times)."
+  },
+  {
+    "text": "What unique event does Matthew record happening immediately after Jesus' death?",
+    "options": ["A great flood", "An earthquake, rocks splitting, and tombs opening with resurrected saints appearing", "The sky turning black for three days", "Angels singing"],
+    "correctAnswerIndex": 1,
+    "book": "Matthew",
+    "difficulty": "Medium",
+    "verseReference": "Matthew 27:51-53",
+    "verseText": "And behold, the curtain of the temple was torn in two, from top to bottom. And the earth shook, and the rocks were split. The tombs also were opened. And many bodies of the saints who had fallen asleep were raised, and coming out of the tombs after his resurrection they went into the holy city and appeared to many."
+  }
+]

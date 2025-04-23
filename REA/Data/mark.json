@@ -1,0 +1,92 @@
+[
+  {
+    "text": "How does the Gospel of Mark begin?",
+    "options": ["With Jesus' genealogy", "With the birth of Jesus", "With the ministry of John the Baptist and Jesus' baptism", "With the Sermon on the Mount"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 1:1-9",
+    "verseText": "The beginning of the gospel of Jesus Christ, the Son of God. As it is written in Isaiah the prophet... John appeared, baptizing in the wilderness... In those days Jesus came from Nazareth of Galilee and was baptized by John in the Jordan."
+  },
+  {
+    "text": "Mark's Gospel is often characterized by its emphasis on Jesus'...",
+    "options": ["Teachings and parables", "Actions, deeds of power, and servant nature", "Genealogy and fulfillment of prophecy", "Relationship with the Father"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 1:21-28, 10:45",
+    "verseText": "(Mark presents a fast-paced narrative focusing on Jesus' powerful works and miracles, highlighting His role as the suffering servant who came 'not to be served but to serve')."
+  },
+  {
+    "text": "What word does Mark frequently use to convey a sense of immediacy and action?",
+    "options": ["Therefore", "Behold", "Immediately (or 'straightway')", "Verily"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 1:10, 12, 18, 20, 21 etc.",
+    "verseText": "(The Greek word 'euthus', often translated 'immediately' or 'straightway', appears over 40 times in Mark, contributing to its rapid pace)."
+  },
+  {
+    "text": "In Mark 2, Jesus heals a paralytic man after his friends do what?",
+    "options": ["Carry him for miles", "Lower him through the roof", "Pay Jesus a large sum", "Wait patiently in line"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 2:3-5",
+    "verseText": "And they came, bringing to him a paralytic carried by four men. And when they could not get near him because of the crowd, they removed the roof above him, and when they had made an opening, they let down the bed on which the paralytic lay. And when Jesus saw their faith, he said to the paralytic, “Son, your sins are forgiven.”"
+  },
+  {
+    "text": "What question does Jesus ask his disciples in Mark 8, leading to Peter's confession?",
+    "options": ["'Who do the crowds say that I am?' and 'But who do you say that I am?'", "'Will you also go away?'", "'Do you love me?'", "'Why are you so afraid?'"],
+    "correctAnswerIndex": 0,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 8:27, 29",
+    "verseText": "And Jesus went on with his disciples to the villages of Caesarea Philippi. And on the way he asked his disciples, “Who do people say that I am?”... And he asked them, “But who do you say that I am?” Peter answered him, “You are the Christ.”"
+  },
+  {
+    "text": "Mark 10:45 describes Jesus' mission as coming not to be served, but to...",
+    "options": ["Judge the world", "Establish an earthly kingdom", "Serve, and to give his life as a ransom for many", "Teach the Law"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 10:45",
+    "verseText": "For even the Son of Man came not to be served but to serve, and to give his life as a ransom for many.”"
+  },
+  {
+    "text": "Who is the first human character in Mark's Gospel to declare Jesus as the Son of God?",
+    "options": ["Peter", "John the Baptist", "A Roman centurion at the crucifixion", "Mary Magdalene"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 15:39",
+    "verseText": "And when the centurion, who stood facing him, saw that in this way he breathed his last, he said, “Truly this man was the Son of God!”"
+  },
+  {
+    "text": "The 'Messianic Secret' is a theme in Mark where Jesus often tells people or demons...",
+    "options": ["To tell everyone about his miracles", "Not to reveal his identity as the Messiah", "To follow him immediately", "To pay for their healing"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 1:34, 1:44, 3:12, 5:43, 7:36, 8:30",
+    "verseText": "(Jesus repeatedly commands silence regarding his identity or miracles, possibly to avoid misunderstanding of his messianic role before the cross)."
+  },
+  {
+    "text": "How does the earliest and most reliable ending of Mark's Gospel conclude (Mark 16:8)?",
+    "options": ["With Jesus ascending to heaven", "With the disciples preaching everywhere", "With the women fleeing the empty tomb in fear and silence", "With Jesus appearing to Peter"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Hard",
+    "verseReference": "Mark 16:8",
+    "verseText": "And they went out and fled from the tomb, for trembling and astonishment had seized them, and they said nothing to anyone, for they were afraid. [Early manuscripts end here; verses 9-20 are widely considered a later addition]."
+  },
+  {
+    "text": "Mark is traditionally thought to have been a companion of which apostle, possibly basing his Gospel on this apostle's accounts?",
+    "options": ["Paul", "Peter", "John", "James"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "N/A (Church Tradition, cf. 1 Peter 5:13)",
+    "verseText": "(Early church tradition strongly associates Mark with the Apostle Peter, suggesting Peter's preaching formed the basis of Mark's Gospel)."
+  }
+]

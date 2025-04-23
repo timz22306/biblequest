@@ -1,0 +1,47 @@
+[
+  {
+    "text": "In what city did Nehemiah serve as cupbearer to the king?",
+    "options": ["Jerusalem", "Babylon", "Susa", "Nineveh"],
+    "correctAnswerIndex": 2,
+    "book": "Nehemiah",
+    "difficulty": "Easy",
+    "verseReference": "Nehemiah 1:1",
+    "verseText": "The words of Nehemiah the son of Hacaliah. Now it happened in the month of Chislev, in the twentieth year, as I was in Susa the citadel,"
+  },
+  {
+    "text": "What was Nehemiah's primary mission when he returned to Jerusalem?",
+    "options": ["To rebuild the Temple", "To rebuild the walls of Jerusalem", "To establish a new monarchy", "To write scripture"],
+    "correctAnswerIndex": 1,
+    "book": "Nehemiah",
+    "difficulty": "Easy",
+    "verseReference": "Nehemiah 2:17",
+    "verseText": "Then I said to them, “You see the trouble we are in, how Jerusalem lies in ruins with its gates burned. Come, let us build the wall of Jerusalem, that we may no longer suffer derision.”"
+  },
+  {
+    "text": "Who were the main adversaries who opposed Nehemiah's work on the wall?",
+    "options": ["Sanballat, Tobiah, and Geshem", "Pharaoh, Haman, and Nebuchadnezzar", "Herod, Pilate, and Caiaphas", "Tattenai, Shethar-bozenai, and their associates"],
+    "correctAnswerIndex": 0,
+    "book": "Nehemiah",
+    "difficulty": "Medium",
+    "verseReference": "Nehemiah 4:7",
+    "verseText": "But when Sanballat and Tobiah and the Arabs and the Ammonites and the Ashdodites heard that the repairing of the walls of Jerusalem was going forward and that the breaches were beginning to be closed, they were very angry."
+  },
+  {
+    "text": "How long did it take Nehemiah and the people to rebuild the wall?",
+    "options": ["7 years", "3 months", "52 days", "1 year"],
+    "correctAnswerIndex": 2,
+    "book": "Nehemiah",
+    "difficulty": "Medium",
+    "verseReference": "Nehemiah 6:15",
+    "verseText": "So the wall was finished on the twenty-fifth day of the month Elul, in fifty-two days."
+  },
+  {
+    "text": "Which scribe read the Book of the Law of Moses to the assembled people?",
+    "options": ["Nehemiah", "Ezra", "Malachi", "Zerubbabel"],
+    "correctAnswerIndex": 1,
+    "book": "Nehemiah",
+    "difficulty": "Easy",
+    "verseReference": "Nehemiah 8:1-2",
+    "verseText": "And all the people gathered as one man into the square before the Water Gate. And they told Ezra the scribe to bring the Book of the Law of Moses that the LORD had commanded Israel. So Ezra the priest brought the Law before the assembly, both men and women and all who could understand what they heard, on the first day of the seventh month."
+  }
+]

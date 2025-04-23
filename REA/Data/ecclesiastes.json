@@ -1,0 +1,92 @@
+[
+  {
+    "text": "Who is traditionally identified as the 'Preacher' (Qoheleth), the author of Ecclesiastes?",
+    "options": ["David", "Solomon", "Moses", "Isaiah"],
+    "correctAnswerIndex": 1,
+    "book": "Ecclesiastes",
+    "difficulty": "Easy",
+    "verseReference": "Ecclesiastes 1:1",
+    "verseText": "The words of the Preacher, the son of David, king in Jerusalem."
+  },
+  {
+    "text": "What phrase is famously repeated throughout Ecclesiastes to describe life 'under the sun'?",
+    "options": ["All is good", "Meaningless! Meaningless!", "God is great", "Work is rewarding"],
+    "correctAnswerIndex": 1,
+    "book": "Ecclesiastes",
+    "difficulty": "Easy",
+    "verseReference": "Ecclesiastes 1:2",
+    "verseText": "Meaningless! Meaningless! says the Preacher. Meaningless! Meaningless! Everything is meaningless."
+  },
+  {
+    "text": "According to Ecclesiastes 1, what happens to generations and the earth?",
+    "options": ["Generations last forever, the earth changes", "Generations come and go, the earth remains forever", "Both generations and the earth pass away", "Both generations and the earth are eternal"],
+    "correctAnswerIndex": 1,
+    "book": "Ecclesiastes",
+    "difficulty": "Medium",
+    "verseReference": "Ecclesiastes 1:4",
+    "verseText": "A generation goes, and a generation comes, but the earth remains forever."
+  },
+  {
+    "text": "What does the Preacher conclude about wisdom and knowledge in Ecclesiastes 1?",
+    "options": ["They bring ultimate happiness", "They are easily attained", "They lead to wealth", "With much wisdom comes much sorrow"],
+    "correctAnswerIndex": 3,
+    "book": "Ecclesiastes",
+    "difficulty": "Medium",
+    "verseReference": "Ecclesiastes 1:18",
+    "verseText": "For with much wisdom comes much sorrow; the more knowledge, the more grief."
+  },
+  {
+    "text": "Ecclesiastes 3 begins with the famous passage, 'For everything there is a...'",
+    "options": ["Reason", "Price", "Season", "Meaning"],
+    "correctAnswerIndex": 2,
+    "book": "Ecclesiastes",
+    "difficulty": "Easy",
+    "verseReference": "Ecclesiastes 3:1",
+    "verseText": "For everything there is a season, and a time for every matter under heaven:"
+  },
+  {
+    "text": "What does Ecclesiastes 3:11 say God has made beautiful in its time and set in the human heart?",
+    "options": ["Wealth", "Power", "Eternity", "Wisdom"],
+    "correctAnswerIndex": 2,
+    "book": "Ecclesiastes",
+    "difficulty": "Medium",
+    "verseReference": "Ecclesiastes 3:11",
+    "verseText": "He has made everything beautiful in its time. Also, he has put eternity into man's heart, yet so that he cannot find out what God has done from the beginning to the end."
+  },
+  {
+    "text": "What does Ecclesiastes 4:9 state is better than one?",
+    "options": ["Three", "Two", "Solitude", "Wealth"],
+    "correctAnswerIndex": 1,
+    "book": "Ecclesiastes",
+    "difficulty": "Easy",
+    "verseReference": "Ecclesiastes 4:9",
+    "verseText": "Two are better than one, because they have a good reward for their toil."
+  },
+  {
+    "text": "What warning does Ecclesiastes 5:2 give regarding speaking before God?",
+    "options": ["Speak loudly", "Speak often", "Do not be rash with your mouth or hasty in heart", "Whisper your prayers"],
+    "correctAnswerIndex": 2,
+    "book": "Ecclesiastes",
+    "difficulty": "Medium",
+    "verseReference": "Ecclesiastes 5:2",
+    "verseText": "Be not rash with your mouth, nor let your heart be hasty to utter a word before God, for God is in heaven and you are on earth. Therefore let your words be few."
+  },
+  {
+    "text": "According to Ecclesiastes 9:11, the race is not always to the swift, nor the battle to the strong, because what happens to them all?",
+    "options": ["God's judgment", "Their own pride", "Time and chance", "Lack of wisdom"],
+    "correctAnswerIndex": 2,
+    "book": "Ecclesiastes",
+    "difficulty": "Medium",
+    "verseReference": "Ecclesiastes 9:11",
+    "verseText": "Again I saw that under the sun the race is not to the swift, nor the battle to the strong, nor bread to the wise, nor riches to the intelligent, nor favor to those with knowledge, but time and chance happen to them all."
+  },
+  {
+    "text": "What is the final conclusion reached by the Preacher in Ecclesiastes 12?",
+    "options": ["Enjoy life while you can", "Seek wisdom above all else", "Fear God and keep his commandments", "Accumulate wealth for security"],
+    "correctAnswerIndex": 2,
+    "book": "Ecclesiastes",
+    "difficulty": "Easy",
+    "verseReference": "Ecclesiastes 12:13",
+    "verseText": "The end of the matter; all has been heard. Fear God and keep his commandments, for this is the whole duty of man."
+  }
+]
