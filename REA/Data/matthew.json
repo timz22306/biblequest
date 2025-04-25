@@ -763,5 +763,572 @@
     "difficulty": "Medium",
     "verseReference": "Matthew 27:54",
     "verseText": "When the centurion and those who were with him, keeping watch over Jesus, saw the earthquake and what took place, they were filled with awe and said, “Truly this was the Son of God!”"
+  },
+  {
+    "text": "After healing a leper, what instruction did Jesus give him regarding the priests?",
+    "options": ["Tell everyone what happened", "Offer the gift Moses commanded as a testimony", "Go back to his family immediately", "Follow Jesus"],
+    "correctAnswerIndex": 1,
+    "book": "Matthew",
+    "difficulty": "Medium",
+    "verseReference": "Matthew 8:4",
+    "verseText": "And Jesus said to him, “See that you say nothing to anyone, but go, show yourself to the priest and offer the gift that Moses commanded, for a proof to them.”"
+  },
+  {
+    "text": "When Jesus calmed the storm on the sea, what did the disciples exclaim about him?",
+    "options": ["'He is a great prophet!'", "'What sort of man is this, that even winds and sea obey him?'", "'Surely he is the Messiah!'", "'We are saved!'"],
+    "correctAnswerIndex": 1,
+    "book": "Matthew",
+    "difficulty": "Easy",
+    "verseReference": "Matthew 8:27",
+    "verseText": "And the men marveled, saying, “What sort of man is this, that even winds and sea obey him?”"
+  },
+  {
+    "text": "In the region of the Gadarenes, what did the two demon-possessed men coming out of the tombs ask Jesus not to do?",
+    "options": ["Heal them", "Cast them out of the country", "Torment them before the time", "Send them into the abyss"],
+    "correctAnswerIndex": 2,
+    "book": "Matthew",
+    "difficulty": "Medium",
+    "verseReference": "Matthew 8:29",
+    "verseText": "And behold, they cried out, “What have you to do with us, O Son of God? Have you come here to torment us before the time?”"
+  },
+  {
+    "text": "Where did Jesus send the demons after casting them out of the men in the Gadarene region?",
+    "options": ["Into the wilderness", "Into a herd of pigs", "Into the sea", "Into the abyss"],
+    "correctAnswerIndex": 1,
+    "book": "Matthew",
+    "difficulty": "Easy",
+    "verseReference": "Matthew 8:31-32",
+    "verseText": "And the demons begged him, saying, “If you cast us out, send us away into the herd of pigs.” And he said to them, “Go.” So they came out and went into the pigs..."
+  },
+  {
+    "text": "When Jesus healed the paralytic lowered through the roof, what did he say first that caused the scribes to accuse him of blasphemy?",
+    "options": ["'Rise, take up your bed and walk.'", "'Your sins are forgiven.'", "'Do you want to be healed?'", "'Your faith has made you well.'"],
+    "correctAnswerIndex": 1,
+    "book": "Matthew",
+    "difficulty": "Medium",
+    "verseReference": "Matthew 9:2-3",
+    "verseText": "And behold, some people brought to him a paralytic, lying on a bed. And when Jesus saw their faith, he said to the paralytic, “Take heart, my son; your sins are forgiven.” And behold, some of the scribes said to themselves, “This man is blaspheming.”"
+  },
+  {
+    "text": "Why did Jesus say he ate with tax collectors and sinners when criticized by the Pharisees?",
+    "options": ["They offered him food", "He came not to call the righteous, but sinners", "He enjoyed their company", "He wanted to learn from them"],
+    "correctAnswerIndex": 1,
+    "book": "Matthew",
+    "difficulty": "Medium",
+    "verseReference": "Matthew 9:12-13",
+    "verseText": "But when he heard it, he said, “Those who are well have no need of a physician, but those who are sick. Go and learn what this means: ‘I desire mercy, and not sacrifice.’ For I came not to call the righteous, but sinners.”"
+  },
+  {
+    "text": "What analogy did Jesus use to explain why his disciples weren't fasting while he was with them?",
+    "options": ["New cloth on an old garment", "New wine in old wineskins", "Wedding guests mourning while the bridegroom is present", "Shepherd leaving the ninety-nine"],
+    "correctAnswerIndex": 2,
+    "book": "Matthew",
+    "difficulty": "Medium",
+    "verseReference": "Matthew 9:15",
+    "verseText": "And Jesus said to them, “Can the wedding guests mourn as long as the bridegroom is with them? The days will come when the bridegroom is taken away from them, and then they will fast.”"
+  },
+  {
+    "text": "What did the woman suffering from a discharge of blood for twelve years believe would happen if she just touched Jesus' garment?",
+    "options": ["She would be noticed", "She would be healed", "She would receive a blessing", "She would cause him to be unclean"],
+    "correctAnswerIndex": 1,
+    "book": "Matthew",
+    "difficulty": "Easy",
+    "verseReference": "Matthew 9:21",
+    "verseText": "for she said to herself, “If I only touch his garment, I will be made well.”"
+  },
+  {
+    "text": "After raising the ruler's daughter, what did Jesus instruct concerning the two blind men who asked for healing?",
+    "options": ["He told them to tell everyone", "He strictly warned them, 'See that no one knows about it'", "He sent them to the priests", "He asked them to follow him"],
+    "correctAnswerIndex": 1,
+    "book": "Matthew",
+    "difficulty": "Medium",
+    "verseReference": "Matthew 9:30",
+    "verseText": "And their eyes were opened. And Jesus sternly warned them, “See that no one knows about it.”"
+  },
+  {
+    "text": "When Jesus healed a man who was mute and demon-possessed, what did the Pharisees accuse him of?",
+    "options": ["Practicing magic", "Blasphemy", "Casting out demons by the prince of demons", "Deceiving the people"],
+    "correctAnswerIndex": 2,
+    "book": "Matthew",
+    "difficulty": "Medium",
+    "verseReference": "Matthew 9:34",
+    "verseText": "But the Pharisees said, “He casts out demons by the prince of demons.”"
+  },
+  {
+    "text": "Seeing the crowds, Jesus had compassion on them for what reason?",
+    "options": ["They were poor and hungry", "They were harassed and helpless, like sheep without a shepherd", "They were oppressed by the Romans", "They lacked faith"],
+    "correctAnswerIndex": 1,
+    "book": "Matthew",
+    "difficulty": "Medium",
+    "verseReference": "Matthew 9:36",
+    "verseText": "When he saw the crowds, he had compassion for them, because they were harassed and helpless, like sheep without a shepherd."
+  },
+  {
+    "text": "What did Jesus say about the harvest and the laborers?",
+    "options": ["The harvest is plentiful, but the laborers are many", "The harvest is small, and the laborers are few", "The harvest is plentiful, but the laborers are few", "The harvest is ready, and the laborers are eager"],
+    "correctAnswerIndex": 2,
+    "book": "Matthew",
+    "difficulty": "Easy",
+    "verseReference": "Matthew 9:37",
+    "verseText": "Then he said to his disciples, “The harvest is plentiful, but the laborers are few;"
+  },
+  {
+    "text": "When sending out the twelve, what did Jesus instruct them to proclaim?",
+    "options": ["'Jesus is the Messiah!'", "'The Kingdom of Heaven is at hand.'", "'Repent and be baptized.'", "'Judgment is coming.'"],
+    "correctAnswerIndex": 1,
+    "book": "Matthew",
+    "difficulty": "Medium",
+    "verseReference": "Matthew 10:7",
+    "verseText": "And proclaim as you go, saying, ‘The kingdom of heaven is at hand.’"
+  },
+  {
+    "text": "What did Jesus tell the disciples to do if a town did not receive them or listen to their words?",
+    "options": ["Argue with them", "Stay longer to convince them", "Shake the dust off their feet as they leave", "Report them to the authorities"],
+    "correctAnswerIndex": 2,
+    "book": "Matthew",
+    "difficulty": "Medium",
+    "verseReference": "Matthew 10:14",
+    "verseText": "And if anyone will not receive you or listen to your words, shake off the dust from your feet when you leave that house or town."
+  },
+  {
+    "text": "Jesus warned his disciples they would be brought before governors and kings for his sake, for what purpose?",
+    "options": ["To be punished", "To defend themselves", "As a testimony to them and to the Gentiles", "To ask for mercy"],
+    "correctAnswerIndex": 2,
+    "book": "Matthew",
+    "difficulty": "Medium",
+    "verseReference": "Matthew 10:18",
+    "verseText": "and you will be dragged before governors and kings for my sake, to bear witness before them and the Gentiles."
+  },
+  {
+    "text": "What did Jesus promise would be given to the disciples when they were brought before authorities?",
+    "options": ["Great courage", "Financial support", "What to say in that hour", "An escape route"],
+    "correctAnswerIndex": 2,
+    "book": "Matthew",
+    "difficulty": "Medium",
+    "verseReference": "Matthew 10:19-20",
+    "verseText": "When they deliver you over, do not be anxious how you are to speak or what you are to say, for what you are to say will be given to you in that hour. For it is not you who speak, but the Spirit of your Father speaking through you."
+  },
+  {
+    "text": "Jesus said not to fear those who kill the body but cannot kill what?",
+    "options": ["The spirit", "The reputation", "The soul", "The memory"],
+    "correctAnswerIndex": 2,
+    "book": "Matthew",
+    "difficulty": "Medium",
+    "verseReference": "Matthew 10:28",
+    "verseText": "And do not fear those who kill the body but cannot kill the soul. Rather fear him who can destroy both soul and body in hell."
+  },
+  {
+    "text": "What did Jesus say about acknowledging him before men?",
+    "options": ["It is optional", "He will acknowledge those who acknowledge him before his Father", "It should only be done privately", "It guarantees an easy life"],
+    "correctAnswerIndex": 1,
+    "book": "Matthew",
+    "difficulty": "Easy",
+    "verseReference": "Matthew 10:32",
+    "verseText": "So everyone who acknowledges me before men, I also will acknowledge before my Father who is in heaven,"
+  },
+  {
+    "text": "Jesus stated he did not come to bring peace on earth, but what?",
+    "options": ["Prosperity", "A sword (division)", "A new law", "Political freedom"],
+    "correctAnswerIndex": 1,
+    "book": "Matthew",
+    "difficulty": "Medium",
+    "verseReference": "Matthew 10:34",
+    "verseText": "“Do not think that I have come to bring peace to the earth. I have not come to bring peace, but a sword."
+  },
+  {
+    "text": "What did Jesus say about the value of sparrows and the hairs on our head?",
+    "options": ["They are insignificant to God", "Not one sparrow falls apart from the Father, and even hairs are numbered", "Sparrows are valuable, but hairs are not", "God only cares about humans"],
+    "correctAnswerIndex": 1,
+    "book": "Matthew",
+    "difficulty": "Easy",
+    "verseReference": "Matthew 10:29-31",
+    "verseText": "Are not two sparrows sold for a penny? And not one of them will fall to the ground apart from your Father. But even the hairs of your head are all numbered. Fear not, therefore; you are of more value than many sparrows."
+  },
+  {
+    "text": "What reward did Jesus promise for receiving a prophet or a righteous person?",
+    "options": ["Earthly riches", "A prophet's reward or a righteous person's reward", "Public recognition", "A place in the Sanhedrin"],
+    "correctAnswerIndex": 1,
+    "book": "Matthew",
+    "difficulty": "Medium",
+    "verseReference": "Matthew 10:41",
+    "verseText": "The one who receives a prophet because he is a prophet will receive a prophet's reward, and the one who receives a righteous person because he is a righteous person will receive a righteous person's reward."
+  },
+  {
+    "text": "What reward did Jesus promise for giving even a cup of cold water to one of his 'little ones'?",
+    "options": ["A small blessing", "They would certainly not lose their reward", "Public thanks", "Nothing specific"],
+    "correctAnswerIndex": 1,
+    "book": "Matthew",
+    "difficulty": "Easy",
+    "verseReference": "Matthew 10:42",
+    "verseText": "And whoever gives one of these little ones even a cup of cold water because he is a disciple, truly, I say to you, he will by no means lose his reward.”"
+  },
+  {
+    "text": "How did Jesus answer John the Baptist's disciples when they asked if he was the 'one to come'?",
+    "options": ["He simply said 'Yes'", "He told them to report what they saw and heard (healings, preaching)", "He performed a specific miracle for them", "He told them to ask the Pharisees"],
+    "correctAnswerIndex": 1,
+    "book": "Matthew",
+    "difficulty": "Medium",
+    "verseReference": "Matthew 11:4-5",
+    "verseText": "And Jesus answered them, “Go and tell John what you hear and see: the blind receive their sight and the lame walk, lepers are cleansed and the deaf hear, and the dead are raised up, and the poor have good news preached to them."
+  },
+  {
+    "text": "Who did Jesus say John the Baptist represented, if people were willing to accept it?",
+    "options": ["Moses", "David", "Elijah who was to come", "A new prophet"],
+    "correctAnswerIndex": 2,
+    "book": "Matthew",
+    "difficulty": "Hard",
+    "verseReference": "Matthew 11:14",
+    "verseText": "and if you are willing to accept it, he is Elijah who is to come."
+  },
+  {
+    "text": "To what did Jesus compare the generation that rejected both John's austerity and his own feasting?",
+    "options": ["Stubborn mules", "Children in the marketplace calling to their playmates", "Sheep going astray", "Fruitless fig trees"],
+    "correctAnswerIndex": 1,
+    "book": "Matthew",
+    "difficulty": "Hard",
+    "verseReference": "Matthew 11:16-17",
+    "verseText": "“But to what shall I compare this generation? It is like children sitting in the marketplaces and calling to their playmates, “‘We played the flute for you, and you did not dance; we sang a dirge, and you did not mourn.’”"
+  },
+  {
+    "text": "Jesus offered an invitation: 'Come to me, all who labor and are heavy laden, and I will give you...'",
+    "options": ["Wealth", "Rest", "Power", "Knowledge"],
+    "correctAnswerIndex": 1,
+    "book": "Matthew",
+    "difficulty": "Easy",
+    "verseReference": "Matthew 11:28",
+    "verseText": "Come to me, all who labor and are heavy laden, and I will give you rest."
+  },
+  {
+    "text": "What did Jesus say about his yoke and burden?",
+    "options": ["His yoke is heavy and his burden hard", "His yoke is easy and his burden light", "His yoke is demanding and his burden strict", "His yoke is freeing and his burden non-existent"],
+    "correctAnswerIndex": 1,
+    "book": "Matthew",
+    "difficulty": "Easy",
+    "verseReference": "Matthew 11:30",
+    "verseText": "For my yoke is easy, and my burden is light.”"
+  },
+  {
+    "text": "When accused of healing by the power of Beelzebul, what argument did Jesus use involving a 'kingdom divided against itself'?",
+    "options": ["That Satan would not cast out Satan", "That his power was clearly from God", "That the Pharisees were blaspheming", "That miracles prove divinity"],
+    "correctAnswerIndex": 0,
+    "book": "Matthew",
+    "difficulty": "Medium",
+    "verseReference": "Matthew 12:25-26",
+    "verseText": "Knowing their thoughts, he said to them, “Every kingdom divided against itself is laid waste, and no city or house divided against itself will stand. And if Satan casts out Satan, he is divided against himself. How then will his kingdom stand?"
+  },
+  {
+    "text": "What 'sign' did Jesus say would be given to the evil and adulterous generation asking for one?",
+    "options": ["The sign of Moses", "The sign of Elijah", "The sign of the prophet Jonah", "No sign at all"],
+    "correctAnswerIndex": 2,
+    "book": "Matthew",
+    "difficulty": "Medium",
+    "verseReference": "Matthew 12:39",
+    "verseText": "But he answered them, “An evil and adulterous generation seeks for a sign, but no sign will be given to it except the sign of the prophet Jonah."
+  },
+  {
+    "text": "Who did Jesus identify as his true mother and brothers?",
+    "options": ["Mary and his physical siblings", "His disciples", "Whoever does the will of his Father in heaven", "The people of Israel"],
+    "correctAnswerIndex": 2,
+    "book": "Matthew",
+    "difficulty": "Medium",
+    "verseReference": "Matthew 12:49-50",
+    "verseText": "And stretching out his hand toward his disciples, he said, “Here are my mother and my brothers! For whoever does the will of my Father in heaven is my brother and sister and mother.”"
+  },
+  {
+    "text": "In the Parable of the Sower, what happened to the seed that fell on rocky ground?",
+    "options": ["It was eaten by birds", "It sprang up quickly but withered in the sun because it had no root", "It was choked by thorns", "It produced a great crop"],
+    "correctAnswerIndex": 1,
+    "book": "Matthew",
+    "difficulty": "Easy",
+    "verseReference": "Matthew 13:5-6",
+    "verseText": "Other seeds fell on rocky ground, where they did not have much soil, and immediately they sprang up, since they had no depth of soil, but when the sun rose they were scorched. And since they had no root, they withered away."
+  },
+  {
+    "text": "In the Parable of the Sower, what does the seed sown among thorns represent?",
+    "options": ["Those who reject the word", "Those who have shallow faith", "One who hears the word, but the cares of the world and deceitfulness of riches choke it", "Those who bear much fruit"],
+    "correctAnswerIndex": 2,
+    "book": "Matthew",
+    "difficulty": "Medium",
+    "verseReference": "Matthew 13:22",
+    "verseText": "As for what was sown among thorns, this is the one who hears the word, but the cares of the world and the deceitfulness of riches choke the word, and it proves unfruitful."
+  },
+  {
+    "text": "What small seed did Jesus use in a parable to illustrate the growth of the Kingdom of Heaven?",
+    "options": ["A wheat seed", "A mustard seed", "A fig seed", "A grape seed"],
+    "correctAnswerIndex": 1,
+    "book": "Matthew",
+    "difficulty": "Easy",
+    "verseReference": "Matthew 13:31-32",
+    "verseText": "He put another parable before them, saying, “The kingdom of heaven is like a grain of mustard seed that a man took and sowed in his field. It is the smallest of all seeds, but when it has grown it is larger than all the garden plants and becomes a tree..."
+  },
+  {
+    "text": "What substance did Jesus compare the Kingdom of Heaven to, which a woman mixed into flour until it leavened the whole batch?",
+    "options": ["Salt", "Leaven (yeast)", "Honey", "Oil"],
+    "correctAnswerIndex": 1,
+    "book": "Matthew",
+    "difficulty": "Easy",
+    "verseReference": "Matthew 13:33",
+    "verseText": "He told them another parable. “The kingdom of heaven is like leaven that a woman took and hid in three measures of flour, till it was all leavened.”"
+  },
+  {
+    "text": "The Parable of the Hidden Treasure compares the Kingdom of Heaven to a man finding treasure in a field and doing what?",
+    "options": ["Telling everyone about it", "Taking only a small part", "Selling all he has to buy the field", "Asking the owner for it"],
+    "correctAnswerIndex": 2,
+    "book": "Matthew",
+    "difficulty": "Medium",
+    "verseReference": "Matthew 13:44",
+    "verseText": "“The kingdom of heaven is like treasure hidden in a field, which a man found and covered up. Then in his joy he goes and sells all that he has and buys that field."
+  },
+  {
+    "text": "The Parable of the Pearl of Great Value compares the Kingdom of Heaven to a merchant who does what upon finding one extremely valuable pearl?",
+    "options": ["Buys many pearls", "Sells all he has to buy that one pearl", "Tries to bargain for it", "Displays it for others"],
+    "correctAnswerIndex": 1,
+    "book": "Matthew",
+    "difficulty": "Medium",
+    "verseReference": "Matthew 13:45-46",
+    "verseText": "“Again, the kingdom of heaven is like a merchant in search of fine pearls, who, on finding one pearl of great value, went and sold all that he had and bought it."
+  },
+  {
+    "text": "The Parable of the Net compares the end of the age to fishermen sorting what?",
+    "options": ["Good and bad fish", "Large and small fish", "Different types of fish", "Fish and debris"],
+    "correctAnswerIndex": 0,
+    "book": "Matthew",
+    "difficulty": "Medium",
+    "verseReference": "Matthew 13:47-48",
+    "verseText": "“Again, the kingdom of heaven is like a net that was thrown into the sea and gathered fish of every kind. When it was full, men drew it ashore and sat down and sorted the good into containers but threw away the bad."
+  },
+  {
+    "text": "When Jesus taught in his hometown synagogue, how did the people react?",
+    "options": ["They rejoiced and believed", "They were indifferent", "They took offense, questioning his origins and authority", "They asked him to stay and teach more"],
+    "correctAnswerIndex": 2,
+    "book": "Matthew",
+    "difficulty": "Medium",
+    "verseReference": "Matthew 13:54, 57",
+    "verseText": "and coming to his hometown he taught them in their synagogue, so that they were astonished, and said, “Where did this man get this wisdom and these mighty works?... And they took offense at him."
+  },
+  {
+    "text": "Why did Herod Antipas believe Jesus was John the Baptist risen from the dead?",
+    "options": ["Jesus looked like John", "Jesus performed similar miracles", "He heard reports of Jesus' mighty works and had a guilty conscience", "An advisor told him so"],
+    "correctAnswerIndex": 2,
+    "book": "Matthew",
+    "difficulty": "Medium",
+    "verseReference": "Matthew 14:1-2",
+    "verseText": "At that time Herod the tetrarch heard about the fame of Jesus, and he said to his servants, “This is John the Baptist. He has been raised from the dead; that is why these miraculous powers are at work in him.”"
+  },
+  {
+    "text": "After feeding the 5000, how many baskets full of broken pieces were collected?",
+    "options": ["Five", "Seven", "Ten", "Twelve"],
+    "correctAnswerIndex": 3,
+    "book": "Matthew",
+    "difficulty": "Easy",
+    "verseReference": "Matthew 14:20",
+    "verseText": "And they all ate and were satisfied. And they took up twelve baskets full of the broken pieces left over."
+  },
+  {
+    "text": "What did Jesus accuse the Pharisees and scribes of regarding the commandment to honor parents?",
+    "options": ["Ignoring it completely", "Making it void for the sake of their tradition (Corban)", "Applying it only to the rich", "Teaching it incorrectly"],
+    "correctAnswerIndex": 1,
+    "book": "Matthew",
+    "difficulty": "Hard",
+    "verseReference": "Matthew 15:3-6",
+    "verseText": "He answered them, “And why do you break the commandment of God for the sake of your tradition? For God commanded, ‘Honor your father and your mother,’... But you say, ‘If anyone tells his father or his mother, “What you would have gained from me is given to God (Corban),” he need not honor his father.’ So for the sake of your tradition you have made void the word of God."
+  },
+  {
+    "text": "Jesus taught that defilement comes not from what goes into the mouth, but from what?",
+    "options": ["Unwashed hands", "Unclean food", "What comes out of the mouth (from the heart)", "Eating with sinners"],
+    "correctAnswerIndex": 2,
+    "book": "Matthew",
+    "difficulty": "Medium",
+    "verseReference": "Matthew 15:11, 18",
+    "verseText": "it is not what goes into the mouth that defiles a person, but what comes out of the mouth; this defiles a person... But what comes out of the mouth proceeds from the heart, and this defiles a person."
+  },
+  {
+    "text": "What did the Canaanite (Syrophoenician) woman ask Jesus for?",
+    "options": ["Food", "Money", "Healing for her demon-possessed daughter", "Teaching"],
+    "correctAnswerIndex": 2,
+    "book": "Matthew",
+    "difficulty": "Medium",
+    "verseReference": "Matthew 15:22",
+    "verseText": "And behold, a Canaanite woman from that region came out and was crying, “Have mercy on me, O Lord, Son of David; my daughter is severely oppressed by a demon.”"
+  },
+  {
+    "text": "How did Jesus initially respond to the Canaanite woman's plea?",
+    "options": ["He healed her daughter immediately", "He ignored her and said he was sent only to Israel", "He praised her faith instantly", "He asked her to wait"],
+    "correctAnswerIndex": 1,
+    "book": "Matthew",
+    "difficulty": "Medium",
+    "verseReference": "Matthew 15:23-24",
+    "verseText": "But he did not answer her a word... He answered, “I was sent only to the lost sheep of the house of Israel.”"
+  },
+  {
+    "text": "What statement by the Canaanite woman demonstrated great faith, causing Jesus to grant her request?",
+    "options": ["'I believe you are the Son of God.'", "'Even the dogs eat the crumbs that fall from their masters' table.'", "'Please, Lord, have mercy.'", "'My daughter is suffering greatly.'"],
+    "correctAnswerIndex": 1,
+    "book": "Matthew",
+    "difficulty": "Hard",
+    "verseReference": "Matthew 15:27-28",
+    "verseText": "She said, “Yes, Lord, yet even the dogs eat the crumbs that fall from their masters' table.” Then Jesus answered her, “O woman, great is your faith! Be it done for you as you desire.” And her daughter was healed instantly."
+  },
+  {
+    "text": "In the feeding of the 4000, how many loaves and fish did they start with?",
+    "options": ["Five loaves and two fish", "Seven loaves and a few small fish", "Ten loaves and five fish", "Two loaves and seven fish"],
+    "correctAnswerIndex": 1,
+    "book": "Matthew",
+    "difficulty": "Medium",
+    "verseReference": "Matthew 15:34",
+    "verseText": "And Jesus said to them, “How many loaves do you have?” They said, “Seven, and a few small fish.”"
+  },
+  {
+    "text": "After feeding the 4000, how many baskets full of broken pieces were collected?",
+    "options": ["Twelve", "Ten", "Seven", "Five"],
+    "correctAnswerIndex": 2,
+    "book": "Matthew",
+    "difficulty": "Easy",
+    "verseReference": "Matthew 15:37",
+    "verseText": "And they all ate and were satisfied. And they took up the broken pieces left over, seven baskets full."
+  },
+  {
+    "text": "Jesus warned the disciples to beware of the leaven of whom?",
+    "options": ["The Romans and Herodians", "The Sadducees and Essenes", "The Pharisees and Sadducees", "The Zealots and Samaritans"],
+    "correctAnswerIndex": 2,
+    "book": "Matthew",
+    "difficulty": "Medium",
+    "verseReference": "Matthew 16:6, 11",
+    "verseText": "Jesus said to them, “Watch and beware of the leaven of the Pharisees and Sadducees.”... How is it that you fail to understand that I did not speak about bread? Beware of the leaven of the Pharisees and Sadducees.”"
+  },
+  {
+    "text": "What did the disciples eventually understand 'leaven' to mean in Jesus' warning?",
+    "options": ["Actual bread", "Their lack of faith", "The teaching of the Pharisees and Sadducees", "Political rebellion"],
+    "correctAnswerIndex": 2,
+    "book": "Matthew",
+    "difficulty": "Medium",
+    "verseReference": "Matthew 16:12",
+    "verseText": "Then they understood that he did not tell them to beware of the leaven of bread, but of the teaching of the Pharisees and Sadducees."
+  },
+  {
+    "text": "After Peter's confession, when Jesus spoke of his coming suffering and death, how did Peter react?",
+    "options": ["He remained silent", "He rejoiced", "He rebuked Jesus, saying it would never happen", "He asked for clarification"],
+    "correctAnswerIndex": 2,
+    "book": "Matthew",
+    "difficulty": "Medium",
+    "verseReference": "Matthew 16:22",
+    "verseText": "And Peter took him aside and began to rebuke him, saying, “Far be it from you, Lord! This shall never happen to you.”"
+  },
+  {
+    "text": "How did Jesus respond to Peter's rebuke regarding his prediction of suffering?",
+    "options": ["He praised Peter's concern", "He ignored him", "He rebuked Peter, saying 'Get behind me, Satan!'", "He explained the necessity of his death"],
+    "correctAnswerIndex": 2,
+    "book": "Matthew",
+    "difficulty": "Medium",
+    "verseReference": "Matthew 16:23",
+    "verseText": "But he turned and said to Peter, “Get behind me, Satan! You are a hindrance to me. For you are not setting your mind on the things of God, but on the things of man.”"
+  },
+  {
+    "text": "What did Jesus say one must do to come after him?",
+    "options": ["Be wealthy and influential", "Perform miracles", "Deny himself, take up his cross, and follow Jesus", "Study the Law diligently"],
+    "correctAnswerIndex": 2,
+    "book": "Matthew",
+    "difficulty": "Easy",
+    "verseReference": "Matthew 16:24",
+    "verseText": "Then Jesus told his disciples, “If anyone would come after me, let him deny himself and take up his cross and follow me."
+  },
+  {
+    "text": "What question did Jesus ask about gaining the whole world but forfeiting one's soul?",
+    "options": ["'Is it worth the effort?'", "'What will it profit a man?'", "'How can this be achieved?'", "'Who has ever done this?'"],
+    "correctAnswerIndex": 1,
+    "book": "Matthew",
+    "difficulty": "Easy",
+    "verseReference": "Matthew 16:26",
+    "verseText": "For what will it profit a man if he gains the whole world and forfeits his soul? Or what shall a man give in return for his soul?"
+  },
+  {
+    "text": "During the Transfiguration, what did the voice from the cloud say?",
+    "options": ["'This is Elijah, listen to him.'", "'This is my beloved Son, with whom I am well pleased; listen to him!'", "'Prepare the way of the Lord.'", "'Moses and Elijah have returned.'"],
+    "correctAnswerIndex": 1,
+    "book": "Matthew",
+    "difficulty": "Easy",
+    "verseReference": "Matthew 17:5",
+    "verseText": "He was still speaking when, behold, a bright cloud overshadowed them, and a voice from the cloud said, “This is my beloved Son, with whom I am well pleased; listen to him.”"
+  },
+  {
+    "text": "Why were the disciples unable to heal the epileptic boy brought to them after the Transfiguration?",
+    "options": ["The boy's condition was too severe", "Because of their little faith", "It was not God's will", "The father did not believe"],
+    "correctAnswerIndex": 1,
+    "book": "Matthew",
+    "difficulty": "Medium",
+    "verseReference": "Matthew 17:19-20",
+    "verseText": "Then the disciples came to Jesus privately and said, “Why could we not cast it out?” He said to them, “Because of your little faith. For truly, I say to you, if you have faith like a grain of mustard seed, you will say to this mountain, ‘Move from here to there,’ and it will move, and nothing will be impossible for you.”"
+  },
+  {
+    "text": "Jesus taught that if a brother sins against you, what is the first step to take?",
+    "options": ["Tell the church leaders", "Forgive him immediately", "Go and tell him his fault between you and him alone", "Avoid him"],
+    "correctAnswerIndex": 2,
+    "book": "Matthew",
+    "difficulty": "Medium",
+    "verseReference": "Matthew 18:15",
+    "verseText": "“If your brother sins against you, go and tell him his fault, between you and him alone. If he listens to you, you have gained your brother."
+  },
+  {
+    "text": "What principle did Jesus teach with the Parable of the Unforgiving Servant?",
+    "options": ["The importance of paying debts", "That we should forgive others as God has forgiven us", "The severity of God's judgment", "The need for mercy from masters"],
+    "correctAnswerIndex": 1,
+    "book": "Matthew",
+    "difficulty": "Medium",
+    "verseReference": "Matthew 18:33, 35",
+    "verseText": "And should not you have had mercy on your fellow servant, as I had mercy on you?’... So also my heavenly Father will do to every one of you, if you do not forgive your brother from your heart.”"
+  },
+  {
+    "text": "When children were brought to Jesus, how did the disciples react?",
+    "options": ["They welcomed them", "They ignored them", "They rebuked the people bringing them", "They asked Jesus to teach them"],
+    "correctAnswerIndex": 2,
+    "book": "Matthew",
+    "difficulty": "Easy",
+    "verseReference": "Matthew 19:13",
+    "verseText": "Then children were brought to him that he might lay his hands on them and pray. The disciples rebuked the people."
+  },
+  {
+    "text": "What did Jesus say about children in relation to the Kingdom of Heaven?",
+    "options": ["Children cannot understand the Kingdom", "The Kingdom belongs to those like children", "Children must grow up to enter the Kingdom", "Only adults can enter the Kingdom"],
+    "correctAnswerIndex": 1,
+    "book": "Matthew",
+    "difficulty": "Easy",
+    "verseReference": "Matthew 19:14",
+    "verseText": "but Jesus said, “Let the little children come to me and do not hinder them, for to such belongs the kingdom of heaven.”"
+  },
+  {
+    "text": "Jesus said it is easier for what to go through the eye of a needle than for a rich person to enter the kingdom of God?",
+    "options": ["A thread", "A rope", "A camel", "A beam"],
+    "correctAnswerIndex": 2,
+    "book": "Matthew",
+    "difficulty": "Easy",
+    "verseReference": "Matthew 19:24",
+    "verseText": "Again I tell you, it is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God.”"
+  },
+  {
+    "text": "In the Parable of the Laborers in the Vineyard, why were the workers hired first upset?",
+    "options": ["They worked longer hours", "The pay was too low", "Those hired last received the same pay as they did", "The master was unfair"],
+    "correctAnswerIndex": 2,
+    "book": "Matthew",
+    "difficulty": "Medium",
+    "verseReference": "Matthew 20:11-12",
+    "verseText": "And on receiving it they grumbled at the master of the house, saying, ‘These last worked only one hour, and you have made them equal to us who have borne the burden of the day and the scorching heat.’”"
+  },
+  {
+    "text": "What did the mother of James and John ask Jesus regarding her sons?",
+    "options": ["To give them prominent positions in his kingdom", "To protect them from harm", "To teach them special knowledge", "To make them leaders of the disciples"],
+    "correctAnswerIndex": 0,
+    "book": "Matthew",
+    "difficulty": "Medium",
+    "verseReference": "Matthew 20:20-21",
+    "verseText": "Then the mother of the sons of Zebedee came up to him with her sons, and kneeling before him she asked him for something. And he said to her, “What do you want?” She said to him, “Say that these two sons of mine are to sit, one at your right hand and one at your left, in your kingdom.”"
+  },
+  {
+    "text": "How did Jesus define greatness among his followers in response to the request of James and John's mother?",
+    "options": ["By knowledge and wisdom", "By power and authority", "Whoever would be great must be a servant", "By closeness to Jesus"],
+    "correctAnswerIndex": 2,
+    "book": "Matthew",
+    "difficulty": "Medium",
+    "verseReference": "Matthew 20:26-27",
+    "verseText": "It shall not be so among you. But whoever would be great among you must be your servant, and whoever would be first among you must be your slave,"
   }
 ]

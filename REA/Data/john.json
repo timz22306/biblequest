@@ -565,5 +565,761 @@
     "difficulty": "Hard",
     "verseReference": "John 21:18-19",
     "verseText": "Truly, truly, I say to you, when you were young, you used to dress yourself and walk wherever you wanted, but when you are old, you will stretch out your hands, and another will dress you and carry you where you do not want to go.” (This he said to show by what kind of death he was to glorify God.)"
+  },
+  {
+    "text": "What reason did Jesus give for the man in John 9 being born blind?",
+    "options": ["His parents sinned", "He sinned", "So that the works of God might be displayed in him", "It was a random occurrence"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 9:2-3",
+    "verseText": "And his disciples asked him, “Rabbi, who sinned, this man or his parents, that he was born blind?” Jesus answered, “It was not that this man sinned, or his parents, but that the works of God might be displayed in him."
+  },
+  {
+    "text": "After healing the man born blind, what did Jesus use as a metaphor for the spiritual blindness of the Pharisees?",
+    "options": ["Darkness", "Night", "Blindness", "Sleep"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 9:39-41",
+    "verseText": "Jesus said, “For judgment I came into this world, that those who do not see may see, and those who see may become blind.” Some of the Pharisees near him heard these things, and said to him, “Are we also blind?” Jesus said to them, “If you were blind, you would have no guilt; but now that you say, ‘We see,’ your guilt remains."
+  },
+  {
+    "text": "In the Good Shepherd discourse, what does Jesus say the hired hand does when the wolf comes?",
+    "options": ["Fights the wolf", "Protects the sheep", "Leaves the sheep and flees", "Hides"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 10:12-13",
+    "verseText": "He who is a hired hand and not a shepherd, who does not own the sheep, sees the wolf coming and leaves the sheep and flees, and the wolf snatches them and scatters them. He flees because he is a hired hand and cares nothing for the sheep."
+  },
+  {
+    "text": "Jesus mentions having 'other sheep that are not of this fold'. What does he say he must do with them?",
+    "options": ["Ignore them", "Build a separate fold for them", "Bring them also, so there will be one flock, one shepherd", "Send the disciples to them later"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 10:16",
+    "verseText": "And I have other sheep that are not of this fold. I must bring them also, and they will listen to my voice. So there will be one flock, one shepherd."
+  },
+  {
+    "text": "Why did Jesus delay going to Lazarus when he heard he was ill?",
+    "options": ["He was too busy", "He didn't care", "For the glory of God, so the Son of God may be glorified through it", "He was afraid of the Jews"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 11:4-6",
+    "verseText": "But when Jesus heard it he said, “This illness does not lead to death. It is for the glory of God, so that the Son of God may be glorified through it.” Now Jesus loved Martha and her sister and Lazarus. So, when he heard that Lazarus was ill, he stayed two days longer in the place where he was."
+  },
+  {
+    "text": "Which sister of Lazarus sat at Jesus' feet listening while the other was busy serving?",
+    "options": ["Martha", "Mary", "Salome", "Susanna"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "Luke 10:39 (Context for John 11-12)",
+    "verseText": "(While the specific scene is in Luke, John identifies Mary as the one who anointed Jesus (John 11:2), connecting her contemplative nature across gospels)."
+  },
+  {
+    "text": "What did Martha confess to Jesus before Lazarus was raised?",
+    "options": ["She doubted Jesus could help", "'I believe that you are the Christ, the Son of God, who is coming into the world.'", "She wished Jesus had come sooner", "She didn't understand why Lazarus died"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 11:27",
+    "verseText": "She said to him, “Yes, Lord; I believe that you are the Christ, the Son of God, who is coming into the world.”"
+  },
+  {
+    "text": "What was the reaction of the chief priests and Pharisees to the raising of Lazarus?",
+    "options": ["They rejoiced and believed", "They ignored it", "They called a council and plotted to kill Jesus", "They asked Jesus to perform another sign"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 11:47, 53",
+    "verseText": "So the chief priests and the Pharisees gathered the council and said, “What are we to do? For this man performs many signs... So from that day on they made plans to put him to death."
+  },
+  {
+    "text": "Who unwittingly prophesied that it was better for one man to die for the people?",
+    "options": ["Pilate", "Annas", "Caiaphas, the high priest", "A Pharisee"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 11:49-52",
+    "verseText": "But one of them, Caiaphas, who was high priest that year, said to them, “You know nothing at all. Nor do you understand that it is better for you that one man should die for the people, not that the whole nation should perish.” He did not say this of his own accord, but being high priest that year he prophesied that Jesus would die for the nation..."
+  },
+  {
+    "text": "What event prompted some Greeks (Gentiles) to seek Jesus?",
+    "options": ["The feeding of the 5000", "The healing of the blind man", "Jesus' triumphal entry into Jerusalem", "The raising of Lazarus"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 12:20-22",
+    "verseText": "Now among those who went up to worship at the feast were some Greeks. So these came to Philip, who was from Bethsaida in Galilee, and asked him, “Sir, we wish to see Jesus.” Philip went and told Andrew; Andrew and Philip went and told Jesus."
+  },
+  {
+    "text": "When the Greeks sought Jesus, what analogy did Jesus use about a grain of wheat?",
+    "options": ["It must be watered to grow", "It must fall into the earth and die to bear much fruit", "It must be ground into flour", "It must be planted in good soil"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 12:24",
+    "verseText": "Truly, truly, I say to you, unless a grain of wheat falls into the earth and dies, it remains alone; but if it dies, it bears much fruit."
+  },
+  {
+    "text": "What did Jesus say would happen if he were 'lifted up from the earth'?",
+    "options": ["He would ascend to heaven", "He would draw all people to himself", "He would judge the world", "He would return immediately"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 12:32-33",
+    "verseText": "And I, when I am lifted up from the earth, will draw all people to myself.” He said this to show by what kind of death he was going to die."
+  },
+  {
+    "text": "Despite Jesus performing many signs, why did many not believe in him, according to John?",
+    "options": ["The signs weren't convincing enough", "They didn't see the signs", "To fulfill the word of Isaiah the prophet", "Jesus told them not to believe"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Hard",
+    "verseReference": "John 12:37-38",
+    "verseText": "Though he had done so many signs before them, they still did not believe in him, so that the word spoken by the prophet Isaiah might be fulfilled: “Lord, who has believed what he heard from us, and to whom has the arm of the Lord been revealed?”"
+  },
+  {
+    "text": "Which disciple initially refused to let Jesus wash his feet?",
+    "options": ["John", "Judas", "Thomas", "Peter"],
+    "correctAnswerIndex": 3,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 13:6, 8",
+    "verseText": "He came to Simon Peter, who said to him, “Lord, do you wash my feet?”... Peter said to him, “You shall never wash my feet.” Jesus answered him, “If I do not wash you, you have no share with me.”"
+  },
+  {
+    "text": "After washing the disciples' feet, what did Jesus say was the purpose of his example?",
+    "options": ["To show his power", "To demonstrate proper hygiene", "That they should do as he had done to them (serve one another)", "To prepare for his death"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 13:14-15",
+    "verseText": "If I then, your Lord and Teacher, have washed your feet, you also ought to wash one another's feet. For I have given you an example, that you also should do just as I have done to you."
+  },
+  {
+    "text": "How did Jesus indicate who would betray him at the Last Supper?",
+    "options": ["He pointed at Judas", "He announced Judas' name", "He gave a piece of bread dipped in the dish to Judas", "He told John secretly"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 13:26",
+    "verseText": "Jesus answered, “It is he to whom I will give this morsel of bread when I have dipped it.” So when he had dipped the morsel, he gave it to Judas, the son of Simon Iscariot."
+  },
+  {
+    "text": "Immediately after Judas left the Last Supper, what did Jesus say?",
+    "options": ["'Let us go from here.'", "'Now is the Son of Man glorified, and God is glorified in him.'", "'One of you will betray me.'", "'Keep watch and pray.'"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 13:31",
+    "verseText": "When he had gone out, Jesus said, “Now is the Son of Man glorified, and God is glorified in him."
+  },
+  {
+    "text": "What did Jesus predict Peter would do before the rooster crowed?",
+    "options": ["Catch many fish", "Deny him three times", "Fall asleep", "Betray him"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 13:38",
+    "verseText": "Jesus answered, “Will you lay down your life for me? Truly, truly, I say to you, the rooster will not crow till you have denied me three times."
+  },
+  {
+    "text": "In the Farewell Discourse, Jesus says he is going away to do what?",
+    "options": ["To rest", "To prepare a place for his disciples", "To fight Satan", "To judge the nations"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 14:2-3",
+    "verseText": "In my Father's house are many rooms. If it were not so, would I have told you that I go to prepare a place for you? And if I go and prepare a place for you, I will come again and will take you to myself, that where I am you may be also."
+  },
+  {
+    "text": "Jesus promised that the Father would send the Holy Spirit (Helper) in whose name?",
+    "options": ["Abraham's name", "Moses' name", "Jesus' name", "The Spirit's own name"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 14:26",
+    "verseText": "But the Helper, the Holy Spirit, whom the Father will send in my name, he will teach you all things and bring to your remembrance all that I have said to you."
+  },
+  {
+    "text": "What kind of peace did Jesus say he gives, unlike the world's peace?",
+    "options": ["Temporary peace", "Financial security", "His own peace (inner tranquility despite circumstances)", "Political peace"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 14:27",
+    "verseText": "Peace I leave with you; my peace I give to you. Not as the world gives do I give to you. Let not your hearts be troubled, neither let them be afraid."
+  },
+  {
+    "text": "In the vine and branches analogy, who is the vinedresser?",
+    "options": ["Jesus", "The Holy Spirit", "The disciples", "The Father"],
+    "correctAnswerIndex": 3,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 15:1",
+    "verseText": "“I am the true vine, and my Father is the vinedresser."
+  },
+  {
+    "text": "What happens to a branch that does not abide in the vine (Jesus)?",
+    "options": ["It grows wild", "It is taken away, withers, and is burned", "It bears different fruit", "It becomes part of another vine"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 15:2, 6",
+    "verseText": "Every branch in me that does not bear fruit he takes away... If anyone does not abide in me he is thrown away like a branch and withers; and the branches are gathered, thrown into the fire, and burned."
+  },
+  {
+    "text": "Jesus said he chose his disciples out of the world. Because of this, how would the world treat them?",
+    "options": ["It would love them", "It would ignore them", "It would hate them", "It would try to understand them"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 15:18-19",
+    "verseText": "“If the world hates you, know that it has hated me before it hated you. If you were of the world, the world would love you as its own; but because you are not of the world, but I chose you out of the world, therefore the world hates you."
+  },
+  {
+    "text": "Jesus warned that a time was coming when those who killed his followers would think they were doing what?",
+    "options": ["Committing a crime", "Offering service to God", "Avenging insults", "Following Roman law"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 16:2",
+    "verseText": "They will put you out of the synagogues. Indeed, the hour is coming when whoever kills you will think he is offering service to God."
+  },
+  {
+    "text": "Why did Jesus say it was to the disciples' advantage that he go away?",
+    "options": ["So they could rest", "So the Helper (Holy Spirit) would come", "So they could lead", "So he could prepare their place (mentioned earlier, but reason for advantage here is the Spirit)"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 16:7",
+    "verseText": "Nevertheless, I tell you the truth: it is to your advantage that I go away, for if I do not go away, the Helper will not come to you. But if I go, I will send him to you."
+  },
+  {
+    "text": "What specific things did Jesus say the Holy Spirit would guide the disciples into?",
+    "options": ["Worldly wisdom", "Political power", "All the truth", "Hidden secrets"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 16:13",
+    "verseText": "When the Spirit of truth comes, he will guide you into all the truth, for he will not speak on his own authority, but whatever he hears he will speak, and he will declare to you the things that are to come."
+  },
+  {
+    "text": "Jesus predicted the disciples' sorrow would turn into what?",
+    "options": ["Anger", "Fear", "Joy", "Confusion"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 16:20",
+    "verseText": "Truly, truly, I say to you, you will weep and lament, but the world will rejoice. You will be sorrowful, but your sorrow will turn into joy."
+  },
+  {
+    "text": "In his High Priestly Prayer, what did Jesus ask the Father to do for him?",
+    "options": ["Let him escape death", "Glorify him with the glory he had before the world existed", "Give him legions of angels", "Strike down his enemies"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 17:5",
+    "verseText": "And now, Father, glorify me in your own presence with the glory that I had with you before the world existed."
+  },
+  {
+    "text": "Jesus prayed for his disciples to be protected from whom?",
+    "options": ["The Romans", "Poverty", "The evil one", "Physical harm"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 17:15",
+    "verseText": "I do not ask that you take them out of the world, but that you keep them from the evil one."
+  },
+  {
+    "text": "What did Jesus pray would sanctify (set apart) his followers?",
+    "options": ["Their good works", "The Law of Moses", "The truth (God's word)", "Ritual washing"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 17:17",
+    "verseText": "Sanctify them in the truth; your word is truth."
+  },
+  {
+    "text": "What did Jesus desire for all believers regarding his glory?",
+    "options": ["That they would imagine it", "That they would be with him to see his glory", "That they would receive equal glory", "That they would write about it"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 17:24",
+    "verseText": "Father, I desire that they also, whom you have given me, may be with me where I am, to see my glory that you have given me because you loved me before the foundation of the world."
+  },
+  {
+    "text": "Where did Jesus go with his disciples after the Last Supper and prayer, where he was arrested?",
+    "options": ["The Temple", "Bethany", "Across the Kidron Valley to a garden (Gethsemane)", "The Mount of Olives summit"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 18:1",
+    "verseText": "When Jesus had spoken these words, he went out with his disciples across the Kidron Valley, where there was a garden, which he and his disciples entered."
+  },
+  {
+    "text": "Who accompanied the soldiers and officers from the chief priests and Pharisees to arrest Jesus?",
+    "options": ["Pilate", "Nicodemus", "Judas, the betrayer", "Mary Magdalene"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 18:2-3",
+    "verseText": "Now Judas, who betrayed him, also knew the place, for Jesus often met there with his disciples. So Judas, having procured a band of soldiers and some officers from the chief priests and the Pharisees, went there with lanterns and torches and weapons."
+  },
+  {
+    "text": "During Peter's first denial in the high priest's courtyard, who questioned him?",
+    "options": ["The high priest", "A soldier", "A servant girl", "Judas"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 18:16-17",
+    "verseText": "but Peter stood outside at the door. So the other disciple, who was known to the high priest, went out and spoke to the servant girl who kept watch at the door, and brought Peter in. The servant girl at the door said to Peter, “You also are not one of this man's disciples, are you?” He said, “I am not.”"
+  },
+  {
+    "text": "What did Annas primarily ask Jesus about during his questioning?",
+    "options": ["His miracles", "His disciples and his teaching", "His plans to overthrow Rome", "His family"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 18:19",
+    "verseText": "The high priest then questioned Jesus about his disciples and his teaching."
+  },
+  {
+    "text": "How did Jesus respond when Annas questioned him about his teaching?",
+    "options": ["He refused to answer", "He said he taught secretly", "He said he spoke openly to the world and told Annas to ask those who heard him", "He performed a sign"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 18:20-21",
+    "verseText": "Jesus answered him, “I have spoken openly to the world. I have always taught in synagogues and in the temple, where all Jews come together. I have said nothing in secret. Why do you ask me? Ask those who have heard me what I said to them; they know what I said.”"
+  },
+  {
+    "text": "After being questioned by Annas, where was Jesus sent next?",
+    "options": ["To Herod", "To Caiaphas, the high priest", "Directly to Pilate", "Back to the garden"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 18:24",
+    "verseText": "Annas then sent him bound to Caiaphas the high priest."
+  },
+  {
+    "text": "During Peter's subsequent denials, what detail connected one accuser to the arrest scene?",
+    "options": ["He recognized Peter's accent", "He was a relative of the man whose ear Peter had cut off", "He saw Peter with Jesus earlier", "He heard Peter call Jesus 'Lord'"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 18:26",
+    "verseText": "One of the servants of the high priest, a relative of the man whose ear Peter had cut off, asked, “Did I not see you in the garden with him?”"
+  },
+  {
+    "text": "Why did the Jewish leaders not enter Pilate's headquarters?",
+    "options": ["They were afraid of Pilate", "Pilate refused to see them", "To avoid ceremonial defilement so they could eat the Passover", "It was too early in the morning"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 18:28",
+    "verseText": "Then they led Jesus from the house of Caiaphas to the governor's headquarters. It was early morning. They themselves did not enter the governor's headquarters, so that they would not be defiled, but could eat the Passover."
+  },
+  {
+    "text": "When Pilate asked the Jewish leaders what accusation they brought against Jesus, what was their initial evasive response?",
+    "options": ["'He claims to be a king.'", "'He breaks the Sabbath.'", "'If this man were not a criminal, we would not have handed him over to you.'", "'He blasphemes.'"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 18:29-30",
+    "verseText": "So Pilate went outside to them and said, “What accusation do you bring against this man?” They answered him, “If this man were not a criminal, we would not have handed him over to you.”"
+  },
+  {
+    "text": "What custom did Pilate mention that involved releasing a prisoner at Passover?",
+    "options": ["Releasing a political prisoner", "Releasing the longest-serving prisoner", "Releasing one prisoner chosen by the crowd", "Releasing a prisoner who paid a ransom"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 18:39",
+    "verseText": "But you have a custom that I should release one man for you at the Passover. So do you want me to release to you the King of the Jews?”"
+  },
+  {
+    "text": "Whom did the crowd ask Pilate to release instead of Jesus?",
+    "options": ["A tax collector", "A Zealot", "Barabbas, a robber", "Another prophet"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 18:40",
+    "verseText": "They cried out again, “Not this man, but Barabbas!” Now Barabbas was a robber."
+  },
+  {
+    "text": "What did the soldiers do to Jesus after Pilate had him flogged?",
+    "options": ["Offered him water", "Let him go", "Twisted together a crown of thorns, put it on him, clothed him in a purple robe, and mocked him", "Took him immediately to be crucified"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 19:1-3",
+    "verseText": "Then Pilate took Jesus and flogged him. And the soldiers twisted together a crown of thorns and put it on his head and arrayed him in a purple robe. They came up to him, saying, “Hail, King of the Jews!” and struck him with their hands."
+  },
+  {
+    "text": "What did Pilate say when he brought the scourged and mocked Jesus out to the crowd?",
+    "options": ["'Crucify him!'", "'He is innocent.'", "'Behold the man!' (Ecce Homo)", "'What is truth?'"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 19:4-5",
+    "verseText": "Pilate went out again and said to them, “See, I am bringing him out to you that you may know that I find no guilt in him.” So Jesus came out, wearing the crown of thorns and the purple robe. Pilate said to them, “Behold the man!”"
+  },
+  {
+    "text": "What specific accusation did the Jewish leaders finally level against Jesus before Pilate, based on their law?",
+    "options": ["Sedition", "Robbery", "'We have a law, and according to that law he ought to die because he has made himself the Son of God.'", "Tax evasion"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 19:7",
+    "verseText": "The Jews answered him, “We have a law, and according to that law he ought to die because he has made himself the Son of God.”"
+  },
+  {
+    "text": "When Pilate emphasized his authority to release or crucify Jesus, what did Jesus say about Pilate's authority?",
+    "options": ["Pilate had no real authority", "'You would have no authority over me at all unless it had been given you from above.'", "His authority came from Caesar", "His authority was limited"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 19:10-11",
+    "verseText": "So Pilate said to him, “You will not speak to me? Do you not know that I have authority to release you and authority to crucify you?” Jesus answered him, “You would have no authority over me at all unless it had been given you from above. Therefore he who delivered me over to you has the greater sin.”"
+  },
+  {
+    "text": "What was the name of the place where Jesus was crucified, also called the Place of a Skull?",
+    "options": ["Gethsemane", "Mount of Olives", "Golgotha", "Kidron Valley"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 19:17",
+    "verseText": "and he went out, bearing his own cross, to the place called The Place of a Skull, which in Aramaic is called Golgotha."
+  },
+  {
+    "text": "What inscription did Pilate write and put on the cross?",
+    "options": ["'Jesus Christ, Son of God'", "'King of Kings'", "'Jesus of Nazareth, the King of the Jews'", "'Criminal'"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 19:19",
+    "verseText": "Pilate also wrote an inscription and put it on the cross. It read, “Jesus of Nazareth, the King of the Jews.”"
+  },
+  {
+    "text": "In what languages was the inscription on the cross written?",
+    "options": ["Greek, Latin, and Aramaic (Hebrew)", "Greek and Latin", "Latin and Aramaic", "Greek and Aramaic"],
+    "correctAnswerIndex": 0,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 19:20",
+    "verseText": "Many of the Jews read this inscription, for the place where Jesus was crucified was near the city, and it was written in Aramaic, in Latin, and in Greek."
+  },
+  {
+    "text": "What did the soldiers do with Jesus' garments after the crucifixion?",
+    "options": ["Burned them", "Gave them to Mary", "Divided them into four parts, one for each soldier, and cast lots for his tunic", "Buried them"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 19:23-24",
+    "verseText": "When the soldiers had crucified Jesus, they took his garments and divided them into four parts, one part for each soldier; also his tunic. But the tunic was seamless, woven in one piece from top to bottom, so they said to one another, “Let us not tear it, but cast lots for it to see whose it shall be.”"
+  },
+  {
+    "text": "Which women stood near the cross of Jesus, according to John's account?",
+    "options": ["Mary Magdalene and Salome", "His mother, his mother's sister, Mary the wife of Clopas, and Mary Magdalene", "Martha and Mary of Bethany", "Only his mother"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 19:25",
+    "verseText": "but standing by the cross of Jesus were his mother and his mother's sister, Mary the wife of Clopas, and Mary Magdalene."
+  },
+  {
+    "text": "Knowing that all was finished, what did Jesus say to fulfill Scripture?",
+    "options": ["'Father, forgive them'", "'It is finished'", "'I thirst.'", "'Into your hands I commit my spirit'"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 19:28",
+    "verseText": "After this, Jesus, knowing that all was now finished, said (to fulfill the Scripture), “I thirst.”"
+  },
+  {
+    "text": "What did the soldiers offer Jesus when he said he was thirsty?",
+    "options": ["Water", "Wine", "Sour wine (vinegar) on a hyssop branch", "Nothing"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 19:29",
+    "verseText": "A jar full of sour wine stood there, so they put a sponge full of the sour wine on a hyssop branch and held it to his mouth."
+  },
+  {
+    "text": "Besides piercing Jesus' side, what else did a soldier do?",
+    "options": ["Broke his legs", "Took his tunic", "Nothing, they just confirmed he was dead", "(John mentions only the piercing, not breaking legs, and the spear thrust itself)"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 19:34",
+    "verseText": "But one of the soldiers pierced his side with a spear, and at once there came out blood and water."
+  },
+  {
+    "text": "What flowed out when the soldier pierced Jesus' side?",
+    "options": ["Only blood", "Only water", "Blood and water", "Nothing"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 19:34",
+    "verseText": "But one of the soldiers pierced his side with a spear, and at once there came out blood and water."
+  },
+  {
+    "text": "Which two individuals, previously secret disciples, asked Pilate for Jesus' body and buried him?",
+    "options": ["Peter and John", "Nicodemus and Joseph of Arimathea", "Andrew and Philip", "James and Matthew"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 19:38-39",
+    "verseText": "After these things Joseph of Arimathea, who was a disciple of Jesus, but secretly for fear of the Jews, asked Pilate that he might take away the body of Jesus... Nicodemus also, who earlier had come to Jesus by night, came bringing a mixture of myrrh and aloes, about seventy-five pounds in weight."
+  },
+  {
+    "text": "How did Joseph and Nicodemus prepare Jesus' body for burial?",
+    "options": ["Washed it and placed it in a shroud", "Bound it in linen cloths with spices, according to Jewish burial customs", "Anointed it with oil", "Placed it directly in the tomb"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 19:40",
+    "verseText": "So they took the body of Jesus and bound it in linen cloths with the spices, as is the burial custom of the Jews."
+  },
+  {
+    "text": "Where was the tomb located in which Jesus was buried?",
+    "options": ["On a hillside far from the city", "In a public cemetery", "In a garden near the place of crucifixion", "Inside the city walls"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 19:41",
+    "verseText": "Now in the place where he was crucified there was a garden, and in the garden a new tomb in which no one had yet been laid."
+  },
+  {
+    "text": "Who ran to the tomb after Mary Magdalene reported it was empty?",
+    "options": ["Only Peter", "Only John", "Peter and the other disciple (John)", "Mary Magdalene and the other Mary"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 20:2-4",
+    "verseText": "So she ran and went to Simon Peter and the other disciple, the one whom Jesus loved, and said to them, “They have taken the Lord out of the tomb, and we do not know where they have laid him.” So Peter went out with the other disciple, and they were going toward the tomb... Both of them were running together, but the other disciple outran Peter and reached the tomb first."
+  },
+  {
+    "text": "What did the disciples see inside the empty tomb?",
+    "options": ["Angels", "The stone rolled away", "The linen cloths lying there, and the face cloth folded up separately", "Jesus' body"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 20:5-7",
+    "verseText": "And stooping to look in, he saw the linen cloths lying there, but he did not go in. Then Simon Peter came, following him, and went into the tomb. He saw the linen cloths lying there, and the face cloth, which had been on Jesus' head, not lying with the linen cloths but folded up in a place by itself."
+  },
+  {
+    "text": "What was the reaction of the 'disciple whom Jesus loved' upon seeing the empty tomb and grave clothes?",
+    "options": ["He was confused", "He wept", "He saw and believed", "He ran to tell the others"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 20:8",
+    "verseText": "Then the other disciple, who had reached the tomb first, also went in, and he saw and believed;"
+  },
+  {
+    "text": "Who did Mary Magdalene initially think Jesus was when she saw him outside the tomb?",
+    "options": ["An angel", "Peter", "The gardener", "A Roman soldier"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 20:14-15",
+    "verseText": "Having said this, she turned around and saw Jesus standing, but she did not know that it was Jesus. Jesus said to her, “Woman, why are you weeping? Whom are you seeking?” Supposing him to be the gardener, she said to him, “Sir, if you have carried him away, tell me where you have laid him, and I will take him away.”"
+  },
+  {
+    "text": "What did Jesus instruct Mary Magdalene to tell the disciples?",
+    "options": ["To meet him in Galilee", "'I am ascending to my Father and your Father, to my God and your God.'", "That he had risen", "To wait in Jerusalem"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 20:17",
+    "verseText": "Jesus said to her, “Do not cling to me, for I have not yet ascended to the Father; but go to my brothers and say to them, ‘I am ascending to my Father and your Father, to my God and your God.’”"
+  },
+  {
+    "text": "When Jesus appeared to the disciples behind locked doors, what did he give them authority to do?",
+    "options": ["Perform miracles", "Teach all nations", "Forgive sins", "Judge the world"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 20:22-23",
+    "verseText": "And when he had said this, he breathed on them and said to them, “Receive the Holy Spirit. If you forgive the sins of any, they are forgiven them; if you withhold forgiveness from any, it is withheld.”"
+  },
+  {
+    "text": "How long after the first appearance to the disciples did Jesus appear when Thomas was present?",
+    "options": ["The next day", "Three days later", "Eight days later", "Forty days later"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 20:26",
+    "verseText": "Eight days later, his disciples were inside again, and Thomas was with them. Although the doors were locked, Jesus came and stood among them and said, “Peace be with you.”"
+  },
+  {
+    "text": "Besides Peter, Thomas, Nathanael, and the sons of Zebedee (James and John), how many other disciples were present during the appearance by the Sea of Tiberias?",
+    "options": ["One", "Two", "Three", "None"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Hard",
+    "verseReference": "John 21:2",
+    "verseText": "Simon Peter, Thomas (called the Twin), Nathanael of Cana in Galilee, the sons of Zebedee, and two others of his disciples were together."
+  },
+  {
+    "text": "Who first recognized Jesus standing on the shore after the miraculous catch of fish?",
+    "options": ["Peter", "Thomas", "The disciple whom Jesus loved (John)", "Nathanael"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 21:7",
+    "verseText": "That disciple whom Jesus loved therefore said to Peter, “It is the Lord!” When Simon Peter heard that it was the Lord, he put on his outer garment, for he was stripped for work, and threw himself into the sea."
+  },
+  {
+    "text": "What did Jesus already have prepared for the disciples when they came ashore?",
+    "options": ["Nets", "A boat", "A charcoal fire with fish and bread", "Instructions"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 21:9",
+    "verseText": "When they got out on land, they saw a charcoal fire in place, with fish laid out on it, and bread."
+  },
+  {
+    "text": "The repeated questioning of Peter's love is often seen as a restoration corresponding to what previous event?",
+    "options": ["His confession at Caesarea Philippi", "His walking on water", "His three denials", "His cutting off the servant's ear"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 18:17, 25, 27; 21:15-17",
+    "verseText": "(The three questions about love mirror the three times Peter denied Jesus during the trial)."
+  },
+  {
+    "text": "When Peter asked about the fate of the disciple whom Jesus loved, what was Jesus' response?",
+    "options": ["He would also be martyred", "He would live forever", "'If it is my will that he remain until I come, what is that to you? You follow me!'", "He would write many books"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 21:21-22",
+    "verseText": "When Peter saw him, he said to Jesus, “Lord, what about this man?” Jesus said to him, “If it is my will that he remain until I come, what is that to you? You follow me!”"
+  },
+  {
+    "text": "What misunderstanding arose among the brothers concerning the disciple whom Jesus loved?",
+    "options": ["That he was greater than Peter", "That he would betray Jesus", "That he would not die", "That he would be the first Pope"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 21:23",
+    "verseText": "So the saying spread abroad among the brothers that this disciple was not to die; yet Jesus did not say to him that he was not to die, but, “If it is my will that he remain until I come, what is that to you?”"
+  },
+  {
+    "text": "How does the author conclude the Gospel, regarding the things Jesus did?",
+    "options": ["He listed everything important", "He admitted some things were forgotten", "There are also many other things that Jesus did; were every one of them to be written, the world itself could not contain the books", "He focused only on the miracles"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 21:25",
+    "verseText": "Now there are also many other things that Jesus did. Were every one of them to be written, I suppose that the world itself could not contain the books that would be written."
+  },
+  {
+    "text": "Throughout John's Gospel, Jesus' miracles are referred to by what term?",
+    "options": ["Wonders", "Powers", "Signs", "Marvels"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 2:11, 4:54, 20:30",
+    "verseText": "This, the first of his signs, Jesus did at Cana... This was now the second sign... Now Jesus did many other signs in the presence of the disciples..."
+  },
+  {
+    "text": "What key theological concept, contrasted with darkness, is repeatedly emphasized in John's prologue and Jesus' teachings?",
+    "options": ["Wisdom", "Power", "Light", "Law"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 1:4-5, 8:12",
+    "verseText": "In him was life, and the life was the light of men. The light shines in the darkness, and the darkness has not overcome it... Again Jesus spoke to them, saying, “I am the light of the world."
+  },
+  {
+    "text": "Which Jewish feast provides the backdrop for Jesus' 'Bread of Life' discourse?",
+    "options": ["Feast of Tabernacles", "Passover", "Pentecost", "Feast of Dedication (Hanukkah)"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 6:4",
+    "verseText": "Now the Passover, the feast of the Jews, was at hand."
+  },
+  {
+    "text": "Which Jewish feast provides the backdrop for Jesus' teaching about 'living water' and his claim 'I am the light of the world'?",
+    "options": ["Passover", "Feast of Tabernacles", "Pentecost", "Day of Atonement"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Hard",
+    "verseReference": "John 7:2, 37-38; 8:12",
+    "verseText": "Now the Jews' Feast of Tabernacles was at hand... On the last day of the feast... Jesus stood up and cried out, “If anyone thirsts, let him come to me and drink... Again Jesus spoke to them, saying, “I am the light of the world.” (Tabernacles involved water-drawing and light ceremonies)."
+  },
+  {
+    "text": "Which Jewish feast provides the backdrop for Jesus' 'Good Shepherd' discourse?",
+    "options": ["Passover", "Feast of Tabernacles", "Feast of Dedication (Hanukkah)", "Purim"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Hard",
+    "verseReference": "John 10:22-24",
+    "verseText": "At that time the Feast of Dedication took place at Jerusalem. It was winter, and Jesus was walking in the temple, in the colonnade of Solomon. So the Jews gathered around him and said to him, “How long will you keep us in suspense? If you are the Christ, tell us plainly.” (Jesus responds with shepherd imagery)."
+  },
+  {
+    "text": "What does Jesus identify as the 'work of God' that people should do?",
+    "options": ["Follow the Law perfectly", "Perform miracles", "Believe in him whom God has sent", "Give to the poor"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 6:28-29",
+    "verseText": "Then they said to him, “What must we do, to be doing the works of God?” Jesus answered them, “This is the work of God, that you believe in him whom he has sent.”"
+  },
+  {
+    "text": "Jesus contrasts himself with the 'thief' whose purpose is to do what?",
+    "options": ["Lead the sheep astray", "Steal and kill and destroy", "Care for the sheep poorly", "Lock the sheep gate"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 10:10",
+    "verseText": "The thief comes only to steal and kill and destroy. I came that they may have life and have it abundantly."
+  },
+  {
+    "text": "What did Jesus promise would happen for those who believe in him, even if they die?",
+    "options": ["They would be remembered", "They would live", "Their names would be written in heaven", "Their families would be blessed"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 11:25-26",
+    "verseText": "Jesus said to her, “I am the resurrection and the life. Whoever believes in me, though he die, yet shall he live, and everyone who lives and believes in me shall never die. Do you believe this?”"
+  },
+  {
+    "text": "What concept, meaning 'glory' or 'honor,' is central to Jesus' understanding of his mission and death in John?",
+    "options": ["Power (Dynamis)", "Truth (Aletheia)", "Glory (Doxa)", "Life (Zoe)"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 12:23, 17:1, 5",
+    "verseText": "And Jesus answered them, “The hour has come for the Son of Man to be glorified.”... When Jesus had spoken these words, he lifted up his eyes to heaven, and said, “Father, the hour has come; glorify your Son that the Son may glorify you... And now, Father, glorify me..."
+  },
+  {
+    "text": "How did Jesus describe the relationship between himself and the Father?",
+    "options": ["As separate beings with different goals", "'I and the Father are one.'", "As master and servant", "As teacher and student"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 10:30",
+    "verseText": "I and the Father are one.”"
+  },
+  {
+    "text": "What does Jesus say will be the identifying mark of his disciples to the world?",
+    "options": ["Their knowledge of scripture", "Their ability to perform signs", "Their love for one another", "Their separation from the world"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 13:35",
+    "verseText": "By this all people will know that you are my disciples, if you have love for one another.”"
   }
 ]

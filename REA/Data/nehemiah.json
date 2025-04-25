@@ -43,5 +43,437 @@
     "difficulty": "Easy",
     "verseReference": "Nehemiah 8:1-2",
     "verseText": "And all the people gathered as one man into the square before the Water Gate. And they told Ezra the scribe to bring the Book of the Law of Moses that the LORD had commanded Israel. So Ezra the priest brought the Law before the assembly, both men and women and all who could understand what they heard, on the first day of the seventh month."
+  },
+  {
+    "text": "What news did Nehemiah receive from his brother Hanani that caused him great distress?",
+    "options": ["The Temple had been destroyed again", "The king was angry with the Jews", "The wall of Jerusalem was broken down and its gates burned", "A famine was ravaging Judah"],
+    "correctAnswerIndex": 2,
+    "book": "Nehemiah",
+    "difficulty": "Easy",
+    "verseReference": "Nehemiah 1:3",
+    "verseText": "And they said to me, “The remnant there in the province who had survived the exile is in great trouble and shame. The wall of Jerusalem is broken down, and its gates are destroyed by fire.”"
+  },
+  {
+    "text": "How did Nehemiah react immediately after hearing the bad news about Jerusalem?",
+    "options": ["He gathered an army", "He wrote a letter to the elders", "He wept, mourned, fasted, and prayed", "He sought advice from the king's counselors"],
+    "correctAnswerIndex": 2,
+    "book": "Nehemiah",
+    "difficulty": "Easy",
+    "verseReference": "Nehemiah 1:4",
+    "verseText": "As soon as I heard these words I sat down and wept and mourned for days, and I continued fasting and praying before the God of heaven."
+  },
+  {
+    "text": "What position did Nehemiah hold in the court of King Artaxerxes?",
+    "options": ["Chief Scribe", "Royal Advisor", "Captain of the Guard", "Cupbearer"],
+    "correctAnswerIndex": 3,
+    "book": "Nehemiah",
+    "difficulty": "Easy",
+    "verseReference": "Nehemiah 1:11",
+    "verseText": "...Now I was cupbearer to the king."
+  },
+  {
+    "text": "Why was King Artaxerxes concerned about Nehemiah's appearance?",
+    "options": ["Nehemiah was wearing improper attire", "Nehemiah looked sad, which was unusual for him", "Nehemiah had been injured", "Nehemiah was late for his duties"],
+    "correctAnswerIndex": 1,
+    "book": "Nehemiah",
+    "difficulty": "Medium",
+    "verseReference": "Nehemiah 2:1-2",
+    "verseText": "In the month of Nisan, in the twentieth year of King Artaxerxes, when wine was before him, I took up the wine and gave it to the king. Now I had not been sad in his presence. And the king said to me, “Why is your face sad, seeing you are not sick? This is nothing but sadness of the heart.”"
+  },
+  {
+    "text": "Besides permission to go to Judah, what did Nehemiah request from the king?",
+    "options": ["Gold and silver for the journey", "An army to conquer neighboring lands", "Letters to governors for safe passage and timber for building", "A royal title for himself"],
+    "correctAnswerIndex": 2,
+    "book": "Nehemiah",
+    "difficulty": "Medium",
+    "verseReference": "Nehemiah 2:7-8",
+    "verseText": "And I said to the king, “If it pleases the king, let letters be given me to the governors of the province Beyond the River, that they may let me pass through until I come to Judah, and a letter to Asaph, the keeper of the king's forest, that he may give me timber to make beams for the gates of the fortress of the temple, and for the wall of the city, and for the house that I shall occupy.”"
+  },
+  {
+    "text": "Who was displeased when they heard Nehemiah had come to seek the welfare of the people of Israel?",
+    "options": ["The priests in Jerusalem", "King Artaxerxes' advisors", "Sanballat the Horonite and Tobiah the Ammonite official", "The prophets Haggai and Zechariah"],
+    "correctAnswerIndex": 2,
+    "book": "Nehemiah",
+    "difficulty": "Medium",
+    "verseReference": "Nehemiah 2:10",
+    "verseText": "But when Sanballat the Horonite and Tobiah the Ammonite servant heard this, it displeased them greatly that someone had come to seek the welfare of the people of Israel."
+  },
+  {
+    "text": "What did Nehemiah do secretly at night shortly after arriving in Jerusalem?",
+    "options": ["Met with the city elders", "Inspected the ruined walls of Jerusalem", "Offered sacrifices at the Temple site", "Sent spies into Samaria"],
+    "correctAnswerIndex": 1,
+    "book": "Nehemiah",
+    "difficulty": "Medium",
+    "verseReference": "Nehemiah 2:12-15",
+    "verseText": "Then I arose in the night, I and a few men with me. And I told no one what my God had put into my heart to do for Jerusalem... And I went out by night by the Valley Gate...and I inspected the walls of Jerusalem that were broken down and its gates that had been destroyed by fire."
+  },
+  {
+    "text": "How did Nehemiah motivate the officials and people to start rebuilding the wall?",
+    "options": ["By promising them payment", "By threatening punishment", "By sharing his vision, the king's support, and God's hand upon him", "By criticizing their laziness"],
+    "correctAnswerIndex": 2,
+    "book": "Nehemiah",
+    "difficulty": "Medium",
+    "verseReference": "Nehemiah 2:17-18",
+    "verseText": "Then I said to them, “You see the trouble we are in... Come, let us build the wall of Jerusalem...” And I told them of the hand of my God that had been upon me for good, and also of the words that the king had spoken to me. And they said, “Let us rise up and build.” So they strengthened their hands for the good work."
+  },
+  {
+    "text": "How did Sanballat, Tobiah, and Geshem react when they heard the Jews were rebuilding the wall?",
+    "options": ["They offered to help", "They ignored the work", "They mocked, despised, and accused the Jews of rebellion", "They sent gifts to Nehemiah"],
+    "correctAnswerIndex": 2,
+    "book": "Nehemiah",
+    "difficulty": "Medium",
+    "verseReference": "Nehemiah 2:19",
+    "verseText": "But when Sanballat the Horonite and Tobiah the Ammonite servant and Geshem the Arab heard of it, they jeered at us and despised us and said, “What is this thing that you are doing? Are you rebelling against the king?”"
+  },
+  {
+    "text": "Chapter 3 describes the rebuilding work section by section. Who worked on the Sheep Gate?",
+    "options": ["Nehemiah himself", "The men of Jericho", "Eliashib the high priest and his fellow priests", "The Tekoites"],
+    "correctAnswerIndex": 2,
+    "book": "Nehemiah",
+    "difficulty": "Medium",
+    "verseReference": "Nehemiah 3:1",
+    "verseText": "Then Eliashib the high priest rose up with his brothers the priests, and they built the Sheep Gate. They consecrated it and set its doors."
+  },
+  {
+    "text": "Which group's nobles refused to participate in the physical labor of rebuilding?",
+    "options": ["The men of Gibeon", "The nobles of the Tekoites", "The priests", "The Levites"],
+    "correctAnswerIndex": 1,
+    "book": "Nehemiah",
+    "difficulty": "Hard",
+    "verseReference": "Nehemiah 3:5",
+    "verseText": "And next to them the Tekoites repaired, but their nobles would not stoop to serve their Lord."
+  },
+  {
+    "text": "What strategy did Nehemiah implement when the enemies plotted to attack Jerusalem and stop the work?",
+    "options": ["He stopped the work temporarily", "He paid the enemies to leave", "He prayed and posted a guard day and night", "He sent everyone home"],
+    "correctAnswerIndex": 2,
+    "book": "Nehemiah",
+    "difficulty": "Medium",
+    "verseReference": "Nehemiah 4:9",
+    "verseText": "And we prayed to our God and set a guard as a protection against them day and night."
+  },
+  {
+    "text": "How did Nehemiah arm the builders to protect themselves while working?",
+    "options": ["He hired foreign mercenaries", "Half worked while half stood guard with weapons", "He built watchtowers along the wall", "He relied solely on prayer"],
+    "correctAnswerIndex": 1,
+    "book": "Nehemiah",
+    "difficulty": "Medium",
+    "verseReference": "Nehemiah 4:16",
+    "verseText": "From that day on, half of my servants worked on construction, and half held the spears, shields, bows, and coats of mail."
+  },
+  {
+    "text": "What signal was arranged for the workers to gather if an attack occurred?",
+    "options": ["A shout from Nehemiah", "A fire signal", "The sound of a trumpet", "A runner sent with a message"],
+    "correctAnswerIndex": 2,
+    "book": "Nehemiah",
+    "difficulty": "Medium",
+    "verseReference": "Nehemiah 4:20",
+    "verseText": "In the place where you hear the sound of the trumpet, rally to us there. Our God will fight for us.”"
+  },
+  {
+    "text": "What social injustice did Nehemiah confront among the Jews during the rebuilding?",
+    "options": ["Idolatry", "Sabbath breaking", "Nobles charging interest (usury) to poorer Jews", "Intermarriage with foreigners"],
+    "correctAnswerIndex": 2,
+    "book": "Nehemiah",
+    "difficulty": "Medium",
+    "verseReference": "Nehemiah 5:1-7",
+    "verseText": "Now there arose a great outcry of the people and of their wives against their Jewish brothers... some said, “We are mortgaging our fields, our vineyards, and our houses to get grain because of the famine.” ... I was very angry when I heard their outcry... I confronted the nobles and the officials and said to them, “You are exacting interest, each from his brother.”"
+  },
+  {
+    "text": "How did Nehemiah set an example regarding his own salary and provisions as governor?",
+    "options": ["He demanded double rations", "He refused the governor's food allowance to avoid burdening the people", "He taxed the people heavily", "He lived lavishly"],
+    "correctAnswerIndex": 1,
+    "book": "Nehemiah",
+    "difficulty": "Medium",
+    "verseReference": "Nehemiah 5:14-15, 18",
+    "verseText": "Moreover, from the time that I was appointed to be their governor in the land of Judah... neither I nor my brothers ate the food allowance of the governor... Yet for all this I did not demand the food allowance of the governor, because the service was heavy on this people."
+  },
+  {
+    "text": "What did Sanballat and Geshem repeatedly try to lure Nehemiah into doing?",
+    "options": ["Stopping the wall construction", "Meeting them for a discussion (likely a trap) on the plain of Ono", "Joining them in rebellion against Persia", "Accepting a bribe"],
+    "correctAnswerIndex": 1,
+    "book": "Nehemiah",
+    "difficulty": "Medium",
+    "verseReference": "Nehemiah 6:2",
+    "verseText": "Sanballat and Geshem sent to me, saying, “Come and let us meet together at Hakkephirim in the plain of Ono.” But they intended to do me harm."
+  },
+  {
+    "text": "What false accusation did Nehemiah's enemies spread about his motives for rebuilding the wall?",
+    "options": ["He wanted to steal Temple treasures", "He planned to rebel and make himself king", "He was secretly working for Egypt", "He wanted to enslave the people"],
+    "correctAnswerIndex": 1,
+    "book": "Nehemiah",
+    "difficulty": "Medium",
+    "verseReference": "Nehemiah 6:6-7",
+    "verseText": "In it was written, “It is reported among the nations, and Geshem also says it, that you and the Jews intend to rebel; that is why you are building the wall. And according to these reports you wish to become their king."
+  },
+  {
+    "text": "Who tried to intimidate Nehemiah into hiding in the Temple, which would have been a sin for him as a layman?",
+    "options": ["Tobiah", "Sanballat", "Shemaiah (a hired false prophet)", "Eliashib the priest"],
+    "correctAnswerIndex": 2,
+    "book": "Nehemiah",
+    "difficulty": "Hard",
+    "verseReference": "Nehemiah 6:10-13",
+    "verseText": "Now when I went into the house of Shemaiah the son of Delaiah... he said, “Let us meet together in the house of God, within the temple. Let us close the doors of the temple, for they are coming to kill you...” But I said, “Should such a man as I run away? And what man such as I could go into the temple and live? I will not go in.” And I understood and saw that God had not sent him, but he had pronounced the prophecy against me because Tobiah and Sanballat had hired him."
+  },
+  {
+    "text": "Upon the wall's completion, what effect did it have on the surrounding nations?",
+    "options": ["They declared war immediately", "They were afraid and lost their confidence", "They sent congratulatory messages", "They offered alliances"],
+    "correctAnswerIndex": 1,
+    "book": "Nehemiah",
+    "difficulty": "Medium",
+    "verseReference": "Nehemiah 6:16",
+    "verseText": "And when all our enemies heard of it, all the nations around us were afraid and fell very low in their own eyes. For they perceived that this work had been accomplished with the help of our God."
+  },
+  {
+    "text": "After the wall was built, what measure did Nehemiah take to secure Jerusalem?",
+    "options": ["He built a larger army", "He appointed gatekeepers, singers, and Levites, and charged leaders to keep gates closed until the sun was hot", "He expelled all foreigners", "He paid tribute to Sanballat"],
+    "correctAnswerIndex": 1,
+    "book": "Nehemiah",
+    "difficulty": "Medium",
+    "verseReference": "Nehemiah 7:1-3",
+    "verseText": "Now when the wall had been built and I had set up the doors, and the gatekeepers, the singers, and the Levites had been appointed, I gave my brother Hanani and Hananiah the governor of the castle charge over Jerusalem... And I said to them, “Let not the gates of Jerusalem be opened until the sun is hot.”"
+  },
+  {
+    "text": "Nehemiah found a record of which group of people who first returned from exile?",
+    "options": ["The warriors who fought Babylon", "The prophets of the exile", "The families who returned with Zerubbabel", "The priests who served in Babylon"],
+    "correctAnswerIndex": 2,
+    "book": "Nehemiah",
+    "difficulty": "Medium",
+    "verseReference": "Nehemiah 7:5-6",
+    "verseText": "Then my God put it into my heart to assemble the nobles and the officials and the people to be enrolled by genealogy. And I found the book of the genealogy of those who came up at the first, and I found written in it: These were the people of the province who came up out of the captivity of those exiles whom Nebuchadnezzar the king of Babylon had carried into exile."
+  },
+  {
+    "text": "Where did the people gather to hear the Law read by Ezra?",
+    "options": ["Inside the Temple courts", "On Mount Zion", "In the square before the Water Gate", "In the governor's palace"],
+    "correctAnswerIndex": 2,
+    "book": "Nehemiah",
+    "difficulty": "Easy",
+    "verseReference": "Nehemiah 8:1",
+    "verseText": "And all the people gathered as one man into the square before the Water Gate. And they told Ezra the scribe to bring the Book of the Law of Moses..."
+  },
+  {
+    "text": "How did the people react when Ezra opened the Book of the Law?",
+    "options": ["They sat down silently", "They started singing", "They all stood up", "They began to debate"],
+    "correctAnswerIndex": 2,
+    "book": "Nehemiah",
+    "difficulty": "Easy",
+    "verseReference": "Nehemiah 8:5",
+    "verseText": "And Ezra opened the book in the sight of all the people, for he was above all the people, and as he opened it all the people stood."
+  },
+  {
+    "text": "What did the Levites do while Ezra read the Law?",
+    "options": ["Sang hymns", "Collected offerings", "Helped the people understand the Law", "Stood guard"],
+    "correctAnswerIndex": 2,
+    "book": "Nehemiah",
+    "difficulty": "Medium",
+    "verseReference": "Nehemiah 8:7-8",
+    "verseText": "Also Jeshua, Bani, Sherebiah...the Levites, helped the people to understand the Law, while the people remained in their places. They read from the book, from the Law of God, clearly, and they gave the sense, so that the people understood the reading."
+  },
+  {
+    "text": "Why were the people weeping as they heard the words of the Law?",
+    "options": ["Out of joy for the completed wall", "Because they recognized their past disobedience", "They were mourning loved ones lost in exile", "Ezra's reading was sorrowful"],
+    "correctAnswerIndex": 1,
+    "book": "Nehemiah",
+    "difficulty": "Medium",
+    "verseReference": "Nehemiah 8:9",
+    "verseText": "And Nehemiah, who was the governor, and Ezra the priest and scribe, and the Levites who taught the people said to all the people, “This day is holy to the LORD your God; do not mourn or weep.” For all the people wept as they heard the words of the Law."
+  },
+  {
+    "text": "What did Nehemiah and Ezra tell the people to do instead of weeping on the day the Law was read?",
+    "options": ["Fast and pray", "Go, eat, drink, send portions, and rejoice", "Begin rebuilding the Temple", "Debate the Law's meaning"],
+    "correctAnswerIndex": 1,
+    "book": "Nehemiah",
+    "difficulty": "Medium",
+    "verseReference": "Nehemiah 8:10",
+    "verseText": "Then he said to them, “Go your way. Eat the fat and drink sweet wine and send portions to anyone who has nothing ready, for this day is holy to our Lord. And do not be grieved, for the joy of the LORD is your strength.”"
+  },
+  {
+    "text": "What festival did the people discover written in the Law that they needed to celebrate in the seventh month?",
+    "options": ["Passover", "Feast of Weeks (Pentecost)", "Feast of Booths (Tabernacles)", "Day of Atonement"],
+    "correctAnswerIndex": 2,
+    "book": "Nehemiah",
+    "difficulty": "Medium",
+    "verseReference": "Nehemiah 8:14",
+    "verseText": "And they found it written in the Law that the LORD had commanded by Moses that the people of Israel should dwell in booths during the feast of the seventh month,"
+  },
+  {
+    "text": "How did the people celebrate the Feast of Booths?",
+    "options": ["By fasting and mourning", "By making booths of branches and living in them", "By offering special sacrifices only", "By reading the Law silently"],
+    "correctAnswerIndex": 1,
+    "book": "Nehemiah",
+    "difficulty": "Easy",
+    "verseReference": "Nehemiah 8:15-17",
+    "verseText": "...“Go out to the hills and bring branches of olive, wild olive, myrtle, palm, and other leafy trees to make booths, as it is written.” So the people went out and brought them and made booths for themselves... And all the assembly of those who had returned from the captivity made booths and lived in the booths."
+  },
+  {
+    "text": "Shortly after the Feast of Booths, what did the Israelites do to demonstrate repentance?",
+    "options": ["Held a large feast", "Fasted, wore sackcloth, put dirt on their heads, and confessed their sins", "Went back to Persia", "Built more defenses"],
+    "correctAnswerIndex": 1,
+    "book": "Nehemiah",
+    "difficulty": "Medium",
+    "verseReference": "Nehemiah 9:1-2",
+    "verseText": "Now on the twenty-fourth day of this month the people of Israel were assembled with fasting and in sackcloth, and with earth on their heads. And the Israelites separated themselves from all foreigners and stood and confessed their sins and the iniquities of their fathers."
+  },
+  {
+    "text": "Chapter 9 contains a long prayer recounting what?",
+    "options": ["Nehemiah's personal struggles", "The history of God's faithfulness and Israel's unfaithfulness", "The laws of sacrifice", "Prophecies about the future"],
+    "correctAnswerIndex": 1,
+    "book": "Nehemiah",
+    "difficulty": "Medium",
+    "verseReference": "Nehemiah 9:6-37",
+    "verseText": "(Summary) The Levites lead a prayer recounting God's creation, the covenant with Abraham, the Exodus, wilderness provision, giving of the Law, Israel's rebellion, God's mercy, the exile, and their current state."
+  },
+  {
+    "text": "What did the leaders, Levites, and priests do at the end of the prayer of confession?",
+    "options": ["Offered a large sacrifice", "Made a firm agreement (covenant) in writing and sealed it", "Appointed Ezra as king", "Dispersed back to their homes"],
+    "correctAnswerIndex": 1,
+    "book": "Nehemiah",
+    "difficulty": "Medium",
+    "verseReference": "Nehemiah 9:38",
+    "verseText": "“Because of all this we make a firm covenant in writing; on the sealed document are the names of our princes, our Levites, and our priests.”"
+  },
+  {
+    "text": "What was one key commitment made in the sealed covenant?",
+    "options": ["To conquer Samaria", "Not to intermarry with foreigners and to keep the Sabbath", "To rebuild the palace", "To send tribute to Persia"],
+    "correctAnswerIndex": 1,
+    "book": "Nehemiah",
+    "difficulty": "Medium",
+    "verseReference": "Nehemiah 10:30-31",
+    "verseText": "We will not give our daughters to the peoples of the land or take their daughters for our sons. And if the peoples of the land bring in goods or any grain on the Sabbath day to sell, we will not buy from them on the Sabbath or on a holy day."
+  },
+  {
+    "text": "The covenant also included provisions for the support of what?",
+    "options": ["The Persian army", "Nehemiah's household", "The service of the house of God (Temple)", "The poor in surrounding nations"],
+    "correctAnswerIndex": 2,
+    "book": "Nehemiah",
+    "difficulty": "Medium",
+    "verseReference": "Nehemiah 10:32-39",
+    "verseText": "(Summary) The people pledged to give the annual temple tax, wood for the altar, firstfruits, firstborn, and tithes for the Levites and priests serving in the Temple."
+  },
+  {
+    "text": "How was the population of Jerusalem increased after the wall was rebuilt?",
+    "options": ["Foreigners were invited to live there", "Lots were cast to bring one out of ten people from other towns to live in Jerusalem", "All priests and Levites were required to move there", "Nehemiah offered financial incentives"],
+    "correctAnswerIndex": 1,
+    "book": "Nehemiah",
+    "difficulty": "Medium",
+    "verseReference": "Nehemiah 11:1-2",
+    "verseText": "Now the leaders of the people lived in Jerusalem. And the rest of the people cast lots to bring one out of ten to live in Jerusalem the holy city, while nine out of ten remained in the other towns. And the people blessed all the men who willingly offered to live in Jerusalem."
+  },
+  {
+    "text": "Chapter 12 primarily lists which groups of people?",
+    "options": ["Warriors and soldiers", "Merchants and traders", "Priests and Levites who returned with Zerubbabel and served in Nehemiah's time", "Kings of Judah"],
+    "correctAnswerIndex": 2,
+    "book": "Nehemiah",
+    "difficulty": "Medium",
+    "verseReference": "Nehemiah 12:1, 26",
+    "verseText": "These are the priests and the Levites who came up with Zerubbabel the son of Shealtiel, and Jeshua... These were în the days of Joiakim the son of Jeshua son of Jozadak, and în the days of Nehemiah the governor and of Ezra the priest the scribe."
+  },
+  {
+    "text": "What event is described in detail towards the end of chapter 12?",
+    "options": ["The rebuilding of the Temple", "A great battle against Samaria", "The dedication ceremony for the completed wall of Jerusalem", "The coronation of a new king"],
+    "correctAnswerIndex": 2,
+    "book": "Nehemiah",
+    "difficulty": "Medium",
+    "verseReference": "Nehemiah 12:27",
+    "verseText": "And at the dedication of the wall of Jerusalem they sought the Levites in all their places, to bring them to Jerusalem to celebrate the dedication with gladness, with thanksgiving and with singing, with cymbals, harps, and lyres."
+  },
+  {
+    "text": "How were the participants organized for the wall dedication ceremony?",
+    "options": ["By family clans", "Into two large thanksgiving choirs processing on the wall in opposite directions", "By age groups", "Randomly"],
+    "correctAnswerIndex": 1,
+    "book": "Nehemiah",
+    "difficulty": "Medium",
+    "verseReference": "Nehemiah 12:31, 38, 40",
+    "verseText": "Then I brought the leaders of Judah up onto the wall and appointed two great choirs that gave thanks... The other choir of those who gave thanks went to the opposite direction... So both choirs of those who gave thanks stood in the house of God..."
+  },
+  {
+    "text": "After Nehemiah had been away and returned to Jerusalem, what abuse did he discover involving Tobiah the Ammonite?",
+    "options": ["Tobiah was leading idol worship", "Tobiah had been given a large room within the Temple courts", "Tobiah had stolen Temple funds", "Tobiah was plotting against Nehemiah"],
+    "correctAnswerIndex": 1,
+    "book": "Nehemiah",
+    "difficulty": "Medium",
+    "verseReference": "Nehemiah 13:4-7",
+    "verseText": "Now before this, Eliashib the priest, who was appointed over the chambers of the house of our God, and who was connected with Tobiah, prepared for Tobiah a large chamber where they had previously put the grain offering... but in the twentieth year of Artaxerxes king of Babylon I went to the king. And after some time I asked leave of the king and came to Jerusalem, and I then discovered the evil that Eliashib had done for Tobiah, preparing for him a chamber in the courts of the house of God."
+  },
+  {
+    "text": "How did Nehemiah react to finding Tobiah's belongings in the Temple chamber?",
+    "options": ["He ignored it", "He reported it to the king", "He angrily threw all of Tobiah's household goods out of the room", "He negotiated with Tobiah"],
+    "correctAnswerIndex": 2,
+    "book": "Nehemiah",
+    "difficulty": "Easy",
+    "verseReference": "Nehemiah 13:8",
+    "verseText": "And I was very angry, and I threw all the household furniture of Tobiah out of the chamber."
+  },
+  {
+    "text": "What problem regarding the Levites did Nehemiah discover upon his return?",
+    "options": ["They were demanding too much pay", "Their portions were not being given, so they had returned to their fields", "They were teaching false doctrines", "They refused to serve"],
+    "correctAnswerIndex": 1,
+    "book": "Nehemiah",
+    "difficulty": "Medium",
+    "verseReference": "Nehemiah 13:10",
+    "verseText": "I also found out that the portions of the Levites had not been given to them, so that the Levites and the singers, who did the work, had fled each to his field."
+  },
+  {
+    "text": "What violation of the Sabbath did Nehemiah witness and stop?",
+    "options": ["People attending parties", "People treading winepresses, bringing in grain, and selling goods on the Sabbath", "People traveling long distances", "People lighting fires"],
+    "correctAnswerIndex": 1,
+    "book": "Nehemiah",
+    "difficulty": "Medium",
+    "verseReference": "Nehemiah 13:15",
+    "verseText": "In those days I saw in Judah people treading winepresses on the Sabbath, and bringing in heaps of grain and loading them on donkeys, and also wine, grapes, figs, and all kinds of loads, which they brought into Jerusalem on the Sabbath day. And I warned them on the day when they sold food."
+  },
+  {
+    "text": "How did Nehemiah enforce Sabbath observance in Jerusalem?",
+    "options": ["He reasoned gently with the merchants", "He ordered the city gates shut before the Sabbath and not reopened until after", "He imposed heavy fines", "He asked Ezra to preach about it"],
+    "correctAnswerIndex": 1,
+    "book": "Nehemiah",
+    "difficulty": "Medium",
+    "verseReference": "Nehemiah 13:19",
+    "verseText": "As soon as it began to grow dark at the gates of Jerusalem before the Sabbath, I commanded that the doors should be shut and gave orders that they should not be opened until after the Sabbath."
+  },
+  {
+    "text": "What issue concerning marriage did Nehemiah confront upon his return?",
+    "options": ["Polygamy", "Divorce without cause", "Jews marrying foreign women (Ashdod, Ammon, Moab)", "Levirate marriage disputes"],
+    "correctAnswerIndex": 2,
+    "book": "Nehemiah",
+    "difficulty": "Medium",
+    "verseReference": "Nehemiah 13:23-24",
+    "verseText": "In those days also I saw the Jews who had married women of Ashdod, Ammon, and Moab. And half of their children spoke the language of Ashdod, and they could not speak the language of Judah, but only the language of each people."
+  },
+  {
+    "text": "What was the consequence Nehemiah noted regarding the children of these mixed marriages?",
+    "options": ["They were stronger warriors", "They could not speak the language of Judah", "They were favored by the king", "They were expert traders"],
+    "correctAnswerIndex": 1,
+    "book": "Nehemiah",
+    "difficulty": "Easy",
+    "verseReference": "Nehemiah 13:24",
+    "verseText": "And half of their children spoke the language of Ashdod, and they could not speak the language of Judah, but only the language of each people."
+  },
+  {
+    "text": "How did Nehemiah deal with those who had entered into mixed marriages?",
+    "options": ["He praised their tolerance", "He contended with them, cursed them, beat some, pulled out their hair, and made them swear not to repeat the offense", "He asked them to leave Jerusalem peacefully", "He imposed a special tax"],
+    "correctAnswerIndex": 1,
+    "book": "Nehemiah",
+    "difficulty": "Medium",
+    "verseReference": "Nehemiah 13:25",
+    "verseText": "And I confronted them and cursed them and beat some of them and pulled out their hair. And I made them take an oath in the name of God, saying, “You shall not give your daughters to their sons, or take their daughters for your sons or for yourselves.”"
+  },
+  {
+    "text": "Which prominent person's son had married the daughter of Sanballat the Horonite, leading Nehemiah to chase him away?",
+    "options": ["Ezra the scribe", "Zerubbabel the governor", "Eliashib the high priest", "Hanani, Nehemiah's brother"],
+    "correctAnswerIndex": 2,
+    "book": "Nehemiah",
+    "difficulty": "Hard",
+    "verseReference": "Nehemiah 13:28",
+    "verseText": "And one of the sons of Jehoiada, the son of Eliashib the high priest, was the son-in-law of Sanballat the Horonite. Therefore I chased him from me."
+  },
+  {
+    "text": "What is the recurring prayer Nehemiah offers at the end of several sections, including the very end of the book?",
+    "options": ["'Grant us victory, O Lord'", "'Remember me, O my God, for good'", "'Forgive their sins, O Lord'", "'Restore the kingdom, O Lord'"],
+    "correctAnswerIndex": 1,
+    "book": "Nehemiah",
+    "difficulty": "Easy",
+    "verseReference": "Nehemiah 13:14, 22, 31",
+    "verseText": "Remember me, O my God, concerning this... Remember me, O my God, for good."
   }
 ]

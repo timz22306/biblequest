@@ -439,5 +439,905 @@
     "difficulty": "Easy",
     "verseReference": "Luke 24:51-53",
     "verseText": "While he blessed them, he parted from them and was carried up into heaven. And they worshiped him and returned to Jerusalem with great joy, and were continually in the temple blessing God."
+  },
+  {
+    "text": "What specific advice did John the Baptist give to tax collectors who came to be baptized?",
+    "options": ["Stop collecting taxes", "Collect no more than you are authorized to", "Give half your money to the poor", "Fast twice a week"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 3:12-13",
+    "verseText": "Tax collectors also came to be baptized and said to him, “Teacher, what shall we do?” And he said to them, “Collect no more than you are authorized to do.”"
+  },
+  {
+    "text": "What specific advice did John the Baptist give to soldiers who came to be baptized?",
+    "options": ["Leave the army", "Refuse to fight", "Do not extort money, accuse falsely, and be content with your wages", "Only fight for just causes"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 3:14",
+    "verseText": "Soldiers also asked him, “And we, what shall we do?” And he said to them, “Do not extort money from anyone by threats or by false accusation, and be content with your wages.”"
+  },
+  {
+    "text": "In Luke's account of the temptation, the devil takes Jesus to a high mountain and offers him what in exchange for worship?",
+    "options": ["All the food he could eat", "All the kingdoms of the world and their glory", "Eternal life without suffering", "The ability to fly"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Easy",
+    "verseReference": "Luke 4:5-7",
+    "verseText": "And the devil took him up and showed him all the kingdoms of the world in a moment of time, and said to him, “To you I will give all this authority and their glory... if you, then, will worship me, it will all be yours.”"
+  },
+  {
+    "text": "After Jesus called Levi (Matthew) the tax collector, Levi held a great feast. Who attended this feast, causing the Pharisees to grumble?",
+    "options": ["Only the other apostles", "The religious leaders", "A large company of tax collectors and others", "Jesus' family"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 5:29-30",
+    "verseText": "And Levi made him a great feast in his house, and there was a large company of tax collectors and others reclining at table with them. And the Pharisees and their scribes grumbled at his disciples, saying, “Why do you eat and drink with tax collectors and sinners?”"
+  },
+  {
+    "text": "In the Sermon on the Plain (Luke 6), Jesus says, 'Love your enemies, do good to those who hate you, bless those who curse you, ...'",
+    "options": ["'...ignore those who mistreat you.'", "'...pray for those who abuse you.'", "'...report those who harm you.'", "'...avoid those who slander you.'"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Easy",
+    "verseReference": "Luke 6:27-28",
+    "verseText": "“But I say to you who hear, Love your enemies, do good to those who hate you, bless those who curse you, pray for those who abuse you."
+  },
+  {
+    "text": "What specific action does Jesus command regarding how we treat others' possessions in the Sermon on the Plain?",
+    "options": ["Guard your possessions carefully", "If someone takes your cloak, offer your tunic also", "Never lend anything", "Buy insurance"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 6:29",
+    "verseText": "To one who strikes you on the cheek, offer the other also, and from one who takes away your cloak do not withhold your tunic either."
+  },
+  {
+    "text": "What standard does Jesus set for judging others in Luke 6?",
+    "options": ["Judge fairly based on evidence", "Judge only those outside the faith", "'Judge not, and you will not be judged; condemn not, and you will not be condemned'", "Appoint official judges"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Easy",
+    "verseReference": "Luke 6:37",
+    "verseText": "“Judge not, and you will not be judged; condemn not, and you will not be condemned; forgive, and you will be forgiven;"
+  },
+  {
+    "text": "When healing the centurion's servant (Luke 7), what message did the centurion send that showed his great faith and understanding of authority?",
+    "options": ["He asked Jesus to come quickly", "He demanded healing immediately", "He said he was unworthy for Jesus to enter his house, asking Jesus to just say the word", "He offered Jesus money"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 7:6-8",
+    "verseText": "the centurion sent friends, saying to him, “Lord, do not trouble yourself, for I am not worthy to have you come under my roof. Therefore I did not presume to come to you. But say the word, and let my servant be healed. For I too am a man set under authority..."
+  },
+  {
+    "text": "In the Parable of the Sower (Luke 8), what does the seed that fell among thorns represent?",
+    "options": ["Those who hear but don't understand", "Those who hear with joy but have no root", "Those who hear, but are choked by the cares, riches, and pleasures of life", "Those who hear, hold fast, and bear fruit"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 8:14",
+    "verseText": "And as for what fell among the thorns, they are those who hear, but as they go on their way they are choked by the cares and riches and pleasures of life, and their fruit does not mature."
+  },
+  {
+    "text": "What does Jesus say about a lamp after it is lit (Luke 8)?",
+    "options": ["It should be hidden carefully", "It is put on a stand so that those who enter may see the light", "It should only be used at night", "Its oil must be conserved"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Easy",
+    "verseReference": "Luke 8:16",
+    "verseText": "“No one after lighting a lamp covers it with a jar or puts it under a bed, but puts it on a stand, so that those who enter may see the light."
+  },
+  {
+    "text": "When someone wanted to follow Jesus but first say farewell to his family, Jesus replied, 'No one who puts his hand to the plow and looks back is...'",
+    "options": ["'...ready for hard work.'", "'...fit for the kingdom of God.'", "'...truly committed.'", "'...going to succeed.'"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 9:61-62",
+    "verseText": "Yet another said, “I will follow you, Lord, but let me first say farewell to those at my home.” Jesus said to him, “No one who puts his hand to the plow and looks back is fit for the kingdom of God.”"
+  },
+  {
+    "text": "When the seventy-two disciples returned rejoicing that demons were subject to them, what did Jesus say they should rejoice about instead?",
+    "options": ["Their power over demons", "Their successful mission", "That their names are written in heaven", "The crowds they attracted"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 10:17, 20",
+    "verseText": "The seventy-two returned with joy, saying, “Lord, even the demons are subject to us in your name!”... Nevertheless, do not rejoice in this, that the spirits are subject to you, but rejoice that your names are written in heaven.”"
+  },
+  {
+    "text": "In Luke 11, Jesus tells a parable to encourage persistent prayer. What does the man in the parable ask his neighbor for at midnight?",
+    "options": ["Money", "Help with a sick child", "Three loaves of bread", "Directions"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 11:5-6",
+    "verseText": "And he said to them, “Which of you who has a friend will go to him at midnight and say to him, ‘Friend, lend me three loaves, for a friend of mine has arrived on a journey, and I have nothing to set before him’?"
+  },
+  {
+    "text": "Jesus pronounced 'Woes' upon the Pharisees for tithing herbs while neglecting what?",
+    "options": ["Temple worship", "Prayer and fasting", "Justice and the love of God", "Helping the poor"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 11:42",
+    "verseText": "“But woe to you Pharisees! For you tithe mint and rue and every herb, and neglect justice and the love of God. These you ought to have done, without neglecting the others."
+  },
+  {
+    "text": "Jesus pronounced 'Woes' upon the lawyers (experts in the law) for what reason related to 'burdens' and the 'key of knowledge'?",
+    "options": ["They misinterpreted the law", "They charged too much", "They loaded people with burdens hard to bear but didn't lift a finger, and took away the key of knowledge", "They sided with the Romans"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Hard",
+    "verseReference": "Luke 11:46, 52",
+    "verseText": "And he said, “Woe to you lawyers also! For you load people with burdens hard to bear, and you yourselves do not touch the burdens with one of your fingers... Woe to you lawyers! For you have taken away the key of knowledge. You did not enter yourselves, and you hindered those who were entering.”"
+  },
+  {
+    "text": "Jesus warned his disciples to beware of the 'leaven' of the Pharisees, which he identified as what?",
+    "options": ["Pride", "Legalism", "Hypocrisy", "Greed"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 12:1",
+    "verseText": "In the meantime, when so many thousands of the people had gathered together that they were trampling one another, he began to say to his disciples first, “Beware of the leaven of the Pharisees, which is hypocrisy."
+  },
+  {
+    "text": "Whom did Jesus say we should fear?",
+    "options": ["Those who can kill the body", "Roman authorities", "Satan", "The one who, after killing, has authority to cast into hell (God)"],
+    "correctAnswerIndex": 3,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 12:4-5",
+    "verseText": "“I tell you, my friends, do not fear those who kill the body, and after that have nothing more that they can do. But I will warn you whom to fear: fear him who, after he has killed, has authority to cast into hell. Yes, I tell you, fear him!"
+  },
+  {
+    "text": "What did Jesus say about acknowledging or denying him before men?",
+    "options": ["It doesn't matter what people think", "Whoever acknowledges him before men, the Son of Man will acknowledge before God's angels; whoever denies him will be denied", "Public acknowledgment is optional", "Only actions matter, not words"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Easy",
+    "verseReference": "Luke 12:8-9",
+    "verseText": "“And I tell you, everyone who acknowledges me before men, the Son of Man also will acknowledge before the angels of God, but the one who denies me before men will be denied before the angels of God."
+  },
+  {
+    "text": "Jesus spoke about the unforgivable sin against whom?",
+    "options": ["The Father", "The Son of Man", "The Holy Spirit", "Moses"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 12:10",
+    "verseText": "And everyone who speaks a word against the Son of Man will be forgiven, but the one who blasphemes against the Holy Spirit will not be forgiven."
+  },
+  {
+    "text": "When told about Galileans killed by Pilate and people killed by the tower of Siloam, what did Jesus say was necessary to avoid perishing?",
+    "options": ["Political rebellion", "Building stronger towers", "Repentance", "Moving away from Jerusalem"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 13:3, 5",
+    "verseText": "No, I tell you; but unless you repent, you will all likewise perish... No, I tell you; but unless you repent, you will all likewise perish.”"
+  },
+  {
+    "text": "Jesus healed a woman crippled for 18 years on the Sabbath (Luke 13). How did he respond to the synagogue ruler's indignation?",
+    "options": ["He apologized for breaking the rule", "He called them hypocrites for untying animals on the Sabbath, arguing the woman deserved release", "He left the synagogue immediately", "He healed the ruler too"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 13:15-16",
+    "verseText": "Then the Lord answered him, “You hypocrites! Does not each of you on the Sabbath untie his ox or his donkey from the manger and lead it away to water it? And ought not this woman, a daughter of Abraham whom Satan bound for eighteen years, be loosed from this bond on the Sabbath day?”"
+  },
+  {
+    "text": "In Luke 14, Jesus healed a man with dropsy on the Sabbath. What question did he ask the lawyers and Pharisees before healing him?",
+    "options": ["'Do you have faith?'", "'Is it lawful to heal on the Sabbath, or not?'", "'Who sinned, this man or his parents?'", "'Do you believe I can do this?'"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 14:3",
+    "verseText": "And Jesus responded to the lawyers and Pharisees, saying, “Is it lawful to heal on the Sabbath, or not?”"
+  },
+  {
+    "text": "Observing guests choosing places of honor, Jesus taught about humility. What advice did he give regarding seating at a wedding feast?",
+    "options": ["Always take the highest place", "Take the lowest place, so you might be invited higher", "Avoid wedding feasts", "Arrive late"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Easy",
+    "verseReference": "Luke 14:8-10",
+    "verseText": "“When you are invited by someone to a wedding feast, do not sit down in a place of honor... But when you are invited, go and sit in the lowest place, so that when your host comes he may say to you, ‘Friend, move up higher.’ Then you will be honored in the presence of all who sit at table with you."
+  },
+  {
+    "text": "Who did Jesus advise people to invite to their feasts, promising repayment at the resurrection of the just (Luke 14)?",
+    "options": ["Only family and rich neighbors", "The poor, crippled, lame, and blind", "Religious leaders", "Roman officials"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 14:12-14",
+    "verseText": "He said also to the man who had invited him, “When you give a dinner or a banquet, do not invite your friends or your brothers or your relatives or rich neighbors... But when you give a feast, invite the poor, the crippled, the lame, the blind, and you will be blessed, because they cannot repay you. For you will be repaid at the resurrection of the just.”"
+  },
+  {
+    "text": "What cost of discipleship did Jesus emphasize, involving hating family and carrying one's cross (Luke 14)?",
+    "options": ["Giving up possessions", "Absolute commitment to Jesus above all else", "Moving to Jerusalem", "Learning Hebrew"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 14:26-27",
+    "verseText": "“If anyone comes to me and does not hate his own father and mother and wife and children and brothers and sisters, yes, and even his own life, he cannot be my disciple. Whoever does not bear his own cross and come after me cannot be my disciple."
+  },
+  {
+    "text": "In the Parable of the Lost Coin (Luke 15), what does the woman do when she finds the coin?",
+    "options": ["Puts it in the bank", "Buys bread with it", "Calls her friends and neighbors to rejoice with her", "Hides it carefully"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Easy",
+    "verseReference": "Luke 15:9",
+    "verseText": "And when she has found it, she calls together her friends and neighbors, saying, ‘Rejoice with me, for I have found the coin that I had lost.’"
+  },
+  {
+    "text": "What saying follows the Parable of the Unjust Steward regarding serving two masters (Luke 16)?",
+    "options": ["'A worker is worthy of his wages'", "'No servant can serve two masters... You cannot serve God and money (mammon).'", "'The love of money is a root of all kinds of evil'", "'Render unto Caesar...'"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Easy",
+    "verseReference": "Luke 16:13",
+    "verseText": "No servant can serve two masters, for either he will hate the one and love the other, or he will be devoted to the one and despise the other. You cannot serve God and money.”"
+  },
+  {
+    "text": "Regarding forgiveness, Jesus told his disciples, 'If your brother sins, rebuke him, and if he repents, forgive him, and if he sins against you...' how many times in a day?",
+    "options": ["Once", "Three times", "Seven times", "Seventy times seven"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 17:3-4",
+    "verseText": "Pay attention to yourselves! If your brother sins, rebuke him, and if he repents, forgive him, and if he sins against you seven times in the day, and turns to you seven times, saying, ‘I repent,’ you must forgive him.”"
+  },
+  {
+    "text": "When the apostles asked Jesus to increase their faith, what did Jesus say faith like a grain of mustard seed could do?",
+    "options": ["Move mountains", "Command a mulberry tree to be uprooted and planted in the sea", "Heal any disease", "Control the weather"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 17:6",
+    "verseText": "And the Lord said, “If you had faith like a grain of mustard seed, you could say to this mulberry tree, ‘Be uprooted and planted in the sea,’ and it would obey you."
+  },
+  {
+    "text": "Jesus told the Parable of the Persistent Widow and the Unjust Judge (Luke 18) to teach his disciples what?",
+    "options": ["How the legal system works", "That they should always pray and not lose heart", "That judges are often corrupt", "To avoid lawsuits"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 18:1",
+    "verseText": "And he told them a parable to the effect that they ought always to pray and not lose heart."
+  },
+  {
+    "text": "Jesus told the Parable of the Minas (Pounds) (Luke 19) because he was near Jerusalem and people thought what would happen immediately?",
+    "options": ["The temple would be destroyed", "The Romans would attack", "The kingdom of God was to appear immediately", "He would be crowned king"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 19:11",
+    "verseText": "As they heard these things, he proceeded to tell a parable, because he was near to Jerusalem, and because they supposed that the kingdom of God was to appear immediately."
+  },
+  {
+    "text": "In the Parable of the Minas (Luke 19), what happened to the servant who hid his mina in a cloth?",
+    "options": ["He was praised for being careful", "He was given more minas", "His mina was taken away and given to the one who had ten", "He was promoted"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 19:20-24",
+    "verseText": "Then another came, saying, ‘Lord, here is your mina, which I kept laid away in a handkerchief...’ ...And he said to those who stood by, ‘Take the mina from him, and give it to the one who has the ten minas.’"
+  },
+  {
+    "text": "In Luke's account of the Sadducees' question about the resurrection (Luke 20), Jesus emphasizes that resurrected people are like angels and are what?",
+    "options": ["Subject to death", "Married to each other", "Children of God, being children of the resurrection", "Ruling over the earth"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 20:35-36",
+    "verseText": "but those who are considered worthy to attain to that age and to the resurrection from the dead neither marry nor are given in marriage, for they cannot die anymore, because they are equal to angels and are children of God, being children of the resurrection."
+  },
+  {
+    "text": "In Luke's version of the Olivet Discourse (Luke 21), what specific sign involving Jerusalem does Jesus mention preceding its desolation?",
+    "options": ["An earthquake", "A famine", "Jerusalem surrounded by armies", "A star falling"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 21:20",
+    "verseText": "“But when you see Jerusalem surrounded by armies, then know that its desolation has come near."
+  },
+  {
+    "text": "During the Last Supper, after predicting Peter's denial, what did Jesus tell Peter he should do once he had turned back?",
+    "options": ["Hide from the authorities", "Leave Jerusalem", "Strengthen his brothers", "Write down his experiences"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 22:31-32",
+    "verseText": "“Simon, Simon, behold, Satan demanded to have you, that he might sift you like wheat, but I have prayed for you that your faith may not fail. And when you have turned again, strengthen your brothers.”"
+  },
+  {
+    "text": "What did Jesus instruct his disciples to buy if they didn't have one, right before going to Gethsemane (Luke 22)?",
+    "options": ["Food", "Extra cloaks", "A sword", "Sandals"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Hard",
+    "verseReference": "Luke 22:36",
+    "verseText": "He said to them, “But now let the one who has a moneybag take it, and likewise a knapsack. And let the one who has no sword sell his cloak and buy one."
+  },
+  {
+    "text": "As Jesus was being led away to be crucified, he spoke to women who were mourning. What did he tell them (Luke 23)?",
+    "options": ["To rejoice", "To weep for themselves and their children because of coming judgment", "To pray for him", "To care for his mother"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 23:28-29",
+    "verseText": "But Jesus turning to them said, “Daughters of Jerusalem, do not weep for me, but weep for yourselves and for your children. For behold, the days are coming when they will say, ‘Blessed are the barren and the wombs that never bore and the breasts that never nursed!’"
+  },
+  {
+    "text": "When the resurrected Jesus appeared to the disciples in Jerusalem (Luke 24), what did he do to prove he wasn't a spirit?",
+    "options": ["Showed them his hands and feet and ate a piece of broiled fish", "Quoted scripture", "Performed a miracle", "Called them by name"],
+    "correctAnswerIndex": 0,
+    "book": "Luke",
+    "difficulty": "Easy",
+    "verseReference": "Luke 24:38-43",
+    "verseText": "And he said to them, “Why are you troubled, and why do doubts arise in your hearts? See my hands and my feet, that it is I myself. Touch me, and see. For a spirit does not have flesh and bones as you see that I have.”... They gave him a piece of broiled fish, and he took it and ate before them."
+  },
+  {
+    "text": "Before ascending, Jesus opened the disciples' minds to understand the Scriptures, stating that the Christ must suffer, rise on the third day, and what must be proclaimed in his name?",
+    "options": ["A new law", "The destruction of the temple", "Repentance and forgiveness of sins to all nations", "The establishment of an earthly kingdom"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 24:45-47",
+    "verseText": "Then he opened their minds to understand the Scriptures, and said to them, “Thus it is written, that the Christ should suffer and on the third day rise from the dead, and that repentance and forgiveness of sins should be proclaimed in his name to all nations, beginning from Jerusalem."
+  },
+  {
+    "text": "What occupation is traditionally associated with Luke, the author of the Gospel?",
+    "options": ["Fisherman", "Tax Collector", "Physician", "Tentmaker"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Easy",
+    "verseReference": "Colossians 4:14",
+    "verseText": "Luke the beloved physician greets you, as does Demas."
+  },
+  {
+    "text": "What did the angel Gabriel tell Mary her son Jesus would be called?",
+    "options": ["Teacher", "Prophet", "Son of the Most High", "King of Israel"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Easy",
+    "verseReference": "Luke 1:32",
+    "verseText": "He will be great and will be called the Son of the Most High. And the Lord God will give to him the throne of his father David,"
+  },
+  {
+    "text": "How did Mary respond to the angel Gabriel's announcement?",
+    "options": ["She doubted like Zechariah", "She asked for a sign", "'Behold, I am the servant of the Lord; let it be to me according to your word.'", "She ran away in fear"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Easy",
+    "verseReference": "Luke 1:38",
+    "verseText": "And Mary said, “Behold, I am the servant of the Lord; let it be to me according to your word.” And the angel departed from her."
+  },
+  {
+    "text": "When Mary visited Elizabeth, what happened to Elizabeth's baby (John the Baptist)?",
+    "options": ["He was born", "He leaped in her womb", "He spoke", "Nothing happened"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Easy",
+    "verseReference": "Luke 1:41",
+    "verseText": "And when Elizabeth heard the greeting of Mary, the baby leaped in her womb. And Elizabeth was filled with the Holy Spirit,"
+  },
+  {
+    "text": "In Mary's Magnificat, she praises God for scattering the proud and bringing down whom from their thrones?",
+    "options": ["The poor", "The humble", "The mighty", "The angels"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 1:51-52",
+    "verseText": "He has shown strength with his arm; he has scattered the proud in the thoughts of their hearts; he has brought down the mighty from their thrones and exalted those of humble estate;"
+  },
+  {
+    "text": "According to Zechariah's Benedictus, what role would his son John play?",
+    "options": ["King of the Jews", "High Priest", "Prophet of the Most High, preparing the Lord's ways", "A great teacher"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 1:76",
+    "verseText": "And you, child, will be called the prophet of the Most High; for you will go before the Lord to prepare his ways,"
+  },
+  {
+    "text": "What was the essence of the angels' message to the shepherds?",
+    "options": ["Fear God's judgment", "Good news of great joy: a Savior, Christ the Lord, is born", "Prepare for war", "Pay your taxes"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Easy",
+    "verseReference": "Luke 2:10-11",
+    "verseText": "And the angel said to them, “Fear not, for behold, I bring you good news of great joy that will be for all the people. For unto you is born this day in the city of David a Savior, who is Christ the Lord."
+  },
+  {
+    "text": "What sign did the angel give the shepherds to identify the newborn Savior?",
+    "options": ["A star in the sky", "A host of angels singing", "A baby wrapped in swaddling cloths and lying in a manger", "A dove descending"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Easy",
+    "verseReference": "Luke 2:12",
+    "verseText": "And this will be a sign for you: you will find a baby wrapped in swaddling cloths and lying in a manger.”"
+  },
+  {
+    "text": "What did Simeon prophesy about Jesus when he saw him in the temple?",
+    "options": ["He would be a great king", "He was destined for the fall and rising of many in Israel, and to be a sign that is opposed", "He would perform many miracles", "He would travel to distant lands"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Hard",
+    "verseReference": "Luke 2:34",
+    "verseText": "and Simeon blessed them and said to Mary his mother, “Behold, this child is appointed for the fall and rising of many in Israel, and for a sign that is opposed"
+  },
+  {
+    "text": "What did Simeon prophesy would happen to Mary herself?",
+    "options": ["She would see great glory", "A sword would pierce through her own soul also", "She would live a long life", "She would become queen"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 2:35",
+    "verseText": "(and a sword will pierce through your own soul also), so that thoughts from many hearts may be revealed.”"
+  },
+  {
+    "text": "What did the prophetess Anna do when she saw the child Jesus in the temple?",
+    "options": ["She questioned Simeon", "She began to give thanks to God and spoke of him to all looking for redemption", "She offered a sacrifice", "She asked Mary about him"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 2:38",
+    "verseText": "And coming up at that very hour she began to give thanks to God and to speak of him to all who were waiting for the redemption of Jerusalem."
+  },
+  {
+    "text": "When Jesus' parents found him in the temple at age 12, what was his reply to their concern?",
+    "options": ["'I was lost.'", "'Why were you looking for me? Did you not know I must be in my Father's house?'", "'I wanted to learn from the teachers.'", "'Forgive me, I forgot the time.'"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 2:49",
+    "verseText": "And he said to them, “Why were you looking for me? Did you not know that I must be in my Father's house?”"
+  },
+  {
+    "text": "What did John the Baptist preach was necessary for the crowds coming for baptism?",
+    "options": ["Strict adherence to the Law", "Bearing fruits in keeping with repentance", "Joining his community", "Political action"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 3:8",
+    "verseText": "Bear fruits in keeping with repentance. And do not begin to say to yourselves, ‘We have Abraham as our father.’ For I tell you, God is able from these stones to raise up children for Abraham."
+  },
+  {
+    "text": "What happened immediately after Jesus was baptized by John, according to Luke?",
+    "options": ["He began preaching", "He went into the wilderness", "Heaven opened, the Holy Spirit descended like a dove, and a voice came from heaven", "He called his disciples"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Easy",
+    "verseReference": "Luke 3:21-22",
+    "verseText": "Now when all the people were baptized, and when Jesus also had been baptized and was praying, the heavens were opened, and the Holy Spirit descended on him in bodily form, like a dove; and a voice came from heaven, “You are my beloved Son; with you I am well pleased.”"
+  },
+  {
+    "text": "In Luke's account, how long was Jesus tempted by the devil in the wilderness?",
+    "options": ["One day", "Seven days", "Forty days", "Three years"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Easy",
+    "verseReference": "Luke 4:1-2",
+    "verseText": "And Jesus, full of the Holy Spirit, returned from the Jordan and was led by the Spirit in the wilderness for forty days, being tempted by the devil."
+  },
+  {
+    "text": "After reading from Isaiah in Nazareth, Jesus mentioned which two Old Testament examples of God showing favor to Gentiles?",
+    "options": ["Naaman the Syrian and the widow of Zarephath", "Rahab and Ruth", "Melchizedek and Jethro", "The Queen of Sheba and Hiram of Tyre"],
+    "correctAnswerIndex": 0,
+    "book": "Luke",
+    "difficulty": "Hard",
+    "verseReference": "Luke 4:25-27",
+    "verseText": "But in truth, I tell you, there were many widows in Israel in the days of Elijah... and Elijah was sent to none of them but only to Zarephath, in the land of Sidon, to a woman who was a widow. And there were many lepers in Israel in the time of the prophet Elisha, and none of them was cleansed, but only Naaman the Syrian.”"
+  },
+  {
+    "text": "After healing Simon Peter's mother-in-law, what did Jesus do when the sun was setting?",
+    "options": ["He rested", "He left the town", "He healed all who were sick with various diseases brought to him", "He taught the crowds"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Easy",
+    "verseReference": "Luke 4:40",
+    "verseText": "Now when the sun was setting, all those who had any who were sick with various diseases brought them to him, and he laid his hands on every one of them and healed them."
+  },
+  {
+    "text": "When Jesus healed the paralytic lowered through the roof, what statement caused the scribes and Pharisees to accuse him of blasphemy?",
+    "options": ["'Your faith has made you well.'", "'Man, your sins are forgiven you.'", "'Rise and walk.'", "'I am the Son of God.'"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 5:20-21",
+    "verseText": "And when he saw their faith, he said, “Man, your sins are forgiven you.” And the scribes and the Pharisees began to question, saying, “Who is this who speaks blasphemies? Who can forgive sins but God alone?”"
+  },
+  {
+    "text": "In the Sermon on the Plain, Jesus uses the analogy of a tree and its fruit to illustrate what?",
+    "options": ["The kingdom's growth", "That a person's words and actions reveal their heart", "The need for patience", "Different types of believers"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 6:43-45",
+    "verseText": "“For no good tree bears bad fruit, nor again does a bad tree bear good fruit, for each tree is known by its own fruit... The good person out of the good treasure of his heart produces good, and the evil person out of his evil treasure produces evil, for out of the abundance of the heart his mouth speaks."
+  },
+  {
+    "text": "Jesus compares hearing his words and doing them to building a house on what foundation?",
+    "options": ["Sand", "Wood", "Rock", "Straw"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Easy",
+    "verseReference": "Luke 6:47-48",
+    "verseText": "Everyone who comes to me and hears my words and does them, I will show you what he is like: he is like a man building a house, who dug deep and laid the foundation on the rock."
+  },
+  {
+    "text": "When John the Baptist sent disciples to ask Jesus, 'Are you the one who is to come?', how did Jesus answer?",
+    "options": ["He said 'Yes'", "He said 'No'", "He told them to report the miracles and preaching they saw and heard", "He ignored them"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 7:21-22",
+    "verseText": "In that hour he cured many of diseases and plagues and evil spirits, and on many who were blind he bestowed sight. And he answered them, “Go and tell John what you have seen and heard: the blind receive their sight, the lame walk, lepers are cleansed, and the deaf hear, the dead are raised up, the poor have good news preached to them."
+  },
+  {
+    "text": "Jesus contrasted John the Baptist's ascetic lifestyle with his own participation in meals, leading some to call Jesus what?",
+    "options": ["A prophet", "A teacher", "A glutton and a drunkard, a friend of tax collectors and sinners", "The Messiah"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 7:33-34",
+    "verseText": "For John the Baptist has come eating no bread and drinking no wine, and you say, ‘He has a demon.’ The Son of Man has come eating and drinking, and you say, ‘Look at him! A glutton and a drunkard, a friend of tax collectors and sinners!’"
+  },
+  {
+    "text": "In the Parable of the Two Debtors (told to Simon the Pharisee), who loved the moneylender more?",
+    "options": ["The one forgiven a small debt", "The one forgiven a large debt", "Neither", "Both equally"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Easy",
+    "verseReference": "Luke 7:41-43",
+    "verseText": "“A certain moneylender had two debtors. One owed five hundred denarii, and the other fifty. When they could not pay, he cancelled the debt of both. Now which of them will love him more?” Simon answered, “The one, I suppose, for whom he cancelled the larger debt.”"
+  },
+  {
+    "text": "When Jesus calmed the storm on the lake, what question did the terrified disciples ask each other?",
+    "options": ["'Where are we going?'", "'Who then is this, that he commands even winds and water, and they obey him?'", "'Why did Jesus sleep?'", "'Will the boat sink?'"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 8:25",
+    "verseText": "He said to them, “Where is your faith?” And they were afraid, and they marveled, saying to one another, “Who then is this, that he commands even winds and water, and they obey him?”"
+  },
+  {
+    "text": "After healing the Gerasene demoniac ('Legion'), what did the local people ask Jesus to do?",
+    "options": ["Stay and teach them", "Heal others", "Depart from them, because they were afraid", "Pay for the pigs"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 8:37",
+    "verseText": "Then all the people of the surrounding country of the Gerasenes asked him to depart from them, for they were seized with great fear. So he got into the boat and returned."
+  },
+  {
+    "text": "In Luke's account of the Transfiguration, what were Moses and Elijah talking with Jesus about?",
+    "options": ["The Law and the Prophets", "His departure (exodus), which he was about to accomplish at Jerusalem", "The end times", "The disciples' faith"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Hard",
+    "verseReference": "Luke 9:30-31",
+    "verseText": "And behold, two men were talking with him, Moses and Elijah, who appeared in glory and spoke of his departure, which he was about to accomplish at Jerusalem."
+  },
+  {
+    "text": "What did Jesus say about the harvest and the laborers?",
+    "options": ["The harvest is small, and the laborers are many", "The harvest is plentiful, but the laborers are few", "The harvest is ready, but the laborers are unwilling", "The harvest is difficult, and the laborers are weak"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Easy",
+    "verseReference": "Luke 10:2",
+    "verseText": "And he said to them, “The harvest is plentiful, but the laborers are few. Therefore pray earnestly to the Lord of the harvest to send out laborers into his harvest."
+  },
+  {
+    "text": "Jesus pronounced 'Woe' on which Galilean towns because they did not repent despite the mighty works done there?",
+    "options": ["Nazareth and Cana", "Capernaum and Tiberias", "Chorazin and Bethsaida", "Magdala and Nain"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 10:13",
+    "verseText": "“Woe to you, Chorazin! Woe to you, Bethsaida! For if the mighty works done in you had been done in Tyre and Sidon, they would have repented long ago, sitting in sackcloth and ashes."
+  },
+  {
+    "text": "Jesus rejoiced in the Holy Spirit and thanked the Father for hiding things from the wise and revealing them to whom?",
+    "options": ["The angels", "The prophets", "Little children (the humble)", "The disciples only"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 10:21",
+    "verseText": "In that same hour he rejoiced in the Holy Spirit and said, “I thank you, Father, Lord of heaven and earth, that you have hidden these things from the wise and understanding and revealed them to little children; yes, Father, for such was your gracious will."
+  },
+  {
+    "text": "Jesus taught, 'Ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you.' This encourages what?",
+    "options": ["Demanding things from God", "Persistence and confidence in prayer", "Searching for hidden treasure", "Opening locked doors"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Easy",
+    "verseReference": "Luke 11:9-10",
+    "verseText": "And I tell you, ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you. For everyone who asks receives, and the one who seeks finds, and to the one who knocks it will be opened."
+  },
+  {
+    "text": "Jesus compared God's willingness to give the Holy Spirit to earthly fathers giving what to their children?",
+    "options": ["Stones instead of bread", "Snakes instead of fish", "Good gifts", "Scorpions instead of eggs"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Easy",
+    "verseReference": "Luke 11:11-13",
+    "verseText": "What father among you, if his son asks for a fish, will instead of a fish give him a serpent; or if he asks for an egg, will give him a scorpion? If you then, who are evil, know how to give good gifts to your children, how much more will the heavenly Father give the Holy Spirit to those who ask him!”"
+  },
+  {
+    "text": "When accused of casting out demons by Beelzebul, Jesus warned that a kingdom divided against itself would face what consequence?",
+    "options": ["It will grow stronger", "It is laid waste / falls", "It will conquer others", "It will seek peace"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 11:17",
+    "verseText": "But he, knowing their thoughts, said to them, “Every kingdom divided against itself is laid waste, and a divided household falls."
+  },
+  {
+    "text": "Jesus said that when an unclean spirit goes out of a person and returns to find the 'house' swept and put in order, what might happen?",
+    "options": ["The person is permanently healed", "The spirit leaves forever", "It brings seven other spirits more evil than itself, making the final state worse", "The spirit asks permission to return"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 11:24-26",
+    "verseText": "“When the unclean spirit has gone out of a person... Then it says, ‘I will return to my house from which I came.’ And when it comes, it finds the house swept and put in order. Then it goes and brings seven other spirits more evil than itself, and they enter and dwell there. And the last state of that person is worse than the first.”"
+  },
+  {
+    "text": "When a woman in the crowd blessed Jesus' mother, how did Jesus redirect the blessing?",
+    "options": ["He agreed with her", "He ignored her", "He said, 'Blessed rather are those who hear the word of God and keep it!'", "He blessed the woman in return"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 11:27-28",
+    "verseText": "As he said these things, a woman in the crowd raised her voice and said to him, “Blessed is the womb that bore you, and the breasts at which you nursed!” But he said, “Blessed rather are those who hear the word of God and keep it!”"
+  },
+  {
+    "text": "Jesus spoke of the 'sign of Jonah'. What did he say this sign represented for 'this generation'?",
+    "options": ["A great fish", "Repentance after preaching", "Jonah himself (implicitly pointing to Jesus' death and resurrection)", "A storm at sea"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Hard",
+    "verseReference": "Luke 11:29-30",
+    "verseText": "When the crowds were increasing, he began to say, “This generation is an evil generation. It seeks for a sign, but no sign will be given to it except the sign of Jonah. For as Jonah became a sign to the people of Nineveh, so will the Son of Man be to this generation."
+  },
+  {
+    "text": "Jesus warned against anxiety about life, food, and clothing. What examples from nature did he use to illustrate God's provision?",
+    "options": ["Sheep and goats", "Trees and rocks", "Ravens and lilies", "Fish and birds"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Easy",
+    "verseReference": "Luke 12:24, 27",
+    "verseText": "Consider the ravens: they neither sow nor reap, they have neither storehouse nor barn, and yet God feeds them... Consider the lilies, how they grow: they neither toil nor spin, yet I tell you, even Solomon in all his glory was not arrayed like one of these."
+  },
+  {
+    "text": "Instead of worrying, what did Jesus tell his disciples to seek first?",
+    "options": ["Wealth and security", "God's kingdom", "Comfort and ease", "Knowledge and wisdom"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Easy",
+    "verseReference": "Luke 12:31",
+    "verseText": "Instead, seek his kingdom, and these things will be added to you."
+  },
+  {
+    "text": "Jesus told his disciples to be ready and keep their lamps burning, like servants waiting for what?",
+    "options": ["Sunrise", "The harvest", "Their master to return from the wedding feast", "The arrival of guests"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 12:35-36",
+    "verseText": "“Stay dressed for action and keep your lamps burning, and be like men who are waiting for their master to come home from the wedding feast, so that they may open the door to him at once when he comes and knocks."
+  },
+  {
+    "text": "Jesus spoke of bringing division, even within families (father against son, mother against daughter). Why did he say he came?",
+    "options": ["To bring peace at all costs", "To bring fire and division based on response to him", "To unite all religions", "To establish political order"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 12:49, 51-53",
+    "verseText": "“I came to cast fire on the earth, and would that it were already kindled!... Do you think that I have come to give peace on earth? No, I tell you, but rather division. For from now on in one house there will be five divided, three against two and two against three..."
+  },
+  {
+    "text": "In the Parable of the Great Banquet, after the invited guests made excuses, whom did the master tell the servant to invite?",
+    "options": ["Only his relatives", "The rich and famous", "The poor, crippled, blind, and lame from the streets and lanes", "No one else"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 14:21",
+    "verseText": "So the servant came and reported these things to his master. Then the master of the house became angry and said to his servant, ‘Go out quickly to the streets and lanes of the city, and bring in the poor and crippled and blind and lame.’"
+  },
+  {
+    "text": "Jesus used the examples of building a tower and a king going to war to illustrate the need to do what before becoming a disciple?",
+    "options": ["Gather resources", "Count the cost", "Recruit others", "Pray for success"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 14:28, 31",
+    "verseText": "For which of you, desiring to build a tower, does not first sit down and count the cost... Or what king, going out to encounter another king in war, will not sit down first and deliberate..."
+  },
+  {
+    "text": "In the Parable of the Prodigal Son, what was the older brother's reaction when the younger son returned and was celebrated?",
+    "options": ["He rejoiced with them", "He ignored it", "He became angry and refused to go in", "He asked for his own feast"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Easy",
+    "verseReference": "Luke 15:28",
+    "verseText": "But he was angry and refused to go in. His father came out and entreated him,"
+  },
+  {
+    "text": "In the story of the Rich Man and Lazarus, what did the rich man request from Abraham for his five brothers?",
+    "options": ["That Lazarus be sent back from the dead to warn them", "That he himself could return to warn them", "That Abraham send an angel", "That Moses appear to them"],
+    "correctAnswerIndex": 0,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 16:27-28",
+    "verseText": "And he said, ‘Then I beg you, father, to send him to my father's house— for I have five brothers—so that he may warn them, lest they also come into this place of torment.’"
+  },
+  {
+    "text": "What was Abraham's reply to the rich man's request to send Lazarus back to warn his brothers?",
+    "options": ["'It is impossible.'", "'They have Moses and the Prophets; let them hear them.'", "'Lazarus cannot leave Paradise.'", "'They would not believe him.'"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 16:29",
+    "verseText": "Abraham said, ‘They have Moses and the Prophets; let them hear them.’"
+  },
+  {
+    "text": "Jesus warned about causing 'little ones' to stumble (sin). What did he say would be better than causing this?",
+    "options": ["Ignoring them", "Having a millstone hung around one's neck and being cast into the sea", "Asking for forgiveness later", "Teaching them doctrine"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 17:1-2",
+    "verseText": "And he said to his disciples, “Temptations to sin are sure to come, but woe to the one through whom they come! It would be better for him if a millstone were hung around his neck and he were cast into the sea than that he should cause one of these little ones to sin."
+  },
+  {
+    "text": "Jesus told a parable about an unworthy servant who simply does his duty. What attitude should the servant have?",
+    "options": ["Expect praise and reward", "Complain about the work", "Say, 'We are unworthy servants; we have only done what was our duty.'", "Ask for a promotion"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 17:9-10",
+    "verseText": "Does he thank the servant because he did what was commanded? So you also, when you have done all that you were commanded, say, ‘We are unworthy servants; we have only done what was our duty.’”"
+  },
+  {
+    "text": "When asked by the Pharisees when the kingdom of God would come, Jesus said the kingdom does not come with observation, but is where?",
+    "options": ["In heaven only", "In the future", "In the midst of you (or within you)", "In Jerusalem"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 17:20-21",
+    "verseText": "Being asked by the Pharisees when the kingdom of God would come, he answered them, “The kingdom of God is not coming in ways that can be observed, nor will they say, ‘Look, here it is!’ or ‘There!’ for behold, the kingdom of God is in the midst of you.”"
+  },
+  {
+    "text": "Jesus compared the days of the Son of Man to the days of Noah and Lot. What were people doing before disaster struck?",
+    "options": ["Praying and fasting", "Engaged in ordinary life: eating, drinking, marrying, buying, selling, planting, building", "Preparing for the end", "Fighting wars"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 17:26-28",
+    "verseText": "Just as it was in the days of Noah, so will it be in the days of the Son of Man. They were eating and drinking and marrying and being given in marriage, until the day when Noah entered the ark... Likewise, just as it was in the days of Lot—they were eating and drinking, buying and selling, planting and building..."
+  },
+  {
+    "text": "What happened to Lot's wife when she looked back?",
+    "options": ["She was saved", "She became a pillar of salt", "She was struck blind", "She turned to stone"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Easy",
+    "verseReference": "Luke 17:32",
+    "verseText": "Remember Lot's wife."
+  },
+  {
+    "text": "In the Parable of the Pharisee and the Tax Collector, what did the tax collector pray?",
+    "options": ["'Thank you God I am not like other men.'", "'God, be merciful to me, a sinner!'", "'Lord, increase my wealth.'", "'I have fasted and tithed.'"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Easy",
+    "verseReference": "Luke 18:13",
+    "verseText": "But the tax collector, standing far off, would not even lift up his eyes to heaven, but beat his breast, saying, ‘God, be merciful to me, a sinner!’"
+  },
+  {
+    "text": "Who did Jesus say went home justified after praying in the temple: the Pharisee or the tax collector?",
+    "options": ["The Pharisee", "The Tax Collector", "Both", "Neither"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Easy",
+    "verseReference": "Luke 18:14",
+    "verseText": "I tell you, this man went down to his house justified, rather than the other. For everyone who exalts himself will be humbled, but the one who humbles himself will be exalted.”"
+  },
+  {
+    "text": "What did Jesus say about his purpose in coming, related to Zacchaeus?",
+    "options": ["To judge the world", "To establish a kingdom", "The Son of Man came to seek and to save the lost", "To teach the Law"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Easy",
+    "verseReference": "Luke 19:10",
+    "verseText": "For the Son of Man came to seek and to save the lost.”"
+  },
+  {
+    "text": "After cleansing the temple, what did Jesus do there daily?",
+    "options": ["Performed miracles", "Rested", "Taught", "Collected offerings"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 19:47",
+    "verseText": "And he was teaching daily in the temple. The chief priests and the scribes and the principal men of the people were seeking to destroy him,"
+  },
+  {
+    "text": "In the Parable of the Wicked Tenants (Luke 20), what did the owner of the vineyard finally do after the tenants killed his son?",
+    "options": ["Forgave them", "Sent more servants", "He will come and destroy those tenants and give the vineyard to others", "Sold the vineyard"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 20:15-16",
+    "verseText": "And they threw him out of the vineyard and killed him. What then will the owner of the vineyard do to them? He will come and destroy those tenants and give the vineyard to others.”"
+  },
+  {
+    "text": "Jesus warned his disciples about the end times, saying they would be brought before kings and governors for his name's sake. What opportunity would this provide?",
+    "options": ["A chance to escape", "An opportunity to bear witness (testify)", "A time for judgment", "A reason for fear"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 21:12-13",
+    "verseText": "But before all this they will lay their hands on you and persecute you, delivering you up to the synagogues and prisons, and you will be brought before kings and governors for my name's sake. This will be your opportunity to bear witness."
+  },
+  {
+    "text": "What did Jesus promise his disciples regarding their defense when persecuted?",
+    "options": ["They should prepare speeches", "He would give them a mouth and wisdom that opponents could not withstand", "Angels would defend them", "They should remain silent"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 21:14-15",
+    "verseText": "Settle it therefore in your minds not to meditate beforehand how to answer, for I will give you a mouth and wisdom, which none of your adversaries will be able to withstand or contradict."
+  },
+  {
+    "text": "Jesus said that by what means would the disciples gain their lives/souls during the tribulations?",
+    "options": ["Fighting back", "Hiding", "Their endurance", "Making alliances"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 21:19",
+    "verseText": "By your endurance you will gain your lives."
+  },
+  {
+    "text": "What entered Judas Iscariot, leading him to betray Jesus?",
+    "options": ["Greed", "Fear", "Satan", "Ambition"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Easy",
+    "verseReference": "Luke 22:3",
+    "verseText": "Then Satan entered into Judas called Iscariot, who was of the number of the twelve."
+  },
+  {
+    "text": "During the Last Supper, Jesus told the disciples that the greatest among them should be like whom?",
+    "options": ["The oldest", "The richest", "The youngest, and the leader like one who serves", "The most knowledgeable"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 22:26",
+    "verseText": "But not so with you. Rather, let the greatest among you become as the youngest, and the leader as one who serves."
+  },
+  {
+    "text": "What was Herod Antipas's reaction when Jesus was sent to him?",
+    "options": ["He condemned Jesus immediately", "He released him", "He was glad, hoping to see a sign, questioned him, then mocked him", "He refused to see him"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 23:8-11",
+    "verseText": "When Herod saw Jesus, he was very glad, for he had long desired to see him... hoping to see some sign done by him. So he questioned him at some length, but he made no answer... And Herod with his soldiers treated him with contempt and mocked him."
+  },
+  {
+    "text": "What did the centurion at the cross say after witnessing Jesus' death?",
+    "options": ["'Truly this was the Son of God!' (cf. Mark)", "'Certainly this man was innocent!'", "'He saved others, himself he cannot save.'", "'It is finished.'"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 23:47",
+    "verseText": "Now when the centurion saw what had taken place, he praised God, saying, “Certainly this man was innocent!”"
   }
 ]

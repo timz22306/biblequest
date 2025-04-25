@@ -529,5 +529,779 @@
     "difficulty": "Easy",
     "verseReference": "Mark 16:6-7",
     "verseText": "And he said to them, “Do not be alarmed. You seek Jesus of Nazareth, who was crucified. He has risen; he is not here. See the place where they laid him. But go, tell his disciples and Peter that he is going before you to Galilee. There you will see him, just as he told you.”"
+  },
+  {
+    "text": "When Jesus healed a leper early in his ministry, what did he strictly charge the man to do, which the man disobeyed?",
+    "options": ["Offer the proper sacrifice and tell no one", "Go show himself to the priests", "Tell everyone what happened", "Follow Jesus immediately"],
+    "correctAnswerIndex": 0,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 1:44",
+    "verseText": "And said to him, “See that you say nothing to anyone, but go, show yourself to the priest and offer for your cleansing what Moses commanded, for a proof to them.”"
+  },
+  {
+    "text": "After appointing the twelve apostles, what specific authority did Jesus give them?",
+    "options": ["To forgive sins", "To preach and to cast out demons", "To baptize believers", "To interpret the Law"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 3:14-15",
+    "verseText": "And he appointed twelve (whom he also named apostles) so that they might be with him and he might send them out to preach and have authority to cast out demons."
+  },
+  {
+    "text": "When scribes from Jerusalem accused Jesus of casting out demons by the prince of demons, what analogy did Jesus use to refute them?",
+    "options": ["A shepherd and his sheep", "A sower and the seed", "A kingdom or house divided against itself", "A lamp under a basket"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 3:23-26",
+    "verseText": "And he called them to him and said to them in parables, “How can Satan cast out Satan? If a kingdom is divided against itself, that kingdom cannot stand. And if a house is divided against itself, that house will not be able to stand. And if Satan has risen up against himself and is divided, he cannot stand, but is coming to an end."
+  },
+  {
+    "text": "In the Parable of the Sower, what does the seed sown on rocky ground represent?",
+    "options": ["Those who hear the word but Satan snatches it away", "Those who hear the word but are choked by worldly cares", "Those who receive the word with joy but fall away when tribulation comes", "Those who hear, accept, and bear fruit"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 4:16-17",
+    "verseText": "And these are the ones sown on rocky ground: the ones who, when they hear the word, immediately receive it with joy. And they have no root in themselves, but endure for a while; then, when tribulation or persecution arises on account of the word, immediately they fall away."
+  },
+  {
+    "text": "What small seed did Jesus use in a parable to illustrate the surprising growth of the Kingdom of God?",
+    "options": ["Wheat seed", "Barley seed", "Mustard seed", "Fig seed"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 4:31-32",
+    "verseText": "It is like a grain of mustard seed, which, when sown on the ground, is the smallest of all the seeds on earth, yet when it is sown it grows up and becomes larger than all the garden plants and puts out large branches, so that the birds of the air can make nests in its shade.”"
+  },
+  {
+    "text": "After Jesus cast the 'Legion' of demons out of the man, what did the man request, and what did Jesus tell him to do instead?",
+    "options": ["He asked for money; Jesus told him to work", "He asked to follow Jesus; Jesus told him to go home and tell his people what the Lord had done", "He asked for healing; Jesus told him his faith made him well", "He asked to join the disciples; Jesus told him to wait"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 5:18-19",
+    "verseText": "As he was getting into the boat, the man who had been possessed with demons begged him that he might be with him. And he did not permit him but said to him, “Go home to your friends and tell them how much the Lord has done for you, and how he has had mercy on you.”"
+  },
+  {
+    "text": "Why was Jesus unable to do many mighty works in his hometown of Nazareth?",
+    "options": ["He ran out of power", "Because of their unbelief", "The religious leaders stopped him", "He was too tired"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 6:5-6",
+    "verseText": "And he could do no mighty work there, except that he laid his hands on a few sick people and healed them. And he marveled because of their unbelief."
+  },
+  {
+    "text": "When Jesus sent out the twelve disciples, what were they instructed to take with them?",
+    "options": ["Money, bag, and extra tunic", "Only a staff; no bread, no bag, no money", "Swords for protection", "Books of the Law"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 6:8-9",
+    "verseText": "He charged them to take nothing for their journey except a staff—no bread, no bag, no money in their belts— but to wear sandals and not put on two tunics."
+  },
+  {
+    "text": "After the feeding of the 5000, the disciples were straining at the oars against the wind. What did Jesus intend to do as he walked on the water towards them?",
+    "options": ["Get in the boat immediately", "Calm the storm first", "Pass by them", "Shout instructions"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Hard",
+    "verseReference": "Mark 6:48",
+    "verseText": "And he saw that they were making headway painfully, for the wind was against them. And about the fourth watch of the night he came to them, walking on the sea. He meant to pass by them,"
+  },
+  {
+    "text": "Why did the disciples' hearts become hardened after the feeding of the 5000 and seeing Jesus walk on water?",
+    "options": ["They were angry with Jesus", "They did not understand about the loaves", "They were possessed by demons", "They were too focused on the storm"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Hard",
+    "verseReference": "Mark 6:52",
+    "verseText": "for they did not understand about the loaves, but their hearts were hardened."
+  },
+  {
+    "text": "Jesus declared that defilement comes not from external things like unwashed hands or unclean foods, but from what?",
+    "options": ["Disobeying Roman law", "Contact with Gentiles", "What comes out of a person, from within the heart", "Ignoring the Sabbath"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 7:15, 20-23",
+    "verseText": "there is nothing outside a person that by going into him can defile him, but the things that come out of a person are what defile him... What comes out of a person is what defiles him. For from within, out of the heart of man, come evil thoughts, sexual immorality, theft, murder, adultery, coveting, wickedness, deceit, sensuality, envy, slander, pride, foolishness. All these evil things come from within, and they defile a person.”"
+  },
+  {
+    "text": "In the region of Tyre, a Syrophoenician woman begged Jesus to heal her daughter. What was Jesus' initial, challenging response involving 'children's bread' and 'dogs'?",
+    "options": ["He immediately healed her daughter", "He ignored her completely", "'Let the children be fed first, for it is not right to take the children's bread and throw it to the dogs.'", "'Your faith is weak'"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 7:27",
+    "verseText": "And he said to her, “Let the children be fed first, for it is not right to take the children's bread and throw it to the dogs.”"
+  },
+  {
+    "text": "How did the Syrophoenician woman respond cleverly to Jesus' analogy about bread and dogs, leading to her daughter's healing?",
+    "options": ["She argued about the Law", "She offered Jesus money", "'Yes, Lord; yet even the dogs under the table eat the children's crumbs.'", "She began to weep loudly"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 7:28",
+    "verseText": "But she answered him, “Yes, Lord; yet even the dogs under the table eat the children's crumbs.”"
+  },
+  {
+    "text": "When Jesus healed a deaf man with a speech impediment in the Decapolis region, what Aramaic word did he use, meaning 'Be opened'?",
+    "options": ["Talitha cumi", "Eloi, Eloi", "Ephphatha", "Hosanna"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Hard",
+    "verseReference": "Mark 7:34",
+    "verseText": "And looking up to heaven, he sighed and said to him, “Ephphatha,” that is, “Be opened.”"
+  },
+  {
+    "text": "After feeding the 4000, the Pharisees came and asked Jesus for a sign from heaven. How did Jesus respond?",
+    "options": ["He performed another miracle", "He sighed deeply and said no sign would be given to that generation", "He showed them the leftover bread", "He quoted scripture to them"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 8:11-12",
+    "verseText": "The Pharisees came and began to argue with him, seeking from him a sign from heaven to test him. And he sighed deeply in his spirit and said, “Why does this generation seek a sign? Truly, I say to you, no sign will be given to this generation.”"
+  },
+  {
+    "text": "Jesus warned his disciples to beware of the 'leaven' of which two groups?",
+    "options": ["The Romans and the Greeks", "The Sadducees and the Essenes", "The Pharisees and Herod", "The Zealots and the Samaritans"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 8:15",
+    "verseText": "And he cautioned them, saying, “Watch out; beware of the leaven of the Pharisees and the leaven of Herod.”"
+  },
+  {
+    "text": "When Jesus healed a blind man at Bethsaida, the healing happened in stages. What did the man see after the first touch?",
+    "options": ["Nothing", "Everything clearly", "People like trees, walking", "Bright lights"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 8:24",
+    "verseText": "And he looked up and said, “I see people, but they look like trees, walking.”"
+  },
+  {
+    "text": "Jesus said, 'For whoever would save his life will lose it, but whoever loses his life for my sake and the gospel's will...'",
+    "options": ["...be remembered forever.", "...gain nothing.", "...save it.", "...confuse his enemies."],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 8:35",
+    "verseText": "For whoever would save his life will lose it, but whoever loses his life for my sake and the gospel's will save it."
+  },
+  {
+    "text": "What did Jesus say would happen if someone is ashamed of him and his words in this adulterous and sinful generation?",
+    "options": ["They would be forgiven", "The Son of Man will be ashamed of them when he comes in glory", "They will lose their possessions", "Their names will be forgotten"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 8:38",
+    "verseText": "For whoever is ashamed of me and of my words in this adulterous and sinful generation, of him will the Son of Man also be ashamed when he comes in the glory of his Father with the holy angels.”"
+  },
+  {
+    "text": "Before the Transfiguration, Jesus promised that some standing there would not taste death until they saw what?",
+    "options": ["The destruction of the temple", "The kingdom of God after it has come with power", "The return of Elijah", "The conversion of the Gentiles"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Hard",
+    "verseReference": "Mark 9:1",
+    "verseText": "And he said to them, “Truly, I say to you, there are some standing here who will not taste death until they see the kingdom of God after it has come with power.”"
+  },
+  {
+    "text": "After the Transfiguration, the disciples asked Jesus about Elijah. Jesus confirmed Elijah comes first to restore all things, but also spoke of what?",
+    "options": ["How the Son of Man must suffer and be treated with contempt", "The need for more faith", "The timing of the end", "The rebuilding of the temple"],
+    "correctAnswerIndex": 0,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 9:12-13",
+    "verseText": "And he said to them, “Elijah does come first to restore all things. And how is it written of the Son of Man that he should suffer many things and be treated with contempt? But I tell you that Elijah has come, and they did to him whatever they pleased, as it is written of him.”"
+  },
+  {
+    "text": "When the disciples could not cast out a demon from a boy, what did Jesus say was required?",
+    "options": ["More disciples", "A special incantation", "Prayer (and some manuscripts add 'fasting')", "Permission from the authorities"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 9:29",
+    "verseText": "And he said to them, “This kind cannot be driven out by anything but prayer.” [Some manuscripts add 'and fasting']"
+  },
+  {
+    "text": "The disciples argued about who was the greatest. How did Jesus define true greatness?",
+    "options": ["Having the most followers", "Performing the most miracles", "Being last of all and servant of all", "Having the most knowledge"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 9:35",
+    "verseText": "And he sat down and called the twelve. And he said to them, “If anyone would be first, he must be last of all and servant of all.”"
+  },
+  {
+    "text": "When John told Jesus they had stopped someone casting out demons in Jesus' name because he wasn't part of their group, what was Jesus' response?",
+    "options": ["'Good job, protect our group.'", "'Do not stop him, for no one who does a mighty work in my name will be able soon afterward to speak evil of me.'", "'Bring him to me.'", "'Only the twelve have this authority.'"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 9:39-40",
+    "verseText": "But Jesus said, “Do not stop him, for no one who does a mighty work in my name will be able soon afterward to speak evil of me. For the one who is not against us is for us."
+  },
+  {
+    "text": "Jesus used graphic language about cutting off a hand or foot or plucking out an eye if it causes sin, emphasizing what?",
+    "options": ["The importance of physical perfection", "The extreme measures needed to avoid sin and hell (Gehenna)", "A literal requirement for discipleship", "A metaphor for ignoring temptation"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 9:43-48",
+    "verseText": "And if your hand causes you to sin, cut it off. It is better for you to enter life crippled than with two hands to go to hell, to the unquenchable fire... (similar for foot and eye)"
+  },
+  {
+    "text": "Jesus said everyone will be 'salted with fire'. What did he immediately command the disciples to do?",
+    "options": ["Perform fire rituals", "Store up salt", "Have salt in themselves and be at peace with one another", "Avoid salty foods"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Hard",
+    "verseReference": "Mark 9:49-50",
+    "verseText": "For everyone will be salted with fire. Salt is good, but if the salt has lost its saltiness, how will you make it salty again? Have salt in yourselves, and be at peace with one another.”"
+  },
+  {
+    "text": "When people brought children to Jesus for him to touch, how did the disciples react, and how did Jesus respond to the disciples?",
+    "options": ["Disciples welcomed them; Jesus taught them", "Disciples ignored them; Jesus ignored them", "Disciples rebuked the people; Jesus became indignant and welcomed the children", "Disciples blessed them; Jesus joined in"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 10:13-14",
+    "verseText": "And they were bringing children to him that he might touch them, and the disciples rebuked them. But when Jesus saw it, he was indignant and said to them, “Let the children come to me; do not hinder them, for to such belongs the kingdom of God."
+  },
+  {
+    "text": "What did Jesus say is necessary to receive the kingdom of God?",
+    "options": ["Great wealth", "Perfect obedience to the Law", "Receiving it like a child", "Political power"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 10:15",
+    "verseText": "Truly, I say to you, whoever does not receive the kingdom of God like a child shall not enter it.”"
+  },
+  {
+    "text": "After the rich young man went away sad, Jesus commented on the difficulty of the rich entering the kingdom. What analogy did he use?",
+    "options": ["A wide gate and a narrow gate", "A sheep through the eye of a needle", "A camel going through the eye of a needle", "A tree and its fruit"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 10:25",
+    "verseText": "It is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God.”"
+  },
+  {
+    "text": "When the disciples were amazed at the difficulty for the rich to be saved, Jesus said, 'With man it is impossible, but not with God. For...'",
+    "options": ["'...God helps those who help themselves.'", "'...all things are possible with God.'", "'...God only saves the poor.'", "'...faith makes it possible.'"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 10:27",
+    "verseText": "Jesus looked at them and said, “With man it is impossible, but not with God. For all things are possible with God.”"
+  },
+  {
+    "text": "Peter mentioned that the disciples had left everything to follow Jesus. What did Jesus promise to those who leave things behind for his sake and the gospel?",
+    "options": ["Only heavenly rewards", "A hundredfold now in this time (houses, family, lands) with persecutions, and eternal life in the age to come", "Immunity from suffering", "Political positions in the kingdom"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 10:29-31",
+    "verseText": "Jesus said, “Truly, I say to you, there is no one who has left house or brothers or sisters or mother or father or children or lands, for my sake and for the gospel, who will not receive a hundredfold now in this time, houses and brothers and sisters and mothers and children and lands, with persecutions, and in the age to come eternal life. But many who are first will be last, and the last first.”"
+  },
+  {
+    "text": "On the way to Jerusalem, Jesus predicted his passion for the third time. What specific details did he include about his betrayal and condemnation?",
+    "options": ["He would be praised by the leaders", "He would be betrayed to chief priests and scribes, condemned, and handed over to the Gentiles", "He would escape arrest", "He would establish an earthly kingdom immediately"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 10:33-34",
+    "verseText": "“See, we are going up to Jerusalem, and the Son of Man will be delivered over to the chief priests and the scribes, and they will condemn him to death and deliver him over to the Gentiles. And they will mock him and spit on him, and flog him and kill him. And after three days he will rise.”"
+  },
+  {
+    "text": "What did Jesus say the 'cup' he would drink and the 'baptism' he would undergo represented, when responding to James and John's request?",
+    "options": ["Celebration and cleansing", "His suffering and death", "His authority and power", "His teaching and miracles"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 10:38-39",
+    "verseText": "Jesus said to them, “You do not know what you are asking. Are you able to drink the cup that I drink, or to be baptized with the baptism with which I am baptized?” And they said to him, “We are able.” And Jesus said to them, “The cup that I drink you will drink, and with the baptism with which I am baptized, you will be baptized..."
+  },
+  {
+    "text": "How did Jesus contrast the rulers of the Gentiles with the way leadership should be among his followers?",
+    "options": ["Gentile rulers serve; disciples should rule", "Gentile rulers lord it over them; disciples should be servants and slaves", "Gentile rulers are elected; disciples are appointed", "Gentile rulers build empires; disciples build churches"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 10:42-44",
+    "verseText": "And Jesus called them to him and said to them, “You know that those who are considered rulers of the Gentiles lord it over them, and their great ones exercise authority over them. But it shall not be so among you. But whoever would be great among you must be your servant, and whoever would be first among you must be slave of all."
+  },
+  {
+    "text": "What did blind Bartimaeus cry out repeatedly as Jesus passed by Jericho?",
+    "options": ["'Help me, I am poor!'", "'Jesus, Son of David, have mercy on me!'", "'Teacher, let me see!'", "'Hosanna to the King!'"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 10:47-48",
+    "verseText": "And when he heard that it was Jesus of Nazareth, he began to cry out and say, “Jesus, Son of David, have mercy on me!” And many rebuked him, telling him to be silent. But he cried out all the more, “Son of David, have mercy on me!”"
+  },
+  {
+    "text": "What did Bartimaeus do immediately after Jesus healed him?",
+    "options": ["He went home", "He followed Jesus on the way", "He showed himself to the priests", "He told everyone in Jericho"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 10:52",
+    "verseText": "And Jesus said to him, “Go your way; your faith has made you well.” And immediately he recovered his sight and followed him on the way."
+  },
+  {
+    "text": "For the Triumphal Entry, Jesus instructed his disciples to find what specific animal?",
+    "options": ["A white horse", "A donkey", "A colt that had never been ridden", "A camel"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 11:2",
+    "verseText": "saying to them, “Go into the village in front of you, and immediately as you enter it you will find a colt tied, on which no one has ever sat. Untie it and bring it."
+  },
+  {
+    "text": "What did the crowds shout as Jesus rode into Jerusalem?",
+    "options": ["'Crucify him!'", "'Hosanna! Blessed is he who comes in the name of the Lord! Blessed is the coming kingdom of our father David!'", "'Make way for the King!'", "'Heal us, Son of David!'"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 11:9-10",
+    "verseText": "And those who went before and those who followed were shouting, “Hosanna! Blessed is he who comes in the name of the Lord! Blessed is the coming kingdom of our father David! Hosanna in the highest!”"
+  },
+  {
+    "text": "Why did Jesus curse the fig tree?",
+    "options": ["It was blocking the road", "It belonged to his enemies", "He was hungry and it had no fruit, only leaves", "It was diseased"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 11:12-14",
+    "verseText": "On the following day, when they came from Bethany, he was hungry. And seeing in the distance a fig tree in leaf, he went to see if he could find anything on it. When he came to it, he found nothing but leaves, for it was not the season for figs. And he said to it, “May no one ever eat fruit from you again.”"
+  },
+  {
+    "text": "When Jesus cleansed the temple, what reason did he give, quoting Scripture?",
+    "options": ["'My house shall be called a house of prayer for all the nations', but they made it a 'den of robbers'", "'Zeal for your house will consume me'", "'Render to Caesar what is Caesar's'", "'The Sabbath was made for man'"],
+    "correctAnswerIndex": 0,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 11:17",
+    "verseText": "And he was teaching them and saying to them, “Is it not written, ‘My house shall be called a house of prayer for all the nations’? But you have made it a den of robbers.”"
+  },
+  {
+    "text": "After seeing the withered fig tree, Jesus taught about faith and prayer. What did he say is necessary when praying?",
+    "options": ["Loud voices", "Specific locations", "Believing you have received it, and forgiving others", "Repeating the prayer many times"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 11:24-25",
+    "verseText": "Therefore I tell you, whatever you ask in prayer, believe that you have received it, and it will be yours. And whenever you stand praying, forgive, if you have anything against anyone, so that your Father also who is in heaven may forgive you your trespasses.”"
+  },
+  {
+    "text": "When the chief priests, scribes, and elders questioned Jesus' authority, how did Jesus respond?",
+    "options": ["He performed a miracle", "He quoted scripture about the Messiah", "He asked them a counter-question about the authority of John's baptism", "He refused to answer"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 11:29-30",
+    "verseText": "Jesus said to them, “I will ask you one question; answer me, and I will tell you by what authority I do these things. Was the baptism of John from heaven or from man? Answer me.”"
+  },
+  {
+    "text": "Why were the religious leaders afraid to say John the Baptist's authority was from men?",
+    "options": ["They respected John", "They feared the crowd, who believed John was a prophet", "They didn't want to offend Herod", "They weren't sure"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 11:32",
+    "verseText": "But shall we say, ‘From man’?”—they were afraid of the people, for they all held that John really was a prophet."
+  },
+  {
+    "text": "In the Parable of the Wicked Tenants, what did the tenants do to the owner's servants and finally his son?",
+    "options": ["Welcomed them", "Paid them the rent", "Beat some, killed others, and finally killed the son", "Ignored them"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 12:3-8",
+    "verseText": "And they took him and beat him and sent him away empty-handed... Then he sent another... they killed him... He had still one other, a beloved son. Finally he sent him... But those tenants... took him and killed him..."
+  },
+  {
+    "text": "After telling the Parable of the Wicked Tenants, Jesus quoted a scripture about the stone the builders rejected becoming what?",
+    "options": ["A stumbling block", "Crushed to powder", "The cornerstone", "Part of the pavement"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 12:10-11",
+    "verseText": "Have you not read this Scripture: “‘The stone that the builders rejected has become the cornerstone; this was the Lord's doing, and it is marvelous in our eyes’?”"
+  },
+  {
+    "text": "Pharisees and Herodians tried to trap Jesus with a question about paying taxes to whom?",
+    "options": ["The temple", "Herod", "Caesar", "The poor"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 12:14",
+    "verseText": "Is it lawful to pay taxes to Caesar, or not? Should we pay them, or should we not?”"
+  },
+  {
+    "text": "How did Jesus answer the question about paying taxes to Caesar?",
+    "options": ["'Do not pay taxes'", "'Pay only temple taxes'", "'Render to Caesar the things that are Caesar's, and to God the things that are God's'", "'Pay whatever they ask'"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 12:17",
+    "verseText": "Jesus said to them, “Render to Caesar the things that are Caesar's, and to God the things that are God's.” And they marveled at him."
+  },
+  {
+    "text": "The Sadducees, who denied the resurrection, posed a hypothetical question about a woman married sequentially to seven brothers. Whose wife would she be in the resurrection?",
+    "options": ["The first brother's", "The last brother's", "All seven brothers'", "Jesus said they misunderstand; people won't marry in the resurrection"],
+    "correctAnswerIndex": 3,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 12:24-25",
+    "verseText": "Jesus said to them, “Is this not the reason you are wrong, because you know neither the Scriptures nor the power of God? For when they rise from the dead, they neither marry nor are given in marriage, but are like angels in heaven."
+  },
+  {
+    "text": "How did Jesus argue for the resurrection against the Sadducees, using the story of Moses at the burning bush?",
+    "options": ["He quoted prophecies of resurrection", "He pointed out God is the God of the living (Abraham, Isaac, Jacob), not the dead", "He described Lazarus being raised", "He spoke of his own future resurrection"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Hard",
+    "verseReference": "Mark 12:26-27",
+    "verseText": "And as for the dead being raised, have you not read in the book of Moses, in the passage about the bush, how God spoke to him, saying, ‘I am the God of Abraham, and the God of Isaac, and the God of Jacob’? He is not God of the dead, but of the living. You are quite wrong.”"
+  },
+  {
+    "text": "After Jesus answered the scribe about the greatest commandment, what did the scribe acknowledge about loving God and neighbor?",
+    "options": ["It was less important than sacrifice", "It is much more than all whole burnt offerings and sacrifices", "It was a new teaching", "It only applied to Jews"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 12:32-33",
+    "verseText": "And the scribe said to him, “You are right, Teacher. You have truly said that he is one, and there is no other besides him. And to love him with all the heart and with all the understanding and with all the strength, and to love one's neighbor as oneself, is much more than all whole burnt offerings and sacrifices.”"
+  },
+  {
+    "text": "What did Jesus say to the scribe who answered wisely about the greatest commandment?",
+    "options": ["'You are wrong'", "'You still lack one thing'", "'You are not far from the kingdom of God'", "'Go and sin no more'"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 12:34",
+    "verseText": "And when Jesus saw that he answered wisely, he said to him, “You are not far from the kingdom of God.” And after that no one dared to ask him any more questions."
+  },
+  {
+    "text": "Jesus questioned the scribes' teaching about the Christ (Messiah) being the Son of David, by quoting David himself calling the Messiah what?",
+    "options": ["'My King'", "'My Priest'", "'My Lord'", "'My Son'"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Hard",
+    "verseReference": "Mark 12:35-37",
+    "verseText": "And as Jesus taught in the temple, he said, “How can the scribes say that the Christ is the son of David? David himself, in the Holy Spirit, declared, “‘The Lord said to my Lord, Sit at my right hand, until I put your enemies under your feet.’” David himself calls him Lord. So how is he his son?”"
+  },
+  {
+    "text": "Jesus warned his disciples to beware of the scribes who liked public recognition and honor but did what?",
+    "options": ["Helped the poor secretly", "Prayed sincerely in private", "Devoured widows' houses and made long prayers for pretense", "Taught the truth accurately"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 12:38-40",
+    "verseText": "And in his teaching he said, “Beware of the scribes, who like to walk around in long robes and like greetings in the marketplaces and have the best seats in the synagogues and the places of honor at feasts, who devour widows' houses and for a pretense make long prayers. They will receive the greater condemnation.”"
+  },
+  {
+    "text": "In the Olivet Discourse, what did Jesus say must happen before the end comes?",
+    "options": ["The temple must be rebuilt", "The gospel must first be proclaimed to all nations", "Israel must become a world power", "A period of universal peace"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 13:10",
+    "verseText": "And the gospel must first be proclaimed to all nations."
+  },
+  {
+    "text": "Jesus warned about the 'abomination of desolation' standing where it ought not to be. What did he advise those in Judea to do when they see this?",
+    "options": ["Fight against it", "Pray for deliverance", "Flee to the mountains", "Negotiate peace"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 13:14",
+    "verseText": "“But when you see the abomination of desolation standing where he ought not to be (let the reader understand), then let those who are in Judea flee to the mountains."
+  },
+  {
+    "text": "Regarding the timing of his return, what did Jesus say about the day and hour?",
+    "options": ["It would be revealed to the disciples", "It would happen within their lifetime", "Only the Father knows; not even the angels or the Son", "It could be calculated from signs"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 13:32",
+    "verseText": "“But concerning that day or that hour, no one knows, not even the angels in heaven, nor the Son, but only the Father."
+  },
+  {
+    "text": "What command did Jesus repeatedly give his disciples concerning the end times and his return?",
+    "options": ["'Store up food'", "'Build defenses'", "'Watch!' (or 'Stay awake!')", "'Calculate the time'"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 13:33, 35, 37",
+    "verseText": "Be on guard, keep awake... Therefore stay awake... And what I say to you I say to all: Stay awake.”"
+  },
+  {
+    "text": "Why did the chief priests and scribes initially want to avoid arresting Jesus during the Feast of Passover?",
+    "options": ["They respected the feast", "They feared a riot among the people", "Pilate would not allow it", "They couldn't find him"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 14:1-2",
+    "verseText": "It was now two days before the Passover and the Feast of Unleavened Bread. And the chief priests and the scribes were seeking how to arrest him by stealth and kill him, for they said, “Not during the feast, lest there be an uproar from the people.”"
+  },
+  {
+    "text": "How did Jesus defend the woman who anointed him with expensive ointment against the disciples' criticism?",
+    "options": ["He said she had wealth to spare", "He said she did a beautiful thing, anointing his body beforehand for burial", "He rebuked the disciples for greed", "He said the ointment wasn't that expensive"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 14:6, 8",
+    "verseText": "But Jesus said, “Leave her alone. Why do you trouble her? She has done a beautiful thing to me... She has done what she could; she has anointed my body beforehand for burial."
+  },
+  {
+    "text": "What did Judas Iscariot agree to do for the chief priests?",
+    "options": ["Spy on Jesus' teachings", "Lead a rebellion", "Betray Jesus to them", "Defend Jesus during the trial"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 14:10-11",
+    "verseText": "Then Judas Iscariot, who was one of the twelve, went to the chief priests in order to betray him to them. And when they heard it, they were glad and promised to give him money. And he sought an opportunity to betray him."
+  },
+  {
+    "text": "During the Last Supper, Jesus took bread, blessed and broke it, saying what?",
+    "options": ["'This is my body.'", "'Remember this meal.'", "'Eat and be filled.'", "'This is the bread of life.'"],
+    "correctAnswerIndex": 0,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 14:22",
+    "verseText": "And as they were eating, he took bread, and after blessing it broke it and gave it to them, and said, “Take; this is my body.”"
+  },
+  {
+    "text": "When Jesus took the cup during the Last Supper, what did he call it?",
+    "options": ["'The cup of blessing'", "'The cup of suffering'", "'This is my blood of the covenant, which is poured out for many.'", "'The wine of the kingdom.'"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 14:23-24",
+    "verseText": "And he took a cup, and when he had given thanks he gave it to them, and they all drank of it. And he said to them, “This is my blood of the covenant, which is poured out for many."
+  },
+  {
+    "text": "Jesus predicted that Peter would deny him how many times before the rooster crowed twice?",
+    "options": ["Once", "Twice", "Three times", "Four times"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 14:30",
+    "verseText": "And Jesus said to him, “Truly, I tell you, this very night, before the rooster crows twice, you will deny me three times.”"
+  },
+  {
+    "text": "In Gethsemane, Jesus prayed, 'Abba, Father, all things are possible for you. Remove this cup from me. Yet...'",
+    "options": ["'...I will fight.'", "'...my disciples will save me.'", "'...not what I will, but what you will.'", "'...I do not understand.'"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 14:36",
+    "verseText": "And he said, “Abba, Father, all things are possible for you. Remove this cup from me. Yet not what I will, but what you will.”"
+  },
+  {
+    "text": "What sign did Judas use to identify Jesus to the armed crowd that came to arrest him?",
+    "options": ["Pointing him out", "Calling his name", "A kiss", "Shining a light on him"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 14:44-45",
+    "verseText": "Now the betrayer had given them a sign, saying, “The one I will kiss is the man. Seize him and lead him away under guard.” And when he came, he went up to him at once and said, “Rabbi!” And he kissed him."
+  },
+  {
+    "text": "During Jesus' arrest, what did one of the bystanders do?",
+    "options": ["Tried to bribe the guards", "Shouted for help", "Drew his sword and cut off the ear of the high priest's servant", "Ran away immediately"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 14:47",
+    "verseText": "But one of those who stood by drew his sword and struck the servant of the high priest and cut off his ear."
+  },
+  {
+    "text": "Who fled away naked, leaving his linen cloth behind, when Jesus was arrested?",
+    "options": ["Peter", "John", "Judas", "A certain young man"],
+    "correctAnswerIndex": 3,
+    "book": "Mark",
+    "difficulty": "Hard",
+    "verseReference": "Mark 14:51-52",
+    "verseText": "And a young man followed him, with nothing but a linen cloth about his body. And they seized him, but he left the linen cloth and ran away naked."
+  },
+  {
+    "text": "During the trial before the Sanhedrin, many gave false testimony against Jesus, but what was the problem with their testimony?",
+    "options": ["It wasn't damaging enough", "It did not agree", "They recanted under pressure", "The high priest disallowed it"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 14:56, 59",
+    "verseText": "For many bore false witness against him, but their testimony did not agree... Yet even about this their testimony did not agree."
+  },
+  {
+    "text": "What specific claim did the false witnesses make about Jesus and the temple?",
+    "options": ["He planned to burn it down", "He said, 'I will destroy this temple that is made with hands, and in three days I will build another, not made with hands.'", "He claimed to be the High Priest", "He prophesied its immediate collapse"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 14:58",
+    "verseText": "“We heard him say, ‘I will destroy this temple that is made with hands, and in three days I will build another, not made with hands.’”"
+  },
+  {
+    "text": "While Jesus was on trial, Peter was warming himself by the fire. What happened when a servant girl identified him as being with Jesus?",
+    "options": ["He proudly agreed", "He denied it", "He ignored her", "He ran away"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 14:66-68",
+    "verseText": "And as Peter was below in the courtyard, one of the servant girls of the high priest came, and seeing Peter warming himself, she looked at him and said, “You also were with the Nazarene, Jesus.” But he denied it, saying, “I neither know nor understand what you mean.”"
+  },
+  {
+    "text": "After Peter denied Jesus for the third time, what happened immediately that caused him to break down and weep?",
+    "options": ["Jesus looked at him", "The rooster crowed the second time", "The soldiers arrested him", "The high priest condemned Jesus"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 14:72",
+    "verseText": "And immediately the rooster crowed a second time. And Peter remembered how Jesus had said to him, “Before the rooster crows twice, you will deny me three times.” And he broke down and wept."
+  },
+  {
+    "text": "When Pilate asked Jesus, 'Are you the King of the Jews?', how did Jesus reply?",
+    "options": ["'I am'", "'You say so'", "'My kingdom is not of this world'", "'Do you ask this of your own accord?'"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 15:2",
+    "verseText": "And Pilate asked him, “Are you the King of the Jews?” And he answered him, “You have said so.”"
+  },
+  {
+    "text": "Despite the chief priests accusing Jesus of many things before Pilate, how did Jesus respond?",
+    "options": ["He argued vehemently", "He made no further answer", "He performed a miracle", "He appealed to Caesar"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 15:4-5",
+    "verseText": "And Pilate again asked him, “Have you no answer to make? See how many charges they bring against you.” But Jesus made no further answer, so that Pilate was amazed."
+  },
+  {
+    "text": "What was Pilate's custom during the Passover feast?",
+    "options": ["To pardon a Roman soldier", "To release one prisoner whom the crowd requested", "To give extra rations to the soldiers", "To attend the temple service"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 15:6",
+    "verseText": "Now at the feast he used to release for them one prisoner for whom they asked."
+  },
+  {
+    "text": "What did the soldiers do to Jesus after Pilate handed him over to be crucified?",
+    "options": ["Gave him water", "Let him rest", "Mocked him, dressed him in purple, put on a crown of thorns, saluted him as 'King of the Jews', and struck him", "Offered him wine"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 15:16-20",
+    "verseText": "And the soldiers led him away inside the palace... And they clothed him in a purple cloak, and twisting together a crown of thorns, they put it on him. And they began to salute him, “Hail, King of the Jews!” And they were striking his head with a reed and spitting on him and kneeling down in homage to him. And when they had mocked him, they stripped him of the purple cloak and put his own clothes on him. And they led him out to crucify him."
+  },
+  {
+    "text": "Who was compelled to carry Jesus' cross?",
+    "options": ["Peter", "John", "Simon of Cyrene", "Joseph of Arimathea"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 15:21",
+    "verseText": "And they compelled a passerby, Simon of Cyrene, who was coming in from the country, the father of Alexander and Rufus, to carry his cross."
+  },
+  {
+    "text": "What did they offer Jesus to drink at Golgotha, which he refused?",
+    "options": ["Water", "Vinegar", "Wine mixed with myrrh", "Milk"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 15:23",
+    "verseText": "And they offered him wine mixed with myrrh, but he did not take it."
+  },
+  {
+    "text": "What did the soldiers do with Jesus' garments after crucifying him?",
+    "options": ["Burned them", "Gave them to the poor", "Divided them by casting lots", "Returned them to his family"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 15:24",
+    "verseText": "And they crucified him and divided his garments among them, casting lots for them, to decide what each should take."
+  },
+  {
+    "text": "What inscription was placed over Jesus' head on the cross?",
+    "options": ["'Jesus of Nazareth'", "'The King of the Jews'", "'Blasphemer'", "'Son of God'"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 15:26",
+    "verseText": "And the inscription of the charge against him read, “The King of the Jews.”"
+  },
+  {
+    "text": "Who mocked Jesus while he was on the cross, saying, 'He saved others; he cannot save himself'?",
+    "options": ["Only the soldiers", "Only the thieves crucified with him", "Passersby, chief priests, scribes, and those crucified with him", "Pilate"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 15:29-32",
+    "verseText": "And those who passed by derided him... So also the chief priests with the scribes mocked him to one another, saying, “He saved others; he cannot save himself. Let the Christ, the King of Israel, come down now from the cross that we may see and believe.” Those who were crucified with him also reviled him."
+  },
+  {
+    "text": "What supernatural event occurred from the sixth hour until the ninth hour during the crucifixion?",
+    "options": ["An earthquake", "Darkness over the whole land", "A great storm", "Angels appeared"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 15:33",
+    "verseText": "And when the sixth hour had come, there was darkness over the whole land until the ninth hour."
+  },
+  {
+    "text": "What happened in the temple at the moment Jesus died?",
+    "options": ["The roof collapsed", "The curtain of the temple was torn in two, from top to bottom", "The altar caught fire", "The priests fled"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 15:38",
+    "verseText": "And the curtain of the temple was torn in two, from top to bottom."
+  },
+  {
+    "text": "Why did Joseph of Arimathea ask for Jesus' body?",
+    "options": ["He was a relative", "He was instructed by the disciples", "He was a respected council member looking for the kingdom of God", "Pilate ordered him to"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 15:43",
+    "verseText": "Joseph of Arimathea, a respected member of the council, who was also himself looking for the kingdom of God, took courage and went to Pilate and asked for the body of Jesus."
+  },
+  {
+    "text": "Why were Mary Magdalene, Mary the mother of James, and Salome going to the tomb early on the first day of the week?",
+    "options": ["To guard the tomb", "To meet the disciples there", "To anoint Jesus' body with spices", "To pray"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 16:1",
+    "verseText": "When the Sabbath was past, Mary Magdalene, Mary the mother of James, and Salome bought spices, so that they might go and anoint him."
+  },
+  {
+    "text": "What concern did the women express as they approached the tomb?",
+    "options": ["Getting lost", "Being seen by soldiers", "Who would roll away the stone for them", "Forgetting the spices"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 16:3",
+    "verseText": "And they were saying to one another, “Who will roll away the stone for us from the entrance of the tomb?”"
+  },
+  {
+    "text": "According to the young man in the tomb, where would the disciples see the risen Jesus?",
+    "options": ["In Jerusalem", "In Bethany", "In Galilee", "On the Mount of Olives"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 16:7",
+    "verseText": "But go, tell his disciples and Peter that he is going before you to Galilee. There you will see him, just as he told you.”"
   }
 ]
