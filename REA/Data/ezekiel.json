@@ -88,5 +88,410 @@
     "difficulty": "Medium",
     "verseReference": "Ezekiel 48:35",
     "verseText": "The circumference of the city shall be 18,000 cubits. And the name of the city from that time on shall be, The LORD Is There."
+  },
+  {
+    "text": "Besides the four faces, what else was distinctive about the appearance of the living creatures in Ezekiel 1?",
+    "options": ["They were made of gold", "They had wheels within wheels covered with eyes", "They carried scrolls", "They sang constantly"],
+    "correctAnswerIndex": 1,
+    "book": "Ezekiel",
+    "difficulty": "Medium",
+    "verseReference": "Ezekiel 1:15-21",
+    "verseText": "Now as I looked at the living creatures, I saw a wheel on the earth beside the living creatures, one for each of the four of them... their rims were full of eyes all around... When the living creatures went, the wheels went beside them..."
+  },
+  {
+    "text": "Above the living creatures and the expanse, what did Ezekiel see?",
+    "options": ["Clouds", "Stars", "The likeness of a throne, and upon the throne, a likeness with a human appearance", "A great sea"],
+    "correctAnswerIndex": 2,
+    "book": "Ezekiel",
+    "difficulty": "Medium",
+    "verseReference": "Ezekiel 1:26",
+    "verseText": "And above the expanse over their heads there was the likeness of a throne, in appearance like sapphire; and seated above the likeness of a throne was a likeness with a human appearance."
+  },
+  {
+    "text": "What title is Ezekiel frequently addressed by throughout the book?",
+    "options": ["My Servant", "Son of Man", "Priest of God", "Prophet of the Exile"],
+    "correctAnswerIndex": 1,
+    "book": "Ezekiel",
+    "difficulty": "Easy",
+    "verseReference": "Ezekiel 2:1, 3:1, etc.",
+    "verseText": "And he said to me, “Son of man, stand on your feet, and I will speak with you.” (Used over 90 times)"
+  },
+  {
+    "text": "How is the house of Israel described to Ezekiel when he is commissioned?",
+    "options": ["Righteous and obedient", "Weak and fearful", "Rebellious, stubborn, hard-hearted", "Eager to listen"],
+    "correctAnswerIndex": 2,
+    "book": "Ezekiel",
+    "difficulty": "Easy",
+    "verseReference": "Ezekiel 2:3-4",
+    "verseText": "And he said to me, “Son of man, I send you to the people of Israel, to nations of rebels, who have rebelled against me... They are impudent and stubborn children."
+  },
+  {
+    "text": "What condition did God impose on Ezekiel's speech initially?",
+    "options": ["He could only whisper", "He would become mute except when God gave him a message", "He had to shout", "He could only speak in parables"],
+    "correctAnswerIndex": 1,
+    "book": "Ezekiel",
+    "difficulty": "Medium",
+    "verseReference": "Ezekiel 3:26-27",
+    "verseText": "And I will make your tongue cling to the roof of your mouth, so that you shall be mute and unable to reprove them, for they are a rebellious house. But when I speak with you, I will open your mouth..."
+  },
+  {
+    "text": "What was the significance of Ezekiel lying on his left side for 390 days and his right side for 40 days?",
+    "options": ["Predicting the length of the exile", "Representing the years of punishment for Israel and Judah respectively", "A personal penance for Ezekiel", "The time it would take to rebuild the Temple"],
+    "correctAnswerIndex": 1,
+    "book": "Ezekiel",
+    "difficulty": "Hard",
+    "verseReference": "Ezekiel 4:5-6",
+    "verseText": "For I assign to you a number of days, 390 days, equal to the number of the years of their punishment. So long shall you bear the punishment of the house of Israel. And when you have completed these, you shall lie down a second time, but on your right side, and bear the punishment of the house of Judah. Forty days I assign you, a day for each year."
+  },
+  {
+    "text": "What unusual fuel source was Ezekiel initially told to use for baking his bread during the symbolic siege, representing defilement?",
+    "options": ["Wood", "Coal", "Dried animal dung", "Human dung"],
+    "correctAnswerIndex": 3,
+    "book": "Ezekiel",
+    "difficulty": "Medium",
+    "verseReference": "Ezekiel 4:12",
+    "verseText": "And you shall eat it as a barley cake, baking it in their sight on human dung.”"
+  },
+  {
+    "text": "After Ezekiel protested, what did God allow him to use as fuel instead?",
+    "options": ["Olive wood", "Grape vines", "Cow's dung", "Charcoal"],
+    "correctAnswerIndex": 2,
+    "book": "Ezekiel",
+    "difficulty": "Medium",
+    "verseReference": "Ezekiel 4:15",
+    "verseText": "Then he said to me, “See, I assign to you cow's dung instead of human dung, on which you may prepare your bread.”"
+  },
+  {
+    "text": "In Ezekiel 5, what did Ezekiel do with his shaved hair and beard?",
+    "options": ["Burned it all", "Buried it", "Burned a third, struck a third with a sword, scattered a third to the wind", "Wove it into cloth"],
+    "correctAnswerIndex": 2,
+    "book": "Ezekiel",
+    "difficulty": "Medium",
+    "verseReference": "Ezekiel 5:1-2",
+    "verseText": "And you, son of man, take a sharp sword... pass it over your head and your beard... A third part you shall burn in the fire... a third part you shall strike with the sword... and a third part you shall scatter to the wind..."
+  },
+  {
+    "text": "What did the three portions of hair represent?",
+    "options": ["Different nations", "Different types of sin", "The fate of Jerusalem's inhabitants: death by plague/famine, death by sword, scattering/exile", "The Father, Son, Holy Spirit"],
+    "correctAnswerIndex": 2,
+    "book": "Ezekiel",
+    "difficulty": "Medium",
+    "verseReference": "Ezekiel 5:12",
+    "verseText": "A third part of you shall die of pestilence and be consumed with famine among you; a third part shall fall by the sword all around you; and a third part I will scatter to all the winds..."
+  },
+  {
+    "text": "In Ezekiel 8, where was Ezekiel transported in a vision?",
+    "options": ["To Babylon's palace", "To Mount Sinai", "To the Temple in Jerusalem", "To heaven"],
+    "correctAnswerIndex": 2,
+    "book": "Ezekiel",
+    "difficulty": "Easy",
+    "verseReference": "Ezekiel 8:3",
+    "verseText": "He put out the form of a hand and took me by a lock of my head, and the Spirit lifted me up between earth and heaven and brought me in visions of God to Jerusalem, to the entrance of the gateway of the inner court that faces north..."
+  },
+  {
+    "text": "What abominations did Ezekiel see occurring within the Temple complex?",
+    "options": ["Selling merchandise", "Political meetings", "Idolatry (Image of Jealousy, elders worshipping creatures, women weeping for Tammuz, men worshipping the sun)", "Sleeping priests"],
+    "correctAnswerIndex": 2,
+    "book": "Ezekiel",
+    "difficulty": "Medium",
+    "verseReference": "Ezekiel 8:5-16",
+    "verseText": "(Describes the Image of Jealousy, elders burning incense to idols, women weeping for Tammuz, and men bowing to the sun in the inner court)."
+  },
+  {
+    "text": "In Ezekiel 9, who were the executioners commanded to spare?",
+    "options": ["The priests", "The royal family", "Those who sighed and groaned over the abominations (marked on the forehead)", "The wealthy"],
+    "correctAnswerIndex": 2,
+    "book": "Ezekiel",
+    "difficulty": "Medium",
+    "verseReference": "Ezekiel 9:4-6",
+    "verseText": "And the LORD said to him, “Pass through the city, through Jerusalem, and put a mark on the foreheads of the men who sigh and groan over all the abominations that are committed in it.”... but touch no one on whom is the mark."
+  },
+  {
+    "text": "What did Ezekiel see happening to the glory of the LORD in chapters 10-11?",
+    "options": ["It intensified within the Temple", "It departed from the Temple and the city", "It was captured by the Babylonians", "It hid in the Holy of Holies"],
+    "correctAnswerIndex": 1,
+    "book": "Ezekiel",
+    "difficulty": "Medium",
+    "verseReference": "Ezekiel 10:4, 18-19; 11:22-23",
+    "verseText": "And the glory of the LORD went up from the cherub to the threshold of the house... Then the glory of the LORD went out from the threshold of the house... and stood over the mountain that is on the east side of the city."
+  },
+  {
+    "text": "What symbolic act did Ezekiel perform in chapter 12 to represent the exile?",
+    "options": ["Breaking pottery", "Planting a dead tree", "Digging through a wall and carrying baggage out like an exile", "Wearing chains"],
+    "correctAnswerIndex": 2,
+    "book": "Ezekiel",
+    "difficulty": "Medium",
+    "verseReference": "Ezekiel 12:3-7",
+    "verseText": "As for you, son of man, prepare for yourself an exile's baggage, and go into exile by day in their sight... Dig through the wall in their sight, and go out through it... As I had been commanded, so I did."
+  },
+  {
+    "text": "Ezekiel 18 strongly emphasizes what principle regarding sin and judgment?",
+    "options": ["Children are punished for their parents' sins", "National repentance is impossible", "Individual responsibility ('The soul who sins shall die')", "God grades on a curve"],
+    "correctAnswerIndex": 2,
+    "book": "Ezekiel",
+    "difficulty": "Easy",
+    "verseReference": "Ezekiel 18:4, 20",
+    "verseText": "Behold, all souls are mine; the soul of the father as well as the soul of the son is mine: the soul who sins shall die... The soul who sins shall die. The son shall not suffer for the iniquity of the father, nor the father suffer for the iniquity of the son."
+  },
+  {
+    "text": "What proverb were the exiles using that Ezekiel chapter 18 refutes?",
+    "options": ["'Like father, like son'", "'The LORD helps those who help themselves'", "'The fathers have eaten sour grapes, and the children's teeth are set on edge'", "'A dog returns to its vomit'"],
+    "correctAnswerIndex": 2,
+    "book": "Ezekiel",
+    "difficulty": "Medium",
+    "verseReference": "Ezekiel 18:2",
+    "verseText": "“What do you mean by repeating this proverb concerning the land of Israel, ‘The fathers have eaten sour grapes, and the children's teeth are set on edge’?"
+  },
+  {
+    "text": "Ezekiel 24 uses the symbol of a boiling pot with choice pieces to represent what?",
+    "options": ["A feast for God", "The mixing of nations", "Jerusalem under siege, with its inhabitants trapped", "The purification of Israel"],
+    "correctAnswerIndex": 2,
+    "book": "Ezekiel",
+    "difficulty": "Medium",
+    "verseReference": "Ezekiel 24:3-6",
+    "verseText": "‘Set on the pot, set it on; pour in water also; put in it the pieces of meat, all the good pieces, the thigh and the shoulder... Woe to the bloody city, to the pot whose rust is in it..."
+  },
+  {
+    "text": "What personal tragedy did Ezekiel experience on the same day the siege of Jerusalem began, which he was forbidden to mourn publicly?",
+    "options": ["His house burned down", "His son died", "His wife died", "He lost all his possessions"],
+    "correctAnswerIndex": 2,
+    "book": "Ezekiel",
+    "difficulty": "Medium",
+    "verseReference": "Ezekiel 24:15-18",
+    "verseText": "“Son of man, behold, I am about to take the delight of your eyes away from you at a stroke; yet you shall not mourn or weep, nor shall your tears run down... So I spoke to the people in the morning, and at evening my wife died."
+  },
+  {
+    "text": "Ezekiel 25-32 contains oracles against several nations. Which nation is NOT included in this section?",
+    "options": ["Ammon", "Tyre", "Egypt", "Persia"],
+    "correctAnswerIndex": 3,
+    "book": "Ezekiel",
+    "difficulty": "Medium",
+    "verseReference": "Ezekiel 25-32 (Overview)",
+    "verseText": "(Chapters cover Ammon, Moab, Edom, Philistia, Tyre, Sidon, and Egypt. Persia rises later)."
+  },
+  {
+    "text": "Why was judgment pronounced against Ammon, Moab, and Edom?",
+    "options": ["For failing to pay tribute", "For their malicious joy over Judah's downfall", "For attacking Babylon", "For worshipping the wrong gods"],
+    "correctAnswerIndex": 1,
+    "book": "Ezekiel",
+    "difficulty": "Medium",
+    "verseReference": "Ezekiel 25:3, 6, 8, 12",
+    "verseText": "(Ammon said 'Aha!' over the sanctuary; Moab said Judah is like other nations; Edom acted vengefully)."
+  },
+  {
+    "text": "The extended oracle against Tyre (Ezekiel 26-28) compares the city to what?",
+    "options": ["A beautiful garden", "A strong mountain", "A magnificent ship, eventually wrecked", "A den of lions"],
+    "correctAnswerIndex": 2,
+    "book": "Ezekiel",
+    "difficulty": "Medium",
+    "verseReference": "Ezekiel 27",
+    "verseText": "(Chapter 27 details Tyre's extensive trade and resources using the allegory of a well-built ship that sinks)."
+  },
+  {
+    "text": "What sin is the Prince of Tyre specifically condemned for in Ezekiel 28?",
+    "options": ["Cowardice", "Oppressing the poor", "Pride ('I am a god, I sit in the seat of the gods')", "Ignoring warnings"],
+    "correctAnswerIndex": 2,
+    "book": "Ezekiel",
+    "difficulty": "Medium",
+    "verseReference": "Ezekiel 28:2",
+    "verseText": "“Son of man, say to the prince of Tyre, Thus says the Lord GOD: “Because your heart is proud, and you have said, ‘I am a god, I sit in the seat of the gods, in the heart of the seas,’ yet you are but a man, and no god..."
+  },
+  {
+    "text": "The lament over the King of Tyre in Ezekiel 28:12-19 uses imagery reminiscent of what?",
+    "options": ["The Exodus", "The fall of Satan or Adam in Eden", "The building of the Temple", "Noah's flood"],
+    "correctAnswerIndex": 1,
+    "book": "Ezekiel",
+    "difficulty": "Hard",
+    "verseReference": "Ezekiel 28:13-17",
+    "verseText": "(Mentions being in Eden, precious stones, the anointed guardian cherub, being cast from the mountain of God due to pride and corrupted wisdom)."
+  },
+  {
+    "text": "Pharaoh, king of Egypt, is compared to what creature in Ezekiel 29?",
+    "options": ["A lion", "An eagle", "A great sea monster (crocodile) lying in the Nile", "A serpent"],
+    "correctAnswerIndex": 2,
+    "book": "Ezekiel",
+    "difficulty": "Medium",
+    "verseReference": "Ezekiel 29:3",
+    "verseText": "Speak, and say, Thus says the Lord GOD: “Behold, I am against you, Pharaoh king of Egypt, the great dragon that lies in the midst of his streams, that says, ‘My Nile is my own; I made it for myself.’”"
+  },
+  {
+    "text": "In Ezekiel 33, Ezekiel's role as a watchman is reaffirmed. What is his responsibility?",
+    "options": ["To fight Israel's enemies", "To warn the wicked and the righteous", "To rebuild the Temple", "To interpret dreams"],
+    "correctAnswerIndex": 1,
+    "book": "Ezekiel",
+    "difficulty": "Easy",
+    "verseReference": "Ezekiel 33:7-9",
+    "verseText": "So you, son of man, I have made a watchman for the house of Israel. Whenever you hear a word from my mouth, you shall give them warning from me... if you warn the wicked to turn from his way, and he does not turn... you have delivered your soul."
+  },
+  {
+    "text": "Who does Ezekiel 34 condemn for failing to care for God's flock?",
+    "options": ["Foreign nations", "The priests", "The shepherds (leaders) of Israel", "The false prophets"],
+    "correctAnswerIndex": 2,
+    "book": "Ezekiel",
+    "difficulty": "Easy",
+    "verseReference": "Ezekiel 34:2",
+    "verseText": "“Son of man, prophesy against the shepherds of Israel, prophesy, and say to them, even to the shepherds, Thus says the Lord GOD: Ah, shepherds of Israel who have been feeding yourselves! Should not shepherds feed the sheep?"
+  },
+  {
+    "text": "Who does God promise will shepherd His flock in the future (Ezekiel 34:23)?",
+    "options": ["Ezekiel", "A council of elders", "His servant David (a Davidic Messiah)", "Themselves"],
+    "correctAnswerIndex": 2,
+    "book": "Ezekiel",
+    "difficulty": "Medium",
+    "verseReference": "Ezekiel 34:23",
+    "verseText": "And I will set up over them one shepherd, my servant David, and he shall feed them: he shall feed them and be their shepherd."
+  },
+  {
+    "text": "What does God promise to give Israel in Ezekiel 36, replacing their heart of stone?",
+    "options": ["A heart of gold", "A heart of flesh, a new heart, and a new spirit", "A heart of wisdom", "A heart of courage"],
+    "correctAnswerIndex": 1,
+    "book": "Ezekiel",
+    "difficulty": "Easy",
+    "verseReference": "Ezekiel 36:26",
+    "verseText": "And I will give you a new heart, and a new spirit I will put within you. And I will remove the heart of stone from your flesh and give you a heart of flesh."
+  },
+  {
+    "text": "Why does God say He will restore Israel (Ezekiel 36:22, 32)?",
+    "options": ["Because Israel deserves it", "For the sake of His holy name, which Israel profaned", "Because Ezekiel prayed", "To defeat Babylon"],
+    "correctAnswerIndex": 1,
+    "book": "Ezekiel",
+    "difficulty": "Medium",
+    "verseReference": "Ezekiel 36:22, 32",
+    "verseText": "“Therefore say to the house of Israel, Thus says the Lord GOD: It is not for your sake, O house of Israel, that I am about to act, but for the sake of my holy name, which you have profaned among the nations to which you came... It is not for your sake that I will act, declares the Lord GOD; let that be known to you."
+  },
+  {
+    "text": "In the vision of dry bones (Ezekiel 37), what brings the bones together and covers them with flesh?",
+    "options": ["Ezekiel touching them", "Ezekiel prophesying as commanded", "A great wind", "An earthquake"],
+    "correctAnswerIndex": 1,
+    "book": "Ezekiel",
+    "difficulty": "Medium",
+    "verseReference": "Ezekiel 37:7",
+    "verseText": "So I prophesied as I was commanded. And as I prophesied, there was a sound, and behold, a rattling, and the bones came together, bone to its bone. And I looked, and behold, there were sinews on them, and flesh had come upon them, and skin had covered them."
+  },
+  {
+    "text": "What brings the revived bodies to life in Ezekiel 37?",
+    "options": ["Water", "Fire", "Prophesying to the breath/Spirit", "Sunlight"],
+    "correctAnswerIndex": 2,
+    "book": "Ezekiel",
+    "difficulty": "Medium",
+    "verseReference": "Ezekiel 37:9-10",
+    "verseText": "Then he said to me, “Prophesy to the breath; prophesy, son of man, and say to the breath, Thus says the Lord GOD: Come from the four winds, O breath, and breathe on these slain, that they may live.” So I prophesied as he commanded me, and the breath came into them, and they lived..."
+  },
+  {
+    "text": "What symbolic act did Ezekiel perform with two sticks in chapter 37?",
+    "options": ["He burned them", "He broke them", "He joined them together as one stick", "He planted them"],
+    "correctAnswerIndex": 2,
+    "book": "Ezekiel",
+    "difficulty": "Easy",
+    "verseReference": "Ezekiel 37:16-17",
+    "verseText": "“Son of man, take a stick and write on it, ‘For Judah, and the people of Israel associated with him’; then take another stick and write on it, ‘For Joseph (the stick of Ephraim) and all the house of Israel associated with him.’ And join them one to another into one stick, that they may become one in your hand."
+  },
+  {
+    "text": "What did the joining of the two sticks represent?",
+    "options": ["Peace between nations", "The joining of heaven and earth", "The reunification of the divided kingdoms of Judah and Israel/Ephraim", "The union of God and man"],
+    "correctAnswerIndex": 2,
+    "book": "Ezekiel",
+    "difficulty": "Medium",
+    "verseReference": "Ezekiel 37:19, 22",
+    "verseText": "say to them, Thus says the Lord GOD: Behold, I am about to take the stick of Joseph... and I will join with it the stick of Judah, and make them one stick... and I will make them one nation in the land..."
+  },
+  {
+    "text": "Who is Gog of Magog, described in Ezekiel 38-39?",
+    "options": ["The king of Babylon", "A faithful servant of God", "A future enemy leader who attacks restored Israel", "An Egyptian pharaoh"],
+    "correctAnswerIndex": 2,
+    "book": "Ezekiel",
+    "difficulty": "Medium",
+    "verseReference": "Ezekiel 38:2-3",
+    "verseText": "“Son of man, set your face toward Gog, of the land of Magog, the chief prince of Meshech and Tubal, and prophesy against him and say, Thus says the Lord GOD: Behold, I am against you, O Gog..."
+  },
+  {
+    "text": "What is the ultimate outcome of Gog's invasion against Israel?",
+    "options": ["Gog conquers Israel", "Israel makes a treaty with Gog", "God utterly defeats Gog and his armies, revealing His holiness", "Gog repents"],
+    "correctAnswerIndex": 2,
+    "book": "Ezekiel",
+    "difficulty": "Medium",
+    "verseReference": "Ezekiel 38:18-23; 39:6-7",
+    "verseText": "(Describes God's fury, earthquake, pestilence, bloodshed, fire, and sulfur destroying Gog's forces) ... “So I will make my holy name known in the midst of my people Israel... and the nations shall know that I am the LORD, the Holy One in Israel."
+  },
+  {
+    "text": "How long will Israel spend burying the dead after Gog's defeat?",
+    "options": ["Seven days", "Forty days", "Seven months", "Seven years"],
+    "correctAnswerIndex": 2,
+    "book": "Ezekiel",
+    "difficulty": "Hard",
+    "verseReference": "Ezekiel 39:12",
+    "verseText": "For seven months the house of Israel will be burying them, in order to cleanse the land."
+  },
+  {
+    "text": "In Ezekiel's vision of the new Temple (Chapters 40-42), who guides him and takes measurements?",
+    "options": ["An angel", "One of the living creatures", "A man whose appearance was like bronze, with a linen cord and measuring reed", "King David"],
+    "correctAnswerIndex": 2,
+    "book": "Ezekiel",
+    "difficulty": "Medium",
+    "verseReference": "Ezekiel 40:3",
+    "verseText": "When he brought me there, behold, there was a man whose appearance was like bronze, with a linen cord and a measuring reed in his hand. And he was standing in the gateway."
+  },
+  {
+    "text": "What does Ezekiel see returning to the new Temple in chapter 43?",
+    "options": ["The Ark of the Covenant", "The Shekinah glory of the LORD", "The high priest", "King Josiah"],
+    "correctAnswerIndex": 1,
+    "book": "Ezekiel",
+    "difficulty": "Medium",
+    "verseReference": "Ezekiel 43:2-5",
+    "verseText": "And behold, the glory of the God of Israel was coming from the east... the earth shone with his glory... As the glory of the LORD entered the temple by the gate facing east, the Spirit lifted me up and brought me into the inner court; and behold, the glory of the LORD filled the temple."
+  },
+  {
+    "text": "Which gate of the new Temple complex was to remain shut? Why?",
+    "options": ["The north gate; it was unclean", "The south gate; reserved for priests", "The east gate; because the glory of the LORD had entered through it", "The west gate; it faced away from the city"],
+    "correctAnswerIndex": 2,
+    "book": "Ezekiel",
+    "difficulty": "Medium",
+    "verseReference": "Ezekiel 44:1-2",
+    "verseText": "Then he brought me back to the outer gate of the sanctuary, which faces east. And it was shut. And the LORD said to me, “This gate shall remain shut; it shall not be opened, and no one shall enter by it, for the LORD, the God of Israel, has entered by it. Therefore it shall remain shut."
+  },
+  {
+    "text": "Who are the primary priests serving in Ezekiel's visionary Temple?",
+    "options": ["All Levites", "Descendants of Aaron", "The sons of Zadok", "Ezekiel's descendants"],
+    "correctAnswerIndex": 2,
+    "book": "Ezekiel",
+    "difficulty": "Hard",
+    "verseReference": "Ezekiel 44:15",
+    "verseText": "“But the Levitical priests, the sons of Zadok, who kept the charge of my sanctuary when the people of Israel went astray from me, shall come near to me to minister to me."
+  },
+  {
+    "text": "What flows out from under the threshold of the Temple in Ezekiel 47?",
+    "options": ["Oil", "Wine", "A river that grows deeper and brings life wherever it goes", "Molten gold"],
+    "correctAnswerIndex": 2,
+    "book": "Ezekiel",
+    "difficulty": "Easy",
+    "verseReference": "Ezekiel 47:1, 9",
+    "verseText": "Then he brought me back to the door of the temple, and behold, water was issuing from below the threshold of the temple toward the east... And wherever the river goes, every living creature that swarms will live..."
+  },
+  {
+    "text": "What effect does the river from the Temple have on the Dead Sea?",
+    "options": ["It dries it up", "It makes the water fresh and full of fish", "It makes it saltier", "It turns it red"],
+    "correctAnswerIndex": 1,
+    "book": "Ezekiel",
+    "difficulty": "Medium",
+    "verseReference": "Ezekiel 47:8-9",
+    "verseText": "And he said to me, “This water flows toward the eastern region and goes down into the Arabah, and enters the sea; when the water flows into the sea, the water will become fresh. And wherever the river goes, every living creature that swarms will live, and there will be very many fish."
+  },
+  {
+    "text": "What grows on the banks of the river flowing from the Temple?",
+    "options": ["Weeds", "Desert shrubs", "Trees whose leaves are for healing and fruit for food", "Grapevines"],
+    "correctAnswerIndex": 2,
+    "book": "Ezekiel",
+    "difficulty": "Easy",
+    "verseReference": "Ezekiel 47:12",
+    "verseText": "And on the banks, on both sides of the river, there will grow all kinds of trees for food. Their leaves will not wither, nor their fruit fail... their fruit will be for food, and their leaves for healing.”"
+  },
+  {
+    "text": "How is the land divided among the tribes in Ezekiel's final vision?",
+    "options": ["Based on population", "By casting lots", "In parallel strips from east to west, with a central portion for the prince, priests, and Temple", "Judah gets the largest portion"],
+    "correctAnswerIndex": 2,
+    "book": "Ezekiel",
+    "difficulty": "Medium",
+    "verseReference": "Ezekiel 45:1-8; 48:1-29",
+    "verseText": "(Describes the holy district ('terumah') and the tribal allotments north and south of it)."
   }
 ]

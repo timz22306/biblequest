@@ -40,6 +40,58 @@
 		AEDD2C672DB5D9E5005722C1 /* 2_kings.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C652DB5D9E5005722C1 /* 2_kings.json */; };
 		AEDD2C6A2DB5E83B005722C1 /* 1_chronicles.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C682DB5E83B005722C1 /* 1_chronicles.json */; };
 		AEDD2C6B2DB5E83B005722C1 /* 2_chronicles.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C692DB5E83B005722C1 /* 2_chronicles.json */; };
+		AEDD2CA02DB888B7005722C1 /* job.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C6C2DB888B1005722C1 /* job.json */; };
+		AEDD2CA12DB888B7005722C1 /* esther.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C6D2DB888B1005722C1 /* esther.json */; };
+		AEDD2CA22DB888B7005722C1 /* acts.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C6E2DB888B1005722C1 /* acts.json */; };
+		AEDD2CA32DB888B7005722C1 /* 1_john.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C6F2DB888B1005722C1 /* 1_john.json */; };
+		AEDD2CA42DB888B7005722C1 /* zephaniah.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C702DB888B2005722C1 /* zephaniah.json */; };
+		AEDD2CA52DB888B7005722C1 /* colossians.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C712DB888B2005722C1 /* colossians.json */; };
+		AEDD2CA62DB888B7005722C1 /* galatians.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C722DB888B2005722C1 /* galatians.json */; };
+		AEDD2CA72DB888B7005722C1 /* revelation.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C732DB888B2005722C1 /* revelation.json */; };
+		AEDD2CA82DB888B7005722C1 /* proverbs.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C742DB888B2005722C1 /* proverbs.json */; };
+		AEDD2CA92DB888B7005722C1 /* ecclesiastes.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C752DB888B2005722C1 /* ecclesiastes.json */; };
+		AEDD2CAA2DB888B7005722C1 /* romans.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C762DB888B2005722C1 /* romans.json */; };
+		AEDD2CAB2DB888B7005722C1 /* amos.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C772DB888B2005722C1 /* amos.json */; };
+		AEDD2CAC2DB888B7005722C1 /* zechariah.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C782DB888B3005722C1 /* zechariah.json */; };
+		AEDD2CAD2DB888B7005722C1 /* isaiah.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C792DB888B3005722C1 /* isaiah.json */; };
+		AEDD2CAE2DB888B7005722C1 /* psalms.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C7A2DB888B3005722C1 /* psalms.json */; };
+		AEDD2CAF2DB888B7005722C1 /* habakkuk.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C7B2DB888B3005722C1 /* habakkuk.json */; };
+		AEDD2CB02DB888B7005722C1 /* nehemiah.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C7C2DB888B3005722C1 /* nehemiah.json */; };
+		AEDD2CB12DB888B7005722C1 /* song_of_solomon.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C7D2DB888B3005722C1 /* song_of_solomon.json */; };
+		AEDD2CB22DB888B7005722C1 /* luke.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C7E2DB888B3005722C1 /* luke.json */; };
+		AEDD2CB32DB888B7005722C1 /* james.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C7F2DB888B3005722C1 /* james.json */; };
+		AEDD2CB42DB888B7005722C1 /* micah.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C802DB888B3005722C1 /* micah.json */; };
+		AEDD2CB52DB888B7005722C1 /* nahum.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C812DB888B3005722C1 /* nahum.json */; };
+		AEDD2CB62DB888B7005722C1 /* matthew.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C822DB888B4005722C1 /* matthew.json */; };
+		AEDD2CB72DB888B7005722C1 /* hosea.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C832DB888B4005722C1 /* hosea.json */; };
+		AEDD2CB82DB888B7005722C1 /* jeremiah.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C842DB888B4005722C1 /* jeremiah.json */; };
+		AEDD2CB92DB888B7005722C1 /* obadiah.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C852DB888B4005722C1 /* obadiah.json */; };
+		AEDD2CBA2DB888B7005722C1 /* 2_timothy.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C862DB888B4005722C1 /* 2_timothy.json */; };
+		AEDD2CBB2DB888B7005722C1 /* philemon.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C872DB888B4005722C1 /* philemon.json */; };
+		AEDD2CBC2DB888B7005722C1 /* philippians.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C882DB888B4005722C1 /* philippians.json */; };
+		AEDD2CBD2DB888B7005722C1 /* joel.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C892DB888B4005722C1 /* joel.json */; };
+		AEDD2CBE2DB888B7005722C1 /* daniel.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C8A2DB888B4005722C1 /* daniel.json */; };
+		AEDD2CBF2DB888B7005722C1 /* lamentations.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C8B2DB888B5005722C1 /* lamentations.json */; };
+		AEDD2CC02DB888B7005722C1 /* jonah.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C8C2DB888B5005722C1 /* jonah.json */; };
+		AEDD2CC12DB888B7005722C1 /* john.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C8D2DB888B5005722C1 /* john.json */; };
+		AEDD2CC22DB888B7005722C1 /* jude.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C8E2DB888B5005722C1 /* jude.json */; };
+		AEDD2CC32DB888B7005722C1 /* 1_timothy.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C8F2DB888B5005722C1 /* 1_timothy.json */; };
+		AEDD2CC42DB888B7005722C1 /* 1_corinthians.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C902DB888B5005722C1 /* 1_corinthians.json */; };
+		AEDD2CC52DB888B7005722C1 /* mark.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C912DB888B5005722C1 /* mark.json */; };
+		AEDD2CC62DB888B7005722C1 /* 1_thessalonians.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C922DB888B5005722C1 /* 1_thessalonians.json */; };
+		AEDD2CC72DB888B7005722C1 /* ephesians.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C932DB888B5005722C1 /* ephesians.json */; };
+		AEDD2CC82DB888B7005722C1 /* malachi.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C942DB888B6005722C1 /* malachi.json */; };
+		AEDD2CC92DB888B7005722C1 /* 1_peter.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C952DB888B6005722C1 /* 1_peter.json */; };
+		AEDD2CCA2DB888B7005722C1 /* titus.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C962DB888B6005722C1 /* titus.json */; };
+		AEDD2CCB2DB888B7005722C1 /* haggai.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C972DB888B6005722C1 /* haggai.json */; };
+		AEDD2CCC2DB888B7005722C1 /* 2_thessalonians.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C982DB888B6005722C1 /* 2_thessalonians.json */; };
+		AEDD2CCD2DB888B7005722C1 /* 2_peter.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C992DB888B6005722C1 /* 2_peter.json */; };
+		AEDD2CCE2DB888B7005722C1 /* 2_corinthians.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C9A2DB888B6005722C1 /* 2_corinthians.json */; };
+		AEDD2CCF2DB888B7005722C1 /* ezekiel.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C9B2DB888B6005722C1 /* ezekiel.json */; };
+		AEDD2CD02DB888B7005722C1 /* hebrews.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C9C2DB888B6005722C1 /* hebrews.json */; };
+		AEDD2CD12DB888B7005722C1 /* ezra.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C9D2DB888B7005722C1 /* ezra.json */; };
+		AEDD2CD22DB888B7005722C1 /* 3_john.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C9E2DB888B7005722C1 /* 3_john.json */; };
+		AEDD2CD32DB888B7005722C1 /* 2_john.json in Resources */ = {isa = PBXBuildFile; fileRef = AEDD2C9F2DB888B7005722C1 /* 2_john.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -98,6 +150,58 @@
 		AEDD2C652DB5D9E5005722C1 /* 2_kings.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = 2_kings.json; path = REA/Data/2_kings.json; sourceTree = SOURCE_ROOT; };
 		AEDD2C682DB5E83B005722C1 /* 1_chronicles.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = 1_chronicles.json; path = REA/Data/1_chronicles.json; sourceTree = SOURCE_ROOT; };
 		AEDD2C692DB5E83B005722C1 /* 2_chronicles.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = 2_chronicles.json; path = REA/Data/2_chronicles.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C6C2DB888B1005722C1 /* job.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = job.json; path = REA/Data/job.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C6D2DB888B1005722C1 /* esther.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = esther.json; path = REA/Data/esther.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C6E2DB888B1005722C1 /* acts.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = acts.json; path = REA/Data/acts.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C6F2DB888B1005722C1 /* 1_john.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = 1_john.json; path = REA/Data/1_john.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C702DB888B2005722C1 /* zephaniah.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = zephaniah.json; path = REA/Data/zephaniah.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C712DB888B2005722C1 /* colossians.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = colossians.json; path = REA/Data/colossians.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C722DB888B2005722C1 /* galatians.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = galatians.json; path = REA/Data/galatians.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C732DB888B2005722C1 /* revelation.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = revelation.json; path = REA/Data/revelation.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C742DB888B2005722C1 /* proverbs.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = proverbs.json; path = REA/Data/proverbs.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C752DB888B2005722C1 /* ecclesiastes.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = ecclesiastes.json; path = REA/Data/ecclesiastes.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C762DB888B2005722C1 /* romans.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = romans.json; path = REA/Data/romans.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C772DB888B2005722C1 /* amos.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = amos.json; path = REA/Data/amos.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C782DB888B3005722C1 /* zechariah.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = zechariah.json; path = REA/Data/zechariah.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C792DB888B3005722C1 /* isaiah.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = isaiah.json; path = REA/Data/isaiah.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C7A2DB888B3005722C1 /* psalms.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = psalms.json; path = REA/Data/psalms.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C7B2DB888B3005722C1 /* habakkuk.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = habakkuk.json; path = REA/Data/habakkuk.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C7C2DB888B3005722C1 /* nehemiah.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = nehemiah.json; path = REA/Data/nehemiah.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C7D2DB888B3005722C1 /* song_of_solomon.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = song_of_solomon.json; path = REA/Data/song_of_solomon.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C7E2DB888B3005722C1 /* luke.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = luke.json; path = REA/Data/luke.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C7F2DB888B3005722C1 /* james.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = james.json; path = REA/Data/james.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C802DB888B3005722C1 /* micah.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = micah.json; path = REA/Data/micah.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C812DB888B3005722C1 /* nahum.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = nahum.json; path = REA/Data/nahum.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C822DB888B4005722C1 /* matthew.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = matthew.json; path = REA/Data/matthew.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C832DB888B4005722C1 /* hosea.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = hosea.json; path = REA/Data/hosea.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C842DB888B4005722C1 /* jeremiah.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = jeremiah.json; path = REA/Data/jeremiah.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C852DB888B4005722C1 /* obadiah.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = obadiah.json; path = REA/Data/obadiah.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C862DB888B4005722C1 /* 2_timothy.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = 2_timothy.json; path = REA/Data/2_timothy.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C872DB888B4005722C1 /* philemon.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = philemon.json; path = REA/Data/philemon.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C882DB888B4005722C1 /* philippians.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = philippians.json; path = REA/Data/philippians.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C892DB888B4005722C1 /* joel.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = joel.json; path = REA/Data/joel.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C8A2DB888B4005722C1 /* daniel.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = daniel.json; path = REA/Data/daniel.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C8B2DB888B5005722C1 /* lamentations.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = lamentations.json; path = REA/Data/lamentations.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C8C2DB888B5005722C1 /* jonah.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = jonah.json; path = REA/Data/jonah.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C8D2DB888B5005722C1 /* john.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = john.json; path = REA/Data/john.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C8E2DB888B5005722C1 /* jude.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = jude.json; path = REA/Data/jude.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C8F2DB888B5005722C1 /* 1_timothy.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = 1_timothy.json; path = REA/Data/1_timothy.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C902DB888B5005722C1 /* 1_corinthians.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = 1_corinthians.json; path = REA/Data/1_corinthians.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C912DB888B5005722C1 /* mark.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = mark.json; path = REA/Data/mark.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C922DB888B5005722C1 /* 1_thessalonians.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = 1_thessalonians.json; path = REA/Data/1_thessalonians.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C932DB888B5005722C1 /* ephesians.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = ephesians.json; path = REA/Data/ephesians.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C942DB888B6005722C1 /* malachi.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = malachi.json; path = REA/Data/malachi.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C952DB888B6005722C1 /* 1_peter.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = 1_peter.json; path = REA/Data/1_peter.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C962DB888B6005722C1 /* titus.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = titus.json; path = REA/Data/titus.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C972DB888B6005722C1 /* haggai.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = haggai.json; path = REA/Data/haggai.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C982DB888B6005722C1 /* 2_thessalonians.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = 2_thessalonians.json; path = REA/Data/2_thessalonians.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C992DB888B6005722C1 /* 2_peter.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = 2_peter.json; path = REA/Data/2_peter.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C9A2DB888B6005722C1 /* 2_corinthians.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = 2_corinthians.json; path = REA/Data/2_corinthians.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C9B2DB888B6005722C1 /* ezekiel.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = ezekiel.json; path = REA/Data/ezekiel.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C9C2DB888B6005722C1 /* hebrews.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = hebrews.json; path = REA/Data/hebrews.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C9D2DB888B7005722C1 /* ezra.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = ezra.json; path = REA/Data/ezra.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C9E2DB888B7005722C1 /* 3_john.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = 3_john.json; path = REA/Data/3_john.json; sourceTree = SOURCE_ROOT; };
+		AEDD2C9F2DB888B7005722C1 /* 2_john.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = 2_john.json; path = REA/Data/2_john.json; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -222,6 +326,58 @@
 		AEA276242DAF3BF8007618C1 /* BookData */ = {
 			isa = PBXGroup;
 			children = (
+				AEDD2C902DB888B5005722C1 /* 1_corinthians.json */,
+				AEDD2C6F2DB888B1005722C1 /* 1_john.json */,
+				AEDD2C952DB888B6005722C1 /* 1_peter.json */,
+				AEDD2C922DB888B5005722C1 /* 1_thessalonians.json */,
+				AEDD2C8F2DB888B5005722C1 /* 1_timothy.json */,
+				AEDD2C9A2DB888B6005722C1 /* 2_corinthians.json */,
+				AEDD2C9F2DB888B7005722C1 /* 2_john.json */,
+				AEDD2C992DB888B6005722C1 /* 2_peter.json */,
+				AEDD2C982DB888B6005722C1 /* 2_thessalonians.json */,
+				AEDD2C862DB888B4005722C1 /* 2_timothy.json */,
+				AEDD2C9E2DB888B7005722C1 /* 3_john.json */,
+				AEDD2C6E2DB888B1005722C1 /* acts.json */,
+				AEDD2C772DB888B2005722C1 /* amos.json */,
+				AEDD2C712DB888B2005722C1 /* colossians.json */,
+				AEDD2C8A2DB888B4005722C1 /* daniel.json */,
+				AEDD2C752DB888B2005722C1 /* ecclesiastes.json */,
+				AEDD2C932DB888B5005722C1 /* ephesians.json */,
+				AEDD2C6D2DB888B1005722C1 /* esther.json */,
+				AEDD2C9B2DB888B6005722C1 /* ezekiel.json */,
+				AEDD2C9D2DB888B7005722C1 /* ezra.json */,
+				AEDD2C722DB888B2005722C1 /* galatians.json */,
+				AEDD2C7B2DB888B3005722C1 /* habakkuk.json */,
+				AEDD2C972DB888B6005722C1 /* haggai.json */,
+				AEDD2C9C2DB888B6005722C1 /* hebrews.json */,
+				AEDD2C832DB888B4005722C1 /* hosea.json */,
+				AEDD2C792DB888B3005722C1 /* isaiah.json */,
+				AEDD2C7F2DB888B3005722C1 /* james.json */,
+				AEDD2C842DB888B4005722C1 /* jeremiah.json */,
+				AEDD2C6C2DB888B1005722C1 /* job.json */,
+				AEDD2C892DB888B4005722C1 /* joel.json */,
+				AEDD2C8D2DB888B5005722C1 /* john.json */,
+				AEDD2C8C2DB888B5005722C1 /* jonah.json */,
+				AEDD2C8E2DB888B5005722C1 /* jude.json */,
+				AEDD2C8B2DB888B5005722C1 /* lamentations.json */,
+				AEDD2C7E2DB888B3005722C1 /* luke.json */,
+				AEDD2C942DB888B6005722C1 /* malachi.json */,
+				AEDD2C912DB888B5005722C1 /* mark.json */,
+				AEDD2C822DB888B4005722C1 /* matthew.json */,
+				AEDD2C802DB888B3005722C1 /* micah.json */,
+				AEDD2C812DB888B3005722C1 /* nahum.json */,
+				AEDD2C7C2DB888B3005722C1 /* nehemiah.json */,
+				AEDD2C852DB888B4005722C1 /* obadiah.json */,
+				AEDD2C872DB888B4005722C1 /* philemon.json */,
+				AEDD2C882DB888B4005722C1 /* philippians.json */,
+				AEDD2C742DB888B2005722C1 /* proverbs.json */,
+				AEDD2C7A2DB888B3005722C1 /* psalms.json */,
+				AEDD2C732DB888B2005722C1 /* revelation.json */,
+				AEDD2C762DB888B2005722C1 /* romans.json */,
+				AEDD2C7D2DB888B3005722C1 /* song_of_solomon.json */,
+				AEDD2C962DB888B6005722C1 /* titus.json */,
+				AEDD2C782DB888B3005722C1 /* zechariah.json */,
+				AEDD2C702DB888B2005722C1 /* zephaniah.json */,
 				AEDD2C682DB5E83B005722C1 /* 1_chronicles.json */,
 				AEDD2C692DB5E83B005722C1 /* 2_chronicles.json */,
 				AEDD2C642DB5D9E5005722C1 /* 1_kings.json */,
@@ -345,21 +501,73 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AEDD2CB02DB888B7005722C1 /* nehemiah.json in Resources */,
+				AEDD2CCC2DB888B7005722C1 /* 2_thessalonians.json in Resources */,
 				AEDD2C662DB5D9E5005722C1 /* 1_kings.json in Resources */,
 				AEDD2C612DB45F84005722C1 /* ruth.json in Resources */,
+				AEDD2CCA2DB888B7005722C1 /* titus.json in Resources */,
 				AE3DB3B72DA192BF0032901D /* Preview Assets.xcassets in Resources */,
+				AEDD2CAE2DB888B7005722C1 /* psalms.json in Resources */,
+				AEDD2CCF2DB888B7005722C1 /* ezekiel.json in Resources */,
+				AEDD2CD02DB888B7005722C1 /* hebrews.json in Resources */,
 				AEDD2C6A2DB5E83B005722C1 /* 1_chronicles.json in Resources */,
+				AEDD2CB62DB888B7005722C1 /* matthew.json in Resources */,
+				AEDD2CB12DB888B7005722C1 /* song_of_solomon.json in Resources */,
+				AEDD2CC02DB888B7005722C1 /* jonah.json in Resources */,
 				AE68B9112DB29A870010C529 /* biblequest_logo2.png in Resources */,
+				AEDD2CAD2DB888B7005722C1 /* isaiah.json in Resources */,
+				AEDD2CBB2DB888B7005722C1 /* philemon.json in Resources */,
+				AEDD2CC32DB888B7005722C1 /* 1_timothy.json in Resources */,
 				AEDD2C6B2DB5E83B005722C1 /* 2_chronicles.json in Resources */,
+				AEDD2CC42DB888B7005722C1 /* 1_corinthians.json in Resources */,
+				AEDD2CB52DB888B7005722C1 /* nahum.json in Resources */,
+				AEDD2CAF2DB888B7005722C1 /* habakkuk.json in Resources */,
+				AEDD2CB72DB888B7005722C1 /* hosea.json in Resources */,
 				AED148172DB2E1D9008FE102 /* leviticus.json in Resources */,
+				AEDD2CBF2DB888B7005722C1 /* lamentations.json in Resources */,
+				AEDD2CD12DB888B7005722C1 /* ezra.json in Resources */,
+				AEDD2CC12DB888B7005722C1 /* john.json in Resources */,
 				AEDD2C672DB5D9E5005722C1 /* 2_kings.json in Resources */,
+				AEDD2CA52DB888B7005722C1 /* colossians.json in Resources */,
+				AEDD2CBA2DB888B7005722C1 /* 2_timothy.json in Resources */,
+				AEDD2CA92DB888B7005722C1 /* ecclesiastes.json in Resources */,
+				AEDD2CA22DB888B7005722C1 /* acts.json in Resources */,
+				AEDD2CAC2DB888B7005722C1 /* zechariah.json in Resources */,
+				AEDD2CCB2DB888B7005722C1 /* haggai.json in Resources */,
+				AEDD2CA82DB888B7005722C1 /* proverbs.json in Resources */,
+				AEDD2CA72DB888B7005722C1 /* revelation.json in Resources */,
+				AEDD2CBD2DB888B7005722C1 /* joel.json in Resources */,
+				AEDD2CA62DB888B7005722C1 /* galatians.json in Resources */,
+				AEDD2CA32DB888B7005722C1 /* 1_john.json in Resources */,
+				AEDD2CC62DB888B7005722C1 /* 1_thessalonians.json in Resources */,
 				AED1481B2DB35436008FE102 /* deuteronomy.json in Resources */,
+				AEDD2CB22DB888B7005722C1 /* luke.json in Resources */,
 				AE3DB3B32DA192BF0032901D /* Assets.xcassets in Resources */,
+				AEDD2CB42DB888B7005722C1 /* micah.json in Resources */,
+				AEDD2CA12DB888B7005722C1 /* esther.json in Resources */,
+				AEDD2CBE2DB888B7005722C1 /* daniel.json in Resources */,
 				AED1481F2DB3CB95008FE102 /* judges.json in Resources */,
+				AEDD2CC92DB888B7005722C1 /* 1_peter.json in Resources */,
+				AEDD2CB92DB888B7005722C1 /* obadiah.json in Resources */,
+				AEDD2CCE2DB888B7005722C1 /* 2_corinthians.json in Resources */,
+				AEDD2CD32DB888B7005722C1 /* 2_john.json in Resources */,
+				AEDD2CAA2DB888B7005722C1 /* romans.json in Resources */,
+				AEDD2CA02DB888B7005722C1 /* job.json in Resources */,
+				AEDD2CC82DB888B7005722C1 /* malachi.json in Resources */,
+				AEDD2CCD2DB888B7005722C1 /* 2_peter.json in Resources */,
+				AEDD2CC72DB888B7005722C1 /* ephesians.json in Resources */,
+				AEDD2CBC2DB888B7005722C1 /* philippians.json in Resources */,
 				AEDD2C602DB45F84005722C1 /* 1_samuel.json in Resources */,
+				AEDD2CA42DB888B7005722C1 /* zephaniah.json in Resources */,
 				AED148152DB2DAEE008FE102 /* genesis.json in Resources */,
 				AED1481E2DB3CB95008FE102 /* joshua.json in Resources */,
+				AEDD2CC22DB888B7005722C1 /* jude.json in Resources */,
 				AEA276282DAF3C1F007618C1 /* exodus.json in Resources */,
+				AEDD2CB32DB888B7005722C1 /* james.json in Resources */,
+				AEDD2CC52DB888B7005722C1 /* mark.json in Resources */,
+				AEDD2CB82DB888B7005722C1 /* jeremiah.json in Resources */,
+				AEDD2CD22DB888B7005722C1 /* 3_john.json in Resources */,
+				AEDD2CAB2DB888B7005722C1 /* amos.json in Resources */,
 				AEDD2C632DB48A91005722C1 /* 2_samuel.json in Resources */,
 				AED148192DB35035008FE102 /* numbers.json in Resources */,
 			);

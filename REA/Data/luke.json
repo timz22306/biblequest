@@ -88,5 +88,356 @@
     "difficulty": "Medium",
     "verseReference": "Luke 1:15, 35, 41; 3:16, 22; 4:1, 14, 18; 10:21; 11:1-13; 12:12",
     "verseText": "(Luke frequently mentions the Holy Spirit's activity and Jesus' or others' engagement in prayer)."
+  },
+  {
+    "text": "Who was the angel that appeared to Zechariah and later to Mary?",
+    "options": ["Michael", "Raphael", "Gabriel", "Uriel"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Easy",
+    "verseReference": "Luke 1:19, 26",
+    "verseText": "And the angel answered him, “I am Gabriel. I stand in the presence of God...” ... In the sixth month the angel Gabriel was sent from God to a city of Galilee named Nazareth,"
+  },
+  {
+    "text": "What sign was given to Zechariah because he doubted the angel's message about John's birth?",
+    "options": ["He became blind", "He became mute (unable to speak)", "He became deaf", "He became lame"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 1:20",
+    "verseText": "And behold, you will be silent and unable to speak until the day that these things take place, because you did not believe my words, which will be fulfilled in their time.”"
+  },
+  {
+    "text": "What is the name of Mary's song of praise recorded in Luke 1?",
+    "options": ["The Benedictus", "The Nunc Dimittis", "The Magnificat", "The Gloria"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 1:46-55",
+    "verseText": "And Mary said, “My soul magnifies the Lord, and my spirit rejoices in God my Savior...”"
+  },
+  {
+    "text": "What is the name of Zechariah's prophecy/song after John the Baptist's birth (Luke 1)?",
+    "options": ["The Magnificat", "The Benedictus", "The Nunc Dimittis", "The Ave Maria"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 1:67-79",
+    "verseText": "And his father Zechariah was filled with the Holy Spirit and prophesied, saying, “Blessed be the Lord God of Israel, for he has visited and redeemed his people...”"
+  },
+  {
+    "text": "Why did Joseph and Mary travel to Bethlehem before Jesus' birth (Luke 2)?",
+    "options": ["To visit relatives", "To attend a festival", "To register for a census decreed by Caesar Augustus", "To escape Herod"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Easy",
+    "verseReference": "Luke 2:1, 4",
+    "verseText": "In those days a decree went out from Caesar Augustus that all the world should be registered... And Joseph also went up from Galilee, from the town of Nazareth, to Judea, to the city of David, which is called Bethlehem, because he was of the house and lineage of David,"
+  },
+  {
+    "text": "Who were the first people to be told about Jesus' birth by an angel, according to Luke 2?",
+    "options": ["The wise men", "King Herod", "Shepherds in the field", "The priests in the temple"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Easy",
+    "verseReference": "Luke 2:8-9",
+    "verseText": "And in the same region there were shepherds out in the field, keeping watch over their flock by night. And an angel of the Lord appeared to them..."
+  },
+  {
+    "text": "Who were the two elderly, devout people who recognized the infant Jesus as the Messiah when he was presented in the Temple (Luke 2)?",
+    "options": ["Zechariah and Elizabeth", "Annas and Caiaphas", "Simeon and Anna", "Joseph of Arimathea and Nicodemus"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 2:25, 36-38",
+    "verseText": "Now there was a man in Jerusalem, whose name was Simeon... And there was a prophetess, Anna, the daughter of Phanuel..."
+  },
+  {
+    "text": "What event from Jesus' childhood is uniquely recorded in Luke 2, when he was 12 years old?",
+    "options": ["His baptism", "His first miracle", "His visit to the Temple in Jerusalem, where he stayed behind and conversed with the teachers", "His temptation"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Easy",
+    "verseReference": "Luke 2:41-47",
+    "verseText": "Now his parents went to Jerusalem every year at the Feast of the Passover. And when he was twelve years old, they went up according to custom... After three days they found him in the temple, sitting among the teachers, listening to them and asking them questions."
+  },
+  {
+    "text": "In Luke 4, Jesus reads from which prophet in the synagogue at Nazareth, applying the prophecy to himself?",
+    "options": ["Jeremiah", "Ezekiel", "Isaiah", "Daniel"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 4:17-19, 21",
+    "verseText": "And the scroll of the prophet Isaiah was given to him. He unrolled the scroll and found the place where it was written, “The Spirit of the Lord is upon me, because he has anointed me to proclaim good news to the poor...” And he began to say to them, “Today this Scripture has been fulfilled in your hearing.”"
+  },
+  {
+    "text": "What was the reaction of the people in Nazareth after Jesus applied the prophecy from Isaiah to himself (Luke 4)?",
+    "options": ["They rejoiced", "They were filled with wrath and tried to throw him off a cliff", "They asked him to stay", "They ignored him"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 4:28-29",
+    "verseText": "When they heard these things, all in the synagogue were filled with wrath. And they rose up and drove him out of the town and brought him to the brow of the hill on which their town was built, so that they could throw him down the cliff."
+  },
+  {
+    "text": "What miracle involving fish did Jesus perform before calling Simon Peter, James, and John (Luke 5)?",
+    "options": ["Multiplying fish", "Walking on water to the fishing boat", "Commanding a miraculous catch of fish that filled two boats", "Calming a storm while they were fishing"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 5:4, 6-7",
+    "verseText": "And when he had finished speaking, he said to Simon, “Put out into the deep and let down your nets for a catch.”... And when they had done this, they enclosed a large number of fish, and their nets were breaking. They signaled to their partners in the other boat to come and help them. And they came and filled both the boats, so that they began to sink."
+  },
+  {
+    "text": "What was Simon Peter's reaction to the miraculous catch of fish (Luke 5)?",
+    "options": ["He boasted about the catch", "He fell down at Jesus' knees, saying, 'Depart from me, for I am a sinful man, O Lord.'", "He asked Jesus how he did it", "He immediately started selling the fish"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 5:8",
+    "verseText": "But when Simon Peter saw it, he fell down at Jesus' knees, saying, “Depart from me, for I am a sinful man, O Lord.”"
+  },
+  {
+    "text": "Luke's version of the Beatitudes (Luke 6) includes corresponding 'Woes'. For example, 'Blessed are you who are poor' is contrasted with...",
+    "options": ["'Woe to you who are satisfied'", "'Woe to you who are rich'", "'Woe to you who laugh now'", "'Woe to you when all people speak well of you'"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 6:20, 24",
+    "verseText": "And he lifted up his eyes on his disciples, and said: “Blessed are you who are poor, for yours is the kingdom of God... But woe to you who are rich, for you have received your consolation."
+  },
+  {
+    "text": "Which miracle, unique to Luke, involves Jesus raising a widow's only son from the dead in the town of Nain (Luke 7)?",
+    "options": ["Healing Jairus' daughter", "Raising Lazarus", "Raising the widow's son at Nain", "Healing the centurion's servant"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 7:12-15",
+    "verseText": "As he drew near to the gate of the town, behold, a man who had died was being carried out, the only son of his mother, and she was a widow... And he touched the bier, and the bearers stood still. And he said, “Young man, I say to you, arise.” And the dead man sat up and began to speak, and Jesus gave him to his mother."
+  },
+  {
+    "text": "Who anointed Jesus' feet with tears and ointment in the house of Simon the Pharisee (Luke 7)?",
+    "options": ["Mary Magdalene", "Martha", "A woman of the city, who was a sinner", "Mary, the mother of Jesus"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 7:37-38",
+    "verseText": "And behold, a woman of the city, who was a sinner, when she learned that he was reclining at table in the Pharisee's house, brought an alabaster flask of ointment, and standing behind him at his feet, weeping, she began to wet his feet with her tears and wiped them with the hair of her head and kissed his feet and anointed them with the ointment."
+  },
+  {
+    "text": "Luke 8 mentions several women who supported Jesus' ministry out of their own means. Who are specifically named?",
+    "options": ["Mary and Martha", "Salome and Joanna", "Mary Magdalene, Joanna, Susanna, and many others", "Priscilla and Lydia"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 8:2-3",
+    "verseText": "and also some women who had been healed of evil spirits and infirmities: Mary, called Magdalene, from whom seven demons had gone out, and Joanna, the wife of Chuza, Herod's household manager, and Susanna, and many others, who provided for them out of their means."
+  },
+  {
+    "text": "When James and John wanted to call down fire on a Samaritan village that rejected Jesus, what was Jesus' response (Luke 9)?",
+    "options": ["He praised their zeal", "He rebuked them", "He bypassed the village silently", "He sent other disciples instead"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 9:54-56",
+    "verseText": "And when his disciples James and John saw it, they said, “Lord, do you want us to tell fire to come down from heaven and consume them?” But he turned and rebuked them. And they went on to another village."
+  },
+  {
+    "text": "How many disciples did Jesus send out in pairs ahead of him in Luke 10 (distinct from the Twelve)?",
+    "options": ["12", "50", "70 (or 72 in some manuscripts)", "120"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 10:1",
+    "verseText": "After this the Lord appointed seventy-two others and sent them on ahead of him, two by two, into every town and place where he himself was about to go."
+  },
+  {
+    "text": "In the story of Mary and Martha (Luke 10), what did Jesus say Mary had chosen?",
+    "options": ["The easier task", "The better part (listening to his teaching)", "Her household duties", "To serve the guests"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Easy",
+    "verseReference": "Luke 10:41-42",
+    "verseText": "But the Lord answered her, “Martha, Martha, you are anxious and troubled about many things, but one thing is necessary. Mary has chosen the good portion, which will not be taken away from her.”"
+  },
+  {
+    "text": "Luke's version of the Lord's Prayer (Luke 11) is shorter than Matthew's. It begins simply with...",
+    "options": ["'Our Father in heaven'", "'Father'", "'O Lord God'", "'King of the Universe'"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 11:2",
+    "verseText": "And he said to them, “When you pray, say: “Father, hallowed be your name. Your kingdom come."
+  },
+  {
+    "text": "Which parable, unique to Luke, warns against greed and storing up earthly treasures (Luke 12)?",
+    "options": ["The Parable of the Sower", "The Parable of the Rich Fool", "The Parable of the Lost Sheep", "The Parable of the Ten Virgins"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 12:16-21",
+    "verseText": "And he told them a parable, saying, “The land of a rich man produced plentifully... But God said to him, ‘Fool! This night your soul is required of you, and the things you have prepared, whose will they be?’ So is the one who lays up treasure for himself and is not rich toward God.”"
+  },
+  {
+    "text": "In Luke 13, Jesus tells a parable about a fig tree that bore no fruit. What did the owner want to do, and what did the vinedresser suggest?",
+    "options": ["Water it more / Fertilize it", "Cut it down / Give it one more year with fertilizer", "Prune it / Leave it alone", "Move it / Cut it down"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 13:6-9",
+    "verseText": "And he told this parable: “A man had a fig tree planted in his vineyard, and he came seeking fruit on it and found none. And he said to the vinedresser, ‘Look, for three years now I have come seeking fruit on this fig tree, and I find none. Cut it down...’ And he answered him, ‘Sir, let it alone this year also, until I dig around it and put on manure. Then if it should bear fruit next year, well and good; but if not, you can cut it down.’”"
+  },
+  {
+    "text": "Which parable unique to Luke describes guests making excuses for not attending a great banquet (Luke 14)?",
+    "options": ["The Parable of the Wedding Feast", "The Parable of the Great Banquet", "The Parable of the Ten Virgins", "The Parable of the Talents"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 14:16-24",
+    "verseText": "But he said to him, “A man once gave a great banquet and invited many. And at the time for the banquet he sent his servant to say to those who had been invited, ‘Come, for everything is now ready.’ But they all alike began to make excuses..."
+  },
+  {
+    "text": "Luke 15 contains three parables about finding something lost. What are they?",
+    "options": ["Lost Son, Lost Coin, Lost Time", "Lost Sheep, Lost Coin, Lost (Prodigal) Son", "Lost Opportunity, Lost Friend, Lost Hope", "Lost Key, Lost Scroll, Lost Path"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Easy",
+    "verseReference": "Luke 15:4, 8, 11",
+    "verseText": "“What man of you, having a hundred sheep, if he has lost one of them... Or what woman, having ten silver coins, if she loses one coin... And he said, “There was a man who had two sons..."
+  },
+  {
+    "text": "Which parable, unique to Luke, tells of a shrewd manager who reduces debts owed to his master (Luke 16)?",
+    "options": ["The Parable of the Talents", "The Parable of the Unjust Steward", "The Parable of the Rich Fool", "The Parable of the Workers in the Vineyard"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Hard",
+    "verseReference": "Luke 16:1-8",
+    "verseText": "He also said to the disciples, “There was a rich man who had a manager, and charges were brought to him that this man was wasting his possessions... The master commended the dishonest manager for his shrewdness."
+  },
+  {
+    "text": "Which parable, unique to Luke, describes the afterlife fates of a poor man and a wealthy man (Luke 16)?",
+    "options": ["The Parable of the Sheep and Goats", "The Parable of the Rich Man and Lazarus", "The Parable of the Sower", "The Parable of the Ten Virgins"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 16:19-31",
+    "verseText": "“There was a rich man who was clothed in purple and fine linen and who feasted sumptuously every day. And at his gate was laid a poor man named Lazarus, covered with sores..."
+  },
+  {
+    "text": "Out of ten lepers healed by Jesus in Luke 17, how many returned to thank him?",
+    "options": ["None", "One (a Samaritan)", "Five", "All ten"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Easy",
+    "verseReference": "Luke 17:15-16",
+    "verseText": "Then one of them, when he saw that he was healed, turned back, praising God with a loud voice; and he fell on his face at Jesus' feet, giving him thanks. Now he was a Samaritan."
+  },
+  {
+    "text": "Which parable, unique to Luke, contrasts the prayers of a Pharisee and a tax collector in the temple (Luke 18)?",
+    "options": ["The Parable of the Persistent Widow", "The Parable of the Pharisee and the Tax Collector", "The Parable of the Friend at Midnight", "The Parable of the Good Samaritan"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Easy",
+    "verseReference": "Luke 18:10-14",
+    "verseText": "“Two men went up into the temple to pray, one a Pharisee and the other a tax collector. The Pharisee, standing by himself, prayed thus... But the tax collector, standing far off, would not even lift up his eyes to heaven, but beat his breast, saying, ‘God, be merciful to me, a sinner!’"
+  },
+  {
+    "text": "Who was the short tax collector who climbed a sycamore tree to see Jesus and later hosted him (Luke 19)?",
+    "options": ["Matthew", "Levi", "Zacchaeus", "Simon"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Easy",
+    "verseReference": "Luke 19:2-5",
+    "verseText": "And behold, there was a man named Zacchaeus. He was a chief tax collector and was rich. And he was seeking to see who Jesus was, but on account of the crowd he could not, because he was small in stature. So he ran on ahead and climbed up into a sycamore tree to see him... And when Jesus came to the place, he looked up and said to him, “Zacchaeus, hurry and come down, for I must stay at your house today.”"
+  },
+  {
+    "text": "What did Zacchaeus promise to do after encountering Jesus (Luke 19)?",
+    "options": ["Build a synagogue", "Give half his possessions to the poor and repay anyone he cheated fourfold", "Follow Jesus as a disciple", "Leave his profession"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 19:8",
+    "verseText": "And Zacchaeus stood and said to the Lord, “Behold, Lord, the half of my goods I give to the poor. And if I have defrauded anyone of anything, I restore it fourfold.”"
+  },
+  {
+    "text": "What emotion did Jesus express as he approached Jerusalem and wept over the city (Luke 19)?",
+    "options": ["Anger", "Joy", "Sorrow/Lament", "Indifference"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 19:41-42",
+    "verseText": "And when he drew near and saw the city, he wept over it, saying, “Would that you, even you, had known on this day the things that make for peace! But now they are hidden from your eyes."
+  },
+  {
+    "text": "In Luke's account of the Garden of Gethsemane, what detail is mentioned about Jesus' intense prayer (Luke 22)?",
+    "options": ["He prayed three times", "An angel strengthened him and his sweat became like great drops of blood", "The disciples stayed awake", "He rebuked Peter"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 22:43-44",
+    "verseText": "And there appeared to him an angel from heaven, strengthening him. And being in an agony he prayed more earnestly; and his sweat became like great drops of blood falling down to the ground."
+  },
+  {
+    "text": "Besides Pilate, before which other ruler was Jesus sent during his trial, according to Luke 23?",
+    "options": ["Caesar", "Herod Antipas", "Agrippa", "Felix"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 23:7",
+    "verseText": "And when he learned that he belonged to Herod's jurisdiction, he sent him over to Herod, who was himself in Jerusalem at that time."
+  },
+  {
+    "text": "What did Jesus say from the cross regarding his persecutors, according to Luke 23?",
+    "options": ["'My God, why...'", "'It is finished'", "'Father, forgive them, for they know not what they do.'", "'Behold your mother'"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Easy",
+    "verseReference": "Luke 23:34",
+    "verseText": "And Jesus said, “Father, forgive them, for they know not what they do.”"
+  },
+  {
+    "text": "What promise did Jesus make to one of the criminals crucified with him (Luke 23)?",
+    "options": ["'You will be healed'", "'Your family will be cared for'", "'Truly, I say to you, today you will be with me in Paradise.'", "'You will rise again'"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Easy",
+    "verseReference": "Luke 23:42-43",
+    "verseText": "And he said, “Jesus, remember me when you come into your kingdom.” And he said to him, “Truly, I say to you, today you will be with me in Paradise.”"
+  },
+  {
+    "text": "What were the disciples on the road to Emmaus discussing when Jesus joined them (Luke 24)?",
+    "options": ["The weather", "Their travel plans", "The recent events concerning Jesus' crucifixion and reports of his resurrection", "Roman politics"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 24:14, 19",
+    "verseText": "And they were talking with each other about all these things that had happened... And he said to them, “What things?” And they said to him, “Concerning Jesus of Nazareth, a man who was a prophet mighty in deed and word before God and all the people..."
+  },
+  {
+    "text": "When did the disciples on the road to Emmaus recognize Jesus (Luke 24)?",
+    "options": ["When he explained the scriptures", "When he broke bread with them", "When he showed them his hands", "When he called them by name"],
+    "correctAnswerIndex": 1,
+    "book": "Luke",
+    "difficulty": "Medium",
+    "verseReference": "Luke 24:30-31",
+    "verseText": "When he was at table with them, he took the bread and blessed and broke it and gave it to them. And their eyes were opened, and they recognized him. And he vanished from their sight."
+  },
+  {
+    "text": "What did Jesus instruct his disciples to wait for in Jerusalem before his ascension (Luke 24)?",
+    "options": ["A sign from heaven", "Further instructions", "The promise of the Father (power from on high/Holy Spirit)", "The arrival of Paul"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Easy",
+    "verseReference": "Luke 24:49",
+    "verseText": "And behold, I am sending the promise of my Father upon you. But stay in the city until you are clothed with power from on high.”"
+  },
+  {
+    "text": "How does the Gospel of Luke end?",
+    "options": ["With Jesus' death", "With the disciples hiding in fear", "With Jesus' ascension into heaven and the disciples worshiping and returning to Jerusalem with joy", "With the Great Commission"],
+    "correctAnswerIndex": 2,
+    "book": "Luke",
+    "difficulty": "Easy",
+    "verseReference": "Luke 24:51-53",
+    "verseText": "While he blessed them, he parted from them and was carried up into heaven. And they worshiped him and returned to Jerusalem with great joy, and were continually in the temple blessing God."
   }
 ]

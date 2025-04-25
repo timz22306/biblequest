@@ -88,5 +88,626 @@
     "difficulty": "Medium",
     "verseReference": "1 Corinthians 11:28-29",
     "verseText": "Let a person examine himself, then, and so eat of the bread and drink of the cup. For anyone who eats and drinks without discerning the body eats and drinks judgment on himself."
+  },
+  {
+    "text": "Paul contrasts the 'wisdom of the world' with what in 1 Corinthians 1-2?",
+    "options": ["Greek philosophy", "Roman law", "The power of God and the message of the cross", "Jewish traditions"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 1:18, 2:4-5",
+    "verseText": "For the word of the cross is folly to those who are perishing, but to us who are being saved it is the power of God... and my speech and my message were not in plausible words of wisdom, but in demonstration of the Spirit and of power, so that your faith might not rest in the wisdom of men but in the power of God."
+  },
+  {
+    "text": "According to Paul in 1 Corinthians 3, what are believers who are still focused on worldly wisdom and divisions considered?",
+    "options": ["Mature", "Spiritual", "Carnal (infants in Christ)", "Enlightened"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 3:1-3",
+    "verseText": "But I, brothers, could not address you as spiritual people, but as people of the flesh, as infants in Christ. I fed you with milk, not solid food, for you were not ready for it. And even now you are not yet ready, for you are still of the flesh. For while there is jealousy and strife among you, are you not of the flesh and behaving only in a human way?"
+  },
+  {
+    "text": "What metaphor does Paul use in 1 Corinthians 3 to describe the church and the role of different ministers?",
+    "options": ["A ship", "A field/building", "An army", "A flock"],
+    "correctAnswerIndex": 1,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 3:6, 9",
+    "verseText": "I planted, Apollos watered, but God gave the growth... For we are God's fellow workers. You are God's field, God's building."
+  },
+  {
+    "text": "What does Paul say is the foundation laid for the church in 1 Corinthians 3?",
+    "options": ["Peter", "The Law of Moses", "Jesus Christ", "Good works"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Easy",
+    "verseReference": "1 Corinthians 3:11",
+    "verseText": "For no one can lay a foundation other than that which is laid, which is Jesus Christ."
+  },
+  {
+    "text": "In 1 Corinthians 4, what does Paul emphasize about apostles like himself?",
+    "options": ["Their power and authority", "Their wealth and status", "Their suffering, humility, and being regarded as 'fools for Christ's sake'", "Their popularity"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 4:9-10",
+    "verseText": "For I think that God has exhibited us apostles as last of all, like men sentenced to death, because we have become a spectacle to the world, to angels, and to men. We are fools for Christ's sake, but you are wise in Christ. We are weak, but you are strong. You are held in honor, but we in disrepute."
+  },
+  {
+    "text": "What action does Paul command the Corinthian church to take regarding the man living in incest (1 Cor 5)?",
+    "options": ["Ignore him", "Pray for him privately", "Remove him from their fellowship ('hand him over to Satan')", "Appoint him as a leader"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Hard",
+    "verseReference": "1 Corinthians 5:5, 13",
+    "verseText": "you are to deliver this man to Satan for the destruction of the flesh, so that his spirit may be saved in the day of the Lord... 'Purge the evil person from among you.'"
+  },
+  {
+    "text": "Why does Paul rebuke the Corinthians for taking lawsuits against fellow believers to pagan courts (1 Cor 6)?",
+    "options": ["It was too expensive", "It brought shame on the church and showed a lack of ability to judge matters themselves", "The courts were biased", "It was against Roman law"],
+    "correctAnswerIndex": 1,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 6:1, 5-6",
+    "verseText": "When one of you has a grievance against another, does he dare go to law before the unrighteous instead of the saints?... Can it be that there is no one among you wise enough to settle a dispute between the brothers, but brother goes to law against brother, and that before unbelievers?"
+  },
+  {
+    "text": "What does Paul declare the believer's body to be in 1 Corinthians 6?",
+    "options": ["Their own property", "Insignificant", "A temple of the Holy Spirit", "Destined for destruction"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Easy",
+    "verseReference": "1 Corinthians 6:19",
+    "verseText": "Or do you not know that your body is a temple of the Holy Spirit within you, whom you have from God? You are not your own,"
+  },
+  {
+    "text": "In 1 Corinthians 7, Paul advises that it is 'good for a man not to have sexual relations with a woman,' but why does he then advise marriage?",
+    "options": ["For societal status", "To have children", "Because of the temptation to sexual immorality", "To please parents"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 7:1-2",
+    "verseText": "Now concerning the matters about which you wrote: 'It is good for a man not to have sexual relations with a woman.' But because of the temptation to sexual immorality, each man should have his own wife and each woman her own husband."
+  },
+  {
+    "text": "What principle does Paul give regarding believers married to unbelievers in 1 Corinthians 7?",
+    "options": ["They must divorce immediately", "If the unbelieving spouse consents to live with them, they should not divorce", "They must convert the spouse", "They should separate but not divorce"],
+    "correctAnswerIndex": 1,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 7:12-13",
+    "verseText": "To the rest I say (I, not the Lord) that if any brother has a wife who is an unbeliever, and she consents to live with him, he should not divorce her. If any woman has a husband who is an unbeliever, and he consents to live with her, she should not divorce him."
+  },
+  {
+    "text": "Regarding food sacrificed to idols (1 Cor 8), Paul says that while an idol is nothing, what should believers be careful about?",
+    "options": ["The cost of the food", "Whether the food tastes good", "Not causing a 'weaker' brother to stumble by exercising their freedom", "Offending the priests of the idols"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 8:9",
+    "verseText": "But take care that this right of yours does not somehow become a stumbling block to the weak."
+  },
+  {
+    "text": "In 1 Corinthians 9, Paul defends his rights as an apostle but explains why he chooses not to use them. What is his stated motivation?",
+    "options": ["He didn't need the support", "To avoid hindering the gospel of Christ", "The church refused to support him", "He preferred secular work"],
+    "correctAnswerIndex": 1,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 9:12",
+    "verseText": "If others share this rightful claim on you, do not we even more? Nevertheless, we have not made use of this right, but we endure anything rather than put an obstacle in the way of the gospel of Christ."
+  },
+  {
+    "text": "What phrase does Paul use in 1 Corinthians 9 to describe his approach to evangelism among different groups?",
+    "options": ["'Speak the truth in love'", "'Become all things to all people'", "'Contend for the faith'", "'Preach the word in season and out of season'"],
+    "correctAnswerIndex": 1,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 9:22",
+    "verseText": "To the weak I became weak, that I might win the weak. I have become all things to all people, that by all means I might save some."
+  },
+  {
+    "text": "What Old Testament event does Paul use in 1 Corinthians 10 as a warning against idolatry and grumbling?",
+    "options": ["The crossing of the Red Sea", "The experiences of Israel in the wilderness", "The building of the Temple", "The conquest of Canaan"],
+    "correctAnswerIndex": 1,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 10:1-11",
+    "verseText": "(Paul recounts Israel's experiences after the Exodus - passing through the sea, being fed with manna, drinking from the rock - and their subsequent failings as warnings)."
+  },
+  {
+    "text": "What promise is given in 1 Corinthians 10:13 regarding temptation?",
+    "options": ["Believers will never be tempted", "God will not let believers be tempted beyond their ability and will provide a way of escape", "Temptation is a sign of weakness", "Only the spiritually mature can overcome temptation"],
+    "correctAnswerIndex": 1,
+    "book": "1 Corinthians",
+    "difficulty": "Easy",
+    "verseReference": "1 Corinthians 10:13",
+    "verseText": "No temptation has overtaken you that is not common to man. God is faithful, and he will not let you be tempted beyond your ability, but with the temptation he will also provide the way of escape, that you may be able to endure it."
+  },
+  {
+    "text": "In 1 Corinthians 11, Paul addresses issues related to head coverings for women during worship. What is the underlying principle he emphasizes?",
+    "options": ["Fashion trends", "Cultural conformity", "God's established order and recognizing headship", "Personal preference"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Hard",
+    "verseReference": "1 Corinthians 11:3",
+    "verseText": "But I want you to understand that the head of every man is Christ, the head of a wife is her husband, and the head of Christ is God."
+  },
+  {
+    "text": "What abuse related to the Lord's Supper was occurring in Corinth (1 Cor 11)?",
+    "options": ["They weren't using the right elements", "Divisions, with some eating and drinking excessively while others went hungry", "They were observing it too frequently", "They were excluding unbelievers"],
+    "correctAnswerIndex": 1,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 11:20-22",
+    "verseText": "When you come together, it is not the Lord's supper that you eat. For in eating, each one goes ahead with his own meal. One goes hungry, another gets drunk. What! Do you not have houses to eat and drink in? Or do you despise the church of God and humiliate those who have nothing?"
+  },
+  {
+    "text": "Paul lists various spiritual gifts in 1 Corinthians 12. What does he say is the purpose of these gifts?",
+    "options": ["Personal glory", "Creating hierarchy", "The common good", "Entertainment"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 12:7",
+    "verseText": "To each is given the manifestation of the Spirit for the common good."
+  },
+  {
+    "text": "Which spiritual gift does Paul seem to address most extensively in 1 Corinthians 12-14 due to its misuse in Corinth?",
+    "options": ["Prophecy", "Healing", "Speaking in tongues", "Teaching"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 14:1-28",
+    "verseText": "(Chapter 14 heavily focuses on regulating the use of tongues and emphasizing the greater value of prophecy for edifying the church)."
+  },
+  {
+    "text": "According to 1 Corinthians 13, what is true even if one has great faith, knowledge, or performs sacrificial acts, but lacks love?",
+    "options": ["They are still pleasing to God", "They gain nothing", "They are considered wise", "They will receive a partial reward"],
+    "correctAnswerIndex": 1,
+    "book": "1 Corinthians",
+    "difficulty": "Easy",
+    "verseReference": "1 Corinthians 13:1-3",
+    "verseText": "If I speak in the tongues of men and of angels, but have not love, I am a noisy gong or a clanging cymbal. And if I have prophetic powers, and understand all mysteries and all knowledge, and if I have all faith, so as to remove mountains, but have not love, I am nothing. If I give away all I have, and if I deliver up my body to be burned, but have not love, I gain nothing."
+  },
+  {
+    "text": "Which virtue does Paul say 'remains' and is the 'greatest' in 1 Corinthians 13:13?",
+    "options": ["Faith", "Hope", "Love", "Knowledge"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Easy",
+    "verseReference": "1 Corinthians 13:13",
+    "verseText": "So now faith, hope, and love abide, these three; but the greatest of these is love."
+  },
+  {
+    "text": "In 1 Corinthians 14, Paul contrasts speaking in tongues with prophecy. Which does he say is more beneficial for the church and why?",
+    "options": ["Tongues, because it's a sign for unbelievers", "Prophecy, because it edifies (builds up) the church", "Both are equally beneficial", "Neither, love is all that matters"],
+    "correctAnswerIndex": 1,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 14:3-4",
+    "verseText": "On the other hand, the one who prophesies speaks to people for their upbuilding and encouragement and consolation. The one who speaks in a tongue builds up himself, but the one who prophesies builds up the church."
+  },
+  {
+    "text": "What rule does Paul give for speaking in tongues in the church assembly (1 Cor 14)?",
+    "options": ["Everyone should speak at once", "It should only be done silently", "It should be done by only two or three, one at a time, and with interpretation", "It should be forbidden entirely"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 14:27-28",
+    "verseText": "If any speak in a tongue, let there be only two or at most three, and each in turn, and let someone interpret. But if there is no one to interpret, let each of them keep silent in church and speak to himself and to God."
+  },
+  {
+    "text": "What does Paul say is of 'first importance' regarding the gospel message in 1 Corinthians 15?",
+    "options": ["Jesus' miracles", "Jesus' teachings", "Christ's death for sins, burial, and resurrection", "The establishment of the church"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Easy",
+    "verseReference": "1 Corinthians 15:3-4",
+    "verseText": "For I delivered to you as of first importance what I also received: that Christ died for our sins in accordance with the Scriptures, that he was buried, that he was raised on the third day in accordance with the Scriptures,"
+  },
+  {
+    "text": "If Christ has not been raised, what does Paul say is the consequence for believers (1 Cor 15)?",
+    "options": ["Their faith is futile, they are still in their sins, and they are most to be pitied", "They should focus on earthly life", "They still have hope in God's mercy", "They should follow the Law more strictly"],
+    "correctAnswerIndex": 0,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 15:17, 19",
+    "verseText": "And if Christ has not been raised, your faith is futile and you are still in your sins... If in Christ we have hope in this life only, we are of all people most to be pitied."
+  },
+  {
+    "text": "Who does Paul refer to as the 'last Adam' in 1 Corinthians 15?",
+    "options": ["Moses", "David", "Christ", "Paul"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 15:45",
+    "verseText": "Thus it is written, “The first man Adam became a living being”; the last Adam became a life-giving spirit."
+  },
+  {
+    "text": "What analogy does Paul use in 1 Corinthians 15 to describe the relationship between the current body and the resurrection body?",
+    "options": ["A building and its blueprint", "A seed and the plant it becomes", "Clay and the finished pot", "Old clothes and new clothes"],
+    "correctAnswerIndex": 1,
+    "book": "1 Corinthians",
+    "difficulty": "Hard",
+    "verseReference": "1 Corinthians 15:36-38",
+    "verseText": "You foolish person! What you sow does not come to life unless it dies. And what you sow is not the body that is to be, but a bare kernel, perhaps of wheat or of some other grain. But God gives it a body as he has chosen, and to each kind of seed its own body."
+  },
+  {
+    "text": "What does Paul say will happen 'in a moment, in the twinkling of an eye, at the last trumpet' (1 Cor 15)?",
+    "options": ["The final judgment", "The destruction of the earth", "The dead will be raised imperishable, and the living believers will be changed", "The return of Elijah"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 15:51-52",
+    "verseText": "Behold! I tell you a mystery. We shall not all sleep, but we shall all be changed, in a moment, in the twinkling of an eye, at the last trumpet. For the trumpet will sound, and the dead will be raised imperishable, and we shall be changed."
+  },
+  {
+    "text": "What practical instruction does Paul give in 1 Corinthians 16 regarding a collection for the saints in Jerusalem?",
+    "options": ["To send money immediately", "To set aside money on the first day of the week", "To sell property", "To take a special offering during his visit"],
+    "correctAnswerIndex": 1,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 16:1-2",
+    "verseText": "Now concerning the collection for the saints: as I directed the churches of Galatia, so you also are to do. On the first day of every week, each of you is to put something aside and store it up, as he may prosper, so that there will be no collecting when I come."
+  },
+  {
+    "text": "Who does Paul mention he hopes to send to Corinth, referring to him as 'our brother' (1 Cor 16)?",
+    "options": ["Peter (Cephas)", "Barnabas", "Apollos", "Silas"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Hard",
+    "verseReference": "1 Corinthians 16:12",
+    "verseText": "Now concerning our brother Apollos, I strongly urged him to visit you with the other brothers, but it was not at all his will to come now. He will come when he has opportunity."
+  },
+  {
+    "text": "What final exhortations does Paul give in 1 Corinthians 16:13-14?",
+    "options": ["'Be watchful, stand firm in the faith, act like men, be strong. Let all that you do be done in love.'", "'Greet one another with a holy kiss.'", "'If anyone has no love for the Lord, let him be accursed.'", "'Pursue love, and earnestly desire the spiritual gifts.'"],
+    "correctAnswerIndex": 0,
+    "book": "1 Corinthians",
+    "difficulty": "Easy",
+    "verseReference": "1 Corinthians 16:13-14",
+    "verseText": "Be watchful, stand firm in the faith, act like men, be strong. Let all that you do be done in love."
+  },
+  {
+    "text": "Which household does Paul commend in 1 Corinthians 16 for devoting themselves to the service of the saints?",
+    "options": ["Chloe's household", "Stephanas' household", "Crispus' household", "Gaius' household"],
+    "correctAnswerIndex": 1,
+    "book": "1 Corinthians",
+    "difficulty": "Hard",
+    "verseReference": "1 Corinthians 16:15",
+    "verseText": "Now I urge you, brothers—you know that the household of Stephanas were the first converts in Achaia, and that they have devoted themselves to the service of the saints—"
+  },
+  {
+    "text": "What does 'Maranatha' mean, as used by Paul at the end of 1 Corinthians?",
+    "options": ["'God is great'", "'Peace be with you'", "'Our Lord, come!'", "'Grace and mercy'"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Hard",
+    "verseReference": "1 Corinthians 16:22",
+    "verseText": "If anyone has no love for the Lord, let him be accursed. Our Lord, come! (Maranatha)"
+  },
+  {
+    "text": "Paul criticizes the Corinthians for boasting about their tolerance of the man sleeping with his father's wife. What analogy does he use regarding sin's influence (1 Cor 5)?",
+    "options": ["A single spark starting a forest fire", "A little leaven leavening the whole lump", "One rotten apple spoiling the barrel", "A weed choking out good plants"],
+    "correctAnswerIndex": 1,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 5:6",
+    "verseText": "Your boasting is not good. Do you not know that a little leaven leavens the whole lump?"
+  },
+  {
+    "text": "In 1 Corinthians 6, Paul lists various types of unrighteous people who will not inherit the kingdom of God. What does he immediately remind the Corinthians afterwards?",
+    "options": ["That they were never like that", "That such were some of them, but they were washed, sanctified, and justified", "That they should avoid such people", "That judgment is coming soon"],
+    "correctAnswerIndex": 1,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 6:9-11",
+    "verseText": "Or do you not know that the unrighteous will not inherit the kingdom of God? Do not be deceived: neither the sexually immoral, nor idolaters, nor adulterers... And such were some of you. But you were washed, you were sanctified, you were justified in the name of the Lord Jesus Christ and by the Spirit of our God."
+  },
+  {
+    "text": "What principle regarding 'gray areas' or things not explicitly forbidden does Paul introduce in 1 Corinthians 6:12 and 10:23?",
+    "options": ["'Everything is permissible'", "'All things are lawful, but not all things are helpful/expedient'", "'Follow your conscience'", "'When in doubt, don't'"],
+    "correctAnswerIndex": 1,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 6:12, 10:23",
+    "verseText": "“All things are lawful for me,” but not all things are helpful. “All things are lawful for me,” but I will not be dominated by anything... “All things are lawful,” but not all things are helpful. “All things are lawful,” but not all things build up."
+  },
+  {
+    "text": "In 1 Corinthians 7, what advice does Paul give to the unmarried and widows?",
+    "options": ["They must marry", "It is good for them to remain single, as he is, but if they cannot exercise self-control, they should marry", "They should focus only on serving the church", "They should wait for a specific sign from God"],
+    "correctAnswerIndex": 1,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 7:8-9",
+    "verseText": "To the unmarried and the widows I say that it is good for them to remain single, as I am. But if they cannot exercise self-control, they should marry. For it is better to marry than to burn with passion."
+  },
+  {
+    "text": "Paul uses the analogy of running a race in 1 Corinthians 9. What is the purpose of this analogy?",
+    "options": ["To emphasize competition among believers", "To illustrate the need for self-discipline and striving for an eternal prize", "To encourage physical fitness", "To show that only one person can win"],
+    "correctAnswerIndex": 1,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 9:24-27",
+    "verseText": "Do you not know that in a race all the runners run, but only one receives the prize? So run that you may obtain it. Every athlete exercises self-control in all things... But I discipline my body and keep it under control, lest after preaching to others I myself should be disqualified."
+  },
+  {
+    "text": "What does Paul instruct the Corinthians to do when invited to eat by an unbeliever, regarding food that might have been offered to idols (1 Cor 10)?",
+    "options": ["Refuse all invitations", "Ask no questions for conscience' sake, but refuse if someone points out it was sacrificed", "Eat only vegetables", "Preach to the host about idolatry"],
+    "correctAnswerIndex": 1,
+    "book": "1 Corinthians",
+    "difficulty": "Hard",
+    "verseReference": "1 Corinthians 10:27-29",
+    "verseText": "If one of the unbelievers invites you to dinner and you are disposed to go, eat whatever is set before you without raising any question on the ground of conscience. But if someone says to you, “This has been offered in sacrifice,” then do not eat it, for the sake of the one who informed you, and for the sake of conscience—"
+  },
+  {
+    "text": "What overarching principle does Paul give in 1 Corinthians 10:31 for all actions, including eating and drinking?",
+    "options": ["Do whatever makes you happy", "Do everything for the glory of God", "Do what is culturally acceptable", "Do what benefits you most"],
+    "correctAnswerIndex": 1,
+    "book": "1 Corinthians",
+    "difficulty": "Easy",
+    "verseReference": "1 Corinthians 10:31",
+    "verseText": "So, whether you eat or drink, or whatever you do, do all to the glory of God."
+  },
+  {
+    "text": "In the analogy of the body (1 Cor 12), what does Paul say about the seemingly 'weaker' or 'less honorable' parts?",
+    "options": ["They are unnecessary", "They should be removed", "They are indispensable and treated with greater honor", "They should be hidden"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 12:22-24",
+    "verseText": "On the contrary, the parts of the body that seem to be weaker are indispensable, and on those parts of the body that we think less honorable we bestow the greater honor..."
+  },
+  {
+    "text": "What does Paul say about the gift of prophecy compared to uninterpreted tongues in terms of being a 'sign' (1 Cor 14)?",
+    "options": ["Prophecy is a sign for believers, tongues for unbelievers", "Tongues are a sign for believers, prophecy for unbelievers", "Both are signs for believers", "Neither is primarily a sign"],
+    "correctAnswerIndex": 0,
+    "book": "1 Corinthians",
+    "difficulty": "Hard",
+    "verseReference": "1 Corinthians 14:22",
+    "verseText": "Thus tongues are a sign not for believers but for unbelievers, while prophecy is a sign not for unbelievers but for believers."
+  },
+  {
+    "text": "What does Paul instruct regarding women speaking in the church assembly in 1 Corinthians 14?",
+    "options": ["They should lead the service", "They should remain silent and ask questions at home", "They can speak freely", "They should only sing"],
+    "correctAnswerIndex": 1,
+    "book": "1 Corinthians",
+    "difficulty": "Hard",
+    "verseReference": "1 Corinthians 14:34-35",
+    "verseText": "the women should keep silent in the churches. For they are not permitted to speak, but should be in submission, as the Law also says. If there is anything they desire to learn, let them ask their husbands at home. For it is shameful for a woman to speak in church."
+  },
+  {
+    "text": "Who were some of the specific people/groups Paul mentions as witnesses to the resurrected Christ in 1 Corinthians 15?",
+    "options": ["Only the apostles", "Mary Magdalene and the other women", "Cephas (Peter), the twelve, more than 500 brothers, James, all the apostles, and Paul himself", "Pilate and the Roman guards"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 15:5-8",
+    "verseText": "and that he appeared to Cephas, then to the twelve. Then he appeared to more than five hundred brothers at one time... Then he appeared to James, then to all the apostles. Last of all, as to one untimely born, he appeared also to me."
+  },
+  {
+    "text": "What enemy does Paul say will be the last to be destroyed, according to 1 Corinthians 15?",
+    "options": ["Satan", "Sin", "Death", "The Antichrist"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 15:26",
+    "verseText": "The last enemy to be destroyed is death."
+  },
+  {
+    "text": "Paul contrasts the 'natural body' with the 'spiritual body' in 1 Corinthians 15. What are the characteristics he contrasts?",
+    "options": ["Weak vs Strong", "Mortal vs Immortal", "Perishable vs Imperishable; Dishonor vs Glory; Weakness vs Power", "Visible vs Invisible"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Hard",
+    "verseReference": "1 Corinthians 15:42-44",
+    "verseText": "So is it with the resurrection of the dead. What is sown is perishable; what is raised is imperishable. It is sown in dishonor; it is raised in glory. It is sown in weakness; it is raised in power. It is sown a natural body; it is raised a spiritual body."
+  },
+  {
+    "text": "Who does Paul mention co-sent with him in the opening greeting of 1 Corinthians?",
+    "options": ["Timothy", "Titus", "Sosthenes", "Silas"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Hard",
+    "verseReference": "1 Corinthians 1:1",
+    "verseText": "Paul, called by the will of God to be an apostle of Christ Jesus, and our brother Sosthenes,"
+  },
+  {
+    "text": "Paul mentions reports he received about the Corinthian church's problems from whose household?",
+    "options": ["Stephanas'", "Apollos'", "Chloe's", "Priscilla and Aquila's"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 1:11",
+    "verseText": "For it has been reported to me by Chloe's people that there is quarreling among you, my brothers."
+  },
+  {
+    "text": "What does Paul say God chose to shame the wise and the strong (1 Cor 1)?",
+    "options": ["Angels", "Miracles", "The foolish and weak things of the world", "Powerful rhetoric"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 1:27",
+    "verseText": "But God chose what is foolish in the world to shame the wise; God chose what is weak in the world to shame the strong;"
+  },
+  {
+    "text": "According to 1 Corinthians 2, what could the 'natural person' not accept or understand?",
+    "options": ["Basic morality", "The things of the Spirit of God", "Philosophical arguments", "Historical facts"],
+    "correctAnswerIndex": 1,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 2:14",
+    "verseText": "The natural person does not accept the things of the Spirit of God, for they are folly to him, and he is not able to understand them because they are spiritually discerned."
+  },
+  {
+    "text": "What warning does Paul give about destroying God's temple (the church/believers) in 1 Corinthians 3?",
+    "options": ["God will destroy that person", "They will lose their reward", "They will be expelled from the church", "They will face persecution"],
+    "correctAnswerIndex": 0,
+    "book": "1 Corinthians",
+    "difficulty": "Hard",
+    "verseReference": "1 Corinthians 3:16-17",
+    "verseText": "Do you not know that you are God's temple and that God's Spirit dwells in you? If anyone destroys God's temple, God will destroy him. For God's temple is holy, and you are that temple."
+  },
+  {
+    "text": "How does Paul describe the role of an apostle or servant of Christ in 1 Corinthians 4?",
+    "options": ["As masters", "As rulers", "As stewards of the mysteries of God", "As celebrities"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 4:1",
+    "verseText": "This is how one should regard us, as servants of Christ and stewards of the mysteries of God."
+  },
+  {
+    "text": "What is the stated purpose of handing the immoral man over 'to Satan for the destruction of the flesh' (1 Cor 5)?",
+    "options": ["Eternal damnation", "Physical death only", "So that his spirit may be saved", "To make him suffer"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Hard",
+    "verseReference": "1 Corinthians 5:5",
+    "verseText": "you are to deliver this man to Satan for the destruction of the flesh, so that his spirit may be saved in the day of the Lord."
+  },
+  {
+    "text": "Paul tells the Corinthians not even to do what with a so-called brother who is living in persistent, unrepentant sin (1 Cor 5)?",
+    "options": ["Speak to him", "Pray for him", "Eat with him", "Trade with him"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 5:11",
+    "verseText": "But now I am writing to you not to associate with anyone who bears the name of brother if he is guilty of sexual immorality or greed, or is an idolater, reviler, drunkard, or swindler—not even to eat with such a one."
+  },
+  {
+    "text": "What does Paul say about the body being meant for sexual immorality in 1 Corinthians 6?",
+    "options": ["It is acceptable in moderation", "The body is not meant for sexual immorality, but for the Lord", "It only matters what the spirit does", "It is a natural urge"],
+    "correctAnswerIndex": 1,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 6:13",
+    "verseText": "“Food is meant for the stomach and the stomach for food”—and God will destroy both one and the other. The body is not meant for sexual immorality, but for the Lord, and the Lord for the body."
+  },
+  {
+    "text": "In 1 Corinthians 7, Paul advises believers to remain in the condition in which they were called (e.g., circumcised/uncircumcised, slave/free). What is the underlying principle?",
+    "options": ["Social status is permanent", "Outward circumstances are less important than one's relationship with God", "Changing one's status is sinful", "God prefers certain social conditions"],
+    "correctAnswerIndex": 1,
+    "book": "1 Corinthians",
+    "difficulty": "Hard",
+    "verseReference": "1 Corinthians 7:17-24",
+    "verseText": "Only let each person lead the life that the Lord has assigned to him, and to which God has called him... Was anyone at the time of his call already circumcised? Let him not seek to remove the marks... Were you a bondservant when called? Do not be concerned about it... So, brothers, in whatever condition each was called, there let him remain with God."
+  },
+  {
+    "text": "Paul states that 'knowledge puffs up,' but what 'builds up' (1 Cor 8)?",
+    "options": ["Faith", "Hope", "Love", "Experience"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Easy",
+    "verseReference": "1 Corinthians 8:1",
+    "verseText": "Now concerning food offered to idols: we know that “all of us possess knowledge.” This “knowledge” puffs up, but love builds up."
+  },
+  {
+    "text": "What illustration from the Law does Paul use in 1 Corinthians 9 to argue that ministers of the gospel have a right to receive material support?",
+    "options": ["Tithing laws", "Not muzzling an ox while it treads out the grain", "Priestly portions of sacrifices", "Sabbath year regulations"],
+    "correctAnswerIndex": 1,
+    "book": "1 Corinthians",
+    "difficulty": "Hard",
+    "verseReference": "1 Corinthians 9:9",
+    "verseText": "For it is written in the Law of Moses, “You shall not muzzle an ox when it treads out the grain.” Is it for oxen that God is concerned?"
+  },
+  {
+    "text": "In 1 Corinthians 10, Paul warns against idolatry by reminding them they cannot drink the cup of the Lord and the cup of what?",
+    "options": ["Demons", "Pagans", "The world", "False gods"],
+    "correctAnswerIndex": 0,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 10:21",
+    "verseText": "You cannot drink the cup of the Lord and the cup of demons. You cannot partake of the table of the Lord and the table of demons."
+  },
+  {
+    "text": "What does Paul say is the source of the spiritual gifts listed in 1 Corinthians 12?",
+    "options": ["Human effort", "Angels", "The same Spirit (Holy Spirit)", "Different gods"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Easy",
+    "verseReference": "1 Corinthians 12:4, 11",
+    "verseText": "Now there are varieties of gifts, but the same Spirit... All these are empowered by one and the same Spirit, who apportions to each one individually as he wills."
+  },
+  {
+    "text": "Which roles/gifts does Paul list first when describing God's appointments in the church in 1 Corinthians 12:28?",
+    "options": ["Teachers, helpers, administrators", "Apostles, prophets, teachers", "Healers, miracle workers, speakers in tongues", "Evangelists, pastors, counselors"],
+    "correctAnswerIndex": 1,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 12:28",
+    "verseText": "And God has appointed in the church first apostles, second prophets, third teachers, then miracles, then gifts of healing, helping, administrating, and various kinds of tongues."
+  },
+  {
+    "text": "How does 1 Corinthians 13 describe love's characteristics (e.g., patient, kind)?",
+    "options": ["It is boastful and arrogant", "It is patient and kind; it does not envy or boast; it is not arrogant or rude", "It insists on its own way", "It rejoices at wrongdoing"],
+    "correctAnswerIndex": 1,
+    "book": "1 Corinthians",
+    "difficulty": "Easy",
+    "verseReference": "1 Corinthians 13:4-5",
+    "verseText": "Love is patient and kind; love does not envy or boast; it is not arrogant or rude. It does not insist on its own way; it is not irritable or resentful;"
+  },
+  {
+    "text": "What does Paul say about the clarity of musical instruments or bugle calls in 1 Corinthians 14, relating it to the gift of tongues?",
+    "options": ["Clarity doesn't matter", "If they give an indistinct sound, no one will understand or prepare", "Louder is always better", "Only experts can understand them"],
+    "correctAnswerIndex": 1,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 14:7-9",
+    "verseText": "If even lifeless instruments, such as the flute or the harp, do not give distinct notes, how will anyone know what is played? And if the bugle gives an indistinct sound, who will get ready for battle? So with yourselves, if with your tongue you utter speech that is not intelligible, how will anyone know what is said?"
+  },
+  {
+    "text": "Paul says that if the dead are not raised, then what conclusion follows about Christ (1 Cor 15)?",
+    "options": ["He was only a prophet", "He is still dead", "His teachings were false", "He was just a man"],
+    "correctAnswerIndex": 1,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 15:13, 16",
+    "verseText": "But if there is no resurrection of the dead, then not even Christ has been raised... For if the dead are not raised, not even Christ has been raised."
+  },
+  {
+    "text": "What does Paul urge the Corinthians to do regarding those who work hard among them, like the household of Stephanas (1 Cor 16)?",
+    "options": ["Pay them well", "Be subject to such people and cooperate with them", "Criticize their methods", "Ignore them"],
+    "correctAnswerIndex": 1,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 16:15-16",
+    "verseText": "Now I urge you, brothers... be subject to such as these, and to every fellow worker and laborer."
+  },
+  {
+    "text": "Who does Paul mention baptized some of the Corinthians, though he emphasizes his main calling was to preach (1 Cor 1)?",
+    "options": ["Only Apollos", "Peter", "Crispus, Gaius, and the household of Stephanas", "Himself exclusively"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Hard",
+    "verseReference": "1 Corinthians 1:14-16",
+    "verseText": "I thank God that I baptized none of you except Crispus and Gaius, so that no one may say that you were baptized in my name. (I did baptize also the household of Stephanas. Beyond that, I do not know whether I baptized anyone else.)"
+  },
+  {
+    "text": "What does Paul say about judging things 'before the time,' before the Lord comes (1 Cor 4)?",
+    "options": ["It is necessary for church discipline", "Do not pronounce judgment before the time; the Lord will bring hidden things to light", "Only apostles can judge", "Judging motives is acceptable"],
+    "correctAnswerIndex": 1,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 4:5",
+    "verseText": "Therefore do not pronounce judgment before the time, before the Lord comes, who will bring to light the things now hidden in darkness and will disclose the purposes of the heart. Then each one will receive his commendation from God."
+  },
+  {
+    "text": "In 1 Corinthians 15, Paul argues that the resurrection is essential because otherwise, what activity done 'for the dead' would be pointless?",
+    "options": ["Praying for the dead", "Baptism for the dead", "Mourning for the dead", "Building tombs for the dead"],
+    "correctAnswerIndex": 1,
+    "book": "1 Corinthians",
+    "difficulty": "Hard",
+    "verseReference": "1 Corinthians 15:29",
+    "verseText": "Otherwise, what do people mean by being baptized on behalf of the dead? If the dead are not raised at all, why are people baptized on their behalf?"
+  },
+  {
+    "text": "Where was Paul writing 1 Corinthians from, according to 1 Corinthians 16?",
+    "options": ["Rome", "Jerusalem", "Ephesus", "Antioch"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 16:8",
+    "verseText": "But I will stay in Ephesus until Pentecost,"
   }
 ]

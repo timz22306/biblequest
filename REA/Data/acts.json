@@ -88,5 +88,662 @@
     "difficulty": "Medium",
     "verseReference": "Acts 28:30-31",
     "verseText": "He lived there two whole years at his own expense, and welcomed all who came to him, proclaiming the kingdom of God and teaching about the Lord Jesus Christ with all boldness and without hindrance."
+  },
+  {
+    "text": "To whom is the Book of Acts addressed?",
+    "options": ["The church in Rome", "Theophilus", "The apostles", "King Agrippa"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Easy",
+    "verseReference": "Acts 1:1",
+    "verseText": "In the first book, O Theophilus, I have dealt with all that Jesus began to do and teach,"
+  },
+  {
+    "text": "How many days did Jesus appear to the apostles after his resurrection before ascending?",
+    "options": ["3 days", "7 days", "40 days", "12 days"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 1:3",
+    "verseText": "He presented himself alive to them after his suffering by many proofs, appearing to them during forty days and speaking about the kingdom of God."
+  },
+  {
+    "text": "What did Jesus tell the apostles to wait for in Jerusalem before they dispersed?",
+    "options": ["A sign from heaven", "The promise of the Father (the Holy Spirit)", "Further instructions", "The arrival of Paul"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Easy",
+    "verseReference": "Acts 1:4-5",
+    "verseText": "And while staying with them he ordered them not to depart from Jerusalem, but to wait for the promise of the Father, which, he said, “you heard from me; for John baptized with water, but you will be baptized with the Holy Spirit not many days from now.”"
+  },
+  {
+    "text": "Who was chosen to replace Judas Iscariot as one of the twelve apostles?",
+    "options": ["Barnabas", "Stephen", "Matthias", "Silas"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 1:26",
+    "verseText": "And they cast lots for them, and the lot fell on Matthias, and he was numbered with the eleven apostles."
+  },
+  {
+    "text": "What Old Testament prophet did Peter quote extensively in his Pentecost sermon to explain the events?",
+    "options": ["Isaiah", "Jeremiah", "Ezekiel", "Joel"],
+    "correctAnswerIndex": 3,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 2:16-17",
+    "verseText": "But this is what was uttered through the prophet Joel: ‘And in the last days it shall be, God declares, that I will pour out my Spirit on all flesh...’"
+  },
+  {
+    "text": "What were the four activities the early church devoted themselves to, according to Acts 2:42?",
+    "options": ["Singing, praying, fasting, giving", "The apostles' teaching, fellowship, breaking of bread, prayers", "Building projects, mission trips, studying scripture, worship", "Evangelism, miracles, prophecy, tongues"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 2:42",
+    "verseText": "And they devoted themselves to the apostles' teaching and the fellowship, to the breaking of bread and the prayers."
+  },
+  {
+    "text": "What miracle did Peter and John perform at the temple gate called Beautiful (Acts 3)?",
+    "options": ["They calmed a storm", "They healed a man lame from birth", "They raised someone from the dead", "They cast out a demon"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Easy",
+    "verseReference": "Acts 3:6-8",
+    "verseText": "But Peter said, “I have no silver and gold, but what I do have I give to you. In the name of Jesus Christ of Nazareth, rise up and walk!” And he took him by the right hand and raised him up, and immediately his feet and ankles were made strong. And leaping up, he stood and began to walk..."
+  },
+  {
+    "text": "Who were the couple who lied about the price of their land and died as a result (Acts 5)?",
+    "options": ["Aquila and Priscilla", "Ananias and Sapphira", "Philemon and Apphia", "Andronicus and Junia"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 5:1-2, 5, 10",
+    "verseText": "But a man named Ananias, with his wife Sapphira, sold a piece of property, and with his wife's knowledge he kept back for himself some of the proceeds... When Ananias heard these words, he fell down and breathed his last... Immediately she fell down at his feet and breathed her last."
+  },
+  {
+    "text": "What problem led to the appointment of the first deacons (including Stephen) in Acts 6?",
+    "options": ["Disputes over doctrine", "The need for more preachers", "Neglect of Hellenistic (Greek-speaking) widows in the daily distribution", "Persecution from the authorities"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 6:1",
+    "verseText": "Now in these days when the disciples were increasing in number, a complaint by the Hellenists arose against the Hebrews because their widows were being neglected in the daily distribution."
+  },
+  {
+    "text": "What was Stephen falsely accused of before the Sanhedrin (Acts 6)?",
+    "options": ["Stealing from the temple treasury", "Speaking against Moses and God (blasphemy)", "Leading a rebellion against Rome", "Practicing sorcery"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 6:11, 13-14",
+    "verseText": "Then they secretly instigated men who said, “We have heard him speak blasphemous words against Moses and God.”... and set up false witnesses who said, “This man never ceases to speak words against this holy place and the law, for we have heard him say that this Jesus of Nazareth will destroy this place and will change the customs that Moses delivered to us.”"
+  },
+  {
+    "text": "What did Stephen see just before he died (Acts 7)?",
+    "options": ["A vision of angels", "The heavens opened and the Son of Man standing at the right hand of God", "His family weeping", "A bright light"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 7:55-56",
+    "verseText": "But he, full of the Holy Spirit, gazed into heaven and saw the glory of God, and Jesus standing at the right hand of God. And he said, “Behold, I see the heavens opened, and the Son of Man standing at the right hand of God.”"
+  },
+  {
+    "text": "Who preached the gospel in Samaria after the persecution began in Jerusalem (Acts 8)?",
+    "options": ["Peter", "John", "Philip (the deacon)", "Paul"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 8:4-5",
+    "verseText": "Now those who were scattered went about preaching the word. Philip went down to the city of Samaria and proclaimed to them the Christ."
+  },
+  {
+    "text": "Who was the sorcerer in Samaria who tried to buy the power of the Holy Spirit (Acts 8)?",
+    "options": ["Elymas", "Simon Magus", "Bar-Jesus", "Apollonius"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 8:9, 18-19",
+    "verseText": "But there was a man named Simon, who had previously practiced magic in the city and amazed the people of Samaria... Now when Simon saw that the Spirit was given through the laying on of the apostles' hands, he offered them money, saying, “Give me this power also, so that anyone on whom I lay my hands may receive the Holy Spirit.”"
+  },
+  {
+    "text": "Who did Philip encounter and baptize on the road to Gaza (Acts 8)?",
+    "options": ["A Roman soldier", "An Ethiopian eunuch, a court official of Candace", "A Greek merchant", "A Jewish pilgrim"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 8:27-28, 38",
+    "verseText": "And he rose and went. And there was an Ethiopian, a eunuch, a court official of Candace, queen of the Ethiopians, who was in charge of all her treasure. He had come to Jerusalem to worship and was returning, seated in his chariot, and he was reading the prophet Isaiah... And he commanded the chariot to stop, and they both went down into the water, Philip and the eunuch, and he baptized him."
+  },
+  {
+    "text": "Who was sent by God to restore Saul's sight after his encounter on the Damascus road (Acts 9)?",
+    "options": ["Peter", "Barnabas", "Ananias", "Gamaliel"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 9:10, 17",
+    "verseText": "Now there was a disciple at Damascus named Ananias. The Lord said to him in a vision, “Ananias.”... So Ananias departed and entered the house. And laying his hands on him he said, “Brother Saul, the Lord Jesus who appeared to you on the road by which you came has sent me so that you may regain your sight and be filled with the Holy Spirit.”"
+  },
+  {
+    "text": "What woman, known for her good works and charity, did Peter raise from the dead in Joppa (Acts 9)?",
+    "options": ["Lydia", "Dorcas (Tabitha)", "Phoebe", "Mary Magdalene"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 9:36, 40-41",
+    "verseText": "Now there was in Joppa a disciple named Tabitha, which, translated, means Dorcas. She was full of good works and acts of charity... But Peter put them all outside, and knelt down and prayed; and turning to the body he said, “Tabitha, arise.” And she opened her eyes, and when she saw Peter she sat up. And he gave her his hand and raised her up."
+  },
+  {
+    "text": "What did Peter see in his vision while praying on the rooftop in Joppa (Acts 10)?",
+    "options": ["Angels ascending and descending", "A large sheet descending from heaven containing all kinds of animals", "The resurrected Christ", "A map of the world"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 10:11-12",
+    "verseText": "and saw the heavens opened and something like a great sheet descending, being let down by its four corners upon the earth. In it were all kinds of animals and reptiles and birds of the air."
+  },
+  {
+    "text": "Where were the disciples first called 'Christians' (Acts 11)?",
+    "options": ["Jerusalem", "Rome", "Antioch", "Ephesus"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Easy",
+    "verseReference": "Acts 11:26",
+    "verseText": "and when he had found him, he brought him to Antioch. For a whole year they met with the church and taught a great many people. And in Antioch the disciples were first called Christians."
+  },
+  {
+    "text": "Which apostle was martyred by King Herod Agrippa I in Acts 12?",
+    "options": ["Peter", "John", "James (the brother of John)", "Andrew"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 12:1-2",
+    "verseText": "About that time Herod the king laid violent hands on some who belonged to the church. He killed James the brother of John with the sword,"
+  },
+  {
+    "text": "How did Peter escape from prison in Acts 12?",
+    "options": ["He bribed the guards", "An earthquake opened the doors", "An angel led him out", "His friends tunneled in"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Easy",
+    "verseReference": "Acts 12:7",
+    "verseText": "And behold, an angel of the Lord stood next to him, and a light shone in the cell. He struck Peter on the side and woke him, saying, “Get up quickly.” And the chains fell off his hands."
+  },
+  {
+    "text": "What happened to King Herod Agrippa I after he accepted worship from the people (Acts 12)?",
+    "options": ["He converted to Christianity", "He was struck down by an angel and eaten by worms", "He retired peacefully", "He was overthrown in a rebellion"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 12:21-23",
+    "verseText": "On an appointed day Herod put on his royal robes, took his seat upon the throne, and delivered an oration to them. And the people were shouting, “The voice of a god, and not of a man!” Immediately an angel of the Lord struck him down, because he did not give God the glory, and he was eaten by worms and breathed his last."
+  },
+  {
+    "text": "Who accompanied Paul and Barnabas on the first part of their first missionary journey (Acts 13)?",
+    "options": ["Silas", "Timothy", "John Mark", "Luke"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 13:5",
+    "verseText": "When they arrived at Salamis, they proclaimed the word of God in the synagogues of the Jews. And they had John to assist them."
+  },
+  {
+    "text": "Who was the proconsul on the island of Cyprus who believed after seeing Paul strike Elymas the sorcerer blind (Acts 13)?",
+    "options": ["Gallio", "Felix", "Sergius Paulus", "Festus"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Hard",
+    "verseReference": "Acts 13:7, 12",
+    "verseText": "He was with the proconsul, Sergius Paulus, a man of intelligence, who summoned Barnabas and Saul and sought to hear the word of God... Then the proconsul believed, when he saw what had occurred, for he was astonished at the teaching of the Lord."
+  },
+  {
+    "text": "Why did Paul and Barnabas have a sharp disagreement before their second missionary journey (Acts 15)?",
+    "options": ["Over where to go first", "Over whether to take John Mark with them", "Over doctrinal issues", "Over financial matters"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 15:37-39",
+    "verseText": "Now Barnabas wanted to take with them John called Mark. But Paul thought best not to take with them one who had withdrawn from them in Pamphylia and had not gone with them to the work. And there arose a sharp disagreement, so that they separated from each other."
+  },
+  {
+    "text": "Who joined Paul on his second missionary journey after he separated from Barnabas (Acts 16)?",
+    "options": ["John Mark", "Silas", "Apollos", "Titus"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 15:40",
+    "verseText": "but Paul chose Silas and departed, having been commended by the brothers to the grace of the Lord."
+  },
+  {
+    "text": "Who was the young disciple from Lystra, with a Jewish mother and Greek father, whom Paul circumcised and took on his journey (Acts 16)?",
+    "options": ["Titus", "Timothy", "Luke", "Tychicus"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 16:1-3",
+    "verseText": "Paul came also to Derbe and to Lystra. A disciple was there, named Timothy, the son of a Jewish woman who was a believer, but his father was a Greek... Paul wanted Timothy to accompany him, and he took him and circumcised him because of the Jews who were in those places, for they all knew that his father was a Greek."
+  },
+  {
+    "text": "What vision prompted Paul to travel to Macedonia (Europe) during his second journey (Acts 16)?",
+    "options": ["A vision of an angel", "A vision of Jesus", "A vision of a man from Macedonia pleading for help", "A vision of a map"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 16:9",
+    "verseText": "And a vision appeared to Paul in the night: a man of Macedonia was standing there, urging him and saying, “Come over to Macedonia and help us.”"
+  },
+  {
+    "text": "Who was the first convert mentioned in Philippi (Macedonia), a seller of purple goods (Acts 16)?",
+    "options": ["Priscilla", "Lydia", "Phoebe", "Euodia"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 16:14",
+    "verseText": "One who heard us was a woman named Lydia, from the city of Thyatira, a seller of purple goods, who was a worshiper of God. The Lord opened her heart to pay attention to what was said by Paul."
+  },
+  {
+    "text": "Why were Paul and Silas imprisoned in Philippi (Acts 16)?",
+    "options": ["For preaching against Caesar", "For casting a spirit of divination out of a slave girl, ruining her owners' profit", "For starting a riot", "For refusing to pay taxes"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 16:16-19, 22",
+    "verseText": "As we were going to the place of prayer, we were met by a slave girl who had a spirit of divination and brought her owners much gain by fortune-telling... But when her owners saw that their hope of gain was gone, they seized Paul and Silas... The crowd joined in attacking them, and the magistrates tore the garments off them and gave orders to beat them with rods."
+  },
+  {
+    "text": "What happened while Paul and Silas were praying and singing hymns in the Philippian jail (Acts 16)?",
+    "options": ["They fell asleep", "An earthquake occurred, opening the prison doors and loosening chains", "The other prisoners attacked them", "The jailer released them"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Easy",
+    "verseReference": "Acts 16:25-26",
+    "verseText": "About midnight Paul and Silas were praying and singing hymns to God, and the prisoners were listening to them, and suddenly there was a great earthquake, so that the foundations of the prison were shaken. And immediately all the doors were opened, and everyone's bonds were unfastened."
+  },
+  {
+    "text": "What question did the Philippian jailer ask Paul and Silas after the earthquake (Acts 16)?",
+    "options": ["'How can I escape?'", "'Who are you?'", "'Sirs, what must I do to be saved?'", "'Is everyone alright?'"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Easy",
+    "verseReference": "Acts 16:30",
+    "verseText": "Then he brought them out and said, “Sirs, what must I do to be saved?”"
+  },
+  {
+    "text": "In Thessalonica, Paul preached that the Christ had to suffer and do what (Acts 17)?",
+    "options": ["Perform miracles", "Judge the world", "Rise from the dead", "Establish an earthly kingdom"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 17:3",
+    "verseText": "explaining and proving that it was necessary for the Christ to suffer and to rise from the dead, and saying, “This Jesus, whom I proclaim to you, is the Christ.”"
+  },
+  {
+    "text": "How were the Jews in Berea described in comparison to those in Thessalonica (Acts 17)?",
+    "options": ["More hostile", "More noble, receiving the word eagerly and examining the Scriptures daily", "Less educated", "Wealthier"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 17:11",
+    "verseText": "Now these Jews were more noble than those in Thessalonica; they received the word with all eagerness, examining the Scriptures daily to see if these things were so."
+  },
+  {
+    "text": "Where did Paul preach his famous sermon about the 'Unknown God' in Athens (Acts 17)?",
+    "options": ["The Acropolis", "The Agora", "The Areopagus (Mars Hill)", "The Parthenon"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 17:19, 22-23",
+    "verseText": "And they took him and brought him to the Areopagus, saying, “May we know what this new teaching is that you are presenting?”... So Paul, standing in the midst of the Areopagus, said: “Men of Athens, I perceive that in every way you are very religious. For as I passed along and observed the objects of your worship, I found also an altar with this inscription: ‘To the unknown god.’ What therefore you worship as unknown, this I proclaim to you."
+  },
+  {
+    "text": "What Jewish couple, tentmakers like Paul, did he meet and work with in Corinth (Acts 18)?",
+    "options": ["Ananias and Sapphira", "Andronicus and Junia", "Aquila and Priscilla", "Jason and his wife"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 18:1-3",
+    "verseText": "After this Paul left Athens and went to Corinth. And he found a Jew named Aquila, a native of Pontus, recently come from Italy with his wife Priscilla... and because he was of the same trade he stayed with them and worked, for they were tentmakers by trade."
+  },
+  {
+    "text": "Who was the eloquent Alexandrian Jew who knew the Scriptures but only knew the baptism of John until Aquila and Priscilla explained the way of God more accurately (Acts 18)?",
+    "options": ["Apollos", "Stephen", "Barnabas", "Tychicus"],
+    "correctAnswerIndex": 0,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 18:24-26",
+    "verseText": "Now a Jew named Apollos, a native of Alexandria, came to Ephesus. He was an eloquent man, competent in the Scriptures. He had been instructed in the way of the Lord. And being fervent in spirit, he spoke and taught accurately the things concerning Jesus, though he knew only the baptism of John... But when Priscilla and Aquila heard him, they took him aside and explained to him the way of God more accurately."
+  },
+  {
+    "text": "In Ephesus, Paul encountered disciples who had only received John's baptism. What happened when Paul laid hands on them after they were baptized in Jesus' name (Acts 19)?",
+    "options": ["They fell asleep", "They spoke in tongues and prophesied", "They began to heal people", "They left the city"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 19:5-6",
+    "verseText": "On hearing this, they were baptized in the name of the Lord Jesus. And when Paul had laid his hands on them, the Holy Spirit came on them, and they began speaking in tongues and prophesying."
+  },
+  {
+    "text": "What caused a major riot in Ephesus against Paul and the Christians (Acts 19)?",
+    "options": ["Paul insulted the emperor", "The silversmiths, led by Demetrius, feared losing business because Paul preached against idolatry (specifically, the goddess Artemis/Diana)", "Paul healed someone on the Sabbath", "Christians refused to pay temple taxes"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 19:24-27",
+    "verseText": "For a man named Demetrius, a silversmith, who made silver shrines of Artemis, brought no little business to the craftsmen... he addressed them, saying, “Men, you know that from this business we have our wealth. And you see and hear that not only in Ephesus but in almost all of Asia this Paul has persuaded and turned away a great many people, saying that gods made with hands are not gods."
+  },
+  {
+    "text": "What young man fell asleep during Paul's long sermon in Troas, fell from a third-story window, and was raised back to life by Paul (Acts 20)?",
+    "options": ["Timothy", "Tychicus", "Eutychus", "Onesimus"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 20:9-10, 12",
+    "verseText": "And a young man named Eutychus, sitting at the window, sank into a deep sleep as Paul talked still longer. And being overcome by sleep, he fell down from the third story and was taken up dead. But Paul went down and bent over him, and taking him in his arms, said, “Do not be alarmed, for his life is in him.”... And they took the youth away alive, and were not a little comforted."
+  },
+  {
+    "text": "In his farewell address to the Ephesian elders at Miletus (Acts 20), what did Paul warn them about?",
+    "options": ["Roman persecution", "Famine", "Savage wolves coming in among them (false teachers)", "Financial hardship"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 20:29-30",
+    "verseText": "I know that after my departure fierce wolves will come in among you, not sparing the flock; and from among your own selves will arise men speaking twisted things, to draw away the disciples after them."
+  },
+  {
+    "text": "What did the prophet Agabus predict would happen to Paul in Jerusalem (Acts 21)?",
+    "options": ["He would perform great miracles", "He would be hailed as a hero", "He would be bound by the Jews and handed over to the Gentiles", "He would escape unharmed"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 21:10-11",
+    "verseText": "While we were staying for many days, a prophet named Agabus came down from Judea. And coming to us, he took Paul's belt and bound his own feet and hands and said, “Thus says the Holy Spirit, ‘This is how the Jews at Jerusalem will bind the man who owns this belt and deliver him into the hands of the Gentiles.’”"
+  },
+  {
+    "text": "Why was Paul arrested in the temple in Jerusalem (Acts 21)?",
+    "options": ["For stealing", "For teaching against the Law and the temple, and allegedly bringing Gentiles into the inner courts", "For starting a political uprising", "For refusing to offer a sacrifice"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 21:28",
+    "verseText": "crying out, “Men of Israel, help! This is the man who is teaching everyone everywhere against the people and the law and this place. Moreover, he even brought Greeks into the temple and has defiled this holy place.”"
+  },
+  {
+    "text": "How did Paul stop the Roman commander from flogging him in Jerusalem (Acts 22)?",
+    "options": ["He bribed the commander", "He revealed he was a Roman citizen", "He escaped", "He appealed to Caesar"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 22:25-26",
+    "verseText": "But when they had stretched him out for the whips, Paul said to the centurion who was standing by, “Is it lawful for you to flog a man who is a Roman citizen and uncondemned?” When the centurion heard this, he went to the tribune and said to him, “What are you about to do? For this man is a Roman citizen.”"
+  },
+  {
+    "text": "How did Paul create division within the Sanhedrin when he stood trial before them (Acts 23)?",
+    "options": ["He insulted the High Priest", "He claimed to be the Messiah", "He declared he was on trial concerning the hope and resurrection of the dead, dividing Pharisees and Sadducees", "He spoke in Greek"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 23:6",
+    "verseText": "Now when Paul perceived that one part were Sadducees and the other Pharisees, he cried out in the council, “Brothers, I am a Pharisee, a son of Pharisees. It is with respect to the hope and the resurrection of the dead that I am on trial.”"
+  },
+  {
+    "text": "Who warned Paul and the Roman commander about the Jewish plot to ambush and kill Paul (Acts 23)?",
+    "options": ["Gamaliel", "Paul's nephew (his sister's son)", "A sympathetic guard", "Nicodemus"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 23:16",
+    "verseText": "Now the son of Paul's sister heard of their ambush, so he went and entered the barracks and told Paul."
+  },
+  {
+    "text": "Before which Roman governor did Paul stand trial in Caesarea, who kept him imprisoned hoping for a bribe (Acts 24)?",
+    "options": ["Pilate", "Felix", "Festus", "Gallio"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 24:26-27",
+    "verseText": "At the same time he hoped that money would be given him by Paul. So he sent for him often and conversed with him. When two years had elapsed, Felix was succeeded by Porcius Festus. And desiring to do the Jews a favor, Felix left Paul in prison."
+  },
+  {
+    "text": "To whom did Paul appeal when Governor Festus suggested he be tried in Jerusalem (Acts 25)?",
+    "options": ["The High Priest", "King Agrippa", "Caesar", "The Roman Senate"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Easy",
+    "verseReference": "Acts 25:11",
+    "verseText": "If then I am a wrongdoer and have committed anything for which I deserve to die, I do not seek to escape death. But if there is nothing to their charges against me, no one can give me up to them. I appeal to Caesar.”"
+  },
+  {
+    "text": "Before which king (and his sister Bernice) did Paul give his defense, recounting his conversion and ministry (Acts 26)?",
+    "options": ["King Herod Antipas", "King Agrippa II", "King Ptolemy", "King Cyrus"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 25:13, 26:1",
+    "verseText": "Now when some days had passed, Agrippa the king and Bernice arrived at Caesarea and greeted Festus... So Agrippa said to Paul, “You have permission to speak for yourself.” Then Paul stretched out his hand and made his defense:"
+  },
+  {
+    "text": "What was King Agrippa's reaction after hearing Paul's defense (Acts 26)?",
+    "options": ["He ordered Paul's execution", "He mocked Paul", "He said Paul almost persuaded him to be a Christian and that Paul could have been set free if he hadn't appealed to Caesar", "He converted immediately"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 26:28, 32",
+    "verseText": "And Agrippa said to Paul, “In a short time would you persuade me to be a Christian?”... And Agrippa said to Festus, “This man could have been set free if he had not appealed to Caesar.”"
+  },
+  {
+    "text": "What happened to the ship carrying Paul to Rome (Acts 27)?",
+    "options": ["It arrived safely", "It was attacked by pirates", "It was caught in a violent storm and shipwrecked", "It sank in calm seas"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Easy",
+    "verseReference": "Acts 27:14, 41",
+    "verseText": "But soon a tempestuous wind, called the northeaster, struck down from the land... But striking a reef, they ran the vessel aground. The bow stuck and remained immovable, and the stern was being broken up by the surf."
+  },
+  {
+    "text": "On what island were Paul and the shipwrecked crew stranded (Acts 28)?",
+    "options": ["Crete", "Cyprus", "Malta", "Sicily"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 28:1",
+    "verseText": "After we were brought safely through, we then learned that the island was called Malta."
+  },
+  {
+    "text": "What happened to Paul when he was gathering wood on Malta (Acts 28)?",
+    "options": ["He was bitten by a viper but suffered no harm", "He discovered hidden treasure", "He fell and broke his leg", "He was arrested by the islanders"],
+    "correctAnswerIndex": 0,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 28:3, 5",
+    "verseText": "When Paul had gathered a bundle of sticks and put them on the fire, a viper came out because of the heat and fastened on his hand... He, however, shook off the creature into the fire and suffered no harm."
+  },
+  {
+    "text": "Whose father did Paul heal on the island of Malta (Acts 28)?",
+    "options": ["The Roman governor's", "Publius, the chief man of the island's", "The ship captain's", "A local fisherman's"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Hard",
+    "verseReference": "Acts 28:7-8",
+    "verseText": "Now in the neighborhood of that place were lands belonging to the chief man of the island, named Publius, who received us and entertained us hospitably for three days. It happened that the father of Publius lay sick with fever and dysentery. And Paul visited him and prayed, and putting his hands on him, healed him."
+  },
+  {
+    "text": "How long did Paul live under house arrest in Rome, welcoming visitors and preaching (Acts 28)?",
+    "options": ["Six months", "One year", "Two whole years", "Five years"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 28:30",
+    "verseText": "He lived there two whole years at his own expense, and welcomed all who came to him,"
+  },
+  {
+    "text": "What was the main theme of Paul's preaching during his time in Rome, according to the end of Acts?",
+    "options": ["The Law of Moses", "Greek philosophy", "The kingdom of God and the Lord Jesus Christ", "End times prophecy"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 28:31",
+    "verseText": "proclaiming the kingdom of God and teaching about the Lord Jesus Christ with all boldness and without hindrance."
+  },
+  {
+    "text": "Who advised the Sanhedrin to leave the apostles alone, saying 'if it is of God, you will not be able to overthrow them' (Acts 5)?",
+    "options": ["The High Priest", "Nicodemus", "Gamaliel", "Joseph of Arimathea"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 5:34, 38-39",
+    "verseText": "But a Pharisee in the council named Gamaliel, a teacher of the law held in honor by all the people... stood up... and said... 'keep away from these men and let them alone, for if this plan or this undertaking is of man, it will fail; but if it is of God, you will not be able to overthrow them. You might even be found opposing God!'"
+  },
+  {
+    "text": "What book was the Ethiopian eunuch reading when Philip approached him (Acts 8)?",
+    "options": ["Genesis", "Psalms", "Isaiah", "Daniel"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 8:28, 30",
+    "verseText": "and was returning, seated in his chariot, and he was reading the prophet Isaiah... So Philip ran to him and heard him reading Isaiah the prophet and asked, “Do you understand what you are reading?”"
+  },
+  {
+    "text": "Who introduced the newly converted Saul (Paul) to the wary apostles in Jerusalem (Acts 9)?",
+    "options": ["Peter", "Ananias", "Barnabas", "James"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 9:26-27",
+    "verseText": "And when he had come to Jerusalem, he attempted to join the disciples. And they were all afraid of him, for they did not believe that he was a disciple. But Barnabas took him and brought him to the apostles and declared to them how on the road he had seen the Lord..."
+  },
+  {
+    "text": "What was the reaction of the Jewish believers who accompanied Peter to Cornelius's house when the Holy Spirit fell on the Gentiles (Acts 10)?",
+    "options": ["Anger", "Confusion", "Amazement", "Indifference"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 10:45",
+    "verseText": "And the believers from among the circumcised who had come with Peter were amazed, because the gift of the Holy Spirit was poured out even on the Gentiles."
+  },
+  {
+    "text": "Who presided over the Jerusalem Council in Acts 15 and gave the final judgment?",
+    "options": ["Peter", "Paul", "James (the brother of Jesus)", "John"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 15:13, 19",
+    "verseText": "After they finished speaking, James replied... Therefore my judgment is that we should not trouble those of the Gentiles who turn to God,"
+  },
+  {
+    "text": "What city in Paul's first missionary journey stoned him and left him for dead (Acts 14)?",
+    "options": ["Iconium", "Lystra", "Derbe", "Antioch of Pisidia"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Hard",
+    "verseReference": "Acts 14:19",
+    "verseText": "But Jews came from Antioch and Iconium, and having persuaded the crowds, they stoned Paul and dragged him out of the city, supposing that he was dead."
+  },
+  {
+    "text": "In Lystra, after Paul healed a crippled man, who did the crowds think Paul and Barnabas were (Acts 14)?",
+    "options": ["Roman officials", "Angels", "Greek gods (Zeus and Hermes)", "Jewish prophets"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 14:11-12",
+    "verseText": "And when the crowds saw what Paul had done, they lifted up their voices, saying in Lycaonian, “The gods have come down to us in the likeness of men!” Barnabas they called Zeus, and Paul, Hermes, because he was the chief speaker."
+  },
+  {
+    "text": "What method was used to choose Matthias to replace Judas (Acts 1)?",
+    "options": ["Voting", "Drawing straws", "Casting lots", "A vision"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 1:26",
+    "verseText": "And they prayed and said, “You, Lord, who know the hearts of all, show which one of these two you have chosen to take the place in this ministry and apostleship from which Judas turned aside to go to his own place.” And they cast lots for them, and the lot fell on Matthias..."
+  },
+  {
+    "text": "What specific sin did Simon Magus commit (simony)?",
+    "options": ["Idolatry", "Blasphemy", "Attempting to buy spiritual power/office", "Lying"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Hard",
+    "verseReference": "Acts 8:18-20",
+    "verseText": "Now when Simon saw that the Spirit was given through the laying on of the apostles' hands, he offered them money, saying, “Give me this power also...” But Peter said to him, “May your silver perish with you, because you thought you could obtain the gift of God with money!"
+  },
+  {
+    "text": "What was the name of the servant girl who recognized Peter's voice after his miraculous escape from prison but was too excited to open the door (Acts 12)?",
+    "options": ["Mary", "Martha", "Rhoda", "Lydia"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Hard",
+    "verseReference": "Acts 12:13-14",
+    "verseText": "And when he knocked at the door of the gateway, a servant girl named Rhoda came to answer. Recognizing Peter's voice, in her joy she did not open the gate but ran in and reported that Peter was standing at the gate."
+  },
+  {
+    "text": "What trade did Paul practice to support himself during his ministry in Corinth (Acts 18)?",
+    "options": ["Fishing", "Tentmaking", "Carpentry", "Farming"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Easy",
+    "verseReference": "Acts 18:3",
+    "verseText": "and because he was of the same trade he stayed with them and worked, for they were tentmakers by trade."
+  },
+  {
+    "text": "Who were the 'sons of Sceva' mentioned in Acts 19?",
+    "options": ["Disciples of John the Baptist", "Jewish exorcists who tried to use Jesus' name without authority and were overpowered by a demon", "Roman officials", "Silversmiths"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Hard",
+    "verseReference": "Acts 19:13-16",
+    "verseText": "Then some of the itinerant Jewish exorcists undertook to invoke the name of the Lord Jesus over those who had evil spirits... Seven sons of a Jewish high priest named Sceva were doing this. But the evil spirit answered them, “Jesus I know, and Paul I recognize, but who are you?” And the man in whom was the evil spirit leaped on them, mastered all of them, and overpowered them..."
+  },
+  {
+    "text": "What phrase summarizes Paul's final words to the Ephesian elders, quoting Jesus (Acts 20)?",
+    "options": ["'Love your neighbor as yourself'", "'It is more blessed to give than to receive'", "'Do unto others as you would have them do unto you'", "'Follow me'"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 20:35",
+    "verseText": "In all things I have shown you that by working hard in this way we must help the weak and remember the words of the Lord Jesus, how he himself said, ‘It is more blessed to give than to receive.’”"
+  },
+  {
+    "text": "What vow had Paul taken, which he was completing purification rites for when arrested in Jerusalem (Acts 21)?",
+    "options": ["A Nazirite vow", "A vow of silence", "A vow of poverty", "A pilgrimage vow"],
+    "correctAnswerIndex": 0,
+    "book": "Acts",
+    "difficulty": "Hard",
+    "verseReference": "Acts 21:23-24, 26 (cf. Acts 18:18)",
+    "verseText": "Do therefore what we tell you. We have four men who are under a vow; take these men and purify yourself along with them and pay their expenses, so that they may shave their heads... Then Paul took the men, and the next day he purified himself along with them and went into the temple, giving notice when the days of purification would be fulfilled..."
+  },
+  {
+    "text": "Who was the Roman governor who succeeded Felix and before whom Paul also stood trial (Acts 25)?",
+    "options": ["Pilate", "Gallio", "Festus", "Quirinius"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 24:27",
+    "verseText": "When two years had elapsed, Felix was succeeded by Porcius Festus. And desiring to do the Jews a favor, Felix left Paul in prison."
+  },
+  {
+    "text": "What did Paul say 'almost' persuaded King Agrippa (Acts 26)?",
+    "options": ["To release him", "To become a Christian", "To punish the Jews", "To travel to Rome"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 26:28",
+    "verseText": "And Agrippa said to Paul, “In a short time would you persuade me to be a Christian?”"
+  },
+  {
+    "text": "How many people were on the ship with Paul that was shipwrecked (Acts 27)?",
+    "options": ["120", "75", "276", "500"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Hard",
+    "verseReference": "Acts 27:37",
+    "verseText": "We were in all 276 persons in the ship."
+  },
+  {
+    "text": "What was the reaction of the Maltese islanders when Paul was bitten by the viper but unharmed (Acts 28)?",
+    "options": ["They ignored him", "They tried to kill him", "They first thought he was a murderer, then changed their minds and thought he was a god", "They offered him medicine"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 28:4, 6",
+    "verseText": "When the native people saw the creature hanging from his hand, they said to one another, “No doubt this man is a murderer. Though he has escaped from the sea, Justice has not allowed him to live.”... They waited, expecting him to swell up or suddenly fall down dead. But when they had waited a long time and saw no misfortune come to him, they changed their minds and said that he was a god."
   }
 ]

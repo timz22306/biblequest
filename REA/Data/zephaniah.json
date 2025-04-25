@@ -88,5 +88,320 @@
     "difficulty": "Medium",
     "verseReference": "Zephaniah 3:11-12",
     "verseText": "On that day you shall not be put to shame because of the deeds by which you have rebelled against me; for then I will remove from your midst your proudly exultant ones... But I will leave in your midst a people humble and lowly."
+  },
+  {
+    "text": "According to Zephaniah 1:2-3, the LORD's judgment will sweep away what?",
+    "options": ["Only the wicked of Judah", "Man and beast, birds of the heavens, and fish of the sea", "The armies of Babylon", "The Temple in Jerusalem"],
+    "correctAnswerIndex": 1,
+    "book": "Zephaniah",
+    "difficulty": "Medium",
+    "verseReference": "Zephaniah 1:2-3",
+    "verseText": "“I will utterly sweep away everything from the face of the earth,” declares the LORD. “I will sweep away man and beast; I will sweep away the birds of the heavens and the fish of the sea, and the rubble with the wicked. I will cut off mankind from the face of the earth,” declares the LORD."
+  },
+  {
+    "text": "Who were the 'remnant of Baal' mentioned in Zephaniah 1:4?",
+    "options": ["Faithful worshippers of Yahweh", "Those still practicing Baal worship in Judah", "Priests from Egypt", "Prophets of Asherah"],
+    "correctAnswerIndex": 1,
+    "book": "Zephaniah",
+    "difficulty": "Easy",
+    "verseReference": "Zephaniah 1:4",
+    "verseText": "“I will stretch out my hand against Judah and against all the inhabitants of Jerusalem; and I will cut off from this place the remnant of Baal and the name of the idolatrous priests along with the priests,"
+  },
+  {
+    "text": "Zephaniah 1:5 condemns those who worship the 'host of the heavens'. What does this refer to?",
+    "options": ["Angels", "Foreign deities", "Astral worship (sun, moon, stars)", "Ancestors"],
+    "correctAnswerIndex": 2,
+    "book": "Zephaniah",
+    "difficulty": "Medium",
+    "verseReference": "Zephaniah 1:5",
+    "verseText": "those who bow down on the roofs to the host of the heavens; those who bow down and swear to the LORD and yet swear by Milcom;"
+  },
+  {
+    "text": "What attitude does Zephaniah 1:12 condemn among the people of Jerusalem?",
+    "options": ["Excessive mourning", "Complacency and indifference ('The LORD will not do good, nor will he do ill')", "Overzealous fasting", "Constant rebellion"],
+    "correctAnswerIndex": 1,
+    "book": "Zephaniah",
+    "difficulty": "Medium",
+    "verseReference": "Zephaniah 1:12",
+    "verseText": "At that time I will search Jerusalem with lamps, and I will punish the men who are complacent, those who say in their hearts, ‘The LORD will not do good, nor will he do ill.’"
+  },
+  {
+    "text": "According to Zephaniah 1:18, what will be unable to deliver people on the Day of the LORD's wrath?",
+    "options": ["Their wisdom", "Their military strength", "Their silver and gold", "Their political alliances"],
+    "correctAnswerIndex": 2,
+    "book": "Zephaniah",
+    "difficulty": "Easy",
+    "verseReference": "Zephaniah 1:18",
+    "verseText": "Neither their silver nor their gold shall be able to deliver them on the day of the wrath of the LORD. In the fire of his jealousy, all the earth shall be consumed; for a full and sudden end he will make of all the inhabitants of the earth."
+  },
+  {
+    "text": "What is the 'nation without shame' urged to do in Zephaniah 2:1-2 before the decree takes effect?",
+    "options": ["Build stronger walls", "Gather together and assemble", "Flee to the mountains", "Appoint a new king"],
+    "correctAnswerIndex": 1,
+    "book": "Zephaniah",
+    "difficulty": "Medium",
+    "verseReference": "Zephaniah 2:1-2",
+    "verseText": "Gather together, yes, gather, O shameless nation, before the decree takes effect—before the day passes away like chaff—before there comes upon you the burning anger of the LORD, before there comes upon you the day of the anger of the LORD."
+  },
+  {
+    "text": "Which Philistine cities are specifically named for judgment in Zephaniah 2:4?",
+    "options": ["Tyre and Sidon", "Gaza, Ashkelon, Ashdod, Ekron", "Damascus and Hamath", "Jericho and Ai"],
+    "correctAnswerIndex": 1,
+    "book": "Zephaniah",
+    "difficulty": "Medium",
+    "verseReference": "Zephaniah 2:4",
+    "verseText": "For Gaza shall be deserted, and Ashkelon shall become a desolation; Ashdod's people shall be driven out at noon, and Ekron shall be uprooted."
+  },
+  {
+    "text": "Moab and Ammon are judged in Zephaniah 2:8-10 for what specific sin against God's people?",
+    "options": ["Refusing trade agreements", "Their pride, taunts, and reviling against the people of the LORD", "Stealing livestock", "Breaking a peace treaty"],
+    "correctAnswerIndex": 1,
+    "book": "Zephaniah",
+    "difficulty": "Medium",
+    "verseReference": "Zephaniah 2:8, 10",
+    "verseText": "“I have heard the taunts of Moab and the revilings of the Ammonites, how they have taunted my people and made boasts against their territory... This shall be their lot in return for their pride, because they taunted and boasted against the people of the LORD of hosts."
+  },
+  {
+    "text": "What fate is prophesied for Moab and Ammon in Zephaniah 2:9?",
+    "options": ["They will become wealthy", "They will become like Sodom and Gomorrah, a land of weeds and salt pits", "They will rule over Judah", "They will be allies of Israel"],
+    "correctAnswerIndex": 1,
+    "book": "Zephaniah",
+    "difficulty": "Hard",
+    "verseReference": "Zephaniah 2:9",
+    "verseText": "Therefore, as I live,” declares the LORD of hosts, the God of Israel, “Moab shall become like Sodom, and the Ammonites like Gomorrah, a land possessed by nettles and salt pits, and a waste forever. The remnant of my people shall plunder them, and the survivors of my nation shall possess them.”"
+  },
+  {
+    "text": "Which powerful empire's capital city, Nineveh, is prophesied to become a desolation in Zephaniah 2:13-15?",
+    "options": ["Egypt", "Babylon", "Assyria", "Persia"],
+    "correctAnswerIndex": 2,
+    "book": "Zephaniah",
+    "difficulty": "Easy",
+    "verseReference": "Zephaniah 2:13",
+    "verseText": "And he will stretch out his hand against the north and destroy Assyria, and he will make Nineveh a desolation, a dry waste like the desert."
+  },
+  {
+    "text": "What animals are specifically mentioned as inhabiting the ruins of Nineveh in Zephaniah 2:14?",
+    "options": ["Lions and bears", "Jackals and hyenas", "Desert owl and screech owl (or pelican and hedgehog)", "Sheep and goats"],
+    "correctAnswerIndex": 2,
+    "book": "Zephaniah",
+    "difficulty": "Hard",
+    "verseReference": "Zephaniah 2:14",
+    "verseText": "Herds shall lie down in her midst, all kinds of beasts; even the owl and the hedgehog shall lodge in her capitals; a voice shall hoot in the window; desolation shall be on the threshold; for her cedar work will be laid bare."
+  },
+  {
+    "text": "What was the boastful claim of Nineveh mentioned in Zephaniah 2:15?",
+    "options": ["'We are the oldest city'", "'Our gods are strongest'", "'I am, and there is no one else besides me'", "'We will conquer the world'"],
+    "correctAnswerIndex": 2,
+    "book": "Zephaniah",
+    "difficulty": "Medium",
+    "verseReference": "Zephaniah 2:15",
+    "verseText": "This is the exultant city that lived securely, that said in her heart, “I am, and there is no one else.” What a desolation she has become, a lair for wild beasts! Everyone who passes by her hisses and shakes his fist."
+  },
+  {
+    "text": "How is Jerusalem described at the beginning of Zephaniah 3?",
+    "options": ["Righteous and pure", "Wealthy and prosperous", "Rebellious, defiled, oppressing", "Humble and repentant"],
+    "correctAnswerIndex": 2,
+    "book": "Zephaniah",
+    "difficulty": "Easy",
+    "verseReference": "Zephaniah 3:1",
+    "verseText": "Woe to her who is rebellious and defiled, the oppressing city!"
+  },
+  {
+    "text": "According to Zephaniah 3:2, Jerusalem failed to do what?",
+    "options": ["Pay tribute", "Build defenses", "Trust in the LORD or draw near to her God", "Make alliances"],
+    "correctAnswerIndex": 2,
+    "book": "Zephaniah",
+    "difficulty": "Medium",
+    "verseReference": "Zephaniah 3:2",
+    "verseText": "She listens to no voice; she accepts no correction. She does not trust in the LORD; she does not draw near to her God."
+  },
+  {
+    "text": "How are Jerusalem's judges described in Zephaniah 3:3?",
+    "options": ["Wise and fair", "Evening wolves that leave nothing till the morning", "Sleeping lions", "Busy bees"],
+    "correctAnswerIndex": 1,
+    "book": "Zephaniah",
+    "difficulty": "Medium",
+    "verseReference": "Zephaniah 3:3",
+    "verseText": "Her officials within her are roaring lions; her judges are evening wolves that leave nothing till the morning."
+  },
+  {
+    "text": "What accusation is leveled against Jerusalem's prophets in Zephaniah 3:4?",
+    "options": ["They speak too softly", "They are fickle, treacherous men", "They prophesy peace falsely", "They are too old"],
+    "correctAnswerIndex": 1,
+    "book": "Zephaniah",
+    "difficulty": "Medium",
+    "verseReference": "Zephaniah 3:4",
+    "verseText": "Her prophets are fickle, treacherous men; her priests profane what is holy; they do violence to the law."
+  },
+  {
+    "text": "What is the characteristic of the LORD within Jerusalem, contrasted with the city's corruption (Zephaniah 3:5)?",
+    "options": ["He is absent", "He is vengeful", "He is righteous and does no injustice", "He is silent"],
+    "correctAnswerIndex": 2,
+    "book": "Zephaniah",
+    "difficulty": "Medium",
+    "verseReference": "Zephaniah 3:5",
+    "verseText": "The LORD within her is righteous; he does no injustice; every morning he shows forth his justice; each dawn he does not fail; but the unjust knows no shame."
+  },
+  {
+    "text": "Despite witnessing God's judgment on other nations, how did Jerusalem react according to Zephaniah 3:7?",
+    "options": ["They repented immediately", "They eagerly corrupted all their deeds", "They sought God's mercy", "They fled the city"],
+    "correctAnswerIndex": 1,
+    "book": "Zephaniah",
+    "difficulty": "Medium",
+    "verseReference": "Zephaniah 3:7",
+    "verseText": "I said, ‘Surely you will fear me; you will accept correction.’ ... But all the more they were eager to make all their deeds corrupt."
+  },
+  {
+    "text": "What is God's stated purpose for gathering the nations in Zephaniah 3:8?",
+    "options": ["To form an alliance", "To pour out His indignation and wrath upon them", "To teach them His ways", "To establish trade routes"],
+    "correctAnswerIndex": 1,
+    "book": "Zephaniah",
+    "difficulty": "Medium",
+    "verseReference": "Zephaniah 3:8",
+    "verseText": "“Therefore wait for me,” declares the LORD, “for the day when I rise up to seize the prey. For my decision is to gather nations, to assemble kingdoms, to pour out upon them my indignation, all my burning anger; for in the fire of my jealousy all the earth shall be consumed."
+  },
+  {
+    "text": "After the purification of speech (Zephaniah 3:9), what will the peoples be able to do?",
+    "options": ["Speak multiple languages", "Build a great tower", "Call upon the name of the LORD and serve Him with one accord", "Predict the future"],
+    "correctAnswerIndex": 2,
+    "book": "Zephaniah",
+    "difficulty": "Easy",
+    "verseReference": "Zephaniah 3:9",
+    "verseText": "“For at that time I will change the speech of the peoples to a pure speech, that all of them may call upon the name of the LORD and serve him with one accord."
+  },
+  {
+    "text": "From where will God's worshippers, His dispersed people, bring offerings according to Zephaniah 3:10?",
+    "options": ["Egypt", "Babylon", "Beyond the rivers of Cush (Ethiopia)", "Rome"],
+    "correctAnswerIndex": 2,
+    "book": "Zephaniah",
+    "difficulty": "Hard",
+    "verseReference": "Zephaniah 3:10",
+    "verseText": "From beyond the rivers of Cush my worshippers, the daughter of my dispersed ones, shall bring my offering."
+  },
+  {
+    "text": "What characteristic will define the remnant left in Israel according to Zephaniah 3:12-13?",
+    "options": ["Wealthy and powerful", "Militarily strong", "Humble, lowly, seeking refuge in the LORD, doing no injustice", "Proud and boastful"],
+    "correctAnswerIndex": 2,
+    "book": "Zephaniah",
+    "difficulty": "Easy",
+    "verseReference": "Zephaniah 3:12-13",
+    "verseText": "But I will leave in your midst a people humble and lowly. They shall seek refuge in the name of the LORD, the remnant of Israel; they shall do no injustice and speak no lies, nor shall there be found in their mouth a deceitful tongue. For they shall graze and lie down, and none shall make them afraid.”"
+  },
+  {
+    "text": "Who is called to 'Sing aloud' and 'Rejoice' in Zephaniah 3:14?",
+    "options": ["The nations", "The priests", "O Daughter of Zion; O Israel; O Daughter of Jerusalem", "The prophets"],
+    "correctAnswerIndex": 2,
+    "book": "Zephaniah",
+    "difficulty": "Easy",
+    "verseReference": "Zephaniah 3:14",
+    "verseText": "Sing aloud, O daughter of Zion; shout, O Israel! Rejoice and exult with all your heart, O daughter of Jerusalem!"
+  },
+  {
+    "text": "What reason is given for rejoicing in Zephaniah 3:15?",
+    "options": ["Military victory", "Economic prosperity", "The LORD has taken away judgments and cleared away enemies; the King of Israel is in their midst", "A new temple is built"],
+    "correctAnswerIndex": 2,
+    "book": "Zephaniah",
+    "difficulty": "Medium",
+    "verseReference": "Zephaniah 3:15",
+    "verseText": "The LORD has taken away the judgments against you; he has cleared away your enemies. The King of Israel, the LORD, is in your midst; you shall never again fear evil."
+  },
+  {
+    "text": "What comforting message will be spoken to Jerusalem in the future, according to Zephaniah 3:16?",
+    "options": ["'Prepare for battle'", "'Fear not, O Zion; let not your hands grow weak'", "'Pay your taxes'", "'Mourn for your sins'"],
+    "correctAnswerIndex": 1,
+    "book": "Zephaniah",
+    "difficulty": "Easy",
+    "verseReference": "Zephaniah 3:16",
+    "verseText": "On that day it shall be said to Jerusalem: “Fear not, O Zion; let not your hands grow weak.”"
+  },
+  {
+    "text": "How does Zephaniah 3:17 describe God's emotional response towards His people?",
+    "options": ["Indifferent", "Angry", "He rejoices over them with gladness and loud singing", "Sad"],
+    "correctAnswerIndex": 2,
+    "book": "Zephaniah",
+    "difficulty": "Easy",
+    "verseReference": "Zephaniah 3:17",
+    "verseText": "The LORD your God is in your midst, a mighty one who will save; he will rejoice over you with gladness; he will quiet you by his love; he will exult over you with loud singing."
+  },
+  {
+    "text": "Who will God gather according to Zephaniah 3:18?",
+    "options": ["The armies of the nations", "Those who mourned for the festival assembly, removed from reproach", "The wealthy merchants", "The corrupt priests"],
+    "correctAnswerIndex": 1,
+    "book": "Zephaniah",
+    "difficulty": "Medium",
+    "verseReference": "Zephaniah 3:18",
+    "verseText": "I will gather those of you who mourn for the festival, so that you will no longer suffer reproach."
+  },
+  {
+    "text": "What will God deal with at the time of restoration, according to Zephaniah 3:19?",
+    "options": ["Trade deficits", "All the oppressors of His people", "Agricultural problems", "Political disputes"],
+    "correctAnswerIndex": 1,
+    "book": "Zephaniah",
+    "difficulty": "Easy",
+    "verseReference": "Zephaniah 3:19",
+    "verseText": "Behold, at that time I will deal with all your oppressors. And I will save the lame and gather the outcast, and I will change their shame into praise and renown in all the earth."
+  },  
+  {
+    "text": "What specific groups will God save and gather in Zephaniah 3:19?",
+    "options": ["The rich and the powerful", "The priests and the prophets", "The lame and the outcast", "The warriors and the kings"],
+    "correctAnswerIndex": 2,
+    "book": "Zephaniah",
+    "difficulty": "Easy",
+    "verseReference": "Zephaniah 3:19",
+    "verseText": "And I will save the lame and gather the outcast, and I will change their shame into praise and renown in all the earth."
+  },
+  {
+    "text": "What will God change the people's shame into, according to Zephaniah 3:19?",
+    "options": ["Fear", "Wealth", "Praise and renown", "Sorrow"],
+    "correctAnswerIndex": 2,
+    "book": "Zephaniah",
+    "difficulty": "Easy",
+    "verseReference": "Zephaniah 3:19",
+    "verseText": "...and I will change their shame into praise and renown in all the earth."
+  },
+  {
+    "text": "When will God restore the fortunes of His people, according to Zephaniah 3:20?",
+    "options": ["After they conquer Babylon", "When Josiah completes his reforms", "Before their very eyes, making them renowned and praised among all peoples", "In a thousand years"],
+    "correctAnswerIndex": 2,
+    "book": "Zephaniah",
+    "difficulty": "Medium",
+    "verseReference": "Zephaniah 3:20",
+    "verseText": "At that time I will bring you in, at the time when I gather you together; for I will make you renowned and praised among all the peoples of the earth, when I restore your fortunes before your eyes,” says the LORD."
+  },
+  {
+    "text": "What is the significance of Zephaniah's own lineage tracing back to King Hezekiah (Zephaniah 1:1)?",
+    "options": ["It gave him priestly authority", "It meant he was related to the current king, Josiah", "It potentially gave him access to the royal court and insight into its workings", "It disqualified him from prophesying"],
+    "correctAnswerIndex": 2,
+    "book": "Zephaniah",
+    "difficulty": "Hard",
+    "verseReference": "Zephaniah 1:1",
+    "verseText": "The word of the LORD that came to Zephaniah the son of Cushi, son of Gedaliah, son of Amariah, son of Hezekiah, in the days of Josiah the son of Amon, king of Judah."
+  },
+  {
+    "text": "The phrase 'Day of the LORD' in Zephaniah primarily refers to a time of:",
+    "options": ["Universal peace and prosperity", "Divine judgment and wrath against sin", "Celebration and feasting", "The rebuilding of the Temple"],
+    "correctAnswerIndex": 1,
+    "book": "Zephaniah",
+    "difficulty": "Easy",
+    "verseReference": "Zephaniah 1:7, 14-18",
+    "verseText": "(Context of judgment throughout chapter 1)"
+  },
+  {
+    "text": "Zephaniah's prophecy likely supported the religious reforms initiated by which king?",
+    "options": ["Manasseh", "Amon", "Josiah", "Jehoiakim"],
+    "correctAnswerIndex": 2,
+    "book": "Zephaniah",
+    "difficulty": "Medium",
+    "verseReference": "Zephaniah 1:1",
+    "verseText": "...in the days of Josiah the son of Amon, king of Judah."
+  },
+  {
+    "text": "A key message of hope in Zephaniah centers on the preservation of a:",
+    "options": ["Wealthy elite", "Powerful army", "Humble and righteous remnant", "New dynasty of kings"],
+    "correctAnswerIndex": 2,
+    "book": "Zephaniah",
+    "difficulty": "Easy",
+    "verseReference": "Zephaniah 2:3, 3:12-13",
+    "verseText": "Seek the LORD, all you humble of the land... But I will leave in your midst a people humble and lowly."
   }
 ]

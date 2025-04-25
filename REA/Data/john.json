@@ -88,5 +88,482 @@
     "difficulty": "Medium",
     "verseReference": "John 13:23, 19:26, 20:2, 21:7, 21:20, 24",
     "verseText": "(The author refers to himself as 'the disciple whom Jesus loved', traditionally identified as the Apostle John)."
+  },
+  {
+    "text": "What title does John the Baptist use for Jesus when he sees him coming (John 1)?",
+    "options": ["'Son of David'", "'The Messiah'", "'The Lamb of God, who takes away the sin of the world!'", "'The King of Israel'"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 1:29",
+    "verseText": "The next day he saw Jesus coming toward him, and said, “Behold, the Lamb of God, who takes away the sin of the world!"
+  },
+  {
+    "text": "Who were the first two disciples to follow Jesus after hearing John the Baptist's testimony (John 1)?",
+    "options": ["Peter and James", "Andrew and another disciple (likely John, the author)", "Philip and Nathanael", "Matthew and Thomas"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 1:35-37, 40",
+    "verseText": "The next day again John was standing with two of his disciples, and he looked at Jesus as he walked by and said, “Behold, the Lamb of God!” The two disciples heard him say this, and they followed Jesus... One of the two who heard John speak and followed Jesus was Andrew, Simon Peter's brother."
+  },
+  {
+    "text": "What did Jesus say to Nathanael that convinced him Jesus was the Son of God (John 1)?",
+    "options": ["He healed his relative", "He knew Nathanael was under the fig tree before Philip called him", "He quoted scripture", "He performed a miracle"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 1:48-49",
+    "verseText": "Nathanael said to him, “How do you know me?” Jesus answered him, “Before Philip called you, when you were under the fig tree, I saw you.” Nathanael answered him, “Rabbi, you are the Son of God! You are the King of Israel!”"
+  },
+  {
+    "text": "What action did Jesus take in the temple courts in John 2?",
+    "options": ["He taught the crowds", "He healed the sick", "He drove out those selling animals and exchanging money, making a whip of cords", "He debated with the priests"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 2:14-16",
+    "verseText": "In the temple he found those who were selling oxen and sheep and pigeons, and the money-changers sitting there. And making a whip of cords, he drove them all out of the temple, with the sheep and oxen. And he poured out the coins of the money-changers and overturned their tables."
+  },
+  {
+    "text": "When the Jews asked for a sign after the temple clearing, what sign did Jesus say he would give (John 2)?",
+    "options": ["Turning water to wine", "Healing a blind man", "'Destroy this temple, and in three days I will raise it up' (referring to his body)", "Feeding the multitude"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 2:19, 21",
+    "verseText": "Jesus answered them, “Destroy this temple, and in three days I will raise it up.”... But he was speaking about the temple of his body."
+  },
+  {
+    "text": "What famous verse, summarizing the gospel message, comes from Jesus' conversation with Nicodemus (John 3)?",
+    "options": ["John 1:1", "John 3:16 ('For God so loved the world...')", "John 11:25", "John 14:6"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 3:16",
+    "verseText": "“For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life."
+  },
+  {
+    "text": "With whom did Jesus have a significant conversation by a well in Samaria (John 4)?",
+    "options": ["A Roman soldier", "A Samaritan woman", "A tax collector", "A group of children"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 4:7, 9",
+    "verseText": "A woman from Samaria came to draw water. Jesus said to her, “Give me a drink.”... The Samaritan woman said to him, “How is it that you, a Jew, ask for a drink from me, a woman of Samaria?” (For Jews have no dealings with Samaritans.)"
+  },
+  {
+    "text": "What kind of 'water' did Jesus offer the Samaritan woman (John 4)?",
+    "options": ["Water from the Jordan", "Water from the well", "Living water (referring to the Holy Spirit/eternal life)", "Wine"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 4:10, 14",
+    "verseText": "Jesus answered her, “If you knew the gift of God, and who it is that is saying to you, ‘Give me a drink,’ you would have asked him, and he would have given you living water.”... “but whoever drinks of the water that I will give him will never be thirsty again. The water that I will give him will become in him a spring of water welling up to eternal life.”"
+  },
+  {
+    "text": "What was the second sign Jesus performed in Cana, according to John 4?",
+    "options": ["Calming the storm", "Healing an official's son who was in Capernaum", "Walking on water", "Casting out a demon"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 4:46-47, 54",
+    "verseText": "So he came again to Cana in Galilee, where he had made the water wine. And at Capernaum there was an official whose son was ill. When this man heard that Jesus had come from Judea to Galilee, he went to him and asked him to come down and heal his son... This was now the second sign that Jesus did when he had come from Judea to Galilee."
+  },
+  {
+    "text": "What miracle did Jesus perform at the Pool of Bethesda (John 5)?",
+    "options": ["He walked on the water", "He healed a man who had been an invalid for 38 years", "He turned water into wine", "He fed 5000 people"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 5:5, 8-9",
+    "verseText": "One man was there who had been an invalid for thirty-eight years... Jesus said to him, “Get up, take up your bed, and walk.” And at once the man was healed, and he took up his bed and walked."
+  },
+  {
+    "text": "Why did the Jewish leaders persecute Jesus after the healing at Bethesda (John 5)?",
+    "options": ["He didn't pay the temple tax", "He healed on the Sabbath and called God his own Father, making himself equal with God", "He associated with sinners", "He challenged their authority"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 5:16, 18",
+    "verseText": "And this was why the Jews were persecuting Jesus, because he was doing these things on the Sabbath... This was why the Jews were seeking all the more to kill him, because not only was he breaking the Sabbath, but he was even calling God his own Father, making himself equal with God."
+  },
+  {
+    "text": "In John 6, after feeding the 5000, Jesus delivered a discourse centered on which 'I am' statement?",
+    "options": ["'I am the light of the world'", "'I am the good shepherd'", "'I am the bread of life'", "'I am the true vine'"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 6:35",
+    "verseText": "Jesus said to them, “I am the bread of life; whoever comes to me shall not hunger, and whoever believes in me shall never thirst."
+  },
+  {
+    "text": "What did Jesus say people must do to have eternal life, causing many disciples to turn back (John 6)?",
+    "options": ["Sell all their possessions", "'Eat the flesh of the Son of Man and drink his blood'", "Follow the Law perfectly", "Perform miracles"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Hard",
+    "verseReference": "John 6:53-54, 66",
+    "verseText": "So Jesus said to them, “Truly, truly, I say to you, unless you eat the flesh of the Son of Man and drink his blood, you have no life in you. Whoever feeds on my flesh and drinks my blood has eternal life...” After this many of his disciples turned back and no longer walked with him."
+  },
+  {
+    "text": "When many disciples left, what was Peter's response when Jesus asked if the Twelve also wanted to leave (John 6)?",
+    "options": ["'We don't understand you'", "'Lord, to whom shall we go? You have the words of eternal life.'", "'Let us think about it'", "'We must follow the Law'"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 6:67-68",
+    "verseText": "So Jesus said to the Twelve, “Do you want to go away as well?” Simon Peter answered him, “Lord, to whom shall we go? You have the words of eternal life,"
+  },
+  {
+    "text": "During the Feast of Tabernacles (John 7), what did Jesus cry out, inviting people to come to him?",
+    "options": ["'Repent, for the kingdom is near!'", "'If anyone thirsts, let him come to me and drink.'", "'I am the Messiah!'", "'Follow me!'"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 7:37",
+    "verseText": "On the last day of the feast, the great day, Jesus stood up and cried out, “If anyone thirsts, let him come to me and drink."
+  },
+  {
+    "text": "What did Jesus say to the woman caught in adultery after her accusers left (John 8)?",
+    "options": ["'You are condemned'", "'Where are your accusers? Neither do I condemn you; go, and from now on sin no more.'", "'Offer a sacrifice'", "'You must leave the city'"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 8:10-11",
+    "verseText": "Jesus stood up and said to her, “Woman, where are they? Has no one condemned you?” She said, “No one, Lord.” And Jesus said, “Neither do I condemn you; go, and from now on sin no more.”"
+  },
+  {
+    "text": "Which 'I am' statement did Jesus make in the context of the woman caught in adultery (John 8)?",
+    "options": ["'I am the bread of life'", "'I am the light of the world'", "'I am the good shepherd'", "'I am the resurrection and the life'"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 8:12",
+    "verseText": "Again Jesus spoke to them, saying, “I am the light of the world. Whoever follows me will not walk in darkness, but will have the light of life.”"
+  },
+  {
+    "text": "Jesus told the Jews who had believed in him, 'If you abide in my word, you are truly my disciples, and you will know the truth, and the truth will...' (John 8)?",
+    "options": ["'...make you wise'", "'...set you free'", "'...give you peace'", "'...lead you to God'"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 8:31-32",
+    "verseText": "So Jesus said to the Jews who had believed him, “If you abide in my word, you are truly my disciples, and you will know the truth, and the truth will set you free.”"
+  },
+  {
+    "text": "What statement by Jesus caused the Jews to pick up stones to kill him in John 8?",
+    "options": ["'I am the light of the world'", "'You are of your father the devil'", "'Truly, truly, I say to you, before Abraham was, I am.'", "'I and the Father are one'"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Hard",
+    "verseReference": "John 8:58-59",
+    "verseText": "Jesus said to them, “Truly, truly, I say to you, before Abraham was, I am.” So they picked up stones to throw at him..."
+  },
+  {
+    "text": "When Jesus healed the man born blind (John 9), what did the man eventually confess about Jesus?",
+    "options": ["He didn't know who healed him", "'Lord, I believe.'", "He was just a prophet", "He was Elijah"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 9:35, 38",
+    "verseText": "Jesus heard that they had cast him out, and having found him he said, “Do you believe in the Son of Man?”... He said, “Lord, I believe,” and he worshiped him."
+  },
+  {
+    "text": "In John 10, Jesus uses the metaphor of a shepherd and his sheep. Which 'I am' statements does he make here?",
+    "options": ["'I am the bread of life' and 'I am the light'", "'I am the door (gate) of the sheep' and 'I am the good shepherd'", "'I am the resurrection and the life' and 'I am the way'", "'I am the true vine' and 'I am the King'"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 10:7, 11",
+    "verseText": "So Jesus again said to them, “Truly, truly, I say to you, I am the door of the sheep... I am the good shepherd. The good shepherd lays down his life for the sheep."
+  },
+  {
+    "text": "What did Jesus say is the defining characteristic of the good shepherd (John 10)?",
+    "options": ["He has many sheep", "He knows the way", "He lays down his life for the sheep", "He carries a staff"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 10:11",
+    "verseText": "I am the good shepherd. The good shepherd lays down his life for the sheep."
+  },
+  {
+    "text": "What statement by Jesus again provoked the Jews to want to stone him in John 10?",
+    "options": ["'Before Abraham was, I am'", "'I am the good shepherd'", "'I and the Father are one.'", "'Destroy this temple...'"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 10:30-31",
+    "verseText": "I and the Father are one.” The Jews picked up stones again to stone him."
+  },
+  {
+    "text": "Who objected when Mary anointed Jesus' feet with expensive ointment (John 12)?",
+    "options": ["Peter", "Martha", "Judas Iscariot", "The Pharisees"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 12:3-5",
+    "verseText": "Mary therefore took a pound of expensive ointment... and anointed the feet of Jesus... But Judas Iscariot, one of his disciples (he who was about to betray him), said, “Why was this ointment not sold for three hundred denarii and given to the poor?”"
+  },
+  {
+    "text": "What humble action did Jesus perform for his disciples before the Last Supper (John 13)?",
+    "options": ["He cooked for them", "He washed their feet", "He gave them money", "He prayed for each individually"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 13:4-5",
+    "verseText": "rose from supper. He laid aside his outer garments, and taking a towel, tied it around his waist. Then he poured water into a basin and began to wash the disciples' feet and to wipe them with the towel that was wrapped around him."
+  },
+  {
+    "text": "What 'new commandment' did Jesus give his disciples in John 13?",
+    "options": ["'Love God only'", "'Keep the Sabbath'", "'Love one another; just as I have loved you'", "'Make disciples of all nations'"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 13:34",
+    "verseText": "A new commandment I give to you, that you love one another: just as I have loved you, you also are to love one another."
+  },
+  {
+    "text": "Which disciple asked Jesus, 'Lord, we do not know where you are going. How can we know the way?' (John 14)?",
+    "options": ["Peter", "Thomas", "Philip", "Andrew"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 14:5",
+    "verseText": "Thomas said to him, “Lord, we do not know where you are going. How can we know the way?”"
+  },
+  {
+    "text": "What is Jesus' response to Thomas' question about the way (John 14)?",
+    "options": ["'Follow the map'", "'Ask the Father'", "'I am the way, and the truth, and the life. No one comes to the Father except through me.'", "'Love one another'"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 14:6",
+    "verseText": "Jesus said to him, “I am the way, and the truth, and the life. No one comes to the Father except through me."
+  },
+  {
+    "text": "Which disciple asked Jesus, 'Lord, show us the Father, and it is enough for us' (John 14)?",
+    "options": ["Peter", "Thomas", "Philip", "Judas (not Iscariot)"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 14:8",
+    "verseText": "Philip said to him, “Lord, show us the Father, and it is enough for us.”"
+  },
+  {
+    "text": "What did Jesus say to Philip's request to see the Father (John 14)?",
+    "options": ["'No one can see the Father'", "'Look up into heaven'", "'Whoever has seen me has seen the Father'", "'Wait for the Spirit'"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 14:9",
+    "verseText": "Jesus said to him, “Have I been with you so long, and you still do not know me, Philip? Whoever has seen me has seen the Father. How can you say, ‘Show us the Father’?"
+  },
+  {
+    "text": "In John 15, Jesus uses the metaphor of the vine and the branches. Which 'I am' statement is central here?",
+    "options": ["'I am the bread of life'", "'I am the light of the world'", "'I am the true vine'", "'I am the good shepherd'"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 15:1, 5",
+    "verseText": "“I am the true vine, and my Father is the vinedresser... I am the vine; you are the branches. Whoever abides in me and I in him, he it is that bears much fruit, for apart from me you can do nothing."
+  },
+  {
+    "text": "What does Jesus say is the key to bearing fruit, according to John 15?",
+    "options": ["Working hard", "Abiding in Him (the Vine)", "Following the Law", "Having enough water"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 15:4-5",
+    "verseText": "Abide in me, and I in you. As the branch cannot bear fruit by itself, unless it abides in the vine, neither can you, unless you abide in me. I am the vine; you are the branches. Whoever abides in me and I in him, he it is that bears much fruit..."
+  },
+  {
+    "text": "What does Jesus say is the greatest love (John 15)?",
+    "options": ["Love for God", "Love for family", "To lay down one's life for one's friends", "Love for oneself"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 15:13",
+    "verseText": "Greater love has no one than this, that someone lay down his life for his friends."
+  },
+  {
+    "text": "What work will the Holy Spirit do when He comes, according to John 16?",
+    "options": ["Perform miracles", "Convict the world concerning sin, righteousness, and judgment", "Build a temple", "Lead armies"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 16:8",
+    "verseText": "And when he comes, he will convict the world concerning sin and righteousness and judgment:"
+  },
+  {
+    "text": "John 17 records Jesus' High Priestly Prayer. For whom does Jesus primarily pray?",
+    "options": ["For the Romans", "For the world", "For Himself, His immediate disciples, and all future believers", "For the Jewish leaders"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 17:1, 6, 9, 20",
+    "verseText": "(Jesus prays for His glorification, then for the protection and sanctification of the disciples He had, and finally for the unity of all who would believe through their message)."
+  },
+  {
+    "text": "What is the central request Jesus makes for all believers in John 17?",
+    "options": ["That they would be wealthy", "That they would be powerful", "That they may all be one (unity)", "That they would perform miracles"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 17:20-21",
+    "verseText": "“I do not ask for these only, but also for those who will believe in me through their word, that they may all be one, just as you, Father, are in me, and I in you, that they also may be in us, so that the world may believe that you have sent me."
+  },
+  {
+    "text": "When the soldiers came to arrest Jesus, and He said 'I am he', what was their reaction (John 18)?",
+    "options": ["They laughed", "They drew back and fell to the ground", "They immediately seized him", "They argued among themselves"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 18:4-6",
+    "verseText": "Then Jesus, knowing all that would happen to him, came forward and said to them, “Whom do you seek?” They answered him, “Jesus of Nazareth.” Jesus said to them, “I am he.”... When Jesus said to them, “I am he,” they drew back and fell to the ground."
+  },
+  {
+    "text": "Which disciple cut off the ear of the high priest's servant during Jesus' arrest (John 18)?",
+    "options": ["John", "James", "Peter", "Andrew"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 18:10",
+    "verseText": "Then Simon Peter, having a sword, drew it and struck the high priest's servant and cut off his right ear. (The servant's name was Malchus.)"
+  },
+  {
+    "text": "Before whom was Jesus first taken after his arrest, according to John's Gospel (John 18)?",
+    "options": ["Pilate", "Herod", "Caiaphas", "Annas (father-in-law of Caiaphas)"],
+    "correctAnswerIndex": 3,
+    "book": "John",
+    "difficulty": "Hard",
+    "verseReference": "John 18:13",
+    "verseText": "First they led him to Annas, for he was the father-in-law of Caiaphas, who was high priest that year."
+  },
+  {
+    "text": "What question did Pilate ask Jesus, to which Jesus replied, 'My kingdom is not of this world' (John 18)?",
+    "options": ["'Are you the Son of God?'", "'Are you the King of the Jews?'", "'What have you done?'", "'Where are you from?'"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 18:33, 36",
+    "verseText": "So Pilate entered his headquarters again and called Jesus and said to him, “Are you the King of the Jews?”... Jesus answered, “My kingdom is not of this world..."
+  },
+  {
+    "text": "What famous, perhaps cynical, question did Pilate ask Jesus after Jesus spoke about bearing witness to the truth (John 18)?",
+    "options": ["'What is truth?'", "'What is justice?'", "'Who are you?'", "'Why have you come?'"],
+    "correctAnswerIndex": 0,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 18:37-38",
+    "verseText": "Then Pilate said to him, “So you are a king?” Jesus answered, “You say that I am a king. For this purpose I was born and for this purpose I have come into the world—to bear witness to the truth. Everyone who is of the truth listens to my voice.” Pilate said to him, “What is truth?”"
+  },
+  {
+    "text": "What statement did the Jewish leaders make that pressured Pilate into crucifying Jesus (John 19)?",
+    "options": ["'He stirs up the people'", "'He opposes paying taxes to Caesar'", "'If you release this man, you are not Caesar's friend. Everyone who makes himself a king opposes Caesar.'", "'Crucify him!'"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 19:12",
+    "verseText": "From then on Pilate sought to release him, but the Jews cried out, “If you release this man, you are not Caesar's friend. Everyone who makes himself a king opposes Caesar.”"
+  },
+  {
+    "text": "Which disciple did Jesus entrust his mother Mary to while on the cross (John 19)?",
+    "options": ["Peter", "James", "The disciple whom he loved (John)", "Andrew"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 19:26-27",
+    "verseText": "When Jesus saw his mother and the disciple whom he loved standing nearby, he said to his mother, “Woman, behold, your son!” Then he said to the disciple, “Behold, your mother!” And from that hour the disciple took her to his own home."
+  },
+  {
+    "text": "What were Jesus' final words from the cross, according to John's Gospel (John 19)?",
+    "options": ["'My God, my God, why...'", "'Father, forgive them'", "'It is finished.'", "'Into your hands I commit my spirit'"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 19:30",
+    "verseText": "When Jesus had received the sour wine, he said, “It is finished,” and he bowed his head and gave up his spirit."
+  },
+  {
+    "text": "Why did the soldiers break the legs of the two criminals crucified with Jesus, but not Jesus' legs (John 19)?",
+    "options": ["They ran out of time", "They forgot", "Jesus was already dead, fulfilling prophecy", "Pilate ordered them not to"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 19:32-33, 36",
+    "verseText": "So the soldiers came and broke the legs of the first, and of the other who had been crucified with him. But when they came to Jesus and saw that he was already dead, they did not break his legs... For these things took place that the Scripture might be fulfilled: “Not one of his bones will be broken.”"
+  },
+  {
+    "text": "Who was the first person Jesus appeared to after his resurrection, according to John 20?",
+    "options": ["Peter", "The disciples as a group", "Mary Magdalene", "Thomas"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 20:14, 16",
+    "verseText": "Having said this, she turned around and saw Jesus standing, but she did not know that it was Jesus... Jesus said to her, “Mary.” She turned and said to him in Aramaic, “Rabboni!” (which means Teacher)."
+  },
+  {
+    "text": "What did Jesus do when he appeared to the disciples (excluding Thomas) on the evening of the resurrection (John 20)?",
+    "options": ["He ate with them", "He showed them his hands and side, said 'Peace be with you,' and breathed on them, saying 'Receive the Holy Spirit'", "He gave them the Great Commission", "He ascended to heaven"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 20:19-22",
+    "verseText": "On the evening of that day, the first day of the week... Jesus came and stood among them and said to them, “Peace be with you.” When he had said this, he showed them his hands and his side... Jesus said to them again, “Peace be with you. As the Father has sent me, even so I am sending you.” And when he had said this, he breathed on them and said to them, “Receive the Holy Spirit."
+  },
+  {
+    "text": "What blessing did Jesus pronounce related to Thomas's belief (John 20)?",
+    "options": ["'Blessed are your eyes, for they see'", "'Blessed are those who believe without seeing'", "'Blessed are you, Thomas'", "'Belief comes through signs'"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 20:29",
+    "verseText": "Jesus said to him, “Have you believed because you have seen me? Blessed are those who have not seen and yet have believed.”"
+  },
+  {
+    "text": "In John 21, Jesus appears to the disciples by which sea?",
+    "options": ["The Mediterranean Sea", "The Dead Sea", "The Sea of Tiberias (Galilee)", "The Red Sea"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 21:1",
+    "verseText": "After this Jesus revealed himself again to the disciples by the Sea of Tiberias; and he revealed himself in this way."
+  },
+  {
+    "text": "What miracle did Jesus perform for the disciples fishing in John 21?",
+    "options": ["Calming the storm", "Walking on water", "A miraculous catch of 153 large fish", "Multiplying their bread"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Medium",
+    "verseReference": "John 21:6, 11",
+    "verseText": "He said to them, “Cast the net on the right side of the boat, and you will find some.” So they cast it, and now they were not able to haul it in, because of the quantity of fish... So Simon Peter went aboard and hauled the net ashore, full of large fish, 153 of them."
+  },
+  {
+    "text": "What question did Jesus ask Peter three times after breakfast in John 21?",
+    "options": ["'Will you betray me?'", "'Do you understand?'", "'Simon, son of John, do you love me?'", "'Will you follow me?'"],
+    "correctAnswerIndex": 2,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 21:15, 16, 17",
+    "verseText": "When they had finished breakfast, Jesus said to Simon Peter, “Simon, son of John, do you love me more than these?”... He said to him a second time, “Simon, son of John, do you love me?”... He said to him the third time, “Simon, son of John, do you love me?”"
+  },
+  {
+    "text": "What command did Jesus give Peter each time Peter affirmed his love (John 21)?",
+    "options": ["'Follow me'", "'Feed my lambs' / 'Tend my sheep' / 'Feed my sheep'", "'Go and make disciples'", "'Be watchful'"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Easy",
+    "verseReference": "John 21:15, 16, 17",
+    "verseText": "...He said to him, “Feed my lambs.”... He said to him, “Tend my sheep.”... Jesus said to him, “Feed my sheep.”"
+  },
+  {
+    "text": "What did Jesus predict about Peter's future death (John 21)?",
+    "options": ["He would die peacefully", "He would be martyred ('stretch out your hands... carry you where you do not want to go')", "He would die in battle", "He would live a long life"],
+    "correctAnswerIndex": 1,
+    "book": "John",
+    "difficulty": "Hard",
+    "verseReference": "John 21:18-19",
+    "verseText": "Truly, truly, I say to you, when you were young, you used to dress yourself and walk wherever you wanted, but when you are old, you will stretch out your hands, and another will dress you and carry you where you do not want to go.” (This he said to show by what kind of death he was to glorify God.)"
   }
 ]

@@ -88,5 +88,266 @@
     "difficulty": "Easy",
     "verseReference": "Haggai 1:4-11; 2:18-19",
     "verseText": "(The contrast between neglect leading to curse and obedience leading to blessing is central throughout the book)."
+  },
+  {
+    "text": "On what specific day did Haggai deliver his first message?",
+    "options": ["First day of the first month", "First day of the sixth month, second year of Darius", "Tenth day of the seventh month", "Last day of the year"],
+    "correctAnswerIndex": 1,
+    "book": "Haggai",
+    "difficulty": "Medium",
+    "verseReference": "Haggai 1:1",
+    "verseText": "In the second year of Darius the king, in the sixth month, on the first day of the month, the word of the LORD came by the hand of Haggai..."
+  },
+  {
+    "text": "What phrase does Haggai repeatedly use to urge the people to reflect on their situation?",
+    "options": ["'Thus says the LORD'", "'Repent and believe'", "'Consider your ways!'", "'Seek first the kingdom'"],
+    "correctAnswerIndex": 2,
+    "book": "Haggai",
+    "difficulty": "Easy",
+    "verseReference": "Haggai 1:5, 7",
+    "verseText": "Now, therefore, thus says the LORD of hosts: Consider your ways!... Thus says the LORD of hosts: Consider your ways."
+  },
+  {
+    "text": "What specific problem did the people have with their houses compared to God's house (Haggai 1:4)?",
+    "options": ["Their houses were too small", "They lived in paneled houses while God's house was in ruins", "Their houses were built with stolen materials", "They had no houses"],
+    "correctAnswerIndex": 1,
+    "book": "Haggai",
+    "difficulty": "Easy",
+    "verseReference": "Haggai 1:4",
+    "verseText": "“Is it a time for you yourselves to dwell in your paneled houses, while this house lies in ruins?"
+  },
+  {
+    "text": "Haggai 1:6 describes the futility of the people's efforts before rebuilding the temple. Which is NOT mentioned?",
+    "options": ["Sowing much, harvesting little", "Eating, but never having enough", "Building houses, but having them collapse", "Earning wages, only to put them in a purse with holes"],
+    "correctAnswerIndex": 2,
+    "book": "Haggai",
+    "difficulty": "Medium",
+    "verseReference": "Haggai 1:6",
+    "verseText": "You have sown much, and harvested little. You eat, but you never have enough; you drink, but you never have your fill. You clothe yourselves, but no one is warm. And he who earns wages does so to put them into a bag with holes."
+  },
+  {
+    "text": "Where did God tell the people to get wood for the Temple (Haggai 1:8)?",
+    "options": ["Import it from Lebanon", "Buy it from merchants", "Go up to the hills", "Use wood from their own houses"],
+    "correctAnswerIndex": 2,
+    "book": "Haggai",
+    "difficulty": "Easy",
+    "verseReference": "Haggai 1:8",
+    "verseText": "Go up to the hills and bring wood and build the house, that I may take pleasure in it and that I may be glorified, says the LORD."
+  },
+  {
+    "text": "What specific natural phenomenon did God say He called for due to their neglect (Haggai 1:11)?",
+    "options": ["An earthquake", "A flood", "A drought on the land, mountains, grain, wine, oil, etc.", "A plague of locusts"],
+    "correctAnswerIndex": 2,
+    "book": "Haggai",
+    "difficulty": "Medium",
+    "verseReference": "Haggai 1:10-11",
+    "verseText": "Therefore the heavens above you have withheld the dew, and the earth has withheld its produce. And I have called for a drought on the land and the hills, on the grain, the new wine, the oil, on what the ground brings forth, on man and beast, and on all their labors.”"
+  },
+  {
+    "text": "What role did the Holy Spirit play in the people's response (Haggai 1:14)?",
+    "options": ["The Spirit convicted them of sin", "The LORD stirred up the spirit of the leaders and people", "The Spirit gave them building plans", "The Spirit is not mentioned"],
+    "correctAnswerIndex": 1,
+    "book": "Haggai",
+    "difficulty": "Medium",
+    "verseReference": "Haggai 1:14",
+    "verseText": "And the LORD stirred up the spirit of Zerubbabel the son of Shealtiel, governor of Judah, and the spirit of Joshua the son of Jehozadak, the high priest, and the spirit of all the remnant of the people. And they came and worked on the house of the LORD of hosts, their God,"
+  },
+  {
+    "text": "On what day did the people actually begin working on the Temple after Haggai's first message?",
+    "options": ["The first day of the sixth month", "The tenth day of the sixth month", "The twenty-fourth day of the sixth month", "The first day of the seventh month"],
+    "correctAnswerIndex": 2,
+    "book": "Haggai",
+    "difficulty": "Hard",
+    "verseReference": "Haggai 1:14-15",
+    "verseText": "And they came and worked on the house of the LORD of hosts, their God, on the twenty-fourth day of the month, in the sixth month, in the second year of Darius the king."
+  },
+  {
+    "text": "What encouraging message did God give through Haggai shortly after the work began (Haggai 1:13)?",
+    "options": ["'You will finish quickly'", "'I am with you'", "'Your enemies will help'", "'You will be rewarded with gold'"],
+    "correctAnswerIndex": 1,
+    "book": "Haggai",
+    "difficulty": "Easy",
+    "verseReference": "Haggai 1:13",
+    "verseText": "Then Haggai, the messenger of the LORD, spoke to the people with the LORD's message, “I am with you, declares the LORD.”"
+  },
+  {
+    "text": "When did Haggai deliver his second message, encouraging the builders (Haggai 2:1)?",
+    "options": ["The first day of the sixth month", "The twenty-fourth day of the sixth month", "The twenty-first day of the seventh month", "The first day of the ninth month"],
+    "correctAnswerIndex": 2,
+    "book": "Haggai",
+    "difficulty": "Medium",
+    "verseReference": "Haggai 2:1",
+    "verseText": "In the seventh month, on the twenty-first day of the month, the word of the LORD came by the hand of Haggai the prophet,"
+  },
+  {
+    "text": "What did God promise to 'shake' in Haggai 2:6-7?",
+    "options": ["Only the land of Judah", "The Temple foundations", "The heavens and the earth, the sea and the dry land, and all nations", "The Persian Empire"],
+    "correctAnswerIndex": 2,
+    "book": "Haggai",
+    "difficulty": "Medium",
+    "verseReference": "Haggai 2:6-7",
+    "verseText": "For thus says the LORD of hosts: Yet once more, in a little while, I am going to shake the heavens and the earth and the sea and the dry land. And I will shake all nations..."
+  },
+  {
+    "text": "What belongs to the LORD, ensuring He can fill the Temple with glory (Haggai 2:8)?",
+    "options": ["The wood and stone", "The skill of the builders", "The silver and the gold", "The prayers of the people"],
+    "correctAnswerIndex": 2,
+    "book": "Haggai",
+    "difficulty": "Easy",
+    "verseReference": "Haggai 2:8",
+    "verseText": "The silver is mine, and the gold is mine, declares the LORD of hosts."
+  },
+  {
+    "text": "Besides greater glory, what else did God promise to give 'in this place' (the Temple) according to Haggai 2:9?",
+    "options": ["Great wealth", "Military victory", "Peace (Shalom)", "A new king"],
+    "correctAnswerIndex": 2,
+    "book": "Haggai",
+    "difficulty": "Easy",
+    "verseReference": "Haggai 2:9",
+    "verseText": "The latter glory of this house shall be greater than the former, says the LORD of hosts. And in this place I will give peace, declares the LORD of hosts.’”"
+  },
+  {
+    "text": "When did Haggai deliver his third message concerning defilement and blessing (Haggai 2:10)?",
+    "options": ["Sixth month, first day", "Seventh month, twenty-first day", "Ninth month, twenty-fourth day", "Twelfth month, last day"],
+    "correctAnswerIndex": 2,
+    "book": "Haggai",
+    "difficulty": "Medium",
+    "verseReference": "Haggai 2:10",
+    "verseText": "On the twenty-fourth day of the ninth month, in the second year of Darius, the word of the LORD came by Haggai the prophet,"
+  },
+  {
+    "text": "The priests confirmed that touching something holy does NOT automatically make something else holy, but touching something unclean DOES make something else unclean. What point was Haggai making about the people's past offerings (Haggai 2:14)?",
+    "options": ["Their offerings were acceptable despite their sin", "Their neglect of the Temple (uncleanness) made all their other work and offerings unclean", "Only perfect offerings were acceptable", "Holiness could be transferred through offerings"],
+    "correctAnswerIndex": 1,
+    "book": "Haggai",
+    "difficulty": "Hard",
+    "verseReference": "Haggai 2:14",
+    "verseText": "Then Haggai answered and said, ‘So is it with this people, and with this nation before me, declares the LORD, and so with every work of their hands. And what they offer there is unclean.’"
+  },
+  {
+    "text": "Haggai asks the people to 'consider' the time BEFORE the Temple foundation was laid again (Haggai 2:15-17). What characterized that time?",
+    "options": ["Great prosperity", "Military success", "Poor yields (e.g., expecting 20 measures, getting 10) and crop diseases (blight, mildew, hail)", "Peace with neighbors"],
+    "correctAnswerIndex": 2,
+    "book": "Haggai",
+    "difficulty": "Medium",
+    "verseReference": "Haggai 2:16-17",
+    "verseText": "Before this time, when one came to a heap of twenty measures, there were but ten. When one came to the wine vat to draw fifty measures, there were but twenty. I struck you and all the products of your toil with blight and with mildew and with hail, yet you did not turn to me, declares the LORD."
+  },
+  {
+    "text": "What specific day does God tell them to 'consider' as the turning point, from which He would bless them (Haggai 2:18-19)?",
+    "options": ["The day they returned from exile", "The day Darius became king", "The twenty-fourth day of the ninth month, the day the Temple foundation was laid", "The day the Temple was completed"],
+    "correctAnswerIndex": 2,
+    "book": "Haggai",
+    "difficulty": "Medium",
+    "verseReference": "Haggai 2:18-19",
+    "verseText": "Consider from this day onward, from the twenty-fourth day of the ninth month. Since the day that the foundation of the LORD's temple was laid, consider: Is the seed yet in the barn? Indeed, the vine, the fig tree, the pomegranate, and the olive tree have yielded nothing. But from this day on I will bless you.”"
+  },
+  {
+    "text": "What specific blessings are implied will begin 'from this day on' (Haggai 2:19)?",
+    "options": ["Military strength", "Political freedom", "Agricultural abundance (vine, fig, pomegranate, olive yielding fruit)", "Artistic skill"],
+    "correctAnswerIndex": 2,
+    "book": "Haggai",
+    "difficulty": "Easy",
+    "verseReference": "Haggai 2:19",
+    "verseText": "Is the seed yet in the barn? Indeed, the vine, the fig tree, the pomegranate, and the olive tree have yielded nothing. But from this day on I will bless you.”"
+  },
+  {
+    "text": "When did Haggai receive the final message specifically for Zerubbabel (Haggai 2:20)?",
+    "options": ["Same day as the first message", "Same day as the second message", "Same day as the third message (ninth month, twenty-fourth day)", "A year later"],
+    "correctAnswerIndex": 2,
+    "book": "Haggai",
+    "difficulty": "Medium",
+    "verseReference": "Haggai 2:20",
+    "verseText": "The word of the LORD came a second time to Haggai on the twenty-fourth day of the month,"
+  },
+  {
+    "text": "What did God say He would overthrow in the message to Zerubbabel (Haggai 2:21-22)?",
+    "options": ["The priesthood", "The Persian Empire specifically", "The throne of kingdoms, the power of the kingdoms of the nations, chariots and riders", "The walls of Jerusalem"],
+    "correctAnswerIndex": 2,
+    "book": "Haggai",
+    "difficulty": "Medium",
+    "verseReference": "Haggai 2:21-22",
+    "verseText": "“Speak to Zerubbabel, governor of Judah, saying, I am about to shake the heavens and the earth, and to overthrow the throne of kingdoms. I am about to destroy the strength of the kingdoms of the nations, and overthrow the chariots and their riders. And the horses and their riders shall go down, every one by the sword of his brother."
+  },
+  {
+    "text": "What does a 'signet ring' typically represent, relating to the promise to Zerubbabel (Haggai 2:23)?",
+    "options": ["Wealth and luxury", "Priestly office", "Authority, authenticity, and a close relationship (often royal)", "Foreign allegiance"],
+    "correctAnswerIndex": 2,
+    "book": "Haggai",
+    "difficulty": "Medium",
+    "verseReference": "Haggai 2:23",
+    "verseText": "...and make you like a signet ring, for I have chosen you, declares the LORD of hosts.”"
+  },
+  {
+    "text": "Zerubbabel was a descendant of which Israelite king, making the 'signet ring' promise significant?",
+    "options": ["Saul", "David", "Solomon", "Hezekiah"],
+    "correctAnswerIndex": 1,
+    "book": "Haggai",
+    "difficulty": "Medium",
+    "verseReference": "Matthew 1:12-13 / Luke 3:27 (Genealogies)",
+    "verseText": "(Zerubbabel's lineage traces back to David, linking this promise to the Davidic covenant)."
+  },
+  {
+    "text": "Haggai's contemporary prophet, who also encouraged the Temple rebuilding, was:",
+    "options": ["Isaiah", "Jeremiah", "Ezekiel", "Zechariah"],
+    "correctAnswerIndex": 3,
+    "book": "Haggai",
+    "difficulty": "Easy",
+    "verseReference": "Ezra 5:1, 6:14",
+    "verseText": "Now the prophets, Haggai and Zechariah the son of Iddo, prophesied to the Jews who were in Judah and Jerusalem..."
+  },
+  {
+    "text": "How much time passed between Haggai's first message and the final message recorded in the book?",
+    "options": ["One week", "About one month", "Less than four months", "Several years"],
+    "correctAnswerIndex": 2,
+    "book": "Haggai",
+    "difficulty": "Medium",
+    "verseReference": "Haggai 1:1, 2:20",
+    "verseText": "(First message: 6th month, 1st day. Last message: 9th month, 24th day. This is less than four months)."
+  },
+  {
+    "text": "The issue of 'paneled houses' (Haggai 1:4) suggests the people had time and resources for what?",
+    "options": ["Building fortifications", "Personal comfort and luxury", "Trading expeditions", "Supporting the poor"],
+    "correctAnswerIndex": 1,
+    "book": "Haggai",
+    "difficulty": "Easy",
+    "verseReference": "Haggai 1:4",
+    "verseText": "“Is it a time for you yourselves to dwell in your paneled houses, while this house lies in ruins?"
+  },
+  {
+    "text": "God's promise to make the latter glory of the house greater than the former (Haggai 2:9) ultimately points towards:",
+    "options": ["A physically larger building", "More gold and silver decoration", "The presence of Christ (Messiah) in the second Temple era", "Greater political influence"],
+    "correctAnswerIndex": 2,
+    "book": "Haggai",
+    "difficulty": "Hard",
+    "verseReference": "Haggai 2:7, 9 / NT Context",
+    "verseText": "(The 'treasure/desire of all nations' and greater glory/peace are often interpreted messianically, fulfilled in Jesus' presence and work)."
+  },
+  {
+    "text": "What was the primary reason God wanted the Temple rebuilt, according to Haggai 1:8?",
+    "options": ["To impress the Persians", "To give the priests jobs", "That He might take pleasure in it and be glorified", "To provide a place for sacrifices"],
+    "correctAnswerIndex": 2,
+    "book": "Haggai",
+    "difficulty": "Easy",
+    "verseReference": "Haggai 1:8",
+    "verseText": "Go up to the hills and bring wood and build the house, that I may take pleasure in it and that I may be glorified, says the LORD."
+  },
+  {
+    "text": "The structure of Haggai's book is largely built around:",
+    "options": ["Historical narratives", "Poetic laments", "A series of dated prophetic messages", "Genealogical records"],
+    "correctAnswerIndex": 2,
+    "book": "Haggai",
+    "difficulty": "Easy",
+    "verseReference": "Haggai 1:1, 2:1, 2:10, 2:20",
+    "verseText": "(The book is clearly structured around four messages delivered on specific dates)."
+  },
+  {
+    "text": "The book of Haggai demonstrates that obedience to God's priorities leads to:",
+    "options": ["Immediate wealth", "Absence of hardship", "God's presence and blessing", "Political power"],
+    "correctAnswerIndex": 2,
+    "book": "Haggai",
+    "difficulty": "Easy",
+    "verseReference": "Haggai 1:13, 2:19",
+    "verseText": "“I am with you, declares the LORD.” ... “But from this day on I will bless you.”"
   }
 ]

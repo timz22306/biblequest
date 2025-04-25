@@ -88,5 +88,329 @@
     "difficulty": "Easy",
     "verseReference": "Micah 7:18-20",
     "verseText": "Who is a God like you, pardoning iniquity and passing over transgression for the remnant of his inheritance? He does not retain his anger forever, because he delights in steadfast love... You will show faithfulness to Jacob and steadfast love to Abraham..."
+  },
+  {
+    "text": "Micah was a contemporary of which major prophet known for his ministry in Jerusalem?",
+    "options": ["Jeremiah", "Ezekiel", "Daniel", "Isaiah"],
+    "correctAnswerIndex": 3,
+    "book": "Micah",
+    "difficulty": "Medium",
+    "verseReference": "Micah 1:1 (Historical Context, cf. Isaiah 1:1)",
+    "verseText": "(Both Micah and Isaiah prophesied during the reigns of Jotham, Ahaz, and Hezekiah)."
+  },
+  {
+    "text": "In Micah 1:3-4, how is the LORD's coming in judgment described?",
+    "options": ["Quietly and secretly", "With chariots of fire", "Treading on the high places, mountains melting like wax, valleys splitting", "As a gentle shepherd"],
+    "correctAnswerIndex": 2,
+    "book": "Micah",
+    "difficulty": "Medium",
+    "verseReference": "Micah 1:3-4",
+    "verseText": "For behold, the LORD is coming out of his place, and will come down and tread upon the high places of the earth. And the mountains will melt under him, and the valleys will split open, like wax before the fire, like waters poured down a steep place."
+  },
+  {
+    "text": "What is identified as the primary transgression of Jacob and sin of the house of Israel in Micah 1:5?",
+    "options": ["Military weakness", "Samaria (representing idolatry/sin)", "Failure to pay tithes", "Alliance with Egypt"],
+    "correctAnswerIndex": 1,
+    "book": "Micah",
+    "difficulty": "Medium",
+    "verseReference": "Micah 1:5",
+    "verseText": "All this is for the transgression of Jacob and for the sins of the house of Israel. What is the transgression of Jacob? Is it not Samaria? And what is the high place of Judah? Is it not Jerusalem?"
+  },
+  {
+    "text": "What fate does Micah prophesy for Samaria in Micah 1:6?",
+    "options": ["It will become the capital of the world", "It will become a heap of ruins in the open country, a place for planting vineyards", "It will be rebuilt gloriously", "It will ally with Jerusalem"],
+    "correctAnswerIndex": 1,
+    "book": "Micah",
+    "difficulty": "Medium",
+    "verseReference": "Micah 1:6",
+    "verseText": "Therefore I will make Samaria a heap in the open country, a place for planting vineyards, and I will pour down her stones into the valley and uncover her foundations."
+  },
+  {
+    "text": "Micah 1:10-16 contains a series of puns on town names in Judah, describing the coming judgment. What general feeling does this section convey?",
+    "options": ["Joy and celebration", "Indifference", "Widespread mourning, shame, and disaster spreading towards Jerusalem", "Hope for immediate deliverance"],
+    "correctAnswerIndex": 2,
+    "book": "Micah",
+    "difficulty": "Hard",
+    "verseReference": "Micah 1:10-16",
+    "verseText": "(Examples: 'Tell it not in Gath'; weeping in Beth-le-aphrah - 'house of dust'; the inhabitants of Shaphir - 'pleasantness' - in nakedness and shame; disaster has come down from the LORD to the gate of Jerusalem)."
+  },
+  {
+    "text": "What specific sin is condemned in Micah 2:1-2?",
+    "options": ["Idol worship", "Coveting fields/houses and seizing them through oppression", "Speaking against the king", "Avoiding military service"],
+    "correctAnswerIndex": 1,
+    "book": "Micah",
+    "difficulty": "Easy",
+    "verseReference": "Micah 2:1-2",
+    "verseText": "Woe to those who devise wickedness and work evil on their beds! When the morning dawns, they perform it, because it is in the power of their hand. They covet fields and seize them, and houses, and take them away; they oppress a man and his house, a man and his inheritance."
+  },
+  {
+    "text": "What do the false prophets tell Micah (and true prophets) not to do in Micah 2:6?",
+    "options": ["'Do not prophesy about judgment; disgrace will not overtake us'", "'Prophesy peace'", "'Support the king'", "'Collect money'"],
+    "correctAnswerIndex": 0,
+    "book": "Micah",
+    "difficulty": "Medium",
+    "verseReference": "Micah 2:6",
+    "verseText": "“Do not preach”—thus they preach— “one should not preach of such things; disgrace will not overtake us.”"
+  },
+  {
+    "text": "What kind of message were the people and false prophets willing to accept, according to Micah 2:11?",
+    "options": ["Calls for repentance", "Warnings of judgment", "Someone prophesying of wine and strong drink", "Messages about social justice"],
+    "correctAnswerIndex": 2,
+    "book": "Micah",
+    "difficulty": "Medium",
+    "verseReference": "Micah 2:11",
+    "verseText": "If a man should go about and utter wind and lies, saying, “I will preach to you of wine and strong drink,” he would be the preacher for this people!"
+  },
+  {
+    "text": "Despite judgment, what promise is given to the 'remnant of Israel' in Micah 2:12?",
+    "options": ["They will be scattered forever", "They will be assimilated by other nations", "God will assemble them like sheep in a fold", "They will become powerful warriors"],
+    "correctAnswerIndex": 2,
+    "book": "Micah",
+    "difficulty": "Medium",
+    "verseReference": "Micah 2:12",
+    "verseText": "I will surely assemble all of you, O Jacob; I will gather the remnant of Israel; I will set them together like sheep in a fold, like a flock in its pasture, a noisy multitude of men."
+  },
+  {
+    "text": "Who does Micah accuse of 'hating the good and loving the evil' and 'eating the flesh' of God's people in Micah 3:1-3?",
+    "options": ["Foreign invaders", "The poor", "The rulers (heads) of Jacob and rulers of the house of Israel", "False gods"],
+    "correctAnswerIndex": 2,
+    "book": "Micah",
+    "difficulty": "Medium",
+    "verseReference": "Micah 3:1-3",
+    "verseText": "And I said: Hear, you heads of Jacob and rulers of the house of Israel! Is it not for you to know justice?— you who hate the good and love the evil, who tear the skin from off my people and their flesh from off their bones, who eat the flesh of my people..."
+  },
+  {
+    "text": "What will happen when these unjust rulers cry out to the LORD (Micah 3:4)?",
+    "options": ["He will answer them immediately", "He will give them power", "He will hide His face from them", "He will send Micah to help them"],
+    "correctAnswerIndex": 2,
+    "book": "Micah",
+    "difficulty": "Medium",
+    "verseReference": "Micah 3:4",
+    "verseText": "Then they will cry to the LORD, but he will not answer them; he will hide his face from them at that time, because they have made their deeds evil."
+  },
+  {
+    "text": "What motivates the prophets Micah condemns in Micah 3:5?",
+    "options": ["Love for God", "Desire for truth", "Whether or not people feed them ('put something into their mouths')", "Patriotism"],
+    "correctAnswerIndex": 2,
+    "book": "Micah",
+    "difficulty": "Medium",
+    "verseReference": "Micah 3:5",
+    "verseText": "Thus says the LORD concerning the prophets who lead my people astray, who cry “Peace” when they have something to eat, but declare war against him who puts nothing into their mouths."
+  },
+  {
+    "text": "What specific judgments are pronounced on the corrupt leaders, priests, and prophets in Micah 3:11-12?",
+    "options": ["They will become rich", "They will rule forever", "Zion will be plowed as a field, Jerusalem a heap of ruins, the temple mount a wooded height", "They will be exiled to Egypt"],
+    "correctAnswerIndex": 2,
+    "book": "Micah",
+    "difficulty": "Medium",
+    "verseReference": "Micah 3:11-12",
+    "verseText": "Its heads give judgment for a bribe; its priests teach for a price; its prophets practice divination for money; yet they lean on the LORD and say, “Is not the LORD in the midst of us? No disaster shall come upon us.” Therefore because of you Zion shall be plowed as a field; Jerusalem shall become a heap of ruins, and the mountain of the house a wooded height."
+  },
+  {
+    "text": "The vision in Micah 4:1-5 is also found almost identically in which other prophetic book?",
+    "options": ["Jeremiah", "Ezekiel", "Isaiah (Chapter 2)", "Amos"],
+    "correctAnswerIndex": 2,
+    "book": "Micah",
+    "difficulty": "Hard",
+    "verseReference": "Micah 4:1-3 / Isaiah 2:2-4",
+    "verseText": "(Isaiah 2:2-4 contains a very similar prophecy about the mountain of the Lord's house and nations seeking instruction)."
+  },
+  {
+    "text": "In the era of peace described in Micah 4:4, what will every man do?",
+    "options": ["Become a soldier", "Travel the world", "Sit under his vine and fig tree with none to make him afraid", "Build a large house"],
+    "correctAnswerIndex": 2,
+    "book": "Micah",
+    "difficulty": "Easy",
+    "verseReference": "Micah 4:4",
+    "verseText": "but they shall sit every man under his vine and under his fig tree, and no one shall make them afraid, for the mouth of the LORD of hosts has spoken."
+  },
+  {
+    "text": "Micah 4:6-7 promises that God will gather whom and make them a strong nation?",
+    "options": ["The rich and powerful", "The surrounding nations", "The lame, the outcasts, those afflicted", "The priests and prophets"],
+    "correctAnswerIndex": 2,
+    "book": "Micah",
+    "difficulty": "Medium",
+    "verseReference": "Micah 4:6-7",
+    "verseText": "In that day, declares the LORD, I will assemble the lame and gather those who have been driven away and those whom I have afflicted; and the lame I will make the remnant, and those who were cast off, a strong nation; and the LORD will reign over them in Mount Zion from this time forth and forevermore."
+  },
+  {
+    "text": "Where does Micah 4:10 say the people of Zion will go before being rescued?",
+    "options": ["Egypt", "Assyria", "Babylon", "Persia"],
+    "correctAnswerIndex": 2,
+    "book": "Micah",
+    "difficulty": "Medium",
+    "verseReference": "Micah 4:10",
+    "verseText": "Writhe and groan, O daughter of Zion, like a woman in labor, for now you shall go out from the city and dwell in the open country; you shall go to Babylon. There you shall be rescued; there the LORD will redeem you from the hand of your enemies."
+  },
+  {
+    "text": "How is the remnant of Jacob described among the nations in Micah 5:7?",
+    "options": ["As weak and fearful", "As silent observers", "Like dew from the LORD, like showers on the grass", "As merchants"],
+    "correctAnswerIndex": 2,
+    "book": "Micah",
+    "difficulty": "Medium",
+    "verseReference": "Micah 5:7",
+    "verseText": "Then the remnant of Jacob shall be in the midst of many peoples like dew from the LORD, like showers on the grass, which delay not for a man nor wait for the children of man."
+  },
+  {
+    "text": "How else is the remnant of Jacob described among the nations in Micah 5:8?",
+    "options": ["Like a gentle lamb", "Like a lost coin", "Like a lion among the beasts of the forest", "Like a fruitful vine"],
+    "correctAnswerIndex": 2,
+    "book": "Micah",
+    "difficulty": "Medium",
+    "verseReference": "Micah 5:8",
+    "verseText": "And the remnant of Jacob shall be among the nations, in the midst of many peoples, like a lion among the beasts of the forest, like a young lion among the flocks of sheep, which, when it goes through, treads down and tears in pieces, and there is none to deliver."
+  },
+  {
+    "text": "What things will God cut off from Israel in the day of restoration, purging them from false reliances (Micah 5:10-14)?",
+    "options": ["Their vineyards and olive groves", "Their scriptures", "Horses, chariots, strongholds, sorceries, carved images, pillars, Asherim", "Their prophets"],
+    "correctAnswerIndex": 2,
+    "book": "Micah",
+    "difficulty": "Hard",
+    "verseReference": "Micah 5:10-14",
+    "verseText": "And in that day, declares the LORD, I will cut off your horses from among you and destroy your chariots; and I will cut off the cities of your land and throw down all your strongholds; and I will cut off sorceries from your hand... And I will root out your carved images and your pillars from among you... and I will root out your Asherim..."
+  },
+  {
+    "text": "In God's lawsuit (Micah 6), who are called to be witnesses?",
+    "options": ["The priests and prophets", "The kings of other nations", "The mountains and hills, the foundations of the earth", "The angels"],
+    "correctAnswerIndex": 2,
+    "book": "Micah",
+    "difficulty": "Medium",
+    "verseReference": "Micah 6:1-2",
+    "verseText": "Arise, plead your case before the mountains, and let the hills hear your voice. Hear, you mountains, the indictment of the LORD, and you enduring foundations of the earth, for the LORD has an indictment against his people, and he will contend with Israel."
+  },
+  {
+    "text": "What specific acts of God's redemption does He remind Israel of in Micah 6:4-5?",
+    "options": ["Creation", "The Flood", "Bringing them out of Egypt, redeeming them from slavery, sending Moses, Aaron, Miriam; Balaam/Balak incident", "Giving them kings"],
+    "correctAnswerIndex": 2,
+    "book": "Micah",
+    "difficulty": "Medium",
+    "verseReference": "Micah 6:4-5",
+    "verseText": "For I brought you up from the land of Egypt and redeemed you from the house of slavery, and I sent before you Moses, Aaron, and Miriam. O my people, remember what Balak king of Moab devised, and what Balaam the son of Beor answered him... that you may know the righteous acts of the LORD.”"
+  },
+  {
+    "text": "What inadequate offerings does the questioner propose in Micah 6:6-7 before the famous answer in verse 8?",
+    "options": ["Prayers and fasting", "Building a temple", "Burnt offerings, calves, thousands of rams, ten thousand rivers of oil, firstborn son", "Gold and silver"],
+    "correctAnswerIndex": 2,
+    "book": "Micah",
+    "difficulty": "Easy",
+    "verseReference": "Micah 6:6-7",
+    "verseText": "“With what shall I come before the LORD...? Shall I come before him with burnt offerings, with calves a year old? Will the LORD be pleased with thousands of rams, with ten thousands of rivers of oil? Shall I give my firstborn for my transgression, the fruit of my body for the sin of my soul?”"
+  },
+  {
+    "text": "What specific dishonest practices are condemned in Micah 6:10-11?",
+    "options": ["False prophecy", "Adultery", "Wicked treasures, short ephah (measure), wicked scales, deceitful weights", "Avoiding taxes"],
+    "correctAnswerIndex": 2,
+    "book": "Micah",
+    "difficulty": "Medium",
+    "verseReference": "Micah 6:10-11",
+    "verseText": "Can I forget the treasures of wickedness in the house of the wicked, and the scant measure that is accursed? Shall I acquit the man with wicked scales and with a bag of deceitful weights?"
+  },
+  {
+    "text": "Whose wicked statutes and practices were the people following, leading to judgment (Micah 6:16)?",
+    "options": ["David and Solomon", "Moses and Aaron", "Omri and Ahab", "Jeroboam"],
+    "correctAnswerIndex": 2,
+    "book": "Micah",
+    "difficulty": "Hard",
+    "verseReference": "Micah 6:16",
+    "verseText": "For you have kept the statutes of Omri, and all the works of the house of Ahab; and you have walked in their counsels, that I may make you a desolation..."
+  },
+  {
+    "text": "How does Micah describe the state of society in Micah 7:2-4?",
+    "options": ["Peaceful and prosperous", "The godly have perished, none upright; all lie in wait for blood; hands are skilled at doing evil; prince, judge, great man conspire", "Focused on religious ritual", "Preparing for war"],
+    "correctAnswerIndex": 1,
+    "book": "Micah",
+    "difficulty": "Medium",
+    "verseReference": "Micah 7:2-4",
+    "verseText": "The godly has perished from the earth, and there is no one upright among mankind; they all lie in wait for blood, and each hunts the other with a net. Their hands are on what is evil, to do it well; the prince and the judge ask for a bribe, and the great man utters the evil desire of his soul; thus they weave it together. The best of them is like a brier, the most upright of them a thorn hedge."
+  },
+  {
+    "text": "Micah 7:5-6 warns against trusting whom in such corrupt times?",
+    "options": ["God", "The prophets", "Neighbors, friends, spouses, family members (son/father, daughter/mother)", "Foreign allies"],
+    "correctAnswerIndex": 2,
+    "book": "Micah",
+    "difficulty": "Easy",
+    "verseReference": "Micah 7:5-6",
+    "verseText": "Put no trust in a neighbor; have no confidence in a friend; guard the doors of your mouth from her who lies in your arms; for the son treats the father with contempt, the daughter rises up against her mother... a man's enemies are the men of his own house."
+  },
+  {
+    "text": "What confidence does Micah express even if he falls or sits in darkness (Micah 7:8)?",
+    "options": ["His enemy will help him", "He will stay down", "The LORD will be his light and he will rise", "He will find his own way"],
+    "correctAnswerIndex": 2,
+    "book": "Micah",
+    "difficulty": "Easy",
+    "verseReference": "Micah 7:8",
+    "verseText": "Rejoice not over me, O my enemy; when I fall, I shall rise; when I sit in darkness, the LORD will be a light to me."
+  },
+  {
+    "text": "What reason does Micah give for bearing the LORD's indignation (Micah 7:9)?",
+    "options": ["Because God is unfair", "Because he has sinned against God", "Because his enemies are strong", "Because he enjoys suffering"],
+    "correctAnswerIndex": 1,
+    "book": "Micah",
+    "difficulty": "Medium",
+    "verseReference": "Micah 7:9",
+    "verseText": "I will bear the indignation of the LORD because I have sinned against him, until he pleads my cause and executes judgment for me. He will bring me out to the light; I shall look upon his vindication."
+  },
+  {
+    "text": "What will happen to the enemy who taunted, 'Where is the LORD your God?' (Micah 7:10)?",
+    "options": ["They will join Israel in worship", "They will see God's vindication and be covered with shame, trampled down", "They will become rulers", "They will escape judgment"],
+    "correctAnswerIndex": 1,
+    "book": "Micah",
+    "difficulty": "Medium",
+    "verseReference": "Micah 7:10",
+    "verseText": "Then my enemy will see, and shame will cover her who said to me, “Where is the LORD your God?” My eyes will look upon her; now she will be trampled down like the mire of the streets."
+  },
+  {
+    "text": "Micah 7:14 contains a prayer asking God to do what for His people?",
+    "options": ["Destroy their enemies", "Give them wealth", "Shepherd them with His staff, let them feed in Bashan and Gilead", "Teach them new laws"],
+    "correctAnswerIndex": 2,
+    "book": "Micah",
+    "difficulty": "Medium",
+    "verseReference": "Micah 7:14",
+    "verseText": "Shepherd your people with your staff, the flock of your inheritance, who dwell alone in a forest in the midst of a garden land; let them graze in Bashan and Gilead as in the days of old."
+  },
+  {
+    "text": "God's future deliverance will be like the wonders shown during what past event (Micah 7:15)?",
+    "options": ["Creation", "The days of Noah", "The coming out of the land of Egypt", "The reign of Solomon"],
+    "correctAnswerIndex": 2,
+    "book": "Micah",
+    "difficulty": "Easy",
+    "verseReference": "Micah 7:15",
+    "verseText": "As in the days when you came out of the land of Egypt, I will show them marvelous things."
+  },
+  {
+    "text": "How will the nations react when they see God's mighty deeds of restoration (Micah 7:16-17)?",
+    "options": ["They will attack Israel", "They will be ashamed, silent, deaf, lick the dust like serpents, and tremble before God", "They will ignore it", "They will send tribute"],
+    "correctAnswerIndex": 1,
+    "book": "Micah",
+    "difficulty": "Medium",
+    "verseReference": "Micah 7:16-17",
+    "verseText": "The nations shall see and be ashamed of all their might; they shall lay their hands on their mouths; their ears shall be deaf; they shall lick the dust like a serpent, like the crawling things of the earth; they shall come trembling out of their strongholds; they shall turn in dread to the LORD our God, and they shall be afraid of you."
+  },
+  {
+    "text": "What characteristic of God does Micah emphasize in the closing verses (Micah 7:18)?",
+    "options": ["His anger and wrath", "His demand for sacrifice", "His uniqueness in pardoning iniquity and delighting in steadfast love (mercy)", "His power to destroy"],
+    "correctAnswerIndex": 2,
+    "book": "Micah",
+    "difficulty": "Easy",
+    "verseReference": "Micah 7:18",
+    "verseText": "Who is a God like you, pardoning iniquity and passing over transgression for the remnant of his inheritance? He does not retain his anger forever, because he delights in steadfast love."
+  },
+  {
+    "text": "What will God do with Israel's iniquities according to Micah 7:19?",
+    "options": ["Remember them forever", "Require payment for them", "Tread them underfoot and cast them into the depths of the sea", "Record them in a book"],
+    "correctAnswerIndex": 2,
+    "book": "Micah",
+    "difficulty": "Easy",
+    "verseReference": "Micah 7:19",
+    "verseText": "He will again have compassion on us; he will tread our iniquities underfoot. You will cast all our sins into the depths of the sea."
+  },
+  {
+    "text": "The final verse (Micah 7:20) affirms God's faithfulness to the covenant promises made to which patriarchs?",
+    "options": ["Noah and Shem", "Abraham and Jacob", "Isaac and Ishmael", "Moses and Aaron"],
+    "correctAnswerIndex": 1,
+    "book": "Micah",
+    "difficulty": "Easy",
+    "verseReference": "Micah 7:20",
+    "verseText": "You will show faithfulness to Jacob and steadfast love to Abraham, as you have sworn to our fathers from the days of old."
   }
 ]

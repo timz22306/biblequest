@@ -88,5 +88,275 @@
     "difficulty": "Medium",
     "verseReference": "Jonah 4:1-3",
     "verseText": "But it displeased Jonah exceedingly, and he was angry... “O LORD, is not this what I said when I was yet in my country? That is why I made haste to flee to Tarshish; for I knew that you are a gracious God and merciful, slow to anger and abounding in steadfast love, and relenting from disaster."
+  },
+  {
+    "text": "Nineveh was the capital city of which major empire, known for its cruelty?",
+    "options": ["Egypt", "Babylon", "Assyria", "Persia"],
+    "correctAnswerIndex": 2,
+    "book": "Jonah",
+    "difficulty": "Medium",
+    "verseReference": "Jonah 1:2 (Historical Context)",
+    "verseText": "(Historical context identifies Nineveh as the capital of the Assyrian Empire, enemies of Israel)."
+  },
+  {
+    "text": "Where was Jonah when the storm hit and the sailors were praying to their gods?",
+    "options": ["Praying on the deck", "Steering the ship", "Fast asleep in the inner part of the ship", "Trying to swim ashore"],
+    "correctAnswerIndex": 2,
+    "book": "Jonah",
+    "difficulty": "Easy",
+    "verseReference": "Jonah 1:5",
+    "verseText": "Then the mariners were afraid, and each cried out to his god. And they hurled the cargo that was in the ship into the sea to lighten it for them. But Jonah had gone down into the inner part of the ship and had lain down and was fast asleep."
+  },
+  {
+    "text": "What did the shipmaster say to Jonah when he found him sleeping?",
+    "options": ["'Help us row!'", "'What do you mean, you sleeper? Arise, call out to your god!'", "'Prepare to die!'", "'Why did you cause this?'"],
+    "correctAnswerIndex": 1,
+    "book": "Jonah",
+    "difficulty": "Easy",
+    "verseReference": "Jonah 1:6",
+    "verseText": "So the captain came and said to him, “What do you mean, you sleeper? Arise, call out to your god! Perhaps the god will give a thought to us, that we may not perish.”"
+  },
+  {
+    "text": "When questioned by the sailors, what did Jonah identify as his nationality and religion?",
+    "options": ["Assyrian, worshipper of Dagon", "Egyptian, worshipper of Ra", "Hebrew, worshipper of the LORD, the God of heaven", "Babylonian, worshipper of Marduk"],
+    "correctAnswerIndex": 2,
+    "book": "Jonah",
+    "difficulty": "Easy",
+    "verseReference": "Jonah 1:9",
+    "verseText": "And he said to them, “I am a Hebrew, and I fear the LORD, the God of heaven, who made the sea and the dry land.”"
+  },
+  {
+    "text": "How did the sailors react after Jonah identified his God as the creator of the sea and land?",
+    "options": ["They laughed", "They became exceedingly afraid", "They ignored him", "They appointed him captain"],
+    "correctAnswerIndex": 1,
+    "book": "Jonah",
+    "difficulty": "Medium",
+    "verseReference": "Jonah 1:10",
+    "verseText": "Then the men were exceedingly afraid and said to him, “What is this that you have done!” For the men knew that he was fleeing from the presence of the LORD, because he had told them."
+  },
+  {
+    "text": "Before throwing Jonah overboard, what did the sailors do?",
+    "options": ["Tried hard to row back to land", "Drew straws again", "Offered a sacrifice to Jonah's God", "Threw the cargo overboard"],
+    "correctAnswerIndex": 0,
+    "book": "Jonah",
+    "difficulty": "Medium",
+    "verseReference": "Jonah 1:13",
+    "verseText": "Nevertheless, the men rowed hard to get back to dry land, but they could not, for the sea grew more and more tempestuous against them."
+  },
+  {
+    "text": "What prayer did the sailors make just before throwing Jonah into the sea?",
+    "options": ["A prayer for wealth", "A prayer asking the LORD not to hold them guilty for Jonah's death", "A prayer for safe travels", "A prayer to their own gods"],
+    "correctAnswerIndex": 1,
+    "book": "Jonah",
+    "difficulty": "Medium",
+    "verseReference": "Jonah 1:14",
+    "verseText": "Therefore they called out to the LORD, “O LORD, let us not perish for this man's life, and lay not on us innocent blood, for you, O LORD, have done as it pleased you.”"
+  },
+  {
+    "text": "After the sea calmed, how did the sailors respond to the LORD?",
+    "options": ["They continued to Tarshish", "They feared the LORD exceedingly, offered sacrifice, and made vows", "They cursed Jonah", "They returned to Joppa immediately"],
+    "correctAnswerIndex": 1,
+    "book": "Jonah",
+    "difficulty": "Medium",
+    "verseReference": "Jonah 1:16",
+    "verseText": "Then the men feared the LORD exceedingly, and they offered a sacrifice to the LORD and made vows."
+  },
+  {
+    "text": "From where did Jonah pray to the LORD?",
+    "options": ["The ship", "Nineveh", "The belly of the fish", "Jerusalem"],
+    "correctAnswerIndex": 2,
+    "book": "Jonah",
+    "difficulty": "Easy",
+    "verseReference": "Jonah 2:1",
+    "verseText": "Then Jonah prayed to the LORD his God from the belly of the fish,"
+  },
+  {
+    "text": "In his prayer, Jonah describes his location using terms like 'the deep', 'heart of the seas', and 'the roots of the mountains'. What place is he referring to?",
+    "options": ["A literal cave", "Sheol (the realm of the dead)", "A deep sleep", "The bottom of the sea"],
+    "correctAnswerIndex": 1,
+    "book": "Jonah",
+    "difficulty": "Medium",
+    "verseReference": "Jonah 2:2-6",
+    "verseText": "saying, “I called out to the LORD, out of my distress... out of the belly of Sheol I cried... The waters closed in over me to take my life; the deep surrounded me... at the roots of the mountains."
+  },
+  {
+    "text": "What does Jonah recall seeing even from the depths (Jonah 2:4)?",
+    "options": ["The fish's teeth", "Darkness", "God's holy temple", "The ship sailing away"],
+    "correctAnswerIndex": 2,
+    "book": "Jonah",
+    "difficulty": "Medium",
+    "verseReference": "Jonah 2:4",
+    "verseText": "Then I said, ‘I am driven away from your sight; yet I shall again look upon your holy temple.’"
+  },
+  {
+    "text": "According to Jonah 2:8, those who pay regard to 'vain idols' forsake what?",
+    "options": ["Their families", "Their wealth", "Their hope of steadfast love (their loyalty/mercy)", "Their homes"],
+    "correctAnswerIndex": 2,
+    "book": "Jonah",
+    "difficulty": "Medium",
+    "verseReference": "Jonah 2:8",
+    "verseText": "Those who pay regard to vain idols forsake their hope of steadfast love."
+  },
+  {
+    "text": "What does Jonah promise to do in Jonah 2:9?",
+    "options": ["Never disobey again", "Sacrifice with the voice of thanksgiving and pay his vows", "Become a priest", "Write a book"],
+    "correctAnswerIndex": 1,
+    "book": "Jonah",
+    "difficulty": "Easy",
+    "verseReference": "Jonah 2:9",
+    "verseText": "But I with the voice of thanksgiving will sacrifice to you; what I have vowed I will pay. Salvation belongs to the LORD!”"
+  },
+  {
+    "text": "What concluding statement does Jonah make at the end of his prayer (Jonah 2:9)?",
+    "options": ["'God save me!'", "'I am righteous!'", "'Salvation belongs to the LORD!'", "'Nineveh must be destroyed!'"],
+    "correctAnswerIndex": 2,
+    "book": "Jonah",
+    "difficulty": "Easy",
+    "verseReference": "Jonah 2:9",
+    "verseText": "Salvation belongs to the LORD!”"
+  },
+  {
+    "text": "What did the LORD command the fish to do after Jonah's prayer?",
+    "options": ["Swim to Tarshish", "Vomit Jonah out onto the dry land", "Keep Jonah longer", "Fight a sea monster"],
+    "correctAnswerIndex": 1,
+    "book": "Jonah",
+    "difficulty": "Easy",
+    "verseReference": "Jonah 2:10",
+    "verseText": "And the LORD spoke to the fish, and it vomited Jonah out upon the dry land."
+  },
+  {
+    "text": "How large was the city of Nineveh according to Jonah 3:3?",
+    "options": ["A day's journey across", "An exceedingly great city, three days' journey in breadth", "A small village", "Ten miles wide"],
+    "correctAnswerIndex": 1,
+    "book": "Jonah",
+    "difficulty": "Medium",
+    "verseReference": "Jonah 3:3",
+    "verseText": "So Jonah arose and went to Nineveh, according to the word of the LORD. Now Nineveh was an exceedingly great city, three days' journey in breadth."
+  },
+  {
+    "text": "Besides fasting and wearing sackcloth, what did the king of Nineveh decree that even the animals should do?",
+    "options": ["Be sacrificed", "Be covered with sackcloth and cry mightily to God", "Be sent out of the city", "Be washed"],
+    "correctAnswerIndex": 1,
+    "book": "Jonah",
+    "difficulty": "Medium",
+    "verseReference": "Jonah 3:7-8",
+    "verseText": "Let neither man nor beast, herd nor flock, taste anything... Let man and beast be covered with sackcloth, and let them call out mightily to God."
+  },
+  {
+    "text": "What specific action did the king of Nineveh urge his people to turn from?",
+    "options": ["Their idols", "Their evil way and the violence in their hands", "Their foreign alliances", "Their trade practices"],
+    "correctAnswerIndex": 1,
+    "book": "Jonah",
+    "difficulty": "Medium",
+    "verseReference": "Jonah 3:8",
+    "verseText": "Let everyone turn from his evil way and from the violence that is in his hands."
+  },
+  {
+    "text": "What hope did the king of Nineveh express that motivated their repentance?",
+    "options": ["That Jonah would become their king", "That God might turn and relent from His fierce anger", "That they could defeat Israel", "That they would become wealthy"],
+    "correctAnswerIndex": 1,
+    "book": "Jonah",
+    "difficulty": "Easy",
+    "verseReference": "Jonah 3:9",
+    "verseText": "Who knows? God may turn and relent and turn from his fierce anger, so that we may not perish.”"
+  },
+  {
+    "text": "How did God respond when He saw the Ninevites' repentance?",
+    "options": ["He destroyed the city anyway", "He sent another prophet", "He relented of the disaster He had said He would do to them", "He ignored them"],
+    "correctAnswerIndex": 2,
+    "book": "Jonah",
+    "difficulty": "Easy",
+    "verseReference": "Jonah 3:10",
+    "verseText": "When God saw what they did, how they turned from their evil way, God relented of the disaster that he had said he would do to them, and he did not do it."
+  },
+  {
+    "text": "In his anger, what did Jonah ask God to do to him (Jonah 4:3)?",
+    "options": ["Make him king", "Send him home", "Take his life", "Give him riches"],
+    "correctAnswerIndex": 2,
+    "book": "Jonah",
+    "difficulty": "Easy",
+    "verseReference": "Jonah 4:3",
+    "verseText": "Therefore now, O LORD, please take my life from me, for it is better for me to die than to live.”"
+  },
+  {
+    "text": "What question did God ask Jonah in response to his anger (Jonah 4:4)?",
+    "options": ["'Why are you here?'", "'Do you do well to be angry?'", "'Where is your faith?'", "'Will you obey now?'"],
+    "correctAnswerIndex": 1,
+    "book": "Jonah",
+    "difficulty": "Easy",
+    "verseReference": "Jonah 4:4",
+    "verseText": "And the LORD said, “Do you do well to be angry?”"
+  },
+  {
+    "text": "What did God appoint to grow over Jonah to give him shade?",
+    "options": ["A tree", "A vine", "A large leaf", "A plant (gourd)"],
+    "correctAnswerIndex": 3,
+    "book": "Jonah",
+    "difficulty": "Easy",
+    "verseReference": "Jonah 4:6",
+    "verseText": "Now the LORD God appointed a plant and made it come up over Jonah, that it might be a shade over his head, to save him from his discomfort."
+  },
+  {
+    "text": "How did Jonah feel about the plant?",
+    "options": ["He ignored it", "He was exceedingly glad", "He tried to cut it down", "He thought it was insufficient"],
+    "correctAnswerIndex": 1,
+    "book": "Jonah",
+    "difficulty": "Easy",
+    "verseReference": "Jonah 4:6",
+    "verseText": "So Jonah was exceedingly glad because of the plant."
+  },
+  {
+    "text": "What did God appoint to destroy the plant?",
+    "options": ["A fire", "A strong wind", "A worm", "A goat"],
+    "correctAnswerIndex": 2,
+    "book": "Jonah",
+    "difficulty": "Easy",
+    "verseReference": "Jonah 4:7",
+    "verseText": "But when dawn came up the next day, God appointed a worm that attacked the plant, so that it withered."
+  },
+  {
+    "text": "Besides the worm, what else did God appoint that caused Jonah distress?",
+    "options": ["Heavy rain", "An earthquake", "A scorching east wind and sun beating on his head", "A plague of insects"],
+    "correctAnswerIndex": 2,
+    "book": "Jonah",
+    "difficulty": "Medium",
+    "verseReference": "Jonah 4:8",
+    "verseText": "When the sun rose, God appointed a scorching east wind, and the sun beat down on the head of Jonah so that he was faint."
+  },
+  {
+    "text": "God contrasted Jonah's pity for the plant (which he didn't labor over) with God's pity for what?",
+    "options": ["Jonah himself", "The nation of Israel", "The great city of Nineveh", "The sailors"],
+    "correctAnswerIndex": 2,
+    "book": "Jonah",
+    "difficulty": "Easy",
+    "verseReference": "Jonah 4:10-11",
+    "verseText": "And the LORD said, “You pity the plant, for which you did not labor... And should not I pity Nineveh, that great city...?"
+  },
+  {
+    "text": "How many people in Nineveh did God say 'do not know their right hand from their left'?",
+    "options": ["1,000", "12,000", "More than 120,000", "Millions"],
+    "correctAnswerIndex": 2,
+    "book": "Jonah",
+    "difficulty": "Medium",
+    "verseReference": "Jonah 4:11",
+    "verseText": "And should not I pity Nineveh, that great city, in which there are more than 120,000 persons who do not know their right hand from their left, and also much cattle?”"
+  },
+  {
+    "text": "Besides the people, what else did God express concern for in Nineveh?",
+    "options": ["The city walls", "The king's palace", "Much cattle", "The temples"],
+    "correctAnswerIndex": 2,
+    "book": "Jonah",
+    "difficulty": "Easy",
+    "verseReference": "Jonah 4:11",
+    "verseText": "...and also much cattle?”"
+  },
+  {
+    "text": "A major theme in Jonah is the contrast between God's compassion and whose prejudice/reluctance?",
+    "options": ["The sailors'", "The Ninevites'", "Jonah's", "The king of Nineveh's"],
+    "correctAnswerIndex": 2,
+    "book": "Jonah",
+    "difficulty": "Easy",
+    "verseReference": "Jonah 4",
+    "verseText": "(Jonah's anger at God's mercy towards Nineveh highlights this contrast)."
   }
 ]

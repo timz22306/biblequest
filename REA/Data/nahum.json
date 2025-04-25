@@ -88,5 +88,266 @@
     "difficulty": "Medium",
     "verseReference": "Nahum 3:19",
     "verseText": "There is no easing your hurt; your wound is grievous. All who hear the news about you clap their hands over you. For upon whom has not come your unceasing evil?"
+  },
+  {
+    "text": "What does Nahum's name likely mean?",
+    "options": ["God is Judge", "Vision", "Comfort or Consolation", "Lion of God"],
+    "correctAnswerIndex": 2,
+    "book": "Nahum",
+    "difficulty": "Medium",
+    "verseReference": "Nahum 1:1 (Name Meaning)",
+    "verseText": "(The name Nahum relates to the Hebrew word for comfort, fitting as the book comforts Judah with news of Nineveh's fall)."
+  },
+  {
+    "text": "Nahum 1:3 describes the LORD's path being in what?",
+    "options": ["The temple", "The heavens", "The whirlwind and the storm", "The sea"],
+    "correctAnswerIndex": 2,
+    "book": "Nahum",
+    "difficulty": "Medium",
+    "verseReference": "Nahum 1:3",
+    "verseText": "...His way is in whirlwind and storm, and the clouds are the dust of his feet."
+  },
+  {
+    "text": "What natural elements does Nahum 1:4 say the LORD rebukes and controls?",
+    "options": ["Sun and moon", "Animals and birds", "The sea, rivers, Bashan, Carmel, Lebanon", "Wind and rain"],
+    "correctAnswerIndex": 2,
+    "book": "Nahum",
+    "difficulty": "Medium",
+    "verseReference": "Nahum 1:4",
+    "verseText": "He rebukes the sea and makes it dry; he dries up all the rivers; Bashan and Carmel wither; the bloom of Lebanon withers."
+  },
+  {
+    "text": "How do the mountains and hills react to the LORD's presence in Nahum 1:5?",
+    "options": ["They sing for joy", "They quake and melt", "They stand firm", "They hide"],
+    "correctAnswerIndex": 1,
+    "book": "Nahum",
+    "difficulty": "Easy",
+    "verseReference": "Nahum 1:5",
+    "verseText": "The mountains quake before him; the hills melt; the earth heaves before him, the world and all who dwell in it."
+  },
+  {
+    "text": "Who can stand before the LORD's indignation and fierce anger, according to Nahum 1:6?",
+    "options": ["The righteous", "Powerful kings", "No one", "The Assyrians"],
+    "correctAnswerIndex": 2,
+    "book": "Nahum",
+    "difficulty": "Easy",
+    "verseReference": "Nahum 1:6",
+    "verseText": "Who can stand before his indignation? Who can endure the heat of his anger? His wrath is poured out like fire, and the rocks are broken into pieces by him."
+  },
+  {
+    "text": "What will happen to Nineveh, according to Nahum 1:8?",
+    "options": ["It will be rebuilt", "It will become a place of refuge", "An overwhelming flood will make a full end of its site", "It will surrender peacefully"],
+    "correctAnswerIndex": 2,
+    "book": "Nahum",
+    "difficulty": "Medium",
+    "verseReference": "Nahum 1:8",
+    "verseText": "But with an overwhelming flood he will make a full end of her site, and darkness will pursue his enemies."
+  },
+  {
+    "text": "What does God promise to break from Judah in Nahum 1:13?",
+    "options": ["Their covenant with Him", "Their city walls", "The Assyrian yoke and bonds", "Their idols"],
+    "correctAnswerIndex": 2,
+    "book": "Nahum",
+    "difficulty": "Easy",
+    "verseReference": "Nahum 1:13",
+    "verseText": "And now I will break his yoke from off you and will burst your bonds apart.”"
+  },
+  {
+    "text": "What command does God give concerning Nineveh (specifically its king/idols) in Nahum 1:14?",
+    "options": ["They will be honored", "No more descendants will bear its name; idols will be cut off; a grave prepared", "They will be moved to Judah", "They will be given to Babylon"],
+    "correctAnswerIndex": 1,
+    "book": "Nahum",
+    "difficulty": "Medium",
+    "verseReference": "Nahum 1:14",
+    "verseText": "The LORD has given commandment about you: “No more shall your name be perpetuated; from the house of your gods I will cut off the carved image and the metal image. I will make your grave, for you are vile.”"
+  },
+  {
+    "text": "Who is 'the scatterer' coming up against Nineveh in Nahum 2:1?",
+    "options": ["An internal rebel", "The LORD Himself", "An attacking army (likely Babylonians/Medes)", "A plague"],
+    "correctAnswerIndex": 2,
+    "book": "Nahum",
+    "difficulty": "Medium",
+    "verseReference": "Nahum 2:1",
+    "verseText": "The scatterer has come up against you. Man the ramparts; watch the road; dress for battle; collect all your strength."
+  },
+  {
+    "text": "What colors are associated with the shields and uniforms of Nineveh's attackers in Nahum 2:3?",
+    "options": ["Blue and gold", "Green and brown", "Red", "Black and white"],
+    "correctAnswerIndex": 2,
+    "book": "Nahum",
+    "difficulty": "Medium",
+    "verseReference": "Nahum 2:3",
+    "verseText": "The shield of his mighty men is red; his soldiers are clothed in scarlet. The chariots flash like flame when mustered in array; the cypress spears are brandished."
+  },
+  {
+    "text": "How are the chariots described moving in the streets and squares during the attack (Nahum 2:4)?",
+    "options": ["Slowly and carefully", "Parked and empty", "Raging, dashing to and fro, flashing like torches, darting like lightning", "Stuck in the mud"],
+    "correctAnswerIndex": 2,
+    "book": "Nahum",
+    "difficulty": "Easy",
+    "verseReference": "Nahum 2:4",
+    "verseText": "The chariots race madly through the streets; they rush to and fro through the squares; they gleam like torches; they dart like lightning."
+  },
+  {
+    "text": "What happens when the Ninevite officers are summoned (Nahum 2:5)?",
+    "options": ["They lead a successful defense", "They stumble in their march and rush to the wall", "They refuse to fight", "They surrender immediately"],
+    "correctAnswerIndex": 1,
+    "book": "Nahum",
+    "difficulty": "Medium",
+    "verseReference": "Nahum 2:5",
+    "verseText": "He remembers his officers; they stumble as they go; they hasten to the wall; the siege tower is set up."
+  },
+  {
+    "text": "What key part of Nineveh's defenses is opened, leading to the palace melting (Nahum 2:6)?",
+    "options": ["The main gate", "The river gates", "The northern wall", "The underground tunnels"],
+    "correctAnswerIndex": 1,
+    "book": "Nahum",
+    "difficulty": "Medium",
+    "verseReference": "Nahum 2:6",
+    "verseText": "The river gates are opened; the palace melts away;"
+  },
+  {
+    "text": "How are the slave girls of Nineveh depicted mourning in Nahum 2:7?",
+    "options": ["Singing joyful songs", "Silent and stoic", "Moaning like doves and beating their breasts", "Fleeing the city"],
+    "correctAnswerIndex": 2,
+    "book": "Nahum",
+    "difficulty": "Medium",
+    "verseReference": "Nahum 2:7",
+    "verseText": "its mistress is stripped; she is carried off, her slave girls lamenting, moaning like doves and beating their breasts."
+  },
+  {
+    "text": "Nineveh is compared to what failing structure in Nahum 2:8?",
+    "options": ["A crumbling wall", "A leaking pool of water whose waters run away", "A burning building", "A fallen tree"],
+    "correctAnswerIndex": 1,
+    "book": "Nahum",
+    "difficulty": "Medium",
+    "verseReference": "Nahum 2:8",
+    "verseText": "Nineveh is like a pool whose waters run away. “Halt! Halt!” they cry, but none turns back."
+  },
+  {
+    "text": "What are the invaders encouraged to do in Nahum 2:9?",
+    "options": ["Show mercy", "Take prisoners", "Plunder the silver and gold, for there is no end to the treasure", "Rebuild the city"],
+    "correctAnswerIndex": 2,
+    "book": "Nahum",
+    "difficulty": "Easy",
+    "verseReference": "Nahum 2:9",
+    "verseText": "Plunder the silver, plunder the gold! There is no end of the treasure or wealth of every precious thing."
+  },
+  {
+    "text": "What three words describe the state of Nineveh after the plunder in Nahum 2:10?",
+    "options": ["Peace, quiet, rest", "Rebuilt, strong, glorious", "Desolate, waste, ruin", "Busy, noisy, crowded"],
+    "correctAnswerIndex": 2,
+    "book": "Nahum",
+    "difficulty": "Easy",
+    "verseReference": "Nahum 2:10",
+    "verseText": "Desolate! Desolation and ruin! Hearts melt and knees tremble; anguish is in all loins; all faces grow pale!"
+  },
+  {
+    "text": "Nineveh, the Assyrian capital, is metaphorically asked 'Where is the lions' den?' in Nahum 2:11-12. Why?",
+    "options": ["Lions were kept in the palace zoo", "Assyria was known for its lion-like ferocity and predatory nature", "The king was called 'the Lion'", "Lions roamed the city streets"],
+    "correctAnswerIndex": 1,
+    "book": "Nahum",
+    "difficulty": "Medium",
+    "verseReference": "Nahum 2:11-12",
+    "verseText": "Where is the lions' den, the feeding place of the young lions, where the lion and lioness went, where his cubs were, with none to disturb? The lion tore enough for his cubs and strangled prey for his lionesses; he filled his caves with prey and his dens with torn flesh."
+  },
+  {
+    "text": "Who declares 'I am against you' to Nineveh in Nahum 2:13?",
+    "options": ["Babylon", "Egypt", "The LORD of hosts", "Judah"],
+    "correctAnswerIndex": 2,
+    "book": "Nahum",
+    "difficulty": "Easy",
+    "verseReference": "Nahum 2:13",
+    "verseText": "Behold, I am against you, declares the LORD of hosts, and I will burn your chariots in smoke, and the sword shall devour your young lions. I will cut off your prey from the earth, and the voice of your messengers shall no longer be heard."
+  },
+  {
+    "text": "Besides being a 'bloody city', Nineveh is described as full of what in Nahum 3:1?",
+    "options": ["Wisdom and knowledge", "Righteousness and justice", "Lies and plunder", "Temples and priests"],
+    "correctAnswerIndex": 2,
+    "book": "Nahum",
+    "difficulty": "Easy",
+    "verseReference": "Nahum 3:1",
+    "verseText": "Woe to the bloody city, all full of lies and plunder— no end to the prey!"
+  },
+  {
+    "text": "What sounds of battle are vividly described in Nahum 3:2-3?",
+    "options": ["Singing and celebration", "Silence and stillness", "Whip cracks, rumbling wheels, galloping horses, bounding chariots, horsemen charging, flashing swords, glittering spears, heaps of slain", "Negotiations and treaties"],
+    "correctAnswerIndex": 2,
+    "book": "Nahum",
+    "difficulty": "Medium",
+    "verseReference": "Nahum 3:2-3",
+    "verseText": "The crack of the whip, and rumble of the wheel, galloping horse and bounding chariot! Horsemen charging, flashing sword and glittering spear, hosts of slain, heaps of corpses, dead bodies without end— they stumble over the bodies!"
+  },
+  {
+    "text": "What degrading action does God say He will perform against Nineveh because of her 'whorings' (Nahum 3:5)?",
+    "options": ["Lift her skirts over her face and show nations her nakedness", "Give her wealth", "Make her a queen", "Teach her wisdom"],
+    "correctAnswerIndex": 0,
+    "book": "Nahum",
+    "difficulty": "Medium",
+    "verseReference": "Nahum 3:5",
+    "verseText": "Behold, I am against you, declares the LORD of hosts, and will lift up your skirts over your face; and I will make nations look at your nakedness and kingdoms at your shame."
+  },
+  {
+    "text": "What was the fate of Thebes (No-amon) that serves as a warning to Nineveh (Nahum 3:10)?",
+    "options": ["It became a world power", "It repented and was spared", "It went into exile and captivity; its infants were dashed in pieces", "It formed an alliance with Assyria"],
+    "correctAnswerIndex": 2,
+    "book": "Nahum",
+    "difficulty": "Hard",
+    "verseReference": "Nahum 3:8-10",
+    "verseText": "Yet she became an exile; she went into captivity; her infants were dashed in pieces at the head of every street; for her honored men lots were cast, and all her great men were bound in chains."
+  },
+  {
+    "text": "How are Nineveh's fortresses described in Nahum 3:12?",
+    "options": ["As strong and impenetrable", "As fig trees with ripe figs that fall when shaken", "As high mountains", "As deep caves"],
+    "correctAnswerIndex": 1,
+    "book": "Nahum",
+    "difficulty": "Medium",
+    "verseReference": "Nahum 3:12",
+    "verseText": "All your fortresses are like fig trees with first-ripe figs— if shaken they fall into the mouth of the eater."
+  },
+  {
+    "text": "How are Nineveh's troops described in Nahum 3:13?",
+    "options": ["As mighty lions", "As numerous as stars", "As women; the gates are open to enemies; fire consumes the bars", "As loyal and brave"],
+    "correctAnswerIndex": 2,
+    "book": "Nahum",
+    "difficulty": "Medium",
+    "verseReference": "Nahum 3:13",
+    "verseText": "Behold, your troops are women in your midst. The gates of your land are wide open to your enemies; fire has devoured your bars."
+  },
+  {
+    "text": "What futile defensive measures is Nineveh sarcastically told to undertake in Nahum 3:14?",
+    "options": ["Pray to idols", "Surrender", "Draw water for the siege, strengthen defenses, tread clay, take hold of brick mold", "Flee the city"],
+    "correctAnswerIndex": 2,
+    "book": "Nahum",
+    "difficulty": "Medium",
+    "verseReference": "Nahum 3:14",
+    "verseText": "Draw water for the siege; strengthen your forts; go into the clay; tread the mortar; take hold of the brick mold!"
+  },
+  {
+    "text": "How are Nineveh's merchants and princes/commanders described in Nahum 3:16-17?",
+    "options": ["As wise counselors", "As permanent fixtures", "Like locusts that multiply and then fly away when trouble comes", "As poor and weak"],
+    "correctAnswerIndex": 2,
+    "book": "Nahum",
+    "difficulty": "Medium",
+    "verseReference": "Nahum 3:16-17",
+    "verseText": "You multiplied your merchants more than the stars of heaven. The locust spreads its wings and flies away. Your princes are like grasshoppers, your scribes like clouds of locusts settling on the fences in a cold day— when the sun rises, they fly away..."
+  },
+  {
+    "text": "What is the state of Nineveh's shepherds (leaders) according to Nahum 3:18?",
+    "options": ["They are vigilant", "They are slumbering; the people are scattered", "They are gathering the flock", "They are fighting bravely"],
+    "correctAnswerIndex": 1,
+    "book": "Nahum",
+    "difficulty": "Medium",
+    "verseReference": "Nahum 3:18",
+    "verseText": "Your shepherds are asleep, O king of Assyria; your nobles slumber. Your people are scattered on the mountains with none to gather them."
+  },
+  {
+    "text": "Why do all who hear the news of Nineveh's fall clap their hands (Nahum 3:19)?",
+    "options": ["They admired Nineveh", "They pity Nineveh", "Because Nineveh's unceasing evil had affected everyone", "They expected Nineveh to win"],
+    "correctAnswerIndex": 2,
+    "book": "Nahum",
+    "difficulty": "Easy",
+    "verseReference": "Nahum 3:19",
+    "verseText": "All who hear the news about you clap their hands over you. For upon whom has not come your unceasing evil?"
   }
 ]

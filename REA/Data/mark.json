@@ -88,5 +88,446 @@
     "difficulty": "Medium",
     "verseReference": "N/A (Church Tradition, cf. 1 Peter 5:13)",
     "verseText": "(Early church tradition strongly associates Mark with the Apostle Peter, suggesting Peter's preaching formed the basis of Mark's Gospel)."
+  },
+  {
+    "text": "What happened immediately after Jesus' baptism, according to Mark 1?",
+    "options": ["He began preaching", "The Spirit drove him into the wilderness to be tempted", "He called his disciples", "He returned to Nazareth"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 1:12",
+    "verseText": "The Spirit immediately drove him out into the wilderness."
+  },
+  {
+    "text": "Who were the first four disciples Jesus called in Mark 1?",
+    "options": ["Matthew, Thomas, James, Judas", "Simon (Peter), Andrew, James, John", "Philip, Bartholomew, Thaddaeus, Simon the Zealot", "Judas Iscariot, Peter, Matthew, James"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 1:16-20",
+    "verseText": "Passing alongside the Sea of Galilee, he saw Simon and Andrew the brother of Simon casting a net into the sea... And going on a little farther, he saw James the son of Zebedee and John his brother..."
+  },
+  {
+    "text": "What amazed the people about Jesus' teaching in the synagogue at Capernaum (Mark 1)?",
+    "options": ["His storytelling", "He taught them as one who had authority, unlike the scribes", "His knowledge of the Law", "His loud voice"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 1:22",
+    "verseText": "And they were astonished at his teaching, for he taught them as one who had authority, and not as the scribes."
+  },
+  {
+    "text": "What reason did Jesus give for calling Levi (Matthew) the tax collector to follow him, when criticized for eating with sinners (Mark 2)?",
+    "options": ["'Tax collectors need saving too'", "'Those who are well have no need of a physician, but those who are sick. I came not to call the righteous, but sinners.'", "'He offered me a meal'", "'Love your neighbor'"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 2:17",
+    "verseText": "And when Jesus heard it, he said to them, “Those who are well have no need of a physician, but those who are sick. I came not to call the righteous, but sinners.”"
+  },
+  {
+    "text": "What did Jesus declare about the Sabbath when his disciples were criticized for plucking grain (Mark 2)?",
+    "options": ["'The Sabbath is abolished'", "'The Sabbath was made for man, not man for the Sabbath. So the Son of Man is lord even of the Sabbath.'", "'Only priests can work on the Sabbath'", "'You should rest completely'"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 2:27-28",
+    "verseText": "And he said to them, “The Sabbath was made for man, not man for the Sabbath. So the Son of Man is lord even of the Sabbath.”"
+  },
+  {
+    "text": "After healing the man with the withered hand on the Sabbath, what did the Pharisees immediately plot with the Herodians (Mark 3)?",
+    "options": ["To make Jesus king", "To destroy Jesus", "To join his followers", "To leave the region"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 3:6",
+    "verseText": "The Pharisees went out and immediately held counsel with the Herodians against him, how to destroy him."
+  },
+  {
+    "text": "Who did Jesus' own family think he was when they came to seize him (Mark 3)?",
+    "options": ["The Messiah", "A great prophet", "Out of his mind", "A political rebel"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 3:21",
+    "verseText": "And when his family heard it, they went out to seize him, for they were saying, “He is out of his mind.”"
+  },
+  {
+    "text": "What is the main parable Jesus tells in Mark 4?",
+    "options": ["The Parable of the Good Samaritan", "The Parable of the Prodigal Son", "The Parable of the Sower", "The Parable of the Talents"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 4:3-8",
+    "verseText": "“Listen! Behold, a sower went out to sow. And as he sowed, some seed fell along the path..."
+  },
+  {
+    "text": "What miracle does Jesus perform while crossing the Sea of Galilee with his disciples in Mark 4?",
+    "options": ["Walking on water", "Calming a great storm", "Catching a fish with a coin", "Multiplying loaves"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 4:39",
+    "verseText": "And he awoke and rebuked the wind and said to the sea, “Peace! Be still!” And the wind ceased, and there was a great calm."
+  },
+  {
+    "text": "What question did Jesus ask his disciples after calming the storm (Mark 4)?",
+    "options": ["'Did you catch any fish?'", "'Why are you so afraid? Have you still no faith?'", "'Who do you say that I am?'", "'Where are we going?'"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 4:40",
+    "verseText": "He said to them, “Why are you so afraid? Have you still no faith?”"
+  },
+  {
+    "text": "In the country of the Gerasenes (Mark 5), Jesus encounters a man possessed by many demons. What name did the demons give?",
+    "options": ["Beelzebul", "Satan", "Legion, 'for we are many'", "Abaddon"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 5:9",
+    "verseText": "And Jesus asked him, “What is your name?” He replied, “My name is Legion, for we are many.”"
+  },
+  {
+    "text": "What happened to the herd of pigs after Jesus cast the demons into them (Mark 5)?",
+    "options": ["They ran away", "They rushed down the steep bank into the sea and drowned", "They attacked the people", "They fell asleep"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 5:13",
+    "verseText": "So he gave them permission. And the unclean spirits came out and entered the pigs; and the herd, numbering about two thousand, rushed down the steep bank into the sea and drowned in the sea."
+  },
+  {
+    "text": "What two miracles are intertwined in Mark 5?",
+    "options": ["Calming the storm and walking on water", "Healing a blind man and a deaf man", "Healing the woman with the discharge of blood and raising Jairus' daughter", "Feeding the 5000 and feeding the 4000"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 5:22-25, 35, 41-42",
+    "verseText": "(Jairus asks Jesus to heal his daughter, but on the way, the woman touches Jesus' garment and is healed. Then news comes the daughter died, but Jesus raises her)."
+  },
+  {
+    "text": "What phrase did Jesus say to Jairus' daughter when he raised her (Mark 5)?",
+    "options": ["'Lazarus, come forth'", "'Peace, be still'", "'Talitha cumi' (Little girl, I say to you, arise)", "'Ephphatha' (Be opened)"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Hard",
+    "verseReference": "Mark 5:41",
+    "verseText": "Taking her by the hand he said to her, “Talitha cumi,” which means, “Little girl, I say to you, arise.”"
+  },
+  {
+    "text": "What was the reaction of Jesus' hometown (Nazareth) when he taught there (Mark 6)?",
+    "options": ["They rejoiced and believed", "They took offense at him and rejected him", "They asked him to stay longer", "They were indifferent"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 6:3",
+    "verseText": "Is not this the carpenter, the son of Mary and brother of James and Joses and Judas and Simon? And are not his sisters here with us?” And they took offense at him."
+  },
+  {
+    "text": "How did John the Baptist die, according to Mark 6?",
+    "options": ["Old age", "Stoning", "Beheaded by Herod Antipas at the request of Herodias' daughter", "Crucifixion"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 6:27-28",
+    "verseText": "And immediately the king sent an executioner with orders to bring John's head. He went and beheaded him in the prison and brought his head on a platter and gave it to the girl, and the girl gave it to her mother."
+  },
+  {
+    "text": "How many men did Jesus feed with five loaves and two fish in Mark 6?",
+    "options": ["3000", "4000", "5000", "7000"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 6:44",
+    "verseText": "And those who ate the loaves were five thousand men."
+  },
+  {
+    "text": "What miracle did Jesus perform on the sea after feeding the 5000 (Mark 6)?",
+    "options": ["Calming the storm", "Walking on the water", "Parting the sea", "Catching many fish"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 6:48",
+    "verseText": "And he saw that they were making headway painfully, for the wind was against them. And about the fourth watch of the night he came to them, walking on the sea. He meant to pass by them,"
+  },
+  {
+    "text": "Jesus criticized the Pharisees for nullifying God's word with what (Mark 7)?",
+    "options": ["Roman laws", "Their tradition", "Greek philosophy", "Personal opinions"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 7:13",
+    "verseText": "thus making void the word of God by your tradition that you have handed down. And many such things you do.”"
+  },
+  {
+    "text": "What did Jesus declare about all foods, making them clean (Mark 7)?",
+    "options": ["Only certain foods are clean", "'(Thus he declared all foods clean.)'", "Food doesn't matter", "Bless food before eating"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Hard",
+    "verseReference": "Mark 7:19",
+    "verseText": "since it enters not his heart but his stomach, and is expelled?” (Thus he declared all foods clean.)"
+  },
+  {
+    "text": "How many men did Jesus feed with seven loaves and a few small fish in Mark 8?",
+    "options": ["3000", "4000", "5000", "7000"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 8:8-9",
+    "verseText": "And they ate and were satisfied. And they took up the broken pieces left over, seven baskets full. And there were about four thousand people."
+  },
+  {
+    "text": "After Peter's confession, what did Jesus begin to teach the disciples openly (Mark 8)?",
+    "options": ["More parables", "That the Son of Man must suffer, be rejected, be killed, and rise again", "How to perform miracles", "About the end times"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 8:31",
+    "verseText": "And he began to teach them that the Son of Man must suffer many things and be rejected by the elders and the chief priests and the scribes and be killed, and after three days rise again."
+  },
+  {
+    "text": "What did Jesus say to Peter after Peter rebuked him for predicting his suffering (Mark 8)?",
+    "options": ["'You are right, Peter'", "'Get behind me, Satan!'", "'Do not be afraid'", "'Blessed are you'"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 8:33",
+    "verseText": "But turning and seeing his disciples, he rebuked Peter and said, “Get behind me, Satan! For you are not setting your mind on the things of God, but on the things of man.”"
+  },
+  {
+    "text": "What does Jesus say is required to be his disciple (Mark 8)?",
+    "options": ["Perfect knowledge", "Wealth", "To deny oneself, take up one's cross, and follow him", "Jewish heritage"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 8:34",
+    "verseText": "And calling the crowd to him with his disciples, he said to them, “If anyone would come after me, let him deny himself and take up his cross and follow me."
+  },
+  {
+    "text": "Who appeared with Jesus during the Transfiguration (Mark 9)?",
+    "options": ["Abraham and Isaac", "Moses and Elijah", "David and Solomon", "Angels"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 9:4",
+    "verseText": "And there appeared to them Elijah with Moses, and they were talking with Jesus."
+  },
+  {
+    "text": "What did the voice from the cloud say during the Transfiguration (Mark 9)?",
+    "options": ["'This is my beloved Son; listen to him.'", "'Well done, good servant'", "'Peace be with you'", "'Follow him'"],
+    "correctAnswerIndex": 0,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 9:7",
+    "verseText": "And a cloud overshadowed them, and a voice came out of the cloud, “This is my beloved Son; listen to him.”"
+  },
+  {
+    "text": "What did Jesus say about divorce in Mark 10?",
+    "options": ["It is permissible for any cause", "He affirmed God's original intent ('What God has joined together, let not man separate') and permitted it only due to hardness of heart", "It is forbidden entirely", "Only men can initiate it"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 10:5-9",
+    "verseText": "Jesus said to them, “Because of your hardness of heart he wrote you this commandment. But from the beginning of creation, ‘God made them male and female.’ ... What therefore God has joined together, let not man separate.”"
+  },
+  {
+    "text": "What did Jesus say to the rich young man who asked about eternal life (Mark 10)?",
+    "options": ["'Keep the commandments'", "'Sell everything, give to the poor, and follow me'", "'Believe in me'", "'Pray more'"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 10:21",
+    "verseText": "And Jesus, looking at him, loved him, and said to him, “You lack one thing: go, sell all that you have and give to the poor, and you will have treasure in heaven; and come, follow me.”"
+  },
+  {
+    "text": "What did James and John ask Jesus for in Mark 10?",
+    "options": ["Wealth", "Power over demons", "To sit at his right and left hand in his glory", "To lead the disciples"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 10:35, 37",
+    "verseText": "And James and John, the sons of Zebedee, came up to him and said to him, “Teacher, we want you to do for us whatever we ask of you.”... And they said to him, “Grant us to sit, one at your right hand and one at your left, in your glory.”"
+  },
+  {
+    "text": "Who was the blind beggar healed by Jesus near Jericho (Mark 10)?",
+    "options": ["Lazarus", "Bartimaeus", "Simon", "Malchus"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 10:46",
+    "verseText": "And they came to Jericho. And as he was leaving Jericho with his disciples and a great crowd, Bartimaeus, a blind beggar, the son of Timaeus, was sitting by the roadside."
+  },
+  {
+    "text": "What action did Jesus take in the temple after his triumphal entry into Jerusalem (Mark 11)?",
+    "options": ["He taught the people", "He healed the sick", "He drove out those buying and selling and overturned tables", "He rested"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 11:15",
+    "verseText": "And they came to Jerusalem. And he entered the temple and began to drive out those who sold and those who bought in the temple, and he overturned the tables of the money-changers and the seats of those who sold pigeons."
+  },
+  {
+    "text": "What happened to the fig tree that Jesus cursed for having no fruit (Mark 11)?",
+    "options": ["It bore fruit later", "It withered away to its roots", "Nothing happened", "It was cut down"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 11:14, 20",
+    "verseText": "And he said to it, “May no one ever eat fruit from you again.”... As they passed by in the morning, they saw the fig tree withered away to its roots."
+  },
+  {
+    "text": "In the Parable of the Wicked Tenants (Mark 12), who does the beloved son represent?",
+    "options": ["John the Baptist", "A prophet", "Jesus", "The Holy Spirit"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 12:6-8",
+    "verseText": "He had still one other, a beloved son. Finally he sent him to them, saying, ‘They will respect my son.’ But those tenants said to one another, ‘This is the heir. Come, let us kill him, and the inheritance will be ours.’ And they took him and killed him and threw him out of the vineyard."
+  },
+  {
+    "text": "What did Jesus say was the greatest commandment when asked by a scribe (Mark 12)?",
+    "options": ["Keep the Sabbath", "Honor your parents", "Love the Lord your God with all your heart, soul, mind, and strength, and love your neighbor as yourself", "Do not murder"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 12:29-31",
+    "verseText": "Jesus answered, “The most important is, ‘Hear, O Israel: The Lord our God, the Lord is one. And you shall love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength.’ The second is this: ‘You shall love your neighbor as yourself.’ There is no other commandment greater than these.”"
+  },
+  {
+    "text": "Jesus praised a poor widow for putting two small coins into the temple treasury because...",
+    "options": ["It was a large amount", "She gave all she had to live on", "She gave reluctantly", "She announced her gift loudly"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 12:43-44",
+    "verseText": "And he called his disciples to him and said to them, “Truly, I say to you, this poor widow has put in more than all those who are contributing to the offering box. For they all contributed out of their abundance, but she out of her poverty has put in everything she had, all she had to live on.”"
+  },
+  {
+    "text": "In Mark 13 (Olivet Discourse), Jesus warns about future deception, wars, earthquakes, famines, and what else before the end?",
+    "options": ["Great prosperity", "Persecution of believers", "Rebuilding the temple", "Peace treaties"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 13:9",
+    "verseText": "“But be on your guard. For they will deliver you over to councils, and you will be beaten in synagogues, and you will stand before governors and kings for my sake, to bear witness before them."
+  },
+  {
+    "text": "Who anointed Jesus' head with expensive ointment in Bethany, shortly before his death (Mark 14)?",
+    "options": ["Mary Magdalene", "Martha", "An unnamed woman", "Mary, mother of Jesus"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 14:3",
+    "verseText": "And while he was at Bethany in the house of Simon the leper, as he was reclining at table, a woman came with an alabaster flask of ointment of pure nard, very costly, and she broke the flask and poured it over his head."
+  },
+  {
+    "text": "During the Last Supper in Mark 14, Jesus predicts that one of the Twelve will do what?",
+    "options": ["Perform a great miracle", "Betray him", "Deny him", "Become the leader"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 14:18",
+    "verseText": "And as they were reclining at table and eating, Jesus said, “Truly, I say to you, one of you will betray me, one who is eating with me.”"
+  },
+  {
+    "text": "Which three disciples did Jesus take with him to pray in Gethsemane (Mark 14)?",
+    "options": ["Andrew, Philip, Bartholomew", "Matthew, Thomas, Judas", "Peter, James, and John", "Simon the Zealot, Thaddaeus, James the Less"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 14:33",
+    "verseText": "And he took with him Peter and James and John, and began to be greatly distressed and troubled."
+  },
+  {
+    "text": "What did the disciples repeatedly fail to do while Jesus prayed in Gethsemane (Mark 14)?",
+    "options": ["Sing hymns", "Keep watch (stay awake)", "Prepare food", "Guard the entrance"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 14:37, 40, 41",
+    "verseText": "And he came and found them sleeping, and he said to Peter, “Simon, are you asleep? Could you not watch one hour?”... And again he came and found them sleeping... And he came the third time and said to them, “Are you still sleeping and taking your rest?"
+  },
+  {
+    "text": "What charge did the high priest find Jesus guilty of after Jesus affirmed he was the Christ, the Son of the Blessed (Mark 14)?",
+    "options": ["Treason", "Blasphemy", "Sedition", "Breaking the Sabbath"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 14:61-64",
+    "verseText": "Again the high priest asked him, “Are you the Christ, the Son of the Blessed?” And Jesus said, “I am, and you will see the Son of Man seated at the right hand of Power, and coming with the clouds of heaven.” And the high priest tore his garments and said, “What further witnesses do we need? You have heard his blasphemy."
+  },
+  {
+    "text": "Who did Pilate release to the crowd instead of Jesus (Mark 15)?",
+    "options": ["A political prisoner", "Barabbas, a murderer and insurrectionist", "A thief", "John the Baptist"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 15:7, 15",
+    "verseText": "And among the rebels in prison, who had committed murder in the insurrection, there was a man called Barabbas... So Pilate, wishing to satisfy the crowd, released for them Barabbas, and having scourged Jesus, he delivered him to be crucified."
+  },
+  {
+    "text": "What did the soldiers mockingly place on Jesus' head before the crucifixion (Mark 15)?",
+    "options": ["A royal crown", "A crown of thorns", "A helmet", "A turban"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 15:17",
+    "verseText": "And they clothed him in a purple cloak, and twisting together a crown of thorns, they put it on him."
+  },
+  {
+    "text": "What time was it when they crucified Jesus, according to Mark 15?",
+    "options": ["The first hour (6 AM)", "The third hour (9 AM)", "The sixth hour (Noon)", "The ninth hour (3 PM)"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Hard",
+    "verseReference": "Mark 15:25",
+    "verseText": "And it was the third hour when they crucified him."
+  },
+  {
+    "text": "What cry did Jesus utter from the cross around the ninth hour, according to Mark 15?",
+    "options": ["'It is finished'", "'Father, forgive them'", "'Eloi, Eloi, lema sabachthani?' (My God, my God, why have you forsaken me?)", "'Into your hands I commit my spirit'"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 15:34",
+    "verseText": "And at the ninth hour Jesus cried with a loud voice, “Eloi, Eloi, lema sabachthani?” which means, “My God, my God, why have you forsaken me?”"
+  },
+  {
+    "text": "Which women are mentioned as watching the crucifixion from a distance (Mark 15)?",
+    "options": ["Mary the mother of Jesus, Martha", "Mary Magdalene, Mary the mother of James the younger and of Joses, and Salome", "Joanna and Susanna", "The wife of Pilate"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 15:40",
+    "verseText": "There were also women looking on from a distance, among whom were Mary Magdalene, and Mary the mother of James the younger and of Joses, and Salome."
+  },
+  {
+    "text": "Who asked Pilate for the body of Jesus and buried it (Mark 15)?",
+    "options": ["Nicodemus", "Peter", "Joseph of Arimathea", "The centurion"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Medium",
+    "verseReference": "Mark 15:43, 46",
+    "verseText": "Joseph of Arimathea, a respected member of the council, who was also himself looking for the kingdom of God, took courage and went to Pilate and asked for the body of Jesus... And Joseph bought a linen shroud, and taking him down, wrapped him in the linen shroud and laid him in a tomb..."
+  },
+  {
+    "text": "Who did the women find at the tomb on the first day of the week (Mark 16)?",
+    "options": ["Jesus", "Roman soldiers", "A young man in a white robe", "Peter and John"],
+    "correctAnswerIndex": 2,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 16:5",
+    "verseText": "And entering the tomb, they saw a young man sitting on the right side, dressed in a white robe, and they were alarmed."
+  },
+  {
+    "text": "What message did the young man give the women at the tomb (Mark 16)?",
+    "options": ["'He is still dead'", "'Go, tell his disciples and Peter that he is going before you to Galilee. There you will see him.'", "'Wait here for him'", "'The body has been stolen'"],
+    "correctAnswerIndex": 1,
+    "book": "Mark",
+    "difficulty": "Easy",
+    "verseReference": "Mark 16:6-7",
+    "verseText": "And he said to them, “Do not be alarmed. You seek Jesus of Nazareth, who was crucified. He has risen; he is not here. See the place where they laid him. But go, tell his disciples and Peter that he is going before you to Galilee. There you will see him, just as he told you.”"
   }
 ]

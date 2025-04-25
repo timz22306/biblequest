@@ -88,5 +88,131 @@
     "difficulty": "Hard",
     "verseReference": "Zechariah 11:12-13",
     "verseText": "Then I said to them, “If it seems good to you, give me my wages; but if not, keep them.” And they weighed out as my wages thirty pieces of silver. Then the LORD said to me, “Throw it to the potter”—the lordly price at which I was priced by them! So I took the thirty pieces of silver and threw them into the house of the LORD, to the potter."
+  },
+  {
+    "text": "What does the vision of the man with the measuring line signify for Jerusalem (Zechariah 2)?",
+    "options": ["Its destruction", "Its limited size", "Its future expansion and God's presence as a wall of fire", "Its division"],
+    "correctAnswerIndex": 2,
+    "book": "Zechariah",
+    "difficulty": "Medium",
+    "verseReference": "Zechariah 2:2-5",
+    "verseText": "Then I said, “Where are you going?” And he said to me, “To measure Jerusalem, to see what is its width and what is its length.”... saying, “Run, say to that young man, ‘Jerusalem shall be inhabited as villages without walls, because of the multitude of people and livestock in it. And I will be to her a wall of fire all around, declares the LORD, and I will be the glory in her midst.’”"
+  },
+  {
+    "text": "Who is referred to as 'the Branch' in Zechariah 3:8 and 6:12, a figure who will rebuild the temple and rule?",
+    "options": ["Zerubbabel", "Joshua the High Priest", "A future Messiah", "King Darius"],
+    "correctAnswerIndex": 2,
+    "book": "Zechariah",
+    "difficulty": "Medium",
+    "verseReference": "Zechariah 3:8, 6:12-13",
+    "verseText": "Hear now, O Joshua the high priest, you and your friends who sit before you, for they are men who are a sign: behold, I will bring my servant the Branch... and say to him, ‘Thus says the LORD of hosts, “Behold, the man whose name is the Branch: for he shall branch out from his place, and he shall build the temple of the LORD... It is he who shall bear royal honor, and shall sit and rule on his throne."
+  },
+  {
+    "text": "What does the vision of the flying scroll represent (Zechariah 5:1-4)?",
+    "options": ["Good news", "A peace treaty", "The curse going out over the whole land against thieves and those who swear falsely", "A call to war"],
+    "correctAnswerIndex": 2,
+    "book": "Zechariah",
+    "difficulty": "Medium",
+    "verseReference": "Zechariah 5:3",
+    "verseText": "Then he said to me, “This is the curse that goes out over the face of the whole land. For everyone who steals shall be cleaned out according to what is on one side, and everyone who swears falsely shall be cleaned out according to what is on the other side."
+  },
+  {
+    "text": "What does the vision of the woman in the ephah (basket) represent (Zechariah 5:5-11)?",
+    "options": ["Abundance and blessing", "Wickedness being removed from the land and taken to Babylon (Shinar)", "Trade and commerce", "Famine"],
+    "correctAnswerIndex": 1,
+    "book": "Zechariah",
+    "difficulty": "Hard",
+    "verseReference": "Zechariah 5:7-8, 11",
+    "verseText": "And behold, the leaden cover was lifted, and there was a woman sitting in the ephah! And he said, “This is Wickedness.” And he thrust her back into the ephah... He said to me, “To the land of Shinar, to build a house for it. And when this is prepared, they will set the ephah down there on its base.”"
+  },
+  {
+    "text": "What do the four chariots patrolling the earth represent in Zechariah 6?",
+    "options": ["The four seasons", "The four winds/spirits of heaven serving the Lord", "Invading armies", "Trade routes"],
+    "correctAnswerIndex": 1,
+    "book": "Zechariah",
+    "difficulty": "Hard",
+    "verseReference": "Zechariah 6:5",
+    "verseText": "And the angel answered and said to me, “These are going out to the four winds of heaven, after presenting themselves before the Lord of all the earth.”"
+  },
+  {
+    "text": "In Zechariah 7, the people ask about continuing to fast. What does God say is more important than fasting?",
+    "options": ["Offering sacrifices", "Building the Temple", "Executing true justice, showing kindness and mercy, not oppressing the vulnerable", "Singing praises"],
+    "correctAnswerIndex": 2,
+    "book": "Zechariah",
+    "difficulty": "Medium",
+    "verseReference": "Zechariah 7:9-10",
+    "verseText": "“Thus says the LORD of hosts, Render true judgments, show kindness and mercy to one another, do not oppress the widow, the fatherless, the sojourner, or the poor, and let none of you devise evil against another in your heart.”"
+  },
+  {
+    "text": "Zechariah 8 promises a future for Jerusalem where what unusual sight will occur?",
+    "options": ["Rivers of wine", "Animals talking", "Old men and women will sit in the streets, and boys and girls will play there", "The sun standing still"],
+    "correctAnswerIndex": 2,
+    "book": "Zechariah",
+    "difficulty": "Medium",
+    "verseReference": "Zechariah 8:4-5",
+    "verseText": "Thus says the LORD of hosts: Old men and old women shall again sit in the streets of Jerusalem, each with staff in hand because of great age. And the streets of the city shall be full of boys and girls playing in its streets."
+  },
+  {
+    "text": "Zechariah 12:10 prophesies that the inhabitants of Jerusalem will look upon whom?",
+    "options": ["A conquering king", "An idol", "Me [the LORD], whom they have pierced", "Moses"],
+    "correctAnswerIndex": 2,
+    "book": "Zechariah",
+    "difficulty": "Medium",
+    "verseReference": "Zechariah 12:10",
+    "verseText": "“And I will pour out on the house of David and the inhabitants of Jerusalem a spirit of grace and pleas for mercy, so that, when they look on me, on him whom they have pierced, they shall mourn for him, as one mourns for an only child..."
+  },
+  {
+    "text": "What does Zechariah 13:1 say will be opened for the house of David and the inhabitants of Jerusalem?",
+    "options": ["A new temple", "A fountain to cleanse them from sin and uncleanness", "A gate to heaven", "A treasure chest"],
+    "correctAnswerIndex": 1,
+    "book": "Zechariah",
+    "difficulty": "Medium",
+    "verseReference": "Zechariah 13:1",
+    "verseText": "“On that day there shall be a fountain opened for the house of David and the inhabitants of Jerusalem, to cleanse them from sin and uncleanness."
+  },
+  {
+    "text": "In Zechariah 13:7, God calls for the shepherd to be struck. Who does Jesus apply this prophecy to?",
+    "options": ["John the Baptist", "Peter", "Himself", "Judas"],
+    "correctAnswerIndex": 2,
+    "book": "Zechariah",
+    "difficulty": "Medium",
+    "verseReference": "Zechariah 13:7 (cf. Matthew 26:31, Mark 14:27)",
+    "verseText": "“Awake, O sword, against my shepherd, against the man who stands next to me,” declares the LORD of hosts. “Strike the shepherd, and the sheep will be scattered; I will turn my hand against the little ones."
+  },
+  {
+    "text": "Zechariah 14 describes a future day when the Lord will fight against the nations attacking Jerusalem. What dramatic geographical change will occur?",
+    "options": ["The sun will darken", "The Mount of Olives will split in two", "The Dead Sea will become fresh", "Jerusalem will be raised up"],
+    "correctAnswerIndex": 1,
+    "book": "Zechariah",
+    "difficulty": "Medium",
+    "verseReference": "Zechariah 14:4",
+    "verseText": "On that day his feet shall stand on the Mount of Olives that lies before Jerusalem on the east, and the Mount of Olives shall be split in two from east to west by a very wide valley, so that one half of the Mount shall move northward, and the other half southward."
+  },
+  {
+    "text": "What will flow out from Jerusalem on that future day described in Zechariah 14?",
+    "options": ["Oil and wine", "Living waters", "Molten gold", "Armies"],
+    "correctAnswerIndex": 1,
+    "book": "Zechariah",
+    "difficulty": "Medium",
+    "verseReference": "Zechariah 14:8",
+    "verseText": "On that day living waters shall flow out from Jerusalem, half of them to the eastern sea and half of them to the western sea. It shall continue in summer as in winter."
+  },
+  {
+    "text": "What will happen to the nations that fought against Jerusalem, according to Zechariah 14?",
+    "options": ["They will be completely destroyed", "They will be forced into slavery", "They will go up year after year to worship the King, the LORD of hosts, and keep the Feast of Booths", "They will be ignored"],
+    "correctAnswerIndex": 2,
+    "book": "Zechariah",
+    "difficulty": "Medium",
+    "verseReference": "Zechariah 14:16",
+    "verseText": "Then everyone who survives of all the nations that have come against Jerusalem shall go up year after year to worship the King, the LORD of hosts, and to keep the Feast of Booths."
+  },
+  {
+    "text": "What inscription will be on the bells of the horses in the final vision of Zechariah 14?",
+    "options": ["'King of Kings'", "'Holy to the LORD'", "'Jerusalem the Golden'", "'Peace on Earth'"],
+    "correctAnswerIndex": 1,
+    "book": "Zechariah",
+    "difficulty": "Hard",
+    "verseReference": "Zechariah 14:20",
+    "verseText": "And on that day there shall be inscribed on the bells of the horses, “Holy to the LORD.” And the pots in the house of the LORD shall be as the bowls before the altar."
   }
 ]
