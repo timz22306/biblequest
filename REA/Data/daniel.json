@@ -88,5 +88,860 @@
     "difficulty": "Easy",
     "verseReference": "Daniel 6:22",
     "verseText": "My God sent his angel and shut the lions' mouths, and they have not harmed me, because I was found blameless before him; and also before you, O king, I have done no harm.”"
+  },
+  {
+    "text": "What test did Daniel propose to the chief official regarding the king's food?",
+    "options": ["A test of strength", "A ten-day trial eating only vegetables and water", "A riddle contest", "A test of loyalty"],
+    "correctAnswerIndex": 1,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 1:12-13",
+    "verseText": "“Test your servants for ten days; let us be given vegetables to eat and water to drink. Then let our appearance and the appearance of the youths who eat the king's food be observed by you, and deal with your servants according to what you see.”"
+  },
+  {
+    "text": "What consequence did Nebuchadnezzar decree for the wise men who could not interpret his dream?",
+    "options": ["Banishment", "Imprisonment", "Death", "Confiscation of property"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 2:12-13",
+    "verseText": "Because of this the king was angry and very furious, and commanded that all the wise men of Babylon be destroyed. So the decree went out, and the wise men were about to be killed; and they sought Daniel and his companions, to kill them."
+  },
+  {
+    "text": "According to Daniel's interpretation, what did the different materials of the statue in Nebuchadnezzar's dream represent?",
+    "options": ["Different gods", "Different types of wealth", "A succession of world empires", "Different stages of Nebuchadnezzar's life"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 2:37-43",
+    "verseText": "“You, O king, the king of kings... you are the head of gold. Another kingdom inferior to you shall arise after you, and yet a third kingdom of bronze... And there shall be a fourth kingdom, strong as iron... And as you saw the feet and toes, partly of potter's clay and partly of iron, it shall be a divided kingdom..."
+  },
+  {
+    "text": "What did the stone 'cut out by no human hand' that destroyed the statue represent?",
+    "options": ["A natural disaster", "A rival king", "God's eternal kingdom", "An asteroid"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Hard",
+    "verseReference": "Daniel 2:44-45",
+    "verseText": "And in the days of those kings the God of heaven will set up a kingdom that shall never be destroyed... It shall break in pieces all these kingdoms and bring them to an end, and it shall stand forever... A great God has made known to the king what shall be after this."
+  },
+  {
+    "text": "What punishment did Nebuchadnezzar experience after boasting about his kingdom, as foretold in his second dream?",
+    "options": ["He was overthrown", "He lost his wealth", "He was driven away from people and lived like an animal", "He became blind"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 4:31-33",
+    "verseText": "While the words were still in the king's mouth, there fell a voice from heaven... ‘the kingdom has departed from you, and you shall be driven from among men, and your dwelling shall be with the beasts of the field. And you shall be made to eat grass like an ox...’ Immediately the word was fulfilled against Nebuchadnezzar. He was driven from among men and ate grass like an ox..."
+  },
+  {
+    "text": "What sacred items did Belshazzar and his guests use improperly during the feast?",
+    "options": ["Royal crowns", "Temple garments", "Golden and silver vessels taken from the Jerusalem temple", "Sacred scrolls"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 5:2-4",
+    "verseText": "Belshazzar, when he tasted the wine, commanded that the vessels of gold and of silver that Nebuchadnezzar his father had taken out of the temple in Jerusalem be brought... Then they brought in the golden vessels... and the king and his lords, his wives, and his concubines drank from them. They drank wine and praised the gods of gold and silver, bronze, iron, wood, and stone."
+  },
+  {
+    "text": "Who conquered Babylon on the same night Belshazzar saw the writing on the wall?",
+    "options": ["The Egyptians", "The Greeks", "The Medes and Persians", "The Assyrians"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 5:30-31",
+    "verseText": "That very night Belshazzar the Chaldean king was killed. And Darius the Mede received the kingdom, being about sixty-two years old."
+  },
+  {
+    "text": "How many high officials and satraps did King Darius appoint over his kingdom?",
+    "options": ["Ten officials and fifty satraps", "One official and ten satraps", "Three high officials and one hundred twenty satraps", "Twelve officials and seventy satraps"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Hard",
+    "verseReference": "Daniel 6:1-2",
+    "verseText": "It pleased Darius to set over the kingdom 120 satraps, to be throughout the whole kingdom; and over them three high officials, of whom Daniel was one, to whom these satraps should give account, so that the king might suffer no loss."
+  },
+  {
+    "text": "What was the reaction of King Darius when he learned Daniel had been accused under the new decree?",
+    "options": ["He was pleased", "He was indifferent", "He was greatly distressed", "He immediately pardoned Daniel"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Easy",
+    "verseReference": "Daniel 6:14",
+    "verseText": "Then the king, when he heard these words, was much distressed and set his mind to deliver Daniel. And he labored till the going down of the sun to rescue him."
+  },
+  {
+    "text": "What happened to the men who accused Daniel after Daniel was found safe?",
+    "options": ["They were promoted", "They were banished", "They and their families were thrown into the lions' den", "They were forgiven"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 6:24",
+    "verseText": "And the king commanded, and those men who had maliciously accused Daniel were brought and cast into the den of lions—they, their children, and their wives. And before they reached the bottom of the den, the lions overpowered them and broke all their bones in pieces."
+  },
+  {
+    "text": "In Daniel's vision in chapter 7, what did the four great beasts coming out of the sea represent?",
+    "options": ["Mythological creatures", "Guardians of Babylon", "Four kingdoms or kings", "Constellations"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 7:17",
+    "verseText": "‘These four great beasts are four kings who shall arise out of the earth.’"
+  },
+  {
+    "text": "Which figure appeared before the 'Ancient of Days' in Daniel's vision and was given everlasting dominion?",
+    "options": ["One of the beasts", "An angel", "One 'like a son of man'", "King Darius"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 7:13-14",
+    "verseText": "“I saw in the night visions, and behold, with the clouds of heaven there came one like a son of man, and he came to the Ancient of Days and was presented before him. And to him was given dominion and glory and a kingdom, that all peoples, nations, and languages should serve him; his dominion is an everlasting dominion, which shall not pass away..."
+  },
+  {
+    "text": "In Daniel's vision in chapter 8, what did the ram with two horns represent?",
+    "options": ["Babylon and Egypt", "The Medes and Persians", "Greece and Rome", "Israel and Judah"],
+    "correctAnswerIndex": 1,
+    "book": "Daniel",
+    "difficulty": "Hard",
+    "verseReference": "Daniel 8:20",
+    "verseText": "As for the ram that you saw with the two horns, these are the kings of Media and Persia."
+  },
+  {
+    "text": "In Daniel's vision in chapter 8, what did the male goat that defeated the ram represent?",
+    "options": ["The kingdom of Babylon", "The kingdom of Rome", "The kingdom of Greece", "The kingdom of Egypt"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Hard",
+    "verseReference": "Daniel 8:21",
+    "verseText": "And the goat is the king of Greece. And the great horn between his eyes is the first king."
+  },
+  {
+    "text": "What prompted Daniel to pray the prayer recorded in chapter 9?",
+    "options": ["A personal crisis", "A request from the king", "Reading the prophecies of Jeremiah about Jerusalem's desolation", "A vision of angels"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 9:2",
+    "verseText": "in the first year of his reign, I, Daniel, perceived in the books the number of years that, according to the word of the LORD to Jeremiah the prophet, must pass before the end of the desolations of Jerusalem, namely, seventy years."
+  },
+  {
+    "text": "Who delivered the prophecy of the 'seventy weeks' to Daniel?",
+    "options": ["King Darius", "Nebuchadnezzar", "The angel Gabriel", "Michael the archangel"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 9:21",
+    "verseText": "while I was speaking in prayer, the man Gabriel, whom I had seen in the vision at the first, came to me in swift flight at the time of the evening sacrifice."
+  },
+  {
+    "text": "What was Daniel doing for three weeks before receiving the vision described in chapter 10?",
+    "options": ["Celebrating a festival", "Traveling to Jerusalem", "Mourning and fasting", "Serving King Cyrus"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 10:2-3",
+    "verseText": "In those days I, Daniel, was mourning for three weeks. I ate no delicacies, no meat or wine entered my mouth, nor did I anoint myself at all, for the full three weeks."
+  },
+  {
+    "text": "Which angelic or spiritual being was mentioned as contending with the 'prince of Persia'?",
+    "options": ["Gabriel", "Raphael", "Michael", "Uriel"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Hard",
+    "verseReference": "Daniel 10:13, 21",
+    "verseText": "The prince of the kingdom of Persia withstood me twenty-one days, but Michael, one of the chief princes, came to help me... But I will tell you what is inscribed in the book of truth: there is none who contends by my side against these except Michael, your prince."
+  },
+  {
+    "text": "Daniel chapter 11 primarily contains prophecies about conflicts between which two succeeding powers?",
+    "options": ["Babylon and Assyria", "Media and Persia", "The Ptolemaic Kingdom (King of the South) and Seleucid Kingdom (King of the North)", "Rome and Greece"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Hard",
+    "verseReference": "Daniel 11:5-6ff",
+    "verseText": "“Then the king of the south shall be strong, but one of his princes shall be stronger than he and shall rule, and his authority shall be a great authority. After some years they shall make an alliance, and the daughter of the king of the south shall come to the king of the north to make an agreement..." 
+  },
+  {
+    "text": "What event is described in Daniel 12 as a time of trouble 'such as never has been since there was a nation till that time'?",
+    "options": ["The Babylonian exile", "The destruction of the first temple", "The Maccabean revolt", "The great tribulation at the end times"],
+    "correctAnswerIndex": 3,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 12:1",
+    "verseText": "“At that time shall arise Michael, the great prince who has charge of your people. And there shall be a time of trouble, such as never has been since there was a nation till that time. But at that time your people shall be delivered, everyone whose name shall be found written in the book."
+  },
+  {
+    "text": "According to Daniel 12, what will happen to those 'who sleep in the dust of the earth'?",
+    "options": ["They will remain asleep forever", "Some will awake to everlasting life, others to shame", "They will become angels", "They will be forgotten"],
+    "correctAnswerIndex": 1,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 12:2",
+    "verseText": "And many of those who sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt."
+  },
+  {
+    "text": "What instruction was given to Daniel regarding the words of the prophecy at the end of the book?",
+    "options": ["Proclaim them immediately", "Write them on the city gates", "Shut up the words and seal the book until the time of the end", "Burn the scroll after reading"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Easy",
+    "verseReference": "Daniel 12:4",
+    "verseText": "“But you, Daniel, shut up the words and seal the book, until the time of the end. Many shall run to and fro, and knowledge shall increase.”"
+  },
+  {
+    "text": "What quality did the chief of the eunuchs see in Daniel and his friends?",
+    "options": ["Musical talent", "Skill in all literature and wisdom", "Military prowess", "Wealth"],
+    "correctAnswerIndex": 1,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 1:4",
+    "verseText": "youths without blemish, of good appearance and skillful in all wisdom, endowed with knowledge, understanding learning, and competent to stand in the king's palace..."
+  },
+  {
+    "text": "How did Daniel gain favor with the chief of the eunuchs?",
+    "options": ["Through bribery", "Through threats", "God gave Daniel favor and compassion", "Through family connections"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Easy",
+    "verseReference": "Daniel 1:9",
+    "verseText": "And God gave Daniel favor and compassion in the sight of the chief of the eunuchs."
+  },
+  {
+    "text": "What was the result of the ten-day test on Daniel and his friends?",
+    "options": ["They became weak", "They looked healthier and better nourished than the others", "They were punished", "The test was inconclusive"],
+    "correctAnswerIndex": 1,
+    "book": "Daniel",
+    "difficulty": "Easy",
+    "verseReference": "Daniel 1:15",
+    "verseText": "At the end of ten days it was seen that they were better in appearance and fatter in flesh than all the youths who ate the king's food."
+  },
+  {
+    "text": "What specific gift did God give Daniel in addition to wisdom and understanding?",
+    "options": ["The ability to fly", "The ability to interpret visions and dreams", "Superhuman strength", "The power to heal"],
+    "correctAnswerIndex": 1,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 1:17",
+    "verseText": "As for these four youths, God gave them learning and skill in all literature and wisdom, and Daniel had understanding in all visions and dreams."
+  },
+  {
+    "text": "How did Daniel and his friends compare to the other wise men when examined by Nebuchadnezzar?",
+    "options": ["They were average", "They were found lacking", "They were found ten times better", "They refused to be examined"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 1:20",
+    "verseText": "And in every matter of wisdom and understanding about which the king inquired of them, he found them ten times better than all the magicians and enchanters that were in all his kingdom."
+  },
+  {
+    "text": "Who was Arioch?",
+    "options": ["Daniel's brother", "The king's chief musician", "The captain of the king's guard", "A high priest"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 2:14",
+    "verseText": "Then Daniel replied with prudence and discretion to Arioch, the captain of the king's guard, who had gone out to kill the wise men of Babylon."
+  },
+  {
+    "text": "What did Daniel ask Arioch for when he heard about the decree to kill the wise men?",
+    "options": ["To flee the city", "To fight back", "Time to interpret the dream", "To plead for mercy"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Easy",
+    "verseReference": "Daniel 2:16",
+    "verseText": "And Daniel went in and requested the king to appoint him a time, that he might show the interpretation to the king."
+  },
+  {
+    "text": "What did Daniel and his friends do after Daniel requested time from the king?",
+    "options": ["They prepared to escape", "They sought wisdom from other magicians", "They prayed to God for the interpretation", "They studied ancient texts"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Easy",
+    "verseReference": "Daniel 2:17-18",
+    "verseText": "Then Daniel went to his house and made the matter known to Hananiah, Mishael, and Azariah, his companions, and told them to seek mercy from the God of heaven concerning this mystery..."
+  },
+  {
+    "text": "How was the mystery of the king's dream revealed to Daniel?",
+    "options": ["In a book", "Through another wise man", "In a vision of the night", "By the king himself"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Easy",
+    "verseReference": "Daniel 2:19",
+    "verseText": "Then the mystery was revealed to Daniel in a vision of the night. Then Daniel blessed the God of heaven."
+  },
+  {
+    "text": "Who did Daniel credit with the ability to reveal the king's dream?",
+    "options": ["Himself", "His friends", "The God of heaven", "The Babylonian gods"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Easy",
+    "verseReference": "Daniel 2:27-28",
+    "verseText": "Daniel answered the king and said, “No wise men, enchanters, magicians, or astrologers can show to the king the mystery that the king has asked, but there is a God in heaven who reveals mysteries..."
+  },
+  {
+    "text": "What was Nebuchadnezzar's reaction after Daniel interpreted the dream?",
+    "options": ["He dismissed Daniel", "He became angry", "He fell on his face and paid homage to Daniel", "He ordered Daniel's execution"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Easy",
+    "verseReference": "Daniel 2:46",
+    "verseText": "Then King Nebuchadnezzar fell upon his face and paid homage to Daniel, and commanded that an offering and incense be offered up to him."
+  },
+  {
+    "text": "What position did Nebuchadnezzar promote Daniel to after the dream interpretation?",
+    "options": ["Chief baker", "Head musician", "Ruler over the whole province of Babylon and chief prefect over all the wise men", "Captain of the guard"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 2:48",
+    "verseText": "Then the king gave Daniel high honors and many great gifts, and made him ruler over the whole province of Babylon and chief prefect over all the wise men of Babylon."
+  },
+  {
+    "text": "Who did Daniel request be appointed over the affairs of the province of Babylon?",
+    "options": ["His family members", "Arioch", "Shadrach, Meshach, and Abednego", "Other captured Israelites"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Easy",
+    "verseReference": "Daniel 2:49",
+    "verseText": "Daniel made request of the king, and he appointed Shadrach, Meshach, and Abednego over the affairs of the province of Babylon. But Daniel remained at the king's court."
+  },
+  {
+    "text": "Where did Nebuchadnezzar set up the golden image?",
+    "options": ["In his palace", "In Jerusalem", "On the plain of Dura in the province of Babylon", "Near the river Chebar"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Easy",
+    "verseReference": "Daniel 3:1",
+    "verseText": "King Nebuchadnezzar made an image of gold, whose height was sixty cubits and its breadth six cubits. He set it up on the plain of Dura, in the province of Babylon."
+  },
+  {
+    "text": "What signal was given for everyone to worship the golden image?",
+    "options": ["A trumpet blast", "The sound of various musical instruments", "A royal decree read aloud", "The king raising his hand"],
+    "correctAnswerIndex": 1,
+    "book": "Daniel",
+    "difficulty": "Easy",
+    "verseReference": "Daniel 3:4-5",
+    "verseText": "...you are commanded, O peoples, nations, and languages, that when you hear the sound of the horn, pipe, lyre, trigon, harp, bagpipe, and every kind of music, you are to fall down and worship the golden image..."
+  },
+  {
+    "text": "Who reported Shadrach, Meshach, and Abednego to the king for not worshipping the image?",
+    "options": ["Daniel", "Other officials", "Some Chaldeans", "The king's guards"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 3:8",
+    "verseText": "Therefore at that time certain Chaldeans came forward and maliciously accused the Jews."
+  },
+  {
+    "text": "What was the response of Shadrach, Meshach, and Abednego when given a second chance to worship the image?",
+    "options": ["They apologized and worshipped", "They asked for more time", "They refused, trusting God to deliver them", "They tried to flee"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Easy",
+    "verseReference": "Daniel 3:16-18",
+    "verseText": "Shadrach, Meshach, and Abednego answered and said to the king, “O Nebuchadnezzar, we have no need to answer you in this matter. If this be so, our God whom we serve is able to deliver us... But if not, be it known to you, O king, that we will not serve your gods or worship the golden image that you have set up.”"
+  },
+  {
+    "text": "How much hotter was the furnace heated for Shadrach, Meshach, and Abednego?",
+    "options": ["Twice as hot", "Three times as hot", "Seven times more than usual", "Ten times as hot"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Easy",
+    "verseReference": "Daniel 3:19",
+    "verseText": "He ordered the furnace heated seven times more than it was usually heated."
+  },
+  {
+    "text": "What happened to the soldiers who threw the three men into the furnace?",
+    "options": ["They were promoted", "They were killed by the heat of the fire", "They joined the men in the furnace", "They ran away"],
+    "correctAnswerIndex": 1,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 3:22",
+    "verseText": "Because the king's order was urgent and the furnace overheated, the flame of the fire killed those men who took up Shadrach, Meshach, and Abednego."
+  },
+  {
+    "text": "What did Nebuchadnezzar decree after the deliverance from the fiery furnace?",
+    "options": ["That everyone must worship the God of Shadrach, Meshach, and Abednego", "That no one should speak against their God", "That the three men be executed later", "That the furnace be destroyed"],
+    "correctAnswerIndex": 1,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 3:29",
+    "verseText": "Therefore I make a decree: Any people, nation, or language that speaks anything against the God of Shadrach, Meshach, and Abednego shall be torn limb from limb... for there is no other god who is able to rescue in this way.”"
+  },
+  {
+    "text": "What was the subject of Nebuchadnezzar's second dream described in Daniel 4?",
+    "options": ["A statue", "Four beasts", "A great tree", "A flood"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Easy",
+    "verseReference": "Daniel 4:10-12",
+    "verseText": "I saw, and behold, a tree in the midst of the earth, and its height was great. The tree grew and became strong, and its top reached to heaven..."
+  },
+  {
+    "text": "In Nebuchadnezzar's dream of the tree, who called for the tree to be cut down?",
+    "options": ["Daniel", "A rival king", "A watcher, a holy one", "Nebuchadnezzar himself"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 4:13-14",
+    "verseText": "I saw in the visions of my head as I lay in bed, and behold, a watcher, a holy one, came down from heaven. He proclaimed aloud and said thus: ‘Chop down the tree and lop off its branches...’"
+  },
+  {
+    "text": "According to Daniel's interpretation, who did the great tree represent?",
+    "options": ["Babylon", "Daniel", "King Nebuchadnezzar", "A future king"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Easy",
+    "verseReference": "Daniel 4:20-22",
+    "verseText": "The tree you saw... it is you, O king, who have grown and become strong. Your greatness has grown and reaches to heaven..."
+  },
+  {
+    "text": "What advice did Daniel give Nebuchadnezzar after interpreting the dream of the tree?",
+    "options": ["To build a larger palace", "To conquer more nations", "To break off his sins by practicing righteousness and showing mercy", "To abdicate the throne"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 4:27",
+    "verseText": "Therefore, O king, let my counsel be acceptable to you: break off your sins by practicing righteousness, and your iniquities by showing mercy to the oppressed, that there may perhaps be a lengthening of your prosperity.”"
+  },
+  {
+    "text": "How long after the dream interpretation did the judgment fall upon Nebuchadnezzar?",
+    "options": ["Immediately", "One month", "Twelve months", "Seven years"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 4:28-29",
+    "verseText": "All this came upon King Nebuchadnezzar. At the end of twelve months he was walking on the roof of the royal palace of Babylon..."
+  },
+  {
+    "text": "For how long did Nebuchadnezzar live like an animal?",
+    "options": ["One year", "Three years", "Seven periods of time (likely years)", "Ten years"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 4:32",
+    "verseText": "...and seven periods of time shall pass over you, until you know that the Most High rules the kingdom of men and gives it to whom he will.”"
+  },
+  {
+    "text": "What did Nebuchadnezzar do when his reason returned to him?",
+    "options": ["He cursed God", "He blamed Daniel", "He blessed and praised the Most High God", "He sought revenge"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Easy",
+    "verseReference": "Daniel 4:34",
+    "verseText": "At the end of the days I, Nebuchadnezzar, lifted my eyes to heaven, and my reason returned to me, and I blessed the Most High, and praised and honored him who lives forever..."
+  },
+  {
+    "text": "Who was Belshazzar's father (or predecessor) mentioned in Daniel 5?",
+    "options": ["Darius", "Cyrus", "Nebuchadnezzar", "Nabonidus"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 5:2, 11, 18",
+    "verseText": "Belshazzar... commanded that the vessels of gold and of silver that Nebuchadnezzar his father had taken out of the temple... There is a man in your kingdom in whom is the spirit of the holy gods. In the days of your father... O king, the Most High God gave Nebuchadnezzar your father kingship..."
+  },
+  {
+    "text": "Who suggested calling Daniel to interpret the writing on the wall?",
+    "options": ["Belshazzar's advisors", "One of the concubines", "The queen (likely the queen mother)", "Daniel himself"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 5:10-12",
+    "verseText": "The queen, because of the words of the king and his lords, came into the banqueting hall, and the queen declared, “O king, live forever!... Let Daniel be called, and he will show the interpretation.”"
+  },
+  {
+    "text": "What reward did Belshazzar promise for interpreting the writing?",
+    "options": ["Half the kingdom", "Gold and silver", "To be clothed in purple, have a chain of gold, and be third ruler in the kingdom", "Freedom for the Israelites"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Easy",
+    "verseReference": "Daniel 5:16",
+    "verseText": "But I have heard that you can give interpretations and solve problems. Now if you can read the writing and make known to me its interpretation, you shall be clothed with purple and have a chain of gold around your neck and shall be the third ruler in the kingdom.”"
+  },
+  {
+    "text": "What was Daniel's response to Belshazzar's offered rewards?",
+    "options": ["He eagerly accepted", "He demanded more", "He said 'Let your gifts be for yourself'", "He asked for the reward to be given to his friends"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Easy",
+    "verseReference": "Daniel 5:17",
+    "verseText": "Then Daniel answered and said before the king, “Let your gifts be for yourself, and give your rewards to another. Nevertheless, I will read the writing to the king and make known to him the interpretation.”"
+  },
+  {
+    "text": "What sin did Daniel specifically point out in Belshazzar before interpreting the writing?",
+    "options": ["Idolatry", "Drunkenness", "Pride and failure to humble himself despite knowing Nebuchadnezzar's experience", "Mistreating the poor"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 5:22-23",
+    "verseText": "And you his son, Belshazzar, have not humbled your heart, though you knew all this, but you have lifted up yourself against the Lord of heaven..."
+  },
+  {
+    "text": "What does 'Tekel' mean in the writing on the wall?",
+    "options": ["Numbered", "Weighed", "Divided", "Finished"],
+    "correctAnswerIndex": 1,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 5:27",
+    "verseText": "TEKEL, you have been weighed in the balances and found wanting;"
+  },
+  {
+    "text": "Who received the kingdom after Belshazzar was killed?",
+    "options": ["Cyrus the Persian", "Daniel", "Darius the Mede", "Alexander the Great"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Easy",
+    "verseReference": "Daniel 5:30-31",
+    "verseText": "That very night Belshazzar the Chaldean king was killed. And Darius the Mede received the kingdom..."
+  },
+  {
+    "text": "Why did the other officials seek to find fault with Daniel during Darius's reign?",
+    "options": ["He was corrupt", "They were jealous of his position and favor with the king", "He was plotting against the king", "He refused to work"],
+    "correctAnswerIndex": 1,
+    "book": "Daniel",
+    "difficulty": "Easy",
+    "verseReference": "Daniel 6:3-4",
+    "verseText": "Then this Daniel became distinguished above all the other high officials and satraps, because an excellent spirit was in him. And the king planned to set him over the whole kingdom. Then the high officials and the satraps sought to find a ground for complaint against Daniel..."
+  },
+  {
+    "text": "What was the one area where the officials thought they could trap Daniel?",
+    "options": ["His finances", "His loyalty to the king", "The law of his God", "His family life"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Easy",
+    "verseReference": "Daniel 6:5",
+    "verseText": "Then these men said, “We shall not find any ground for complaint against this Daniel unless we find it in connection with the law of his God.”"
+  },
+  {
+    "text": "What decree did the officials persuade King Darius to sign?",
+    "options": ["To increase taxes", "To build a new temple", "That anyone praying to any god or man other than the king for 30 days would be thrown into the lions' den", "To release all prisoners"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Easy",
+    "verseReference": "Daniel 6:7",
+    "verseText": "...establish an ordinance and enforce an injunction, that whoever makes petition to any god or man for thirty days, except to you, O king, shall be cast into the den of lions."
+  },
+  {
+    "text": "How often did Daniel pray each day?",
+    "options": ["Once", "Twice", "Three times", "Continuously"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Easy",
+    "verseReference": "Daniel 6:10",
+    "verseText": "He got down on his knees three times a day and prayed and gave thanks before his God, as he had done previously."
+  },
+  {
+    "text": "Why couldn't King Darius simply revoke the decree to save Daniel?",
+    "options": ["He didn't want to", "The officials threatened him", "According to the law of the Medes and Persians, an injunction signed by the king could not be changed", "He forgot he signed it"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 6:15",
+    "verseText": "Then these men came thronging to the king and said to the king, “Know, O king, that it is a law of the Medes and Persians that no injunction or ordinance that the king establishes can be changed.”"
+  },
+  {
+    "text": "What did King Darius say to Daniel as he was being thrown into the lions' den?",
+    "options": ["'You deserve this'", "'May your God, whom you serve continually, deliver you!'", "'I will avenge you'", "'Pray for me'"],
+    "correctAnswerIndex": 1,
+    "book": "Daniel",
+    "difficulty": "Easy",
+    "verseReference": "Daniel 6:16",
+    "verseText": "Then the king commanded, and they brought Daniel and cast him into the den of lions. The king declared to Daniel, “May your God, whom you serve continually, deliver you!”"
+  },
+  {
+    "text": "How did King Darius spend the night while Daniel was in the lions' den?",
+    "options": ["Feasting", "Sleeping soundly", "Fasting and sleepless", "Plotting revenge"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Easy",
+    "verseReference": "Daniel 6:18",
+    "verseText": "Then the king went to his palace and spent the night fasting; no diversions were brought to him, and sleep fled from him."
+  },
+  {
+    "text": "What did King Darius do first thing in the morning?",
+    "options": ["Ate breakfast", "Held court", "Went in haste to the lions' den", "Signed new decrees"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Easy",
+    "verseReference": "Daniel 6:19",
+    "verseText": "Then, at break of day, the king arose and went in haste to the den of lions."
+  },
+  {
+    "text": "What decree did Darius make after Daniel's deliverance?",
+    "options": ["To worship Daniel", "That all people should tremble and fear before the God of Daniel", "To kill all lions", "To reward the officials"],
+    "correctAnswerIndex": 1,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 6:26",
+    "verseText": "I make a decree, that in all my royal dominion people are to tremble and fear before the God of Daniel, for he is the living God, enduring forever..."
+  },
+  {
+    "text": "Describe the first beast in Daniel's vision in chapter 7.",
+    "options": ["A bear with ribs in its mouth", "A leopard with four wings and four heads", "A lion with eagle's wings", "A terrifying beast with iron teeth"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 7:4",
+    "verseText": "The first was like a lion and had eagle's wings. Then as I looked its wings were plucked off, and it was lifted up from the ground and made to stand on two feet like a man, and the mind of a man was given to it."
+  },
+  {
+    "text": "Describe the second beast in Daniel's vision in chapter 7.",
+    "options": ["A lion with eagle's wings", "A leopard with four wings and four heads", "A bear, raised up on one side, with three ribs in its mouth", "A terrifying beast with iron teeth"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 7:5",
+    "verseText": "And behold, another beast, a second one, like a bear. It was raised up on one side. It had three ribs in its mouth between its teeth; and it was told, ‘Arise, devour much flesh.’"
+  },
+  {
+    "text": "Describe the third beast in Daniel's vision in chapter 7.",
+    "options": ["A lion with eagle's wings", "A bear with ribs in its mouth", "A leopard with four wings of a bird on its back and four heads", "A terrifying beast with iron teeth"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 7:6",
+    "verseText": "After this I looked, and behold, another, like a leopard, with four wings of a bird on its back. And the beast had four heads, and dominion was given to it."
+  },
+  {
+    "text": "Describe the fourth beast in Daniel's vision in chapter 7.",
+    "options": ["A lion with eagle's wings", "A bear with ribs in its mouth", "A leopard with four wings and four heads", "Terrifying, dreadful, strong, with iron teeth and ten horns"],
+    "correctAnswerIndex": 3,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 7:7",
+    "verseText": "After this I saw in the night visions, and behold, a fourth beast, terrifying and dreadful and exceedingly strong. It had great iron teeth; it devoured and broke in pieces and stamped what was left with its feet. It was different from all the beasts that were before it, and it had ten horns."
+  },
+  {
+    "text": "What arose among the ten horns on the fourth beast?",
+    "options": ["A crown", "Another large horn", "A little horn with eyes and a mouth speaking great things", "A tree"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Hard",
+    "verseReference": "Daniel 7:8",
+    "verseText": "I considered the horns, and behold, there came up among them another horn, a little one, before which three of the first horns were plucked up by the roots. And behold, in this horn were eyes like the eyes of a man, and a mouth speaking great things."
+  },
+  {
+    "text": "Describe the appearance of the 'Ancient of Days' in Daniel's vision.",
+    "options": ["Clothed in darkness", "Young and strong", "Clothing white as snow, hair like pure wool, throne like fiery flames", "Covered in gold"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 7:9",
+    "verseText": "As I looked, thrones were placed, and the Ancient of Days took his seat; his clothing was white as snow, and the hair of his head like pure wool; his throne was fiery flames; its wheels were burning fire."
+  },
+  {
+    "text": "What happens to the fourth beast in Daniel's vision?",
+    "options": ["It rules forever", "It is killed and its body destroyed by fire", "It makes peace with the 'son of man'", "It transforms into an angel"],
+    "correctAnswerIndex": 1,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 7:11",
+    "verseText": "I looked then because of the sound of the great words that the horn was speaking. And as I looked, the beast was killed, and its body destroyed and given over to be burned with fire."
+  },
+  {
+    "text": "Who interprets the vision of the four beasts for Daniel?",
+    "options": ["The Ancient of Days", "One of those standing near the throne", "Michael the archangel", "Daniel figures it out himself"],
+    "correctAnswerIndex": 1,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 7:15-16",
+    "verseText": "“As for me, Daniel, my spirit within me was anxious, and the visions of my head alarmed me. I approached one of those who stood there and asked him the truth concerning all this. So he told me and made known to me the interpretation of the things."
+  },
+  {
+    "text": "According to the interpretation, who will receive the kingdom after the beasts?",
+    "options": ["The little horn", "The Medes and Persians", "The saints of the Most High", "No one"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 7:18, 27",
+    "verseText": "But the saints of the Most High shall receive the kingdom and possess the kingdom forever, forever and ever... and the kingdom and the dominion and the greatness of the kingdoms under the whole heaven shall be given to the people of the saints of the Most High..."
+  },
+  {
+    "text": "What will the 'little horn' do according to the interpretation in Daniel 7?",
+    "options": ["Bring peace", "Speak against the Most High, wear out the saints, and try to change times and laws", "Build a temple", "Heal the sick"],
+    "correctAnswerIndex": 1,
+    "book": "Daniel",
+    "difficulty": "Hard",
+    "verseReference": "Daniel 7:25",
+    "verseText": "He shall speak words against the Most High, and shall wear out the saints of the Most High, and shall think to change the times and the law; and they shall be given into his hand for a time, times, and half a time."
+  },
+  {
+    "text": "Where was Daniel when he saw the vision of the ram and the goat in chapter 8?",
+    "options": ["In Babylon", "In Jerusalem", "By the Ulai canal in Susa", "In the lions' den"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 8:2",
+    "verseText": "And I saw in the vision; and when I saw, I was in Susa the citadel, which is in the province of Elam. And I saw in the vision, and I was by the Ulai canal."
+  },
+  {
+    "text": "What happened to the great horn on the goat (representing the first king of Greece)?",
+    "options": ["It grew larger", "It was broken", "It turned into gold", "It attacked the ram"],
+    "correctAnswerIndex": 1,
+    "book": "Daniel",
+    "difficulty": "Hard",
+    "verseReference": "Daniel 8:8, 22",
+    "verseText": "Then the goat became exceedingly great, but when he was strong, the great horn was broken... As for the horn that was broken, in place of which four others arose, four kingdoms shall arise from his nation, but not with his power."
+  },
+  {
+    "text": "What arose from one of the four horns that replaced the great horn on the goat?",
+    "options": ["A peaceful ruler", "A star", "A little horn that grew toward the south, east, and the glorious land", "A river"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Hard",
+    "verseReference": "Daniel 8:9",
+    "verseText": "Out of one of them came a little horn, which grew exceedingly great toward the south, toward the east, and toward the glorious land."
+  },
+  {
+    "text": "What actions did the 'little horn' of Daniel 8 take against the 'host of heaven' and the sanctuary?",
+    "options": ["It worshipped them", "It magnified itself, threw down stars, took away the regular burnt offering, and overthrew the sanctuary", "It rebuilt the sanctuary", "It ignored them"],
+    "correctAnswerIndex": 1,
+    "book": "Daniel",
+    "difficulty": "Hard",
+    "verseReference": "Daniel 8:10-12",
+    "verseText": "It grew great, even to the host of heaven. And some of the host and some of the stars it threw down to the ground and trampled on them. It magnified itself, even up to the Prince of the host. And the regular burnt offering was taken away from him, and the place of his sanctuary was overthrown."
+  },
+  {
+    "text": "Who interpreted the vision of the ram and the goat for Daniel?",
+    "options": ["Michael", "Gabriel", "A holy one", "Daniel understood it himself"],
+    "correctAnswerIndex": 1,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 8:15-16",
+    "verseText": "...behold, there stood before me one having the appearance of a man. And I heard a man's voice between the banks of the Ulai, and it called, “Gabriel, make this man understand the vision.”"
+  },
+  {
+    "text": "What period of time does the vision of the ram and goat pertain to?",
+    "options": ["The time of Babylon", "The time of the end", "The distant past", "Daniel's own lifetime"],
+    "correctAnswerIndex": 1,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 8:17, 19",
+    "verseText": "...“Understand, O son of man, that the vision is for the time of the end.” ...He said, “Behold, I will make known to you what shall be at the latter end of the indignation, for it refers to the appointed time of the end."
+  },
+  {
+    "text": "How did Daniel react physically after seeing the vision in chapter 8?",
+    "options": ["He rejoiced", "He was overcome and sick for some days", "He immediately wrote it down", "He told the king"],
+    "correctAnswerIndex": 1,
+    "book": "Daniel",
+    "difficulty": "Easy",
+    "verseReference": "Daniel 8:27",
+    "verseText": "And I, Daniel, was overcome and lay sick for some days. Then I rose and went about the king's business, but I was appalled by the vision and did not understand it."
+  },
+  {
+    "text": "What posture did Daniel adopt when praying his prayer of confession in chapter 9?",
+    "options": ["Standing with arms raised", "Sitting comfortably", "Fasting, in sackcloth and ashes", "Walking by the river"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Easy",
+    "verseReference": "Daniel 9:3",
+    "verseText": "Then I turned my face to the Lord God, seeking him by prayer and pleas for mercy with fasting and sackcloth and ashes."
+  },
+  {
+    "text": "On whose behalf did Daniel confess sin in chapter 9?",
+    "options": ["Only his own sin", "Only the sins of the kings", "His own sin and the sin of his people Israel", "The sins of the Babylonians"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Easy",
+    "verseReference": "Daniel 9:20",
+    "verseText": "While I was speaking and praying, confessing my sin and the sin of my people Israel, and presenting my plea before the LORD my God for the holy hill of my God,"
+  },
+  {
+    "text": "According to Gabriel's prophecy in Daniel 9, what would be accomplished during the 'seventy weeks'?",
+    "options": ["Building a new palace", "Conquering Egypt", "Finishing transgression, putting an end to sin, atoning for iniquity, bringing everlasting righteousness", "Establishing a new priesthood"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Hard",
+    "verseReference": "Daniel 9:24",
+    "verseText": "“Seventy weeks are decreed for your people and your holy city, to finish the transgression, to put an end to sin, and to atone for iniquity, to bring in everlasting righteousness, to seal both vision and prophet, and to anoint a most holy place.”"
+  },
+  {
+    "text": "According to Daniel 9, what event marks the beginning of the 'seventy weeks'?",
+    "options": ["The destruction of the temple", "Daniel's prayer", "The going out of the word to restore and build Jerusalem", "The birth of the Messiah"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Hard",
+    "verseReference": "Daniel 9:25",
+    "verseText": "Know therefore and understand that from the going out of the word to restore and build Jerusalem to the coming of an anointed one, a prince, there shall be seven weeks and sixty-two weeks..."
+  },
+  {
+    "text": "What happens after the 'sixty-two weeks' according to Daniel 9?",
+    "options": ["The temple is completed", "An anointed one shall be cut off and have nothing", "A time of great peace begins", "Daniel becomes king"],
+    "correctAnswerIndex": 1,
+    "book": "Daniel",
+    "difficulty": "Hard",
+    "verseReference": "Daniel 9:26",
+    "verseText": "And after the sixty-two weeks, an anointed one shall be cut off and shall have nothing. And the people of the prince who is to come shall destroy the city and the sanctuary."
+  },
+  {
+    "text": "Who is the 'man clothed in linen' seen by Daniel in the vision by the Tigris river in chapter 10?",
+    "options": ["King Cyrus", "Gabriel", "A pre-incarnate appearance of Christ or a glorious angel", "Michael"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Hard",
+    "verseReference": "Daniel 10:5-6",
+    "verseText": "I lifted up my eyes and looked, and behold, a man clothed in linen, with a belt of fine gold from Uphaz around his waist. His body was like beryl, his face like the appearance of lightning, his eyes like flaming torches, his arms and legs like the gleam of burnished bronze, and the sound of his words like the sound of a multitude."
+  },
+  {
+    "text": "Why was the angelic messenger delayed in coming to Daniel in chapter 10?",
+    "options": ["He got lost", "He was waiting for Daniel to finish fasting", "The spiritual 'prince of the kingdom of Persia' withstood him", "He was delivering another message first"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 10:12-13",
+    "verseText": "...from the first day that you set your heart to understand and humbled yourself before your God, your words have been heard, and I have come because of your words. The prince of the kingdom of Persia withstood me twenty-one days..."
+  },
+  {
+    "text": "What effect did the vision in chapter 10 have on Daniel physically?",
+    "options": ["He felt energized", "He felt no change", "His strength left him, he fell into a deep sleep, and was later left breathless and weak", "He became blind"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 10:8-9, 17",
+    "verseText": "So I was left alone and saw this great vision, and no strength was left in me. My radiant appearance was fearfully changed, and I retained no strength... For how can this servant of my lord talk with my lord? For now no strength remains in me, and no breath is left in me.”"
+  },
+  {
+    "text": "Who is referred to as 'Michael, your prince' or 'the great prince who has charge of your people'?",
+    "options": ["A Persian king", "The angel Gabriel", "The archangel Michael, protector of Israel", "Daniel himself"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 10:21, 12:1",
+    "verseText": "...there is none who contends by my side against these except Michael, your prince... “At that time shall arise Michael, the great prince who has charge of your people."
+  },
+  {
+    "text": "Daniel 11 speaks of a future king who will 'exalt himself and magnify himself above every god'. Who is this often interpreted to be?",
+    "options": ["Nebuchadnezzar", "Cyrus", "Antiochus IV Epiphanes or a future Antichrist figure", "Alexander the Great"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Hard",
+    "verseReference": "Daniel 11:36",
+    "verseText": "“And the king shall do as he wills. He shall exalt himself and magnify himself above every god, and shall speak astonishing things against the God of gods. He shall prosper till the indignation is accomplished; for what is decreed shall be done."
+  },
+  {
+    "text": "According to Daniel 12, who are the 'wise' who shall shine like the brightness of the sky?",
+    "options": ["Those with high IQs", "Those who understand the prophecies", "Those who lead many to righteousness", "The kings and rulers"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Medium",
+    "verseReference": "Daniel 12:3",
+    "verseText": "And those who are wise shall shine like the brightness of the sky above; and those who turn many to righteousness, like the stars forever and ever."
+  },
+  {
+    "text": "What are the two specific time periods mentioned at the end of Daniel 12 after the 'time, times, and half a time'?",
+    "options": ["1000 days and 1100 days", "1260 days and 1300 days", "1290 days and 1335 days", "7 years and 10 years"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Hard",
+    "verseReference": "Daniel 12:11-12",
+    "verseText": "And from the time that the regular burnt offering is taken away and the abomination that makes desolate is set up, there shall be 1,290 days. Blessed is he who waits and arrives at the 1,335 days."
+  },
+  {
+    "text": "What final instruction and promise is given to Daniel at the very end of the book?",
+    "options": ["To lead an army", "To become king", "To go his way till the end, rest, and stand in his allotted place at the end of days", "To interpret one last dream"],
+    "correctAnswerIndex": 2,
+    "book": "Daniel",
+    "difficulty": "Easy",
+    "verseReference": "Daniel 12:13",
+    "verseText": "“But go your way till the end. And you shall rest and shall stand in your allotted place at the end of the days.”"
   }
 ]

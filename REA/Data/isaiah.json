@@ -88,5 +88,1067 @@
     "difficulty": "Easy",
     "verseReference": "Isaiah 55:1",
     "verseText": "“Come, everyone who thirsts, come to the waters; and he who has no money, come, buy and eat! Come, buy wine and milk without money and without price."
+  },
+  {
+    "text": "How did Isaiah respond immediately after seeing the Lord's holiness in the Temple?",
+    "options": ["He rejoiced loudly", "He fled in terror", "He cried out, 'Woe is me! For I am lost!'", "He offered a sacrifice"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 6:5",
+    "verseText": "And I said: “Woe is me! For I am lost; for I am a man of unclean lips, and I dwell in the midst of a people of unclean lips; for my eyes have seen the King, the LORD of hosts!”"
+  },
+  {
+    "text": "What did the seraph use to touch Isaiah's lips and take away his guilt?",
+    "options": ["Holy water", "A burning coal from the altar", "An olive branch", "A scroll"],
+    "correctAnswerIndex": 1,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 6:6-7",
+    "verseText": "Then one of the seraphim flew to me, having in his hand a burning coal that he had taken with tongs from the altar. And he touched my mouth and said: “Behold, this has touched your lips; your guilt is taken away, and your sin atoned for.”"
+  },
+  {
+    "text": "What mission did God give Isaiah after cleansing him, knowing the people would not understand?",
+    "options": ["To lead Israel in battle", "To rebuild the Temple walls", "To preach until the cities lie waste", "To negotiate peace with Assyria"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Hard",
+    "verseReference": "Isaiah 6:9-11",
+    "verseText": "And he said, “Go, and say to this people: ‘Keep on hearing, but do not understand; keep on seeing, but do not perceive.’ ... Then I said, “How long, O Lord?” And he said: “Until cities lie waste without inhabitant, and houses without people, and the land is utterly desolate,"
+  },
+  {
+    "text": "Isaiah 11 describes a future time of peace. Which pair of animals is mentioned as living peacefully together?",
+    "options": ["The lion and the eagle", "The wolf and the lamb", "The bear and the fish", "The serpent and the dove"],
+    "correctAnswerIndex": 1,
+    "book": "Isaiah",
+    "difficulty": "Easy",
+    "verseReference": "Isaiah 11:6",
+    "verseText": "The wolf shall dwell with the lamb, and the leopard shall lie down with the young goat, and the calf and the lion and the fattened calf together; and a little child shall lead them."
+  },
+  {
+    "text": "Which foreign king does Isaiah name specifically as the LORD's 'anointed' to subdue nations and rebuild Jerusalem?",
+    "options": ["Nebuchadnezzar of Babylon", "Sennacherib of Assyria", "Pharaoh Neco of Egypt", "Cyrus the Persian"],
+    "correctAnswerIndex": 3,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 45:1, 13",
+    "verseText": "Thus says the LORD to his anointed, to Cyrus, whose right hand I have grasped, to subdue nations before him... I have stirred him up in righteousness, and I will make all his ways level; he shall build my city and set my exiles free, not for price or reward,” says the LORD of hosts."
+  },
+  {
+    "text": "In Isaiah 52, how are the feet of him who brings good news described?",
+    "options": ["Swift and strong", "Covered in dust", "Beautiful upon the mountains", "Wounded and weary"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Easy",
+    "verseReference": "Isaiah 52:7",
+    "verseText": "How beautiful upon the mountains are the feet of him who brings good news, who publishes peace, who brings good news of happiness, who publishes salvation, who says to Zion, “Your God reigns.”"
+  },
+  {
+    "text": "According to Isaiah 53, how was the suffering servant viewed by others?",
+    "options": ["As a great king", "As a powerful warrior", "Despised and rejected by men", "As a wise philosopher"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Easy",
+    "verseReference": "Isaiah 53:3",
+    "verseText": "He was despised and rejected by men, a man of sorrows and acquainted with grief; and as one from whom men hide their faces he was despised, and we esteemed him not."
+  },
+  {
+    "text": "What comparison does Isaiah 55 use to illustrate that God's ways and thoughts are higher than human ways and thoughts?",
+    "options": ["Mountains to valleys", "Oceans to rivers", "Heavens to the earth", "Sun to the moon"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Easy",
+    "verseReference": "Isaiah 55:8-9",
+    "verseText": "For my thoughts are not your thoughts, neither are your ways my ways, declares the LORD. For as the heavens are higher than the earth, so are my ways higher than your ways and my thoughts than your thoughts."
+  },
+  {
+    "text": "What does Isaiah prophesy will happen to swords and spears in the future era of peace?",
+    "options": ["They will be stored in museums", "They will be beaten into plowshares and pruning hooks", "They will be used only for hunting", "They will rust away"],
+    "correctAnswerIndex": 1,
+    "book": "Isaiah",
+    "difficulty": "Easy",
+    "verseReference": "Isaiah 2:4",
+    "verseText": "He shall judge between the nations, and shall decide disputes for many peoples; and they shall beat their swords into plowshares, and their spears into pruning hooks; nation shall not lift up sword against nation, neither shall they learn war anymore."
+  },
+  {
+    "text": "What does the LORD compare Israel to in the Parable of the Vineyard in Isaiah 5?",
+    "options": ["A fruitful vine that produced good grapes", "A wild vine that took over the land", "A choice vine that yielded wild grapes", "A vine that withered from lack of water"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 5:1-2, 7",
+    "verseText": "Let me sing for my beloved my love song concerning his vineyard: My beloved had a vineyard on a very fertile hill. He dug it and cleared it of stones, and planted it with choice vines... and he looked for it to yield grapes, but it yielded wild grapes... For the vineyard of the LORD of hosts is the house of Israel..."
+  },
+  {
+    "text": "During the siege of Jerusalem by Sennacherib, what did King Hezekiah do after receiving the threatening letter?",
+    "options": ["He surrendered immediately", "He fled the city", "He spread the letter before the LORD in the Temple and prayed", "He sent assassins against Sennacherib"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 37:14-15",
+    "verseText": "Hezekiah received the letter from the hand of the messengers and read it; and Hezekiah went up to the house of the LORD and spread it before the LORD. And Hezekiah prayed to the LORD..."
+  },
+  {
+    "text": "How did God deliver Jerusalem from Sennacherib's Assyrian army according to Isaiah 37?",
+    "options": ["A great storm destroyed the army", "The army turned back due to a rumor", "An angel of the LORD struck down 185,000 soldiers", "Hezekiah's forces won a surprise victory"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 37:36",
+    "verseText": "And the angel of the LORD went out and struck down 185,000 in the camp of the Assyrians. And when people arose early in the morning, behold, these were all dead bodies."
+  },
+  {
+    "text": "What foolish thing did King Hezekiah do when envoys from Babylon visited him after his illness?",
+    "options": ["He insulted them", "He refused to see them", "He showed them all the treasures of his kingdom", "He tried to form a military alliance against Assyria"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 39:2",
+    "verseText": "And Hezekiah welcomed them gladly. And he showed them his treasure house, the silver, the gold, the spices, the precious oil, his whole armory, all that was found in his storehouses. There was nothing in his house or in all his realm that Hezekiah did not show them."
+  },
+  {
+    "text": "What consequence did Isaiah prophesy for Hezekiah showing his treasures to the Babylonians?",
+    "options": ["Babylon would become Judah's ally", "The treasures would multiply", "Everything shown would be carried off to Babylon", "Assyria would steal the treasures first"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 39:5-6",
+    "verseText": "Then Isaiah said to Hezekiah, “Hear the word of the LORD of hosts: Behold, the days are coming, when all that is in your house, and that which your fathers have stored up till this day, shall be carried to Babylon. Nothing shall be left, says the LORD."
+  },
+  {
+    "text": "Isaiah 42 speaks of the Servant of the Lord. What characteristic is mentioned about his voice in the street?",
+    "options": ["He will shout loudly", "He will sing praises", "He will not cry aloud or lift up his voice", "His voice will cause fear"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 42:2",
+    "verseText": "He will not cry aloud or lift up his voice, or make it heard in the street;"
+  },
+  {
+    "text": "What does Isaiah 61:1 say the Spirit of the Lord GOD is upon the speaker to do?",
+    "options": ["To judge the wicked", "To lead armies", "To bring good news to the poor and bind up the brokenhearted", "To build a new temple"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Easy",
+    "verseReference": "Isaiah 61:1",
+    "verseText": "The Spirit of the Lord GOD is upon me, because the LORD has anointed me to bring good news to the poor; he has sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to those who are bound;"
+  },
+  {
+    "text": "What does Isaiah promise God will create in the future, causing former things not to be remembered?",
+    "options": ["A new covenant", "A new king", "New heavens and a new earth", "A new law"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 65:17",
+    "verseText": "“For behold, I create new heavens and a new earth, and the former things shall not be remembered or come into mind."
+  },
+  {
+    "text": "What does Isaiah 1:18 invite the people to do, even though their sins are like scarlet?",
+    "options": ["Offer more sacrifices", "Flee to Egypt", "Reason together with the LORD", "Prepare for war"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Easy",
+    "verseReference": "Isaiah 1:18",
+    "verseText": "“Come now, let us reason together, says the LORD: though your sins are like scarlet, they shall be as white as snow; though they are red like crimson, they shall become like wool."
+  },
+  {
+    "text": "What characteristic of the 'daughter of Zion' is lamented in Isaiah 1:8?",
+    "options": ["Her great wealth", "Her military strength", "Her isolation, like a booth in a vineyard", "Her many alliances"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 1:8",
+    "verseText": "And the daughter of Zion is left like a booth in a vineyard, like a lodge in a cucumber field, like a besieged city."
+  },
+  {
+    "text": "What does Isaiah 2:2 prophesy about the mountain of the LORD's house?",
+    "options": ["It will crumble into dust", "It will be moved to Egypt", "It will be established as the highest mountain and nations will stream to it", "It will be hidden from view"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 2:2",
+    "verseText": "It shall come to pass in the latter days that the mountain of the house of the LORD shall be established as the highest of the mountains, and shall be lifted up above the hills; and all the nations shall flow to it,"
+  },
+  {
+    "text": "What specific sins of the women of Zion are condemned in Isaiah 3?",
+    "options": ["Lack of hospitality", "Failure to pray", "Haughtiness, seductive eyes, and obsession with finery", "Refusal to work"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 3:16, 18-23",
+    "verseText": "The LORD said: Because the daughters of Zion are haughty and walk with outstretched necks, glancing wantonly with their eyes, mincing along as they go... In that day the Lord will take away the finery of the anklets, the headbands, and the crescents..."
+  },
+  {
+    "text": "What will the 'Branch of the LORD' be in the future, according to Isaiah 4:2?",
+    "options": ["Withered and dry", "Cut down and burned", "Beautiful and glorious", "Hidden underground"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 4:2",
+    "verseText": "In that day the branch of the LORD shall be beautiful and glorious, and the fruit of the land shall be the pride and honor of the survivors of Israel."
+  },
+  {
+    "text": "What is the first 'woe' pronounced in Isaiah 5 directed towards?",
+    "options": ["Those who are drunkards", "Those who call evil good", "Those who join house to house and add field to field", "Those who are wise in their own eyes"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 5:8",
+    "verseText": "Woe to those who join house to house, who add field to field, until there is no more room, and you are made to dwell alone in the midst of the land."
+  },
+  {
+    "text": "What question did Isaiah ask the Lord in response to the commission in chapter 6?",
+    "options": ["'Who should I take with me?'", "'Where should I go?'", "'How long, O Lord?'", "'Why me?'"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Easy",
+    "verseReference": "Isaiah 6:11",
+    "verseText": "Then I said, “How long, O Lord?” And he said: “Until cities lie waste without inhabitant, and houses without people, and the land is utterly desolate,"
+  },
+  {
+    "text": "Who were the two kings who conspired against Ahaz and Judah in Isaiah 7?",
+    "options": ["King of Assyria and King of Egypt", "Rezin of Syria and Pekah of Israel", "King of Babylon and King of Moab", "King of Edom and King of Ammon"],
+    "correctAnswerIndex": 1,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 7:1",
+    "verseText": "In the days of Ahaz the son of Jotham, son of Uzziah, king of Judah, Rezin the king of Syria and Pekah the son of Remaliah the king of Israel came up to Jerusalem to wage war against it, but could not yet mount an attack against it."
+  },
+  {
+    "text": "What does the name 'Maher-shalal-hash-baz', given to Isaiah's son, mean?",
+    "options": ["'God is with us'", "'A remnant shall return'", "'The spoil speeds, the prey hastens'", "'God is my strength'"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Hard",
+    "verseReference": "Isaiah 8:1-3",
+    "verseText": "Then the LORD said to me, “Take a large tablet and write on it in common characters, ‘Belonging to Maher-shalal-hash-baz.’... And I went to the prophetess, and she conceived and bore a son. Then the LORD said to me, “Call his name Maher-shalal-hash-baz;"
+  },
+  {
+    "text": "What nation is described as the 'rod of God's anger' in Isaiah 10?",
+    "options": ["Egypt", "Babylon", "Assyria", "Syria"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 10:5",
+    "verseText": "Woe to Assyria, the rod of my anger; the staff in their hands is my fury!"
+  },
+  {
+    "text": "What will happen to the prideful nation used as God's instrument (Assyria) according to Isaiah 10?",
+    "options": ["It will rule forever", "It will be rewarded", "It will be punished for its arrogance", "It will repent"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 10:12",
+    "verseText": "When the Lord has finished all his work on Mount Zion and on Jerusalem, he will punish the speech of the arrogant heart of the king of Assyria and the boastful look in his eyes."
+  },
+  {
+    "text": "What spirit will rest upon the 'shoot from the stump of Jesse' according to Isaiah 11?",
+    "options": ["Spirit of fear and doubt", "Spirit of conquest", "The Spirit of the LORD, wisdom, understanding, counsel, might, knowledge, fear of the LORD", "Spirit of slumber"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 11:2",
+    "verseText": "And the Spirit of the LORD shall rest upon him, the Spirit of wisdom and understanding, the Spirit of counsel and might, the Spirit of knowledge and the fear of the LORD."
+  },
+  {
+    "text": "What will the remnant of God's people do in the day described in Isaiah 12?",
+    "options": ["Mourn and weep", "Draw water with joy from the wells of salvation", "Hide in caves", "Fight against the nations"],
+    "correctAnswerIndex": 1,
+    "book": "Isaiah",
+    "difficulty": "Easy",
+    "verseReference": "Isaiah 12:3",
+    "verseText": "With joy you will draw water from the wells of salvation."
+  },
+  {
+    "text": "Which great city's fall is prophesied in Isaiah 13?",
+    "options": ["Jerusalem", "Nineveh", "Babylon", "Tyre"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 13:1, 19",
+    "verseText": "The oracle concerning Babylon that Isaiah the son of Amoz saw... And Babylon, the glory of kingdoms, the splendor and pomp of the Chaldeans, will be like Sodom and Gomorrah when God overthrow them."
+  },
+  {
+    "text": "Isaiah 14 contains a taunt against which fallen king, often associated with Lucifer?",
+    "options": ["Pharaoh of Egypt", "King of Tyre", "King of Babylon", "Sennacherib of Assyria"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 14:4, 12",
+    "verseText": "you will take up this taunt against the king of Babylon: ... “How you are fallen from heaven, O Day Star, son of Dawn! How you are cut down to the ground, you who laid the nations low!"
+  },
+  {
+    "text": "Which nation, known for its pride, is prophesied to be judged and humbled in Isaiah 16?",
+    "options": ["Edom", "Ammon", "Moab", "Philistia"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Hard",
+    "verseReference": "Isaiah 16:6",
+    "verseText": "We have heard of the pride of Moab— he is very proud— of his arrogance, his pride, and his fury; his boasts are false."
+  },
+  {
+    "text": "Which capital city is prophesied to become a 'heap of ruins' in Isaiah 17?",
+    "options": ["Jerusalem", "Damascus", "Samaria", "Tyre"],
+    "correctAnswerIndex": 1,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 17:1",
+    "verseText": "An oracle concerning Damascus. Behold, Damascus will cease to be a city and will become a heap of ruins."
+  },
+  {
+    "text": "Isaiah 19 contains an oracle concerning which major nation, predicting civil war and foolish counselors?",
+    "options": ["Assyria", "Babylon", "Egypt", "Persia"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 19:1-2, 11",
+    "verseText": "An oracle concerning Egypt. Behold, the LORD is riding on a swift cloud and comes to Egypt... And I will stir up Egyptians against Egyptians, and they will fight, each against another... The princes of Zoan are utterly foolish; the wisest counselors of Pharaoh give stupid counsel."
+  },
+  {
+    "text": "What symbolic act did Isaiah perform for three years as a sign against Egypt and Cush (Ethiopia)?",
+    "options": ["Wore sackcloth", "Carried a yoke", "Walked stripped and barefoot", "Dug through a wall"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Hard",
+    "verseReference": "Isaiah 20:2-3",
+    "verseText": "...the LORD spoke by Isaiah the son of Amoz, saying, “Go, and loose the sackcloth from your waist and take off your sandals from your feet,” and he did so, walking naked and barefoot. Then the LORD said, “As my servant Isaiah has walked naked and barefoot for three years as a sign and a portent against Egypt and Cush,"
+  },
+  {
+    "text": "What is the 'key of the house of David' that God promises to place on Eliakim's shoulder in Isaiah 22?",
+    "options": ["A literal key to the palace", "A map of the kingdom", "Authority and responsibility", "A heavy burden"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 22:22",
+    "verseText": "And I will place on his shoulder the key of the house of David. He shall open, and none shall shut; and he shall shut, and none shall open."
+  },
+  {
+    "text": "Which famous Phoenician trading city is the subject of the oracle in Isaiah 23?",
+    "options": ["Sidon", "Byblos", "Carthage", "Tyre"],
+    "correctAnswerIndex": 3,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 23:1",
+    "verseText": "The oracle concerning Tyre. Wail, O ships of Tarshish, for Tyre is laid waste, without house or harbor!"
+  },
+  {
+    "text": "Isaiah 24 describes a judgment where the earth is what?",
+    "options": ["Flooded", "Burned", "Polluted and broken", "Shaken by earthquakes"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 24:4-5",
+    "verseText": "The earth mourns and withers; the world languishes and withers; the highest people of the earth languish. The earth lies defiled under its inhabitants; for they have transgressed the laws, violated the statutes, broken the everlasting covenant."
+  },
+  {
+    "text": "What comforting promise does God make on His mountain in Isaiah 25?",
+    "options": ["He will give everyone riches", "He will destroy death forever and wipe away tears", "He will rebuild the Tower of Babel", "He will make Israel rule all nations"],
+    "correctAnswerIndex": 1,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 25:7-8",
+    "verseText": "And he will swallow up on this mountain the covering that is cast over all peoples, the veil that is spread over all nations. He will swallow up death forever; and the Lord GOD will wipe away tears from all faces..."
+  },
+  {
+    "text": "According to Isaiah 26:3, whom will God keep in perfect peace?",
+    "options": ["Those who are powerful", "Those whose mind is stayed on Him", "Those who offer many sacrifices", "Those who live in Jerusalem"],
+    "correctAnswerIndex": 1,
+    "book": "Isaiah",
+    "difficulty": "Easy",
+    "verseReference": "Isaiah 26:3",
+    "verseText": "You keep him in perfect peace whose mind is stayed on you, because he trusts in you."
+  },
+  {
+    "text": "What creature is the LORD prophesied to punish in Isaiah 27?",
+    "options": ["Behemoth", "Leviathan the fleeing serpent", "The Hydra", "The Minotaur"],
+    "correctAnswerIndex": 1,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 27:1",
+    "verseText": "In that day the LORD with his hard and great and strong sword will punish Leviathan the fleeing serpent, Leviathan the twisting serpent, and he will slay the dragon that is in the sea."
+  },
+  {
+    "text": "What is the 'precious cornerstone' that the Lord GOD lays in Zion in Isaiah 28?",
+    "options": ["A literal stone for the Temple", "King Hezekiah", "A sure foundation; the one who believes will not be shaken", "The Ark of the Covenant"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 28:16",
+    "verseText": "therefore thus says the Lord GOD, “Behold, I am the one who has laid as a foundation in Zion, a stone, a tested stone, a precious cornerstone, of a sure foundation: ‘Whoever believes will not be in haste.’"
+  },
+  {
+    "text": "Why does the LORD condemn the people in Isaiah 29:13?",
+    "options": ["For not paying tithes", "For worshipping idols", "For drawing near with their mouth but having hearts far from Him", "For refusing to fight"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Easy",
+    "verseReference": "Isaiah 29:13",
+    "verseText": "And the Lord said: “Because this people draw near with their mouth and honor me with their lips, while their hearts are far from me, and their fear of me is a commandment taught by men,"
+  },
+  {
+    "text": "Which nation were the Israelites wrongly seeking help from, instead of the LORD, according to Isaiah 30 & 31?",
+    "options": ["Assyria", "Babylon", "Egypt", "Moab"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 30:1-2, 31:1",
+    "verseText": "“Ah, stubborn children,” declares the LORD, “who carry out a plan, but not mine, and who make an alliance, but not of my Spirit... who set out to go down to Egypt, without asking for my direction... Woe to those who go down to Egypt for help..."
+  },
+  {
+    "text": "What is promised for the righteous king who will reign, according to Isaiah 32?",
+    "options": ["He will conquer the world", "He will live forever", "He will be a hiding place from the wind and shelter from the storm", "He will build a golden palace"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 32:1-2",
+    "verseText": "Behold, a king will reign in righteousness, and princes will rule in justice. Each will be like a hiding place from the wind, a shelter from the storm, like streams of water in a dry place, like the shade of a great rock in a weary land."
+  },
+  {
+    "text": "What will the 'highway' be called in Isaiah 35, where the unclean will not pass?",
+    "options": ["The King's Road", "The Golden Path", "The Way of Holiness", "The Desert Road"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Easy",
+    "verseReference": "Isaiah 35:8",
+    "verseText": "And a highway shall be there, and it shall be called the Way of Holiness; the unclean shall not pass over it. It shall belong to those who walk on the way; even if they are fools, they shall not go astray."
+  },
+  {
+    "text": "Who was the Rabshakeh, mentioned in Isaiah 36?",
+    "options": ["King of Egypt", "A prophet of Baal", "Sennacherib's chief spokesman/officer", "Hezekiah's general"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 36:2",
+    "verseText": "And the king of Assyria sent the Rabshakeh from Lachish to King Hezekiah at Jerusalem, with a great army. And he stood by the conduit of the upper pool on the highway to the Washer's Field."
+  },
+  {
+    "text": "What did the Rabshakeh boast that the gods of other nations could not do?",
+    "options": ["Provide rain", "Deliver their lands from the king of Assyria", "Build great temples", "Predict the future"],
+    "correctAnswerIndex": 1,
+    "book": "Isaiah",
+    "difficulty": "Easy",
+    "verseReference": "Isaiah 36:18-20",
+    "verseText": "Beware lest Hezekiah mislead you by saying, “The LORD will deliver us.” Has any of the gods of the nations delivered his land out of the hand of the king of Assyria? Where are the gods of Hamath and Arpad? ... Who among all the gods of these lands have delivered their lands out of my hand...?"
+  },
+  {
+    "text": "What sign did God give Hezekiah to confirm his recovery from illness and the deliverance of Jerusalem?",
+    "options": ["A star falling", "An earthquake", "The shadow on the sundial going back ten steps", "A talking donkey"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 38:7-8",
+    "verseText": "“This shall be the sign to you from the LORD, that the LORD will do this thing that he has promised: Behold, I will make the shadow cast by the declining sun on the dial of Ahaz turn back ten steps.” So the sun turned back on the dial the ten steps by which it had declined."
+  },
+  {
+    "text": "How many additional years of life did God grant Hezekiah after his prayer?",
+    "options": ["5 years", "10 years", "15 years", "20 years"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Easy",
+    "verseReference": "Isaiah 38:5",
+    "verseText": "“Go and say to Hezekiah, Thus says the LORD, the God of David your father: I have heard your prayer; I have seen your tears. Behold, I will add fifteen years to your life."
+  },
+  {
+    "text": "What does Isaiah 40 compare the nations to before God?",
+    "options": ["Mighty armies", "Great mountains", "A drop from a bucket, dust on the scales", "Roaring lions"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 40:15",
+    "verseText": "Behold, the nations are like a drop from a bucket, and are accounted as the dust on the scales; behold, he takes up the coastlands like fine dust."
+  },
+  {
+    "text": "What question does God repeatedly ask the idols and their makers in Isaiah 41 and 44?",
+    "options": ["'Can you give riches?'", "'Can you build cities?'", "'Can you declare the future or do good or evil?'", "'Can you command armies?'"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 41:23",
+    "verseText": "Tell us what is to come hereafter, that we may know that you are gods; do good, or do harm, that we may be dismayed and terrified."
+  },
+  {
+    "text": "What does God promise to pour out on Jacob's offspring in Isaiah 44?",
+    "options": ["His wrath", "Material wealth", "His Spirit and blessing", "Confusion"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Easy",
+    "verseReference": "Isaiah 44:3",
+    "verseText": "For I will pour water on the thirsty land, and streams on the dry ground; I will pour my Spirit upon your offspring, and my blessing on your descendants."
+  },
+  {
+    "text": "What does God declare about Himself in Isaiah 45:5, contrasting with idols?",
+    "options": ["'I am one of many gods'", "'I am the LORD, and there is no other'", "'I am distant and uncaring'", "'I require complex rituals'"],
+    "correctAnswerIndex": 1,
+    "book": "Isaiah",
+    "difficulty": "Easy",
+    "verseReference": "Isaiah 45:5",
+    "verseText": "I am the LORD, and there is no other, besides me there is no God; I equip you, though you do not know me,"
+  },
+  {
+    "text": "Which Babylonian gods are depicted as being carried away into captivity in Isaiah 46?",
+    "options": ["Marduk and Ishtar", "Bel and Nebo", "Ashur and Shamash", "Baal and Asherah"],
+    "correctAnswerIndex": 1,
+    "book": "Isaiah",
+    "difficulty": "Hard",
+    "verseReference": "Isaiah 46:1",
+    "verseText": "Bel bows down; Nebo stoops; their idols are on beasts and livestock; these things you carry are borne as burdens on weary beasts."
+  },
+  {
+    "text": "What title does the 'virgin daughter of Babylon' lose in Isaiah 47?",
+    "options": ["Queen of the South", "Mistress of Magic", "Lady of Kingdoms", "Ruler of the Seas"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 47:1, 5",
+    "verseText": "Come down and sit in the dust, O virgin daughter of Babylon... Sit in silence, and go into darkness, O daughter of the Chaldeans; for you shall no more be called the Lady of Kingdoms."
+  },
+  {
+    "text": "What metaphor does God use in Isaiah 48 to describe Israel's stubbornness?",
+    "options": ["A stiff neck (iron sinew) and bronze forehead", "A deaf ear", "A blind eye", "A hard heart"],
+    "correctAnswerIndex": 0,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 48:4",
+    "verseText": "Because I know that you are obstinate, and your neck is an iron sinew and your forehead brass,"
+  },
+  {
+    "text": "In Isaiah 49, the Servant's mission is expanded beyond Israel to be what?",
+    "options": ["A king over Babylon", "A priest in Egypt", "A light for the nations", "A judge of the dead"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 49:6",
+    "verseText": "he says: “It is too light a thing that you should be my servant to raise up the tribes of Jacob and to bring back the preserved of Israel; I will make you as a light for the nations, that my salvation may reach to the end of the earth.”"
+  },
+  {
+    "text": "What did the Servant give to those who strike him, according to Isaiah 50?",
+    "options": ["His wealth", "His back", "His curses", "His weapons"],
+    "correctAnswerIndex": 1,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 50:6",
+    "verseText": "I gave my back to those who strike, and my cheeks to those who pull out the beard; I hid not my face from disgrace and spitting."
+  },
+  {
+    "text": "Who are the people encouraged to look to in Isaiah 51?",
+    "options": ["The surrounding nations", "Their own strength", "Abraham their father and Sarah who bore them", "The stars in the sky"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 51:1-2",
+    "verseText": "“Listen to me, you who pursue righteousness, you who seek the LORD: look to the rock from which you were hewn, and to the quarry from which you were dug. Look to Abraham your father and to Sarah who bore you;"
+  },
+  {
+    "text": "What is Zion called to do in Isaiah 52:1?",
+    "options": ["Weep and mourn", "Awake and put on strength and beautiful garments", "Make alliances", "Build higher walls"],
+    "correctAnswerIndex": 1,
+    "book": "Isaiah",
+    "difficulty": "Easy",
+    "verseReference": "Isaiah 52:1",
+    "verseText": "Awake, awake, put on your strength, O Zion; put on your beautiful garments, O Jerusalem, the holy city; for there shall no more come into you the uncircumcised and the unclean."
+  },
+  {
+    "text": "Like which animal was the suffering servant led to the slaughter in Isaiah 53?",
+    "options": ["A lion", "A goat", "A lamb", "An ox"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Easy",
+    "verseReference": "Isaiah 53:7",
+    "verseText": "He was oppressed, and he was afflicted, yet he opened not his mouth; like a lamb that is led to the slaughter, and like a sheep that before its shearers is silent, so he opened not his mouth."
+  },
+  {
+    "text": "Who is told to 'sing' and 'break forth into singing' in Isaiah 54?",
+    "options": ["The victorious warriors", "The barren woman who did not bear", "The priests in the temple", "The angels in heaven"],
+    "correctAnswerIndex": 1,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 54:1",
+    "verseText": "“Sing, O barren one, who did not bear; break forth into singing and cry aloud, you who have not been in labor! For the children of the desolate one will be more than the children of her who is married,” says the LORD."
+  },
+  {
+    "text": "What is promised about God's word in Isaiah 55:11?",
+    "options": ["It will be difficult to understand", "It will return to Him empty", "It shall accomplish that which He purposes", "It will be forgotten over time"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Easy",
+    "verseReference": "Isaiah 55:11",
+    "verseText": "so shall my word be that goes out from my mouth; it shall not return to me empty, but it shall accomplish that which I purpose, and shall succeed in the thing for which I sent it."
+  },
+  {
+    "text": "What does God promise to the eunuchs who keep His Sabbaths and hold fast His covenant (Isaiah 56)?",
+    "options": ["They will have physical children", "They will receive wealth", "A memorial and a name better than sons and daughters", "Political power"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 56:4-5",
+    "verseText": "For thus says the LORD: “To the eunuchs who keep my Sabbaths, who choose the things that please me and hold fast my covenant, I will give in my house and within my walls a monument and a name better than sons and daughters; I will give them an everlasting name that shall not be cut off."
+  },
+  {
+    "text": "What separates the people from God, according to Isaiah 59?",
+    "options": ["Physical distance", "Their lack of sacrifices", "Their iniquities and sins", "The power of idols"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Easy",
+    "verseReference": "Isaiah 59:1-2",
+    "verseText": "Behold, the LORD's hand is not shortened, that it cannot save, or his ear dull, that it cannot hear; but your iniquities have made a separation between you and your God, and your sins have hidden his face from you so that he does not hear."
+  },
+  {
+    "text": "What will cover the earth, but what will arise upon Zion, according to Isaiah 60?",
+    "options": ["Light / Darkness", "Peace / War", "Darkness / The glory of the LORD", "Silence / Shouting"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 60:1-2",
+    "verseText": "Arise, shine, for your light has come, and the glory of the LORD has risen upon you. For behold, darkness shall cover the earth, and thick darkness the peoples; but the LORD will arise upon you, and his glory will be seen upon you."
+  },
+  {
+    "text": "Instead of ashes, what will be given to those who mourn in Zion (Isaiah 61)?",
+    "options": ["Sackcloth", "A beautiful headdress", "More sorrow", "Silence"],
+    "correctAnswerIndex": 1,
+    "book": "Isaiah",
+    "difficulty": "Easy",
+    "verseReference": "Isaiah 61:3",
+    "verseText": "to grant to those who mourn in Zion— to give them a beautiful headdress instead of ashes, the oil of gladness instead of mourning, the garment of praise instead of a faint spirit;"
+  },
+  {
+    "text": "What new name will Jerusalem be called, according to Isaiah 62?",
+    "options": ["Forsaken", "Desolate", "Hephzibah (My delight is in her) and Beulah (Married)", "City of David"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 62:4",
+    "verseText": "You shall no more be termed Forsaken, and your land shall no more be termed Desolate, but you shall be called My Delight Is in Her, and your land Married; for the LORD delights in you, and your land shall be married."
+  },
+  {
+    "text": "Who is the figure coming from Edom with stained garments in Isaiah 63?",
+    "options": ["An Edomite king", "The prophet Isaiah", "The LORD, treading the winepress of wrath", "An angel"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 63:1-3",
+    "verseText": "Who is this who comes from Edom, in crimsoned garments from Bozrah, he who is splendid in his apparel, marching in the greatness of his strength? “It is I, speaking in righteousness, mighty to save.” ... “I have trodden the winepress alone, and from the peoples no one was with me;"
+  },
+  {
+    "text": "What does Isaiah 64:6 compare human righteous deeds to?",
+    "options": ["Fine gold", "A strong tower", "A polluted garment", "A fruitful tree"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Easy",
+    "verseReference": "Isaiah 64:6",
+    "verseText": "We have all become like one who is unclean, and all our righteous deeds are like a polluted garment. We all fade like a leaf, and our iniquities, like the wind, take us away."
+  },
+  {
+    "text": "In the new heavens and new earth (Isaiah 65), what will be the lifespan of a person who dies at 100?",
+    "options": ["Considered ancient", "Considered accursed / dying young", "An average lifespan", "Unheard of"],
+    "correctAnswerIndex": 1,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 65:20",
+    "verseText": "No more shall there be in it an infant who lives but a few days, or an old man who does not fill out his days, for the young man shall die a hundred years old, and the sinner a hundred years old shall be accursed."
+  },
+  {
+    "text": "What question does God ask in Isaiah 66 regarding a house built for Him?",
+    "options": ["'Will it be grand enough?'", "'Who will build it?'", "'Heaven is my throne and earth my footstool; what is the house you would build for me?'", "'Will it be made of gold?'"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Easy",
+    "verseReference": "Isaiah 66:1",
+    "verseText": "Thus says the LORD: “Heaven is my throne, and the earth is my footstool; what is the house that you would build for me, and what is the place of my rest?"
+  },
+  {
+    "text": "Who does the LORD look to, according to Isaiah 66:2?",
+    "options": ["The rich and powerful", "The kings of the earth", "He who is humble and contrite in spirit and trembles at His word", "The wisest philosophers"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 66:2",
+    "verseText": "All these things my hand has made, and so all these things came to be, declares the LORD. But this is the one to whom I will look: he who is humble and contrite in spirit and trembles at my word."
+  },
+  {
+    "text": "What graphic image concludes the book of Isaiah, showing the fate of those who rebelled against God?",
+    "options": ["They are welcomed into the city", "They are cast into darkness", "Their worm shall not die, their fire shall not be quenched", "They turn to dust"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 66:24",
+    "verseText": "“And they shall go out and look on the dead bodies of the men who have rebelled against me. For their worm shall not die, their fire shall not be quenched, and they shall be an abhorrence to all flesh.”"
+  },
+  {
+    "text": "What does 'Immanuel' mean?",
+    "options": ["God saves", "God is mighty", "God with us", "God is gracious"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Easy",
+    "verseReference": "Isaiah 7:14",
+    "verseText": "Therefore the Lord himself will give you a sign. Behold, the virgin shall conceive and bear a son, and shall call his name Immanuel."
+  },
+  {
+    "text": "What will the child Immanuel eat, signifying a time of hardship before prosperity?",
+    "options": ["Bread and wine", "Locusts and wild honey", "Curds and honey", "Manna from heaven"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Hard",
+    "verseReference": "Isaiah 7:15",
+    "verseText": "He shall eat curds and honey when he knows how to refuse the evil and choose the good."
+  },
+  {
+    "text": "What does Isaiah 8 warn against consulting instead of God?",
+    "options": ["Ancient scrolls", "Foreign kings", "Mediums and necromancers", "Wise counselors"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 8:19",
+    "verseText": "And when they say to you, “Inquire of the mediums and the necromancers who chirp and mutter,” should not a people inquire of their God? Should they inquire of the dead on behalf of the living?"
+  },
+  {
+    "text": "The people walking in darkness (Isaiah 9) have seen what?",
+    "options": ["A terrifying beast", "A great light", "A pillar of fire", "A foreign army"],
+    "correctAnswerIndex": 1,
+    "book": "Isaiah",
+    "difficulty": "Easy",
+    "verseReference": "Isaiah 9:2",
+    "verseText": "The people who walked in darkness have seen a great light; those who dwelt in a land of deep darkness, on them has light shone."
+  },
+  {
+    "text": "What characteristic will mark the judgment of the ruler from Jesse's stump (Isaiah 11)?",
+    "options": ["He will judge by appearance and hearsay", "He will judge with righteousness and equity", "He will show partiality to the rich", "He will delegate judgment to others"],
+    "correctAnswerIndex": 1,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 11:3-4",
+    "verseText": "And his delight shall be in the fear of the LORD. He shall not judge by what his eyes see, or decide disputes by what his ears hear, but with righteousness he shall judge the poor, and decide with equity for the meek of the earth;"
+  },
+  {
+    "text": "What will cover the earth as the waters cover the sea in the time of the Branch (Isaiah 11)?",
+    "options": ["Darkness", "Armies", "The knowledge of the LORD", "Wealth"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 11:9",
+    "verseText": "They shall not hurt or destroy in all my holy mountain; for the earth shall be full of the knowledge of the LORD as the waters cover the sea."
+  },
+  {
+    "text": "What is the 'ensign' or 'signal' for the nations mentioned in Isaiah 11?",
+    "options": ["A golden statue", "The Temple", "The Root of Jesse", "A pillar of cloud"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 11:10",
+    "verseText": "In that day the root of Jesse, who shall stand as a signal for the peoples—of him shall the nations inquire, and his resting place shall be glorious."
+  },
+  {
+    "text": "What does Isaiah 26:19 promise concerning the dead?",
+    "options": ["They will be forgotten", "They will live; their bodies shall rise", "They will become stars", "They will serve the living"],
+    "correctAnswerIndex": 1,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 26:19",
+    "verseText": "Your dead shall live; their bodies shall rise. You who dwell in the dust, awake and sing for joy! For your dew is a dew of light, and the earth will give birth to the dead."
+  },
+  {
+    "text": "What farming analogy does Isaiah 28 use to illustrate God's measured judgment and wisdom?",
+    "options": ["Sowing seeds", "Watering plants", "Threshing different grains in appropriate ways", "Building fences"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Hard",
+    "verseReference": "Isaiah 28:27-29",
+    "verseText": "Dill is not threshed with a threshing sledge, nor is a cartwheel rolled over cumin, but dill is beaten out with a stick, and cumin with a rod... This also comes from the LORD of hosts; he is wonderful in counsel and excellent in wisdom."
+  },
+  {
+    "text": "What city is called 'Ariel' (Lion of God/Hearth of God) in Isaiah 29, which God will bring distress upon?",
+    "options": ["Babylon", "Nineveh", "Samaria", "Jerusalem"],
+    "correctAnswerIndex": 3,
+    "book": "Isaiah",
+    "difficulty": "Hard",
+    "verseReference": "Isaiah 29:1",
+    "verseText": "Ah, Ariel, Ariel, the city where David encamped! Add year to year; let the feasts run their round."
+  },
+  {
+    "text": "What does Isaiah 30 promise God will be for His people?",
+    "options": ["A harsh taskmaster", "Distant and unreachable", "Gracious, waiting to show mercy", "Silent"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Easy",
+    "verseReference": "Isaiah 30:18",
+    "verseText": "Therefore the LORD waits to be gracious to you, and therefore he exalts himself to show mercy to you. For the LORD is a God of justice; blessed are all those who wait for him."
+  },
+  {
+    "text": "What will happen to the eyes of the blind and ears of the deaf in the time of restoration (Isaiah 35)?",
+    "options": ["They will remain unchanged", "They will be opened", "They will see illusions", "They will hear confusing sounds"],
+    "correctAnswerIndex": 1,
+    "book": "Isaiah",
+    "difficulty": "Easy",
+    "verseReference": "Isaiah 35:5",
+    "verseText": "Then the eyes of the blind shall be opened, and the ears of the deaf unstopped;"
+  },
+  {
+    "text": "What does Isaiah 40 say about God's understanding?",
+    "options": ["It is limited", "It can be measured", "There is no searching of his understanding", "It is focused only on Israel"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Easy",
+    "verseReference": "Isaiah 40:28",
+    "verseText": "Have you not known? Have you not heard? The LORD is the everlasting God, the Creator of the ends of the earth. He does not faint or grow weary; his understanding is unsearchable."
+  },
+  {
+    "text": "What does God call Israel in Isaiah 41:8?",
+    "options": ["His enemy", "His servant, Jacob whom He has chosen", "A forgotten people", "A rebellious nation"],
+    "correctAnswerIndex": 1,
+    "book": "Isaiah",
+    "difficulty": "Easy",
+    "verseReference": "Isaiah 41:8",
+    "verseText": "But you, Israel, my servant, Jacob, whom I have chosen, the offspring of Abraham, my friend;"
+  },
+  {
+    "text": "What will the Servant of the Lord not do to a bruised reed or smoldering wick (Isaiah 42)?",
+    "options": ["Ignore them", "Break it or quench it", "Replace them", "Use them for fuel"],
+    "correctAnswerIndex": 1,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 42:3",
+    "verseText": "a bruised reed he will not break, and a faintly burning wick he will not quench; he will faithfully bring forth justice."
+  },
+  {
+    "text": "What does God promise when His people pass through waters and fire (Isaiah 43)?",
+    "options": ["They will be overcome", "He will be with them; they will not be overwhelmed or burned", "They must save themselves", "He will watch from a distance"],
+    "correctAnswerIndex": 1,
+    "book": "Isaiah",
+    "difficulty": "Easy",
+    "verseReference": "Isaiah 43:2",
+    "verseText": "When you pass through the waters, I will be with you; and through the rivers, they shall not overwhelm you; when you walk through fire you shall not be burned, and the flame shall not consume you."
+  },
+  {
+    "text": "Who does God say He formed Israel to be (Isaiah 43:21)?",
+    "options": ["A nation of warriors", "A people to declare His praise", "Merchants and traders", "Builders of cities"],
+    "correctAnswerIndex": 1,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 43:21",
+    "verseText": "the people whom I formed for myself that they might declare my praise."
+  },
+  {
+    "text": "How does Isaiah 44 describe the foolishness of idol makers?",
+    "options": ["They use superior materials", "They worship the gods of other nations", "They use part of a tree for fuel and part to make a god to worship", "They consult with God first"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Easy",
+    "verseReference": "Isaiah 44:15-17",
+    "verseText": "Then it becomes fuel for a man... Half of it he burns in the fire... The rest of it he makes into a god, his idol, and falls down to it and worships it."
+  },
+  {
+    "text": "What does God say He forms and creates in Isaiah 45:7?",
+    "options": ["Only good things", "Only light and peace", "Light and darkness, well-being and calamity", "Only physical matter"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 45:7",
+    "verseText": "I form light and create darkness; I make well-being and create calamity; I am the LORD, who does all these things."
+  },
+  {
+    "text": "What is the response God desires, as stated in Isaiah 45:22?",
+    "options": ["'Offer more sacrifices'", "'Build me a temple'", "'Turn to me and be saved, all the ends of the earth!'", "'Fight for me'"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Easy",
+    "verseReference": "Isaiah 45:22",
+    "verseText": "“Turn to me and be saved, all the ends of the earth! For I am God, and there is no other."
+  },
+  {
+    "text": "Can a mother forget her nursing child? What is God's response in Isaiah 49?",
+    "options": ["Yes, mothers often forget", "It is impossible for a mother to forget", "Even if she forgets, God will not forget Zion", "God might forget if Zion sins"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Easy",
+    "verseReference": "Isaiah 49:15",
+    "verseText": "“Can a woman forget her nursing child, that she should have no compassion on the son of her womb? Even these may forget, yet I will not forget you."
+  },
+  {
+    "text": "What has God inscribed on the palms of His hands (Isaiah 49)?",
+    "options": ["His own name", "The Law", "Zion / Jerusalem's walls", "The names of the righteous"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 49:16",
+    "verseText": "Behold, I have engraved you on the palms of my hands; your walls are continually before me."
+  },
+  {
+    "text": "What does the Servant say the Lord God gave him in Isaiah 50?",
+    "options": ["A sharp sword", "Great wealth", "The tongue of those who are taught (a disciple's tongue)", "A royal crown"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 50:4",
+    "verseText": "The Lord GOD has given me the tongue of those who are taught, that I may know how to sustain with a word him who is weary. Morning by morning he awakens; he awakens my ear to hear as those who are taught."
+  },
+  {
+    "text": "What will happen to the heavens and the earth, according to Isaiah 51?",
+    "options": ["They will last forever", "They will vanish like smoke and wear out like a garment", "They will be renewed immediately", "They will be given to Israel"],
+    "correctAnswerIndex": 1,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 51:6",
+    "verseText": "Lift up your eyes to the heavens, and look at the earth beneath; for the heavens vanish like smoke, the earth will wear out like a garment, and they who dwell in it will die in like manner; but my salvation will be forever, and my righteousness will never be dismayed."
+  },
+  {
+    "text": "What was the appearance of the Servant in Isaiah 52, before his exaltation?",
+    "options": ["Majestic and kingly", "So marred, beyond human semblance", "Average and unremarkable", "Radiant like an angel"],
+    "correctAnswerIndex": 1,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 52:14",
+    "verseText": "As many were astonished at you— his appearance was so marred, beyond human semblance, and his form beyond that of the children of mankind—"
+  },
+  {
+    "text": "What grew up before the LORD like a tender plant, according to Isaiah 53?",
+    "options": ["The nation of Israel", "King David", "The Suffering Servant", "The Temple"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 53:2",
+    "verseText": "For he grew up before him like a young plant, and like a root out of dry ground; he had no form or majesty that we should look at him, and no beauty that we should desire him."
+  },
+  {
+    "text": "For whose transgression was the Servant struck (Isaiah 53)?",
+    "options": ["His own", "The Gentiles'", "God's people's", "The angels'"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 53:8",
+    "verseText": "By oppression and judgment he was taken away; and as for his generation, who considered that he was cut off out of the land of the living, stricken for the transgression of my people?"
+  },
+  {
+    "text": "What is the LORD's heritage for His servants, according to Isaiah 54?",
+    "options": ["Land and riches", "No weapon formed against them shall prosper; vindication comes from the LORD", "Suffering and hardship", "A life of ease"],
+    "correctAnswerIndex": 1,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 54:17",
+    "verseText": "no weapon that is fashioned against you shall succeed, and you shall refute every tongue that rises against you in judgment. This is the heritage of the servants of the LORD and their vindication from me, declares the LORD.”"
+  },
+  {
+    "text": "What should the wicked forsake, according to Isaiah 55?",
+    "options": ["Their wealth", "Their families", "His way and his thoughts", "Their homeland"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Easy",
+    "verseReference": "Isaiah 55:7",
+    "verseText": "let the wicked forsake his way, and the unrighteous man his thoughts; let him return to the LORD, that he may have compassion on him, and to our God, for he will abundantly pardon."
+  },
+  {
+    "text": "What does God call His house in Isaiah 56?",
+    "options": ["A house of judgment", "A house of sacrifice for Israel only", "A house of prayer for all peoples", "A fortress"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 56:7",
+    "verseText": "these I will bring to my holy mountain, and make them joyful in my house of prayer; their burnt offerings and their sacrifices will be accepted on my altar; for my house shall be called a house of prayer for all peoples."
+  },
+  {
+    "text": "Where does the high and lofty One dwell, according to Isaiah 57?",
+    "options": ["Only in the Temple", "Far away from humans", "In the high and holy place, and also with him who is of a contrite and lowly spirit", "In Babylon"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 57:15",
+    "verseText": "For thus says the One who is high and lifted up, who inhabits eternity, whose name is Holy: “I dwell in the high and holy place, and also with him who is of a contrite and lowly spirit, to revive the spirit of the lowly, and to revive the heart of the contrite."
+  },
+  {
+    "text": "What kind of fast does the LORD desire, according to Isaiah 58?",
+    "options": ["Abstaining from all food and water", "Wearing sackcloth and ashes", "Loosing bonds of wickedness, sharing food with the hungry, housing the poor", "Public displays of prayer"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Easy",
+    "verseReference": "Isaiah 58:6-7",
+    "verseText": "“Is not this the fast that I choose: to loose the bonds of wickedness, to undo the straps of the yoke, to let the oppressed go free... Is it not to share your bread with the hungry and bring the homeless poor into your house;"
+  },
+  {
+    "text": "What piece of armor does the LORD put on in Isaiah 59?",
+    "options": ["Helmet of salvation, breastplate of righteousness", "Shield of faith, sword of the Spirit", "Belt of truth, shoes of the gospel", "Full suit of gold"],
+    "correctAnswerIndex": 0,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 59:17",
+    "verseText": "He put on righteousness as a breastplate, and a helmet of salvation on his head; he put on garments of vengeance for clothing, and wrapped himself in zeal as a cloak."
+  },
+  {
+    "text": "Who will come to Zion, according to Isaiah 59:20?",
+    "options": ["The Assyrian king", "The Redeemer", "The Queen of Sheba", "Elijah the prophet"],
+    "correctAnswerIndex": 1,
+    "book": "Isaiah",
+    "difficulty": "Easy",
+    "verseReference": "Isaiah 59:20",
+    "verseText": "“And a Redeemer will come to Zion, to those in Jacob who turn from transgression,” declares the LORD."
+  },
+  {
+    "text": "What will nations and kings come to in Isaiah 60?",
+    "options": ["Attack Zion", "Ignore Zion", "Zion's light and the brightness of its rising", "Steal Zion's wealth"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 60:3",
+    "verseText": "And nations shall come to your light, and kings to the brightness of your rising."
+  },
+  {
+    "text": "What materials will replace common ones in the restored Zion (Isaiah 60)?",
+    "options": ["Wood for stone, iron for wood", "Bronze for iron, silver for stones, gold for bronze", "Clay for gold, straw for silver", "Everything will be made of diamond"],
+    "correctAnswerIndex": 1,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 60:17",
+    "verseText": "Instead of bronze I will bring gold, and instead of iron I will bring silver; instead of wood, bronze, instead of stones, iron. I will make your overseers peace and your taskmasters righteousness."
+  },
+  {
+    "text": "What are God's people called in Isaiah 61, planted by the LORD?",
+    "options": ["Weeds in the field", "Oaks of righteousness", "Flowers of the valley", "Cedars of Lebanon"],
+    "correctAnswerIndex": 1,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 61:3",
+    "verseText": "...that they may be called oaks of righteousness, the planting of the LORD, that he may be glorified."
+  },
+  {
+    "text": "How does the LORD rejoice over Jerusalem in Isaiah 62?",
+    "options": ["Silently", "Reluctantly", "As a bridegroom rejoices over the bride", "Like a warrior over spoils"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Easy",
+    "verseReference": "Isaiah 62:5",
+    "verseText": "For as a young man marries a young woman, so shall your sons marry you, and as the bridegroom rejoices over the bride, so shall your God rejoice over you."
+  },
+  {
+    "text": "What have God's people become like, according to the lament in Isaiah 64?",
+    "options": ["Strong lions", "Tall cedars", "Unclean, polluted garments, fading leaves", "Shining stars"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 64:6",
+    "verseText": "We have all become like one who is unclean, and all our righteous deeds are like a polluted garment. We all fade like a leaf, and our iniquities, like the wind, take us away."
+  },
+  {
+    "text": "What relationship does Isaiah 64:8 use to describe God and His people?",
+    "options": ["King and subjects", "Master and slaves", "Potter and clay", "Shepherd and sheep"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Easy",
+    "verseReference": "Isaiah 64:8",
+    "verseText": "But now, O LORD, you are our Father; we are the clay, and you are our potter; we are all the work of your hand."
+  },
+  {
+    "text": "What peaceful coexistence is described for animals in the new creation (Isaiah 65)?",
+    "options": ["Lion eats eagle", "Wolf and lamb graze together, lion eats straw like ox", "Bear fights leopard", "Snake rules over all"],
+    "correctAnswerIndex": 1,
+    "book": "Isaiah",
+    "difficulty": "Easy",
+    "verseReference": "Isaiah 65:25",
+    "verseText": "The wolf and the lamb shall graze together; the lion shall eat straw like the ox, and dust shall be the serpent's food. They shall not hurt or destroy in all my holy mountain,” says the LORD."
+  },
+  {
+    "text": "What will God gather from all nations and tongues in the end times (Isaiah 66)?",
+    "options": ["Their gold and silver", "Their armies for judgment", "People to see His glory", "Their idols to destroy them"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 66:18",
+    "verseText": "“For I know their works and their thoughts, and the time is coming to gather all nations and tongues. And they shall come and shall see my glory,"
   }
 ]

@@ -88,5 +88,215 @@
     "difficulty": "Medium",
     "verseReference": "Lamentations 5:22",
     "verseText": "unless you have utterly rejected us, and you remain exceedingly angry with us."
+  },
+  {
+    "text": "The book portrays Jerusalem as what kind of female figure in Chapter 1?",
+    "options": ["A joyful bride", "A victorious queen", "A desolate widow and princess turned slave", "A wise mother"],
+    "correctAnswerIndex": 2,
+    "book": "Lamentations",
+    "difficulty": "Easy"
+  },
+  {
+    "text": "What specific group of people does Lamentations mention fainting from hunger in the city streets?",
+    "options": ["Enemy soldiers", "The wealthy merchants", "Children and infants", "The elderly priests"],
+    "correctAnswerIndex": 2,
+    "book": "Lamentations",
+    "difficulty": "Easy"
+  },
+  {
+    "text": "The acrostic structure of Lamentations, using the Hebrew alphabet, suggests what about the grief expressed?",
+    "options": ["It is incomplete", "It is chaotic and random", "It attempts to cover the full scope of sorrow, from A to Z", "It is only for scholars"],
+    "correctAnswerIndex": 2,
+    "book": "Lamentations",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "Lamentations attributes the destruction of Jerusalem primarily to what cause?",
+    "options": ["Babylon's military might alone", "Egypt's betrayal", "The sins of the people and their leaders", "An accidental fire"],
+    "correctAnswerIndex": 2,
+    "book": "Lamentations",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "In Chapter 2, who is depicted as bending his bow like an enemy against his own people?",
+    "options": ["The King of Babylon", "The Pharaoh of Egypt", "The LORD Himself", "A traitor within Judah"],
+    "correctAnswerIndex": 2,
+    "book": "Lamentations",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "What happened to the city gates of Jerusalem, according to Lamentations?",
+    "options": ["They were fortified", "They were opened for the enemy", "They sank into the ground; their bars were destroyed", "They were decorated"],
+    "correctAnswerIndex": 2,
+    "book": "Lamentations",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "The author laments that the 'punishment of my people is greater than the punishment of' which famously wicked city?",
+    "options": ["Nineveh", "Babylon", "Tyre", "Sodom"],
+    "correctAnswerIndex": 3,
+    "book": "Lamentations",
+    "difficulty": "Hard"
+  },
+  {
+    "text": "Chapter 3 shifts perspective to focus more on whose suffering and hope?",
+    "options": ["The king's suffering", "An individual's suffering (representing the nation or the prophet)", "The suffering of the nations", "The suffering of the priests"],
+    "correctAnswerIndex": 1,
+    "book": "Lamentations",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "What does the speaker in Chapter 3 say is good for a man to bear in his youth?",
+    "options": ["Wealth", "Power", "The yoke", "Ease"],
+    "correctAnswerIndex": 2,
+    "book": "Lamentations",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "The central verses of hope in Chapter 3 emphasize God's...",
+    "options": ["Unrelenting anger", "Steadfast love, mercy, and faithfulness", "Desire for sacrifice", "Military power"],
+    "correctAnswerIndex": 1,
+    "book": "Lamentations",
+    "difficulty": "Easy"
+  },
+  {
+    "text": "Chapter 4 contrasts the former glory and wealth of Zion's inhabitants with their current state of what?",
+    "options": ["Even greater glory", "Military victory", "Abject poverty and degradation", "Political influence"],
+    "correctAnswerIndex": 2,
+    "book": "Lamentations",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "How is the appearance of the nobles (Nazarites) described after the destruction, compared to their former radiance?",
+    "options": ["Brighter than before", "Unchanged", "Darker than soot, shriveled, unrecognizable", "Covered in gold"],
+    "correctAnswerIndex": 2,
+    "book": "Lamentations",
+    "difficulty": "Hard"
+  },
+  {
+    "text": "What horrific act, driven by extreme famine during the siege, is mentioned in Chapter 4?",
+    "options": ["Selling children into slavery", "Compassionate women cooking their own children", "Eating unclean animals", "Stealing from the temple"],
+    "correctAnswerIndex": 1,
+    "book": "Lamentations",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "Which group is specifically blamed in Chapter 4 for misleading the people?",
+    "options": ["The farmers", "The merchants", "The prophets and priests", "The foreign allies"],
+    "correctAnswerIndex": 2,
+    "book": "Lamentations",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "Chapter 5, though not an acrostic, has the same number of verses as what?",
+    "options": ["The Ten Commandments", "The number of tribes of Israel", "The letters in the Hebrew alphabet (22)", "The Psalms of Ascent"],
+    "correctAnswerIndex": 2,
+    "book": "Lamentations",
+    "difficulty": "Hard"
+  },
+  {
+    "text": "What is the opening plea of Chapter 5?",
+    "options": ["'Avenge us, O LORD!'", "'Remember, O LORD, what has befallen us'", "'Give us back our king!'", "'Destroy Babylon!'"],
+    "correctAnswerIndex": 1,
+    "book": "Lamentations",
+    "difficulty": "Easy"
+  },
+  {
+    "text": "The community prayer in Chapter 5 laments that their inheritance has been turned over to whom?",
+    "options": ["Their children", "The priests", "Strangers and foreigners", "Themselves"],
+    "correctAnswerIndex": 2,
+    "book": "Lamentations",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "What happened to the joy of their hearts and their dancing, according to Chapter 5?",
+    "options": ["It increased", "It turned into mourning", "It became focused on religious festivals", "It was forgotten"],
+    "correctAnswerIndex": 1,
+    "book": "Lamentations",
+    "difficulty": "Easy"
+  },
+  {
+    "text": "The final verses of Lamentations express a plea for God to do what?",
+    "options": ["Forget them completely", "Destroy their enemies immediately", "Restore them, renew their days as of old", "Give them a new king"],
+    "correctAnswerIndex": 2,
+    "book": "Lamentations",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "The book acknowledges that the suffering is a consequence of sin but also maintains hope in God's what?",
+    "options": ["Forgetfulness", "Justice alone", "Mercy and faithfulness", "Weakness"],
+    "correctAnswerIndex": 2,
+    "book": "Lamentations",
+    "difficulty": "Easy"
+  },
+  {
+    "text": "What role did the false prophets play in Jerusalem's downfall, according to Lamentations?",
+    "options": ["They warned of the coming judgment", "They gave true visions", "They gave false visions and did not expose the people's sin", "They encouraged repentance"],
+    "correctAnswerIndex": 2,
+    "book": "Lamentations",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "The image of the 'cup of wrath' appears in Lamentations, indicating judgment. Who else is eventually prophesied to drink it?",
+    "options": ["Jerusalem again", "Egypt", "Edom", "Assyria"],
+    "correctAnswerIndex": 2,
+    "book": "Lamentations",
+    "difficulty": "Hard"
+  },
+  {
+    "text": "What is the emotional tone of the speaker towards God in Chapter 3, before recalling God's faithfulness?",
+    "options": ["Joyful praise", "Indifference", "Deep bitterness and feeling abandoned", "Mild disappointment"],
+    "correctAnswerIndex": 2,
+    "book": "Lamentations",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "Lamentations describes the roads to Zion doing what because no one comes to the festivals?",
+    "options": ["Being repaired", "Being crowded", "Mourning", "Being forgotten"],
+    "correctAnswerIndex": 2,
+    "book": "Lamentations",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "The book serves as a reminder of the reality of divine judgment and the importance of what?",
+    "options": ["Military strength", "Political alliances", "Repentance", "Ignoring warnings"],
+    "correctAnswerIndex": 2,
+    "book": "Lamentations",
+    "difficulty": "Easy"
+  },
+  {
+    "text": "What has happened to the elders and young men, according to the laments?",
+    "options": ["They rule the city", "Elders no longer sit at the gate, young men cease their music", "They lead the army", "They are celebrating"],
+    "correctAnswerIndex": 1,
+    "book": "Lamentations",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "The plea 'Restore us to yourself, O LORD, that we may be restored!' shows a dependence on whom for renewal?",
+    "options": ["Their own efforts", "Foreign aid", "The king", "God's action"],
+    "correctAnswerIndex": 3,
+    "book": "Lamentations",
+    "difficulty": "Easy"
+  },
+  {
+    "text": "How does Lamentations portray the enemies of Jerusalem?",
+    "options": ["As weak and easily defeated", "As instruments of God's judgment, but also gloating", "As allies in disguise", "As unimportant"],
+    "correctAnswerIndex": 1,
+    "book": "Lamentations",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "The detailed descriptions of suffering in Lamentations serve to emphasize the depth of the loss and the severity of what?",
+    "options": ["The famine", "The siege", "The consequences of sin and God's judgment", "The Babylonian cruelty"],
+    "correctAnswerIndex": 2,
+    "book": "Lamentations",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "Despite the overwhelming sorrow, the central message of hope in Lamentations 3 provides a crucial turning point based on God's what?",
+    "options": ["Anger", "Power", "Character (love, mercy, faithfulness)", "Judgment"],
+    "correctAnswerIndex": 2,
+    "book": "Lamentations",
+    "difficulty": "Easy"
   }
 ]

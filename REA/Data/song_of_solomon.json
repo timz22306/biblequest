@@ -88,5 +88,275 @@
     "difficulty": "Easy",
     "verseReference": "Song of Solomon 8:7",
     "verseText": "Many waters cannot quench love, neither can floods drown it. If a man offered for love all the wealth of his house, he would be utterly despised."
+  },
+  {
+    "text": "What does the woman desire from her beloved in the opening verses, comparing his love to wine?",
+    "options": ["Gifts of gold", "Kisses of his mouth", "Songs of praise", "Promises of loyalty"],
+    "correctAnswerIndex": 1,
+    "book": "Song of Solomon",
+    "difficulty": "Medium",
+    "verseReference": "Song of Solomon 1:2",
+    "verseText": "Let him kiss me with the kisses of his mouth! For your love is better than wine;"
+  },
+  {
+    "text": "Why does the woman say the 'daughters of Jerusalem' should not gaze at her because she is dark?",
+    "options": ["She is ashamed of her appearance", "The sun has looked upon her", "She is royalty", "She prefers to be unseen"],
+    "correctAnswerIndex": 1,
+    "book": "Song of Solomon",
+    "difficulty": "Medium",
+    "verseReference": "Song of Solomon 1:6",
+    "verseText": "Do not gaze at me because I am dark, because the sun has looked upon me. My mother's sons were angry with me; they made me keeper of the vineyards, but my own vineyard I have not kept!"
+  },
+  {
+    "text": "What does the beloved compare his lover to, standing out among other women, like a flower among thorns?",
+    "options": ["A rose among daisies", "A lily among brambles", "A sunflower among weeds", "An orchid among nettles"],
+    "correctAnswerIndex": 1,
+    "book": "Song of Solomon",
+    "difficulty": "Medium",
+    "verseReference": "Song of Solomon 2:2",
+    "verseText": "As a lily among brambles, so is my love among the young women."
+  },
+  {
+    "text": "How does the woman describe her beloved in comparison to other young men, using a tree metaphor?",
+    "options": ["Like a sturdy oak", "Like a tall cedar", "Like an apple tree among the trees of the forest", "Like a weeping willow"],
+    "correctAnswerIndex": 2,
+    "book": "Song of Solomon",
+    "difficulty": "Medium",
+    "verseReference": "Song of Solomon 2:3",
+    "verseText": "As an apple tree among the trees of the forest, so is my beloved among the young men. With great delight I sat in his shadow, and his fruit was sweet to my taste."
+  },
+  {
+    "text": "What request does the woman make because she is 'sick with love'?",
+    "options": ["Bring her water", "Sustain her with raisins, refresh her with apples", "Sing her a song", "Leave her alone"],
+    "correctAnswerIndex": 1,
+    "book": "Song of Solomon",
+    "difficulty": "Medium",
+    "verseReference": "Song of Solomon 2:5",
+    "verseText": "Sustain me with raisins; refresh me with apples, for I am sick with love."
+  },
+  {
+    "text": "What season's arrival is announced by the beloved, marked by singing birds and blossoming flowers?",
+    "options": ["Summer", "Autumn", "Winter", "Spring"],
+    "correctAnswerIndex": 3,
+    "book": "Song of Solomon",
+    "difficulty": "Easy",
+    "verseReference": "Song of Solomon 2:11-12",
+    "verseText": "for behold, the winter is past; the rain is over and gone. The flowers appear on the earth, the time of singing has come, and the voice of the turtledove is heard in our land."
+  },
+  {
+    "text": "In a nighttime search, who does the woman seek in the streets and squares of the city?",
+    "options": ["Her lost sheep", "Her mother", "Him whom her soul loves", "The city guards"],
+    "correctAnswerIndex": 2,
+    "book": "Song of Solomon",
+    "difficulty": "Easy",
+    "verseReference": "Song of Solomon 3:1-2",
+    "verseText": "On my bed by night I sought him whom my soul loves; I sought him, but found him not. I will rise now and go about the city, in the streets and in the squares; I will seek him whom my soul loves."
+  },
+  {
+    "text": "Who does the woman encounter while searching for her beloved at night?",
+    "options": ["Her brothers", "The king", "The watchmen", "Other young women"],
+    "correctAnswerIndex": 2,
+    "book": "Song of Solomon",
+    "difficulty": "Medium",
+    "verseReference": "Song of Solomon 3:3",
+    "verseText": "The watchmen found me as they went about in the city. “Have you seen him whom my soul loves?”"
+  },
+  {
+    "text": "What structure did King Solomon make for himself from the wood of Lebanon, featuring silver posts and a purple seat?",
+    "options": ["A throne", "A temple", "A palanquin (sedan chair)", "A chariot"],
+    "correctAnswerIndex": 2,
+    "book": "Song of Solomon",
+    "difficulty": "Hard",
+    "verseReference": "Song of Solomon 3:9-10",
+    "verseText": "King Solomon made himself a palanquin from the wood of Lebanon. He made its posts of silver, its back of gold, its seat of purple; its interior was lovingly inlaid by the daughters of Jerusalem."
+  },
+  {
+    "text": "The beloved describes his lover's hair using what pastoral image?",
+    "options": ["Like strands of gold", "Like a field of wheat", "Like a flock of goats descending from Gilead", "Like flowing water"],
+    "correctAnswerIndex": 2,
+    "book": "Song of Solomon",
+    "difficulty": "Medium",
+    "verseReference": "Song of Solomon 4:1",
+    "verseText": "Behold, you are beautiful, my love, behold, you are beautiful! Your eyes are doves behind your veil. Your hair is like a flock of goats leaping down the slopes of Gilead."
+  },
+  {
+    "text": "What are the lover's teeth compared to?",
+    "options": ["Pearls", "Stars", "A flock of shorn ewes", "White stones"],
+    "correctAnswerIndex": 2,
+    "book": "Song of Solomon",
+    "difficulty": "Medium",
+    "verseReference": "Song of Solomon 4:2",
+    "verseText": "Your teeth are like a flock of shorn ewes that have come up from the washing, all of which bear twins, and not one among them has lost its young."
+  },
+  {
+    "text": "The lover's neck is compared to what structure, adorned with shields?",
+    "options": ["A mountain peak", "A tall tree", "The tower of David", "A city wall"],
+    "correctAnswerIndex": 2,
+    "book": "Song of Solomon",
+    "difficulty": "Hard",
+    "verseReference": "Song of Solomon 4:4",
+    "verseText": "Your neck is like the tower of David, built in courses; on it hang a thousand shields, all of them shields of warriors."
+  },
+  {
+    "text": "The woman is described as a 'garden locked up'. What does this metaphor likely signify?",
+    "options": ["Her beauty is hidden", "Her chastity and exclusivity for her beloved", "Her lack of emotion", "Her need for protection"],
+    "correctAnswerIndex": 1,
+    "book": "Song of Solomon",
+    "difficulty": "Medium",
+    "verseReference": "Song of Solomon 4:12",
+    "verseText": "A garden locked is my sister, my bride, a spring locked, a fountain sealed."
+  },
+  {
+    "text": "What spices and perfumes are mentioned as flowing from the 'garden' (the woman)?",
+    "options": ["Salt and vinegar", "Dust and ashes", "Nard, saffron, calamus, cinnamon, frankincense, myrrh, aloes", "Mustard and pepper"],
+    "correctAnswerIndex": 2,
+    "book": "Song of Solomon",
+    "difficulty": "Hard",
+    "verseReference": "Song of Solomon 4:13-14",
+    "verseText": "Your shoots are an orchard of pomegranates with choice fruits, henna with nard, nard and saffron, calamus and cinnamon, with all trees of frankincense, myrrh and aloes, with all choice spices—"
+  },
+  {
+    "text": "In another nighttime scene, why does the woman hesitate to open the door for her beloved?",
+    "options": ["She is angry with him", "She doesn't hear him knocking", "She has already washed her feet and taken off her robe", "She is afraid"],
+    "correctAnswerIndex": 2,
+    "book": "Song of Solomon",
+    "difficulty": "Medium",
+    "verseReference": "Song of Solomon 5:3",
+    "verseText": "I had put off my garment; how could I put it on? I had bathed my feet; how could I soil them?"
+  },
+  {
+    "text": "What fragrant spice did the beloved leave on the handles of the lock when he departed?",
+    "options": ["Cinnamon", "Frankincense", "Myrrh", "Saffron"],
+    "correctAnswerIndex": 2,
+    "book": "Song of Solomon",
+    "difficulty": "Medium",
+    "verseReference": "Song of Solomon 5:5",
+    "verseText": "I arose to open to my beloved, and my hands dripped with myrrh, my fingers with liquid myrrh, on the handles of the bolt."
+  },
+  {
+    "text": "How do the 'daughters of Jerusalem' describe the beloved's appearance when the woman asks what makes him special?",
+    "options": ["Dark and thin", "Old and frail", "Radiant and ruddy, distinguished among ten thousand", "Short and plain"],
+    "correctAnswerIndex": 2,
+    "book": "Song of Solomon",
+    "difficulty": "Medium",
+    "verseReference": "Song of Solomon 5:10",
+    "verseText": "My beloved is radiant and ruddy, distinguished among ten thousand."
+  },
+  {
+    "text": "The beloved's head is described as the finest type of what precious metal?",
+    "options": ["Silver", "Bronze", "Gold", "Platinum"],
+    "correctAnswerIndex": 2,
+    "book": "Song of Solomon",
+    "difficulty": "Medium",
+    "verseReference": "Song of Solomon 5:11",
+    "verseText": "His head is the finest gold; his locks are wavy, black as a raven."
+  },
+  {
+    "text": "Where has the beloved gone, according to the woman's response to the daughters of Jerusalem?",
+    "options": ["To war", "To his garden, to browse and gather lilies", "To the city market", "To visit the king"],
+    "correctAnswerIndex": 1,
+    "book": "Song of Solomon",
+    "difficulty": "Easy",
+    "verseReference": "Song of Solomon 6:2",
+    "verseText": "My beloved has gone down to his garden to the beds of spices, to graze in the gardens and to gather lilies."
+  },
+  {
+    "text": "How many queens and concubines are mentioned, whom the beloved's perfect one surpasses?",
+    "options": ["Ten queens, twenty concubines", "Forty queens, fifty concubines", "Sixty queens, eighty concubines", "One hundred queens, countless concubines"],
+    "correctAnswerIndex": 2,
+    "book": "Song of Solomon",
+    "difficulty": "Hard",
+    "verseReference": "Song of Solomon 6:8-9",
+    "verseText": "There are sixty queens and eighty concubines, and virgins without number. My dove, my perfect one, is the only one, the darling of her mother, flawless to her that bore her."
+  },
+  {
+    "text": "The lover's beauty is described as awe-inspiring, like what celestial bodies or military formation?",
+    "options": ["Like the sun, moon, and stars", "Like a gentle stream", "Terrible as an army with banners", "Like a quiet forest"],
+    "correctAnswerIndex": 2,
+    "book": "Song of Solomon",
+    "difficulty": "Medium",
+    "verseReference": "Song of Solomon 6:4",
+    "verseText": "You are beautiful as Tirzah, my love, lovely as Jerusalem, awesome as an army with banners."
+  },
+  {
+    "text": "What part of the lover's body is praised with the words, 'How beautiful are your feet in sandals, O prince's daughter!'?",
+    "options": ["Her hands", "Her eyes", "Her feet", "Her hair"],
+    "correctAnswerIndex": 2,
+    "book": "Song of Solomon",
+    "difficulty": "Easy",
+    "verseReference": "Song of Solomon 7:1",
+    "verseText": "How beautiful are your feet in sandals, O noble daughter! Your rounded thighs are like jewels, the work of a master hand."
+  },
+  {
+    "text": "The lover's navel is compared to what kind of vessel?",
+    "options": ["A golden cup", "A silver bowl", "A rounded goblet never lacking mixed wine", "An empty jar"],
+    "correctAnswerIndex": 2,
+    "book": "Song of Solomon",
+    "difficulty": "Hard",
+    "verseReference": "Song of Solomon 7:2",
+    "verseText": "Your navel is a rounded bowl that never lacks mixed wine. Your belly is a heap of wheat, encircled with lilies."
+  },
+  {
+    "text": "What fruit does the beloved intend to climb the 'palm tree' (the woman) to grasp?",
+    "options": ["Apples", "Figs", "Dates", "Pomegranates"],
+    "correctAnswerIndex": 2,
+    "book": "Song of Solomon",
+    "difficulty": "Medium",
+    "verseReference": "Song of Solomon 7:7-8",
+    "verseText": "Your stature is like a palm tree, and your breasts are like its clusters. I say I will climb the palm tree and lay hold of its fruit."
+  },
+  {
+    "text": "What invitation does the woman extend to her beloved, suggesting they go out into the fields and villages?",
+    "options": ["To build a house", "To meet her family", "To lodge in the villages and see if the vines have budded", "To attend a festival"],
+    "correctAnswerIndex": 2,
+    "book": "Song of Solomon",
+    "difficulty": "Easy",
+    "verseReference": "Song of Solomon 7:11-12",
+    "verseText": "Come, my beloved, let us go out into the fields and lodge in the villages; let us go out early to the vineyards and see whether the vines have budded, whether the grape blossoms have opened and the pomegranates are in bloom."
+  },
+  {
+    "text": "What does the woman wish her beloved were like, so she could kiss him publicly without being despised?",
+    "options": ["A king", "A warrior", "A brother nursed at her mother's breasts", "A wealthy merchant"],
+    "correctAnswerIndex": 2,
+    "book": "Song of Solomon",
+    "difficulty": "Medium",
+    "verseReference": "Song of Solomon 8:1",
+    "verseText": "Oh that you were like a brother to me who nursed at my mother's breasts! If I found you outside, I would kiss you, and none would despise me."
+  },
+  {
+    "text": "Love is described as being as strong as what inevitable force?",
+    "options": ["The wind", "The sea", "Death", "Time"],
+    "correctAnswerIndex": 2,
+    "book": "Song of Solomon",
+    "difficulty": "Easy",
+    "verseReference": "Song of Solomon 8:6",
+    "verseText": "Set me as a seal upon your heart, as a seal upon your arm, for love is strong as death, jealousy is fierce as the grave."
+  },
+  {
+    "text": "Jealousy (or passion) is described as being as fierce or relentless as what?",
+    "options": ["A lion", "A storm", "The grave (Sheol)", "Fire"],
+    "correctAnswerIndex": 2,
+    "book": "Song of Solomon",
+    "difficulty": "Medium",
+    "verseReference": "Song of Solomon 8:6",
+    "verseText": "Set me as a seal upon your heart, as a seal upon your arm, for love is strong as death, jealousy is fierce as the grave. Its flashes are flashes of fire, the very flame of the LORD."
+  },
+  {
+    "text": "What would happen if someone tried to offer all their wealth in exchange for love?",
+    "options": ["They would succeed", "They would be praised for their effort", "They would be utterly despised", "Love would be diminished"],
+    "correctAnswerIndex": 2,
+    "book": "Song of Solomon",
+    "difficulty": "Easy",
+    "verseReference": "Song of Solomon 8:7",
+    "verseText": "Many waters cannot quench love, neither can floods drown it. If a man offered for love all the wealth of his house, he would be utterly despised."
+  },
+  {
+    "text": "In the final verses, the woman describes herself as a wall and her breasts like towers, signifying what?",
+    "options": ["Her weakness and vulnerability", "Her maturity and readiness for marriage", "Her anger and defensiveness", "Her desire to be left alone"],
+    "correctAnswerIndex": 1,
+    "book": "Song of Solomon",
+    "difficulty": "Medium",
+    "verseReference": "Song of Solomon 8:10",
+    "verseText": "I was a wall, and my breasts were like towers; then I was in his eyes as one who finds peace."
   }
 ]

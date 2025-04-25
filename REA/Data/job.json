@@ -88,5 +88,1130 @@
     "difficulty": "Easy",
     "verseReference": "Job 2:11",
     "verseText": "Now when Job's three friends heard of all this evil that had come upon him, they came each from his own place, Eliphaz the Temanite, Bildad the Shuhite, and Zophar the Naamathite. They made an appointment together to come to show him sympathy and comfort him."
+  },
+  {
+    "text": "How many sons and daughters did Job have initially?",
+    "options": ["Seven sons and three daughters", "Ten sons", "Five sons and five daughters", "Three sons and seven daughters"],
+    "correctAnswerIndex": 0,
+    "book": "Job",
+    "difficulty": "Easy",
+    "verseReference": "Job 1:2",
+    "verseText": "There were born to him seven sons and three daughters."
+  },
+  {
+    "text": "What did Job regularly do on behalf of his children in case they had sinned?",
+    "options": ["Fast", "Offer burnt offerings", "Give alms", "Pray publicly"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 1:5",
+    "verseText": "And when the days of the feast had run their course, Job would send and consecrate them, and he would rise early in the morning and offer burnt offerings according to the number of them all. For Job said, “It may be that my children have sinned, and cursed God in their hearts.” Thus Job did continually."
+  },
+  {
+    "text": "Besides livestock and servants, what other major loss did Job suffer in the first wave of catastrophes?",
+    "options": ["His house collapsed", "His wife left him", "All his children died", "A plague struck his land"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 1:18-19",
+    "verseText": "While he was yet speaking, there came another and said, “Your sons and daughters were eating and drinking wine in their oldest brother's house, and behold, a great wind came across the wilderness and struck the four corners of the house, and it fell upon the young people, and they are dead, and I alone have escaped to tell you.”"
+  },
+  {
+    "text": "What phrase did Job utter, expressing submission after his initial losses?",
+    "options": ["Why me, O Lord?", "The LORD gave, and the LORD has taken away; blessed be the name of the LORD.", "Satan has done this to me.", "My friends will comfort me."],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Easy",
+    "verseReference": "Job 1:21",
+    "verseText": "And he said, “Naked I came from my mother's womb, and naked shall I return. The LORD gave, and the LORD has taken away; blessed be the name of the LORD.”"
+  },
+  {
+    "text": "In the second heavenly council, what did Satan claim Job would do if his own body were afflicted?",
+    "options": ["Repent", "Curse God to His face", "Seek help from idols", "Blame his friends"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 2:5",
+    "verseText": "But stretch out your hand and touch his bone and his flesh, and he will curse you to your face."
+  },
+  {
+    "text": "What did Job use to scrape his sores?",
+    "options": ["A piece of metal", "A smooth stone", "A piece of broken pottery", "His fingernails"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Easy",
+    "verseReference": "Job 2:8",
+    "verseText": "And he took a piece of broken pottery with which to scrape himself while he sat in the ashes."
+  },
+  {
+    "text": "How did Job respond to his wife's suggestion to curse God?",
+    "options": ["He agreed with her", "He remained silent", "He rebuked her for speaking foolishly", "He asked her to pray for him"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 2:10",
+    "verseText": "But he said to her, “You speak as one of the foolish women would speak. Shall we receive good from God, and shall we not receive evil?” In all this Job did not sin with his lips."
+  },
+  {
+    "text": "How long did Job's three friends sit with him in silence before speaking?",
+    "options": ["One day and one night", "Three days and three nights", "Seven days and seven nights", "Forty days and forty nights"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 2:13",
+    "verseText": "And they sat with him on the ground seven days and seven nights, and no one spoke a word to him, for they saw that his suffering was very great."
+  },
+  {
+    "text": "What did Job curse in his first speech after the silence?",
+    "options": ["God", "Satan", "His friends", "The day of his birth"],
+    "correctAnswerIndex": 3,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 3:1",
+    "verseText": "After this Job opened his mouth and cursed the day of his birth."
+  },
+  {
+    "text": "Who was the first friend to speak in response to Job's lament?",
+    "options": ["Bildad the Shuhite", "Zophar the Naamathite", "Elihu the Buzite", "Eliphaz the Temanite"],
+    "correctAnswerIndex": 3,
+    "book": "Job",
+    "difficulty": "Easy",
+    "verseReference": "Job 4:1",
+    "verseText": "Then Eliphaz the Temanite answered and said:"
+  },
+  {
+    "text": "What was the main point of Eliphaz's first speech?",
+    "options": ["Job must have sinned to deserve such suffering.", "God is testing Job's faith.", "Satan is the cause of Job's problems.", "Job should seek medical help."],
+    "correctAnswerIndex": 0,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 4-5",
+    "verseText": "(Summary) Eliphaz suggests that the innocent do not perish and suffering comes from wrongdoing, recounting a vision emphasizing human impurity before God and advising Job to seek God."
+  },
+  {
+    "text": "Eliphaz recounted a vision. What was the central message of the spirit in his vision?",
+    "options": ["Job would be restored soon.", "Can a mortal be pure before God?", "Satan has limited power.", "Job's friends were wrong."],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Hard",
+    "verseReference": "Job 4:17",
+    "verseText": "‘Can mortal man be in the right before God? Can a man be pure before his Maker?’"
+  },
+  {
+    "text": "In his reply to Eliphaz, what did Job wish God would do?",
+    "options": ["Restore his health immediately", "Crush him and end his life", "Explain the reason for his suffering", "Punish his friends"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 6:8-9",
+    "verseText": "“Oh that I might have my request, and that God would grant my desire, that it would please God to crush me, that he would let loose his hand and cut me off!"
+  },
+  {
+    "text": "How did Job describe his friends' comfort in his first reply?",
+    "options": ["Like a soothing balm", "Like a refreshing stream", "Like deceitful brooks that dry up", "Like wise counsel"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 6:15",
+    "verseText": "My brothers are treacherous as a torrent-bed, as torrential streams that pass away,"
+  },
+  {
+    "text": "Who was the second friend to speak to Job?",
+    "options": ["Eliphaz", "Zophar", "Bildad", "Elihu"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Easy",
+    "verseReference": "Job 8:1",
+    "verseText": "Then Bildad the Shuhite answered and said:"
+  },
+  {
+    "text": "What analogy did Bildad use to illustrate the fate of those who forget God?",
+    "options": ["A tree cut down", "A wilting papyrus reed", "A broken pot", "A wandering star"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 8:11-13",
+    "verseText": "“Can papyrus grow where there is no marsh? Can reeds flourish where there is no water? While yet in flower and not cut down, they wither before any other plant. Such are the paths of all who forget God; the hope of the godless shall perish.”"
+  },
+  {
+    "text": "What was Bildad's main advice to Job?",
+    "options": ["Curse God and die", "Seek God earnestly and plead for mercy", "Blame Satan", "Accept suffering silently"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 8:5-6",
+    "verseText": "If you will seek God and plead with the Almighty for mercy, if you are pure and upright, surely then he will rouse himself for you and restore your rightful habitation."
+  },
+  {
+    "text": "In his reply to Bildad, Job questioned how a man could be what before God?",
+    "options": ["Wealthy", "Healthy", "Righteous", "Happy"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 9:2",
+    "verseText": "“Truly I know that it is so: But how can a man be in the right before God?”"
+  },
+  {
+    "text": "Job expressed a desire for what kind of intermediary between himself and God?",
+    "options": ["A priest", "An angel", "An arbiter or umpire", "A king"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Hard",
+    "verseReference": "Job 9:33",
+    "verseText": "There is no arbiter between us, who might lay his hand on us both."
+  },
+  {
+    "text": "Who was the third friend to speak to Job?",
+    "options": ["Eliphaz", "Bildad", "Elihu", "Zophar"],
+    "correctAnswerIndex": 3,
+    "book": "Job",
+    "difficulty": "Easy",
+    "verseReference": "Job 11:1",
+    "verseText": "Then Zophar the Naamathite answered and said:"
+  },
+  {
+    "text": "What did Zophar accuse Job of hiding?",
+    "options": ["Stolen wealth", "Secret sins", "Disrespect for his friends", "A plot against God"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 11:5-6",
+    "verseText": "But oh, that God would speak and open his lips to you, and that he would tell you the secrets of wisdom! For he is manifold in understanding. Know then that God exacts of you less than your guilt deserves."
+  },
+  {
+    "text": "Zophar suggested that if Job repented, his life would be what?",
+    "options": ["Restored twofold", "Ended quickly", "Brighter than the noonday", "Filled with new friends"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 11:17",
+    "verseText": "And your life will be brighter than the noonday; its darkness will be like the morning."
+  },
+  {
+    "text": "In response to Zophar, Job sarcastically claimed that what would die with his friends?",
+    "options": ["Hope", "Wealth", "Wisdom", "Faith"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 12:2",
+    "verseText": "“No doubt you are the people, and wisdom will die with you.”"
+  },
+  {
+    "text": "Job asserted his desire to argue his case directly with whom?",
+    "options": ["Satan", "His wife", "The elders of Uz", "God Almighty"],
+    "correctAnswerIndex": 3,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 13:3",
+    "verseText": "But I would speak to the Almighty, and I desire to argue my case with God."
+  },
+  {
+    "text": "How did Job describe his friends' attempts at comfort in chapter 13?",
+    "options": ["Physicians of no value", "Wise counselors", "True companions", "Messengers from God"],
+    "correctAnswerIndex": 0,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 13:4",
+    "verseText": "As for you, you whitewash with lies; worthless physicians are you all."
+  },
+  {
+    "text": "Job compared human life to what transient things in chapter 14?",
+    "options": ["A fleeting shadow and a flower", "A flowing river and a cloud", "A burning candle and smoke", "A falling star and dust"],
+    "correctAnswerIndex": 0,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 14:1-2",
+    "verseText": "“Man who is born of a woman is few of days and full of trouble. He comes out like a flower and withers; he flees like a shadow and continues not.”"
+  },
+  {
+    "text": "What question did Job ponder regarding death in chapter 14?",
+    "options": ["Will suffering end at death?", "If a man dies, shall he live again?", "Where do the dead go?", "Do the dead remember the living?"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Hard",
+    "verseReference": "Job 14:14",
+    "verseText": "If a man dies, shall he live again? All the days of my service I would wait, till my renewal should come."
+  },
+  {
+    "text": "In the second cycle of speeches, what did Eliphaz accuse Job's words of being?",
+    "options": ["Wise and profound", "Comforting and helpful", "Empty talk and windy knowledge", "Inspired by God"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 15:2-3",
+    "verseText": "“Should a wise man answer with windy knowledge, and fill his belly with the east wind? Should he argue in unprofitable talk, or with words with which he can do no good?”"
+  },
+  {
+    "text": "Eliphaz argued that the wicked live in constant fear of what?",
+    "options": ["Poverty", "Sickness", "Disaster and the sword", "Loneliness"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 15:21-22",
+    "verseText": "The sound of terrors is in his ears; in prosperity the destroyer will come upon him. He does not believe that he will return out of darkness, and he is marked for the sword."
+  },
+  {
+    "text": "How did Job describe his friends in his reply during the second cycle?",
+    "options": ["True friends", "Wise teachers", "Miserable comforters", "God's messengers"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Easy",
+    "verseReference": "Job 16:2",
+    "verseText": "“I have heard many such things; miserable comforters are you all.”"
+  },
+  {
+    "text": "Job claimed that God had become like what to him?",
+    "options": ["A loving father", "A distant observer", "An enemy archer", "A silent judge"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 16:12-13",
+    "verseText": "I was at ease, and he broke me apart; he seized me by the neck and dashed me to pieces; he set me up as his target; his archers surround me."
+  },
+  {
+    "text": "Despite his suffering, Job expressed confidence in having what in heaven?",
+    "options": ["A treasure", "A resting place", "A witness or advocate", "An escape"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Hard",
+    "verseReference": "Job 16:19",
+    "verseText": "Even now, behold, my witness is in heaven, and he who testifies for me is on high."
+  },
+  {
+    "text": "In Bildad's second speech, he described the fate of the wicked using what imagery?",
+    "options": ["A flourishing tree", "A light being put out", "A strong fortress", "A peaceful river"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 18:5-6",
+    "verseText": "“Indeed, the light of the wicked is put out, and the flame of his fire does not shine. The light is dark in his tent, and his lamp above him is put out.”"
+  },
+  {
+    "text": "Bildad implied Job's suffering was due to him being caught in what?",
+    "options": ["A political conflict", "A natural disaster", "A net of his own making (sin)", "A test from God"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 18:8",
+    "verseText": "For he is cast into a net by his own feet, and he walks on its mesh."
+  },
+  {
+    "text": "In his famous response in chapter 19, Job expressed a profound hope, stating 'I know that my ______ lives'.",
+    "options": ["Father", "Judge", "Redeemer", "King"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Easy",
+    "verseReference": "Job 19:25",
+    "verseText": "For I know that my Redeemer lives, and at the last he will stand upon the earth."
+  },
+  {
+    "text": "What did Job believe he would see, even after his skin was destroyed?",
+    "options": ["His children again", "His wealth restored", "God", "His friends repent"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Hard",
+    "verseReference": "Job 19:26",
+    "verseText": "And after my skin has been thus destroyed, yet in my flesh I shall see God,"
+  },
+  {
+    "text": "How did Job describe the reaction of his relatives and acquaintances to his suffering?",
+    "options": ["They supported him", "They prayed for him", "They were estranged and alienated from him", "They offered financial help"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 19:13-14",
+    "verseText": "“He has put my brothers far from me, and those who knew me are wholly estranged from me. My relatives have failed me, my close friends have forgotten me.”"
+  },
+  {
+    "text": "In Zophar's second speech, what did he claim about the prosperity of the wicked?",
+    "options": ["It is long-lasting", "It leads to true happiness", "It is short-lived", "It is a sign of God's favor"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 20:5",
+    "verseText": "that the exulting of the wicked is short, and the joy of the godless but for a moment?"
+  },
+  {
+    "text": "Zophar compared the wicked person's ill-gotten gains to what?",
+    "options": ["Sweet honey", "Poisonous food that turns sour", "Fine wine", "Precious jewels"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 20:12-14",
+    "verseText": "“Though evil is sweet in his mouth, though he hides it under his tongue, though he is loath to let it go and holds it in his mouth, yet his food is turned in his stomach; it is the venom of cobras within him.”"
+  },
+  {
+    "text": "In his reply to Zophar (chapter 21), what observation did Job make that contradicted his friends' arguments?",
+    "options": ["The righteous always prosper", "The wicked often live long, prosperous lives", "Suffering is always brief", "God answers prayers immediately"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 21:7",
+    "verseText": "Why do the wicked live, reach old age, and grow mighty in power?"
+  },
+  {
+    "text": "Job questioned why the punishment for the wicked doesn't always fall on them but sometimes on whom?",
+    "options": ["Their parents", "Their servants", "Their children", "Their friends"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Hard",
+    "verseReference": "Job 21:19",
+    "verseText": "You say, ‘God stores up their iniquity for their children.’ Let him pay it out to them themselves, that they may know it."
+  },
+  {
+    "text": "In the third cycle, what specific sins did Eliphaz accuse Job of committing?",
+    "options": ["Idolatry and blasphemy", "Murder and theft", "Exploiting the poor, withholding water, mistreating widows/orphans", "Lying to his friends"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 22:6-9",
+    "verseText": "For you have exacted pledges of your brothers for nothing and stripped the naked of their clothing. You have given no water to the weary to drink, and you have withheld bread from the hungry... You have sent widows away empty-handed, and the arms of the fatherless were crushed."
+  },
+  {
+    "text": "What did Eliphaz advise Job to do to find peace and restoration?",
+    "options": ["Argue his case more strongly", "Agree with God and be at peace", "Consult a different advisor", "Leave Uz"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 22:21",
+    "verseText": "“Agree with God, and be at peace; thereby good will come to you.”"
+  },
+  {
+    "text": "In his response (chapter 23), what was Job's primary lament regarding God?",
+    "options": ["God was too harsh", "He could not find God to plead his case", "God was ignoring his friends", "God had forgotten him"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 23:3",
+    "verseText": "Oh, that I knew where I might find him, that I might come even to his seat!"
+  },
+  {
+    "text": "Despite his inability to find God, Job expressed confidence that God knew what?",
+    "options": ["The location of his lost wealth", "The way that he took (his path/integrity)", "The names of his accusers", "The date his suffering would end"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Hard",
+    "verseReference": "Job 23:10",
+    "verseText": "But he knows the way that I take; when he has tried me, I shall come out as gold."
+  },
+  {
+    "text": "In chapter 24, Job lamented the fact that God does not seem to set specific times for what?",
+    "options": ["Festivals", "Judgment on the wicked", "Restoration for the righteous", "Answering prayers"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Hard",
+    "verseReference": "Job 24:1",
+    "verseText": "“Why are not times of judgment kept by the Almighty, and why do those who know him never see his days?”"
+  },
+  {
+    "text": "Bildad's third speech (chapter 25) is notably short. What is its main theme?",
+    "options": ["Job's specific sins", "The hope of resurrection", "Man's insignificance and impurity compared to God's majesty", "The power of Satan"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 25:4-6",
+    "verseText": "How then can man be in the right before God? How can he who is born of woman be pure? Behold, even the moon is not bright, and the stars are not pure in his eyes; how much less man, who is a maggot, and the son of man, who is a worm!”"
+  },
+  {
+    "text": "In Job's response starting in chapter 26, he sarcastically questions how much his friends have helped whom?",
+    "options": ["The poor and needy", "Himself", "The powerless and the arm that has no strength", "God"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 26:2",
+    "verseText": "“How you have helped him who has no power! How you have saved the arm that has no strength!”"
+  },
+  {
+    "text": "Job described God's power over creation, including stretching out the north over what?",
+    "options": ["The waters", "The empty place", "The mountains", "The underworld (Sheol)"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Hard",
+    "verseReference": "Job 26:7",
+    "verseText": "He stretches out the north over the void and hangs the earth on nothing."
+  },
+  {
+    "text": "In chapter 27, Job took an oath, vowing that his lips would not speak what?",
+    "options": ["Praise to God", "Curses against his friends", "Wickedness or deceit", "His own praises"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 27:4",
+    "verseText": "my lips will not speak falsehood, and my tongue will not utter deceit."
+  },
+  {
+    "text": "Chapter 28 is a hymn about wisdom. Where does it say wisdom cannot be found?",
+    "options": ["In the heavens", "In the land of the living or the deep sea", "In the king's court", "Through diligent study"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 28:12-14",
+    "verseText": "“But where shall wisdom be found? And where is the place of understanding? Man does not know its worth, and it is not found in the land of the living. The deep says, ‘It is not in me,’ and the sea says, ‘It is not with me.’”"
+  },
+  {
+    "text": "According to chapter 28, what is the beginning (or essence) of wisdom?",
+    "options": ["Acquiring wealth", "Understanding nature", "The fear of the Lord", "Debating skillfully"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Easy",
+    "verseReference": "Job 28:28",
+    "verseText": "And he said to man, ‘Behold, the fear of the Lord, that is wisdom, and to turn away from evil is understanding.’”"
+  },
+  {
+    "text": "In chapter 29, what time period did Job long for?",
+    "options": ["His childhood", "The months of old when God watched over him", "The future restoration", "The time before his children were born"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 29:2",
+    "verseText": "“Oh, that I were as in the months of old, as in the days when God watched over me,”"
+  },
+  {
+    "text": "How did Job describe his former status and actions in the community (chapter 29)?",
+    "options": ["He was ignored and powerless", "He was respected, helped the poor, and upheld justice", "He was feared for his harshness", "He kept to himself"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 29:7-17",
+    "verseText": "(Summary) Job recounts how he was respected by young and old, sat as chief, delivered the poor and fatherless, was eyes to the blind and feet to the lame."
+  },
+  {
+    "text": "In contrast to his former respect, how did Job say he was treated now (chapter 30)?",
+    "options": ["With pity and sympathy", "With continued respect", "Mocked and scorned, even by younger men", "Ignored completely"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 30:1",
+    "verseText": "“But now they laugh at me, men who are younger than I, whose fathers I would have disdained to set with the dogs of my flock.”"
+  },
+  {
+    "text": "Job described his physical suffering in chapter 30, saying his skin turned what color?",
+    "options": ["Red", "Pale", "Black", "Yellow"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 30:30",
+    "verseText": "My skin turns black and falls from me, and my bones burn with heat."
+  },
+  {
+    "text": "Chapter 31 contains Job's final oath of innocence. What is one type of sin he swore he had not committed?",
+    "options": ["Blasphemy", "Lust or adultery", "Disobeying his parents", "Ignoring the Sabbath"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 31:1",
+    "verseText": "“I have made a covenant with my eyes; how then could I gaze at a virgin?”"
+  },
+  {
+    "text": "In his oath, Job declared he had not rejoiced at the ruin of whom?",
+    "options": ["His enemies", "His friends", "Foreign nations", "Wild animals"],
+    "correctAnswerIndex": 0,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 31:29",
+    "verseText": "“If I have rejoiced at the ruin of him who hated me, or exulted when evil overtook him”"
+  },
+  {
+    "text": "Job swore he had not put his trust in what, instead of God?",
+    "options": ["His wisdom", "His friends", "Gold or wealth", "His physical strength"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 31:24-25",
+    "verseText": "“If I have made gold my trust or called fine gold my confidence, if I have rejoiced because my wealth was abundant or because my hand had found much...”"
+  },
+  {
+    "text": "Job concluded his oath by wishing what?",
+    "options": ["His friends would apologize", "God would answer him", "His suffering would end", "Satan would be punished"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 31:35",
+    "verseText": "Oh, that I had one to hear me! (Here is my signature! Let the Almighty answer me!) Oh, that I had the indictment written by my adversary!"
+  },
+  {
+    "text": "After Job's final speech, why did his three friends stop answering him?",
+    "options": ["They were convinced by his arguments", "They were tired", "Because he was righteous in his own eyes", "God told them to be silent"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 32:1",
+    "verseText": "So these three men ceased to answer Job, because he was righteous in his own eyes."
+  },
+  {
+    "text": "Who began to speak after Job and his three friends fell silent?",
+    "options": ["God", "Satan", "Job's wife", "Elihu son of Barachel the Buzite"],
+    "correctAnswerIndex": 3,
+    "book": "Job",
+    "difficulty": "Easy",
+    "verseReference": "Job 32:2",
+    "verseText": "Then Elihu the son of Barachel the Buzite, of the family of Ram, burned with anger. He burned with anger at Job because he justified himself rather than God."
+  },
+  {
+    "text": "Why was Elihu initially hesitant to speak?",
+    "options": ["He was afraid of Job", "He was younger than the other men", "He didn't know what to say", "God told him to wait"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Easy",
+    "verseReference": "Job 32:6-7",
+    "verseText": "And Elihu the son of Barachel the Buzite answered and said: “I am young in years, and you are aged; therefore I was timid and afraid to declare my opinion to you. I said, ‘Let days speak, and many years teach wisdom.’”"
+  },
+  {
+    "text": "What did Elihu claim gives understanding, rather than just age?",
+    "options": ["Wealth", "Experience", "The spirit in man, the breath of the Almighty", "Suffering"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 32:8",
+    "verseText": "But it is the spirit in man, the breath of the Almighty, that makes him understand."
+  },
+  {
+    "text": "Elihu was angry with Job primarily for justifying whom?",
+    "options": ["His friends", "Himself rather than God", "Satan", "His wife"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 32:2",
+    "verseText": "He burned with anger at Job because he justified himself rather than God."
+  },
+  {
+    "text": "Elihu was angry with the three friends for what reason?",
+    "options": ["They spoke too harshly", "They had found no answer to Job, yet condemned him", "They gave up too easily", "They didn't listen to Elihu"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 32:3",
+    "verseText": "He burned with anger also at Job's three friends because they had found no answer, although they had declared Job to be in the wrong."
+  },
+  {
+    "text": "In chapter 33, Elihu suggested God speaks to people in what ways, besides direct speech?",
+    "options": ["Through nature and animals", "Through dreams, visions, and suffering", "Through priests and prophets", "Through historical events"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 33:14-19",
+    "verseText": "For God speaks in one way, and in two, though man does not perceive it. In a dream, in a vision of the night... or he is disciplined with pain on his bed..."
+  },
+  {
+    "text": "According to Elihu, what is one purpose of suffering?",
+    "options": ["Purely punishment", "To reveal hidden talents", "To keep man from pride and redeem his soul", "To test friendships"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Hard",
+    "verseReference": "Job 33:17, 29-30",
+    "verseText": "that he may turn man aside from his deed and conceal pride from a man... Behold, God does all these things, twice, three times, with a man, to bring back his soul from the pit, that he may be lighted with the light of life."
+  },
+  {
+    "text": "In chapter 34, Elihu strongly defended which attribute of God against Job's complaints?",
+    "options": ["God's mercy", "God's justice", "God's hiddenness", "God's power"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 34:10, 12",
+    "verseText": "“Therefore, hear me, you men of understanding: far be it from God that he should do wickedness, and from the Almighty that he should do wrong... Of a truth, God will not do wickedly, and the Almighty will not pervert justice.”"
+  },
+  {
+    "text": "Elihu argued that God is not indifferent because He is the one who gave humans what?",
+    "options": ["Wealth and possessions", "Friends and family", "Breath and spirit", "Laws and commands"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Hard",
+    "verseReference": "Job 34:14-15",
+    "verseText": "If he should set his heart to it and gather to himself his spirit and his breath, all flesh would perish together, and man would return to dust."
+  },
+  {
+    "text": "In chapter 35, Elihu addressed Job's claim that there is no advantage to being what?",
+    "options": ["Wealthy", "Wise", "Righteous", "Patient"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 35:2-3",
+    "verseText": "“Do you think this to be just? Do you say, ‘It is my right before God,’ that you ask, ‘What advantage have I? How am I better off than if I had sinned?’”"
+  },
+  {
+    "text": "Elihu argued that human sin or righteousness does not affect whom directly?",
+    "options": ["The natural world", "One's family", "God Himself", "Satan"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Hard",
+    "verseReference": "Job 35:6-8",
+    "verseText": "If you have sinned, what do you accomplish against him? ... If you are righteous, what do you give to him?... Your wickedness concerns a man like yourself, and your righteousness a son of man."
+  },
+  {
+    "text": "Elihu criticized Job for crying out under oppression but not asking what?",
+    "options": ["'Why me?'", "'Where is God my Maker?'", "'Who are my enemies?'", "'How can I escape?'"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 35:9-10",
+    "verseText": "“Because of the multitude of oppressions people cry out; they call for help because of the arm of the mighty. But none says, ‘Where is God my Maker, who gives songs in the night...'"
+  },
+  {
+    "text": "In chapter 36, Elihu began to extol which aspect of God?",
+    "options": ["His judgment", "His greatness and knowledge", "His mercy", "His silence"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 36:22, 26",
+    "verseText": "“Behold, God is exalted in his power; who is a teacher like him?... Behold, God is great, and we know him not; the number of his years is unsearchable.”"
+  },
+  {
+    "text": "Elihu used natural phenomena like rain, clouds, and lightning to illustrate what?",
+    "options": ["God's anger", "The randomness of nature", "God's power, wisdom, and provision", "The coming judgment"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 36:27-33",
+    "verseText": "(Summary) Elihu describes how God draws up water, distills rain, spreads clouds, and directs lightning, showing His control over nature for sustenance and judgment."
+  },
+  {
+    "text": "Elihu continued his description of God's majesty in nature in chapter 37, mentioning snow, rain, and what else?",
+    "options": ["Earthquakes", "Volcanoes", "Ice and cold", "The stars"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 37:6, 9-10",
+    "verseText": "For to the snow he says, ‘Fall on the earth,’ likewise to the downpour, his mighty downpour... From its chamber comes the whirlwind, and cold from the scattering winds. By the breath of God ice is given, and the broad waters are frozen fast."
+  },
+  {
+    "text": "What question did Elihu pose to Job regarding the balancing of the clouds?",
+    "options": ["Why are clouds white?", "Do you know how the clouds are balanced?", "Can you make it rain?", "How high are the clouds?"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Hard",
+    "verseReference": "Job 37:16",
+    "verseText": "Do you know the balancings of the clouds, the wondrous works of him who is perfect in knowledge,"
+  },
+  {
+    "text": "Elihu concluded his speeches by stating that the Almighty is beyond human finding, excelling in what?",
+    "options": ["Wealth and riches", "Power and justice", "Hiddenness and silence", "Mercy and forgiveness"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 37:23",
+    "verseText": "The Almighty—we cannot find him; he is great in power; justice and abundant righteousness he will not violate."
+  },
+  {
+    "text": "From where did the LORD answer Job after Elihu finished speaking?",
+    "options": ["From heaven", "From a burning bush", "Out of the whirlwind", "Through an angel"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Easy",
+    "verseReference": "Job 38:1",
+    "verseText": "Then the LORD answered Job out of the whirlwind and said:"
+  },
+  {
+    "text": "What was God's first challenge to Job?",
+    "options": ["'Why did you curse your birth?'", "'Who is this that darkens counsel by words without knowledge?'", "'Have you considered my servant Job?'", "'Where were your friends when you suffered?'"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 38:2",
+    "verseText": "“Who is this that darkens counsel by words without knowledge?”"
+  },
+  {
+    "text": "God commanded Job to prepare himself like a man for what purpose?",
+    "options": ["To fight Satan", "To receive blessings", "To answer God's questions", "To lead his people"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 38:3",
+    "verseText": "Dress for action like a man; I will question you, and you make it known to me."
+  },
+  {
+    "text": "God's questions to Job primarily concerned what?",
+    "options": ["Job's hidden sins", "The nature of Satan", "The creation and workings of the natural world", "The history of Israel"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Easy",
+    "verseReference": "Job 38-39",
+    "verseText": "(Summary) God questions Job about the foundations of the earth, the sea, dawn, death, light, darkness, snow, hail, stars, clouds, rain, and various animals."
+  },
+  {
+    "text": "God asked Job where he was when God laid what?",
+    "options": ["The stars in the sky", "The foundations of the earth", "The path for the sun", "The boundaries of the sea"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 38:4",
+    "verseText": "“Where were you when I laid the foundation of the earth? Tell me, if you have understanding.”"
+  },
+  {
+    "text": "God questioned Job about his knowledge of the storehouses of what?",
+    "options": ["Gold and silver", "Wisdom and understanding", "Snow and hail", "Food for the animals"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 38:22",
+    "verseText": "“Have you entered the storehouses of the snow, or have you seen the storehouses of the hail,”"
+  },
+  {
+    "text": "God highlighted His care for animals by asking Job if he provides food for which creature and its young?",
+    "options": ["The sheep", "The lion", "The eagle", "The horse"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 38:39-40",
+    "verseText": "“Can you hunt the prey for the lion, or satisfy the appetite of the young lions, when they crouch in their dens or lie in wait in their thicket?”"
+  },
+  {
+    "text": "Which bird did God describe as treating its young harshly, yet possessing great speed?",
+    "options": ["The eagle", "The raven", "The ostrich", "The hawk"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 39:13-18",
+    "verseText": "(Summary) God describes the ostrich leaving her eggs on the ground, lacking wisdom, but scorning the horse and rider when she runs."
+  },
+  {
+    "text": "God questioned Job about his ability to give strength and its majestic mane to which animal?",
+    "options": ["The lion", "The wild ox", "The horse", "The Behemoth"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Easy",
+    "verseReference": "Job 39:19",
+    "verseText": "“Do you give the horse his might? Do you clothe his neck with a mane?”"
+  },
+  {
+    "text": "After God's first speech, how did Job initially respond?",
+    "options": ["He argued back", "He remained silent", "He said he was small and would lay his hand on his mouth", "He asked for clarification"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 40:3-5",
+    "verseText": "Then Job answered the LORD and said: “Behold, I am of small account; what shall I answer you? I lay my hand on my mouth. I have spoken once, and I will not answer; twice, but I will proceed no further.”"
+  },
+  {
+    "text": "In God's second speech, He challenged Job, asking if Job could annul God's what?",
+    "options": ["Power", "Wisdom", "Judgment", "Mercy"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 40:8",
+    "verseText": "Will you even put me in the wrong? Will you condemn me that you may be in the right?"
+  },
+  {
+    "text": "God described a powerful land creature called Behemoth. What did it eat?",
+    "options": ["Meat", "Fish", "Grass like an ox", "Insects"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Easy",
+    "verseReference": "Job 40:15",
+    "verseText": "“Behold, Behemoth, which I made as I made you; he eats grass like an ox.”"
+  },
+  {
+    "text": "Where did God say Behemoth rests?",
+    "options": ["In the mountains", "In the desert", "Under the lotus plants, in the marshes", "In caves"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 40:21-22",
+    "verseText": "Under the lotus plants he lies, in the shelter of the reeds and in the marsh. For his shade the lotus trees cover him; the willows of the brook surround him."
+  },
+  {
+    "text": "God then described a fearsome sea creature. What is it called?",
+    "options": ["Dragon", "Serpent", "Leviathan", "Kraken"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Easy",
+    "verseReference": "Job 41:1",
+    "verseText": "“Can you draw out Leviathan with a fishhook or press down his tongue with a cord?”"
+  },
+  {
+    "text": "How did God describe Leviathan's scales?",
+    "options": ["Soft and smooth", "Like rows of shields, tightly sealed", "Transparent", "Covered in jewels"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 41:15",
+    "verseText": "His back is made of rows of shields, shut up closely as with a seal."
+  },
+  {
+    "text": "What did God say comes out of Leviathan's mouth?",
+    "options": ["Water", "Poison", "Flames, sparks, and smoke", "Pearls"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 41:19-21",
+    "verseText": "Out of his mouth go flaming torches; sparks of fire leap forth. Out of his nostrils comes forth smoke... His breath kindles coals, and a flame comes forth from his mouth."
+  },
+  {
+    "text": "God stated that Leviathan regards iron as what?",
+    "options": ["A deadly weapon", "Straw", "A valuable treasure", "Something to eat"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 41:27",
+    "verseText": "He counts iron as straw, and bronze as rotten wood."
+  },
+  {
+    "text": "How did God summarize Leviathan's nature?",
+    "options": ["A gentle giant", "A servant to mankind", "King over all the sons of pride", "A symbol of chaos"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Hard",
+    "verseReference": "Job 41:34",
+    "verseText": "He sees everything that is high; he is king over all the sons of pride.”"
+  },
+  {
+    "text": "After God's second speech, what did Job acknowledge about God's power and purpose?",
+    "options": ["God's power is limited", "God can do all things, and no purpose of His can be thwarted", "God's purposes are unknowable", "God's power is less than Satan's"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 42:2",
+    "verseText": "“I know that you can do all things, and that no purpose of yours can be thwarted.”"
+  },
+  {
+    "text": "What did Job admit about his own words spoken during his suffering?",
+    "options": ["They were wise and true", "He uttered what he did not understand", "They were inspired by God", "His friends forced him to say them"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 42:3",
+    "verseText": "‘Who is this that hides counsel without knowledge?’ Therefore I have uttered what I did not understand, things too wonderful for me, which I did not know."
+  },
+  {
+    "text": "Job stated he had previously heard of God by the hearing of the ear, but now what?",
+    "options": ["He understood everything", "His eye sees God", "He questioned God's existence", "He wanted to forget God"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 42:5",
+    "verseText": "I had heard of you by the hearing of the ear, but now my eye sees you;"
+  },
+  {
+    "text": "What was Job's final response to God?",
+    "options": ["He demanded restoration", "He cursed his friends", "He despised himself and repented in dust and ashes", "He asked for more wisdom"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Easy",
+    "verseReference": "Job 42:6",
+    "verseText": "therefore I despise myself, and repent in dust and ashes.”"
+  },
+  {
+    "text": "After Job's repentance, who did God express anger towards?",
+    "options": ["Job", "Satan", "Elihu", "Eliphaz and his two friends"],
+    "correctAnswerIndex": 3,
+    "book": "Job",
+    "difficulty": "Easy",
+    "verseReference": "Job 42:7",
+    "verseText": "After the LORD had spoken these words to Job, the LORD said to Eliphaz the Temanite: “My anger burns against you and your two friends, for you have not spoken of me what is right, as my servant Job has.”"
+  },
+  {
+    "text": "Why was God angry with Job's three friends?",
+    "options": ["They comforted Job poorly", "They had not spoken rightly about God, as Job had", "They spoke too much", "They left before God spoke"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 42:7",
+    "verseText": "...for you have not spoken of me what is right, as my servant Job has.”"
+  },
+  {
+    "text": "What did God command Eliphaz and his friends to do?",
+    "options": ["Leave Uz immediately", "Apologize to Job's wife", "Offer a large burnt offering and have Job pray for them", "Write down their speeches"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 42:8",
+    "verseText": "Now therefore take seven bulls and seven rams and go to my servant Job and offer up for yourselves a burnt offering. And my servant Job shall pray for you, for I will accept his prayer not to deal with you according to your folly."
+  },
+  {
+    "text": "Whose prayer did God say He would accept on behalf of the friends?",
+    "options": ["Elihu's", "Job's", "Their own prayers", "An angel's"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Easy",
+    "verseReference": "Job 42:8",
+    "verseText": "And my servant Job shall pray for you, for I will accept his prayer..."
+  },
+  {
+    "text": "When did the LORD restore Job's fortunes?",
+    "options": ["Immediately after God spoke", "When Job prayed for his friends", "After Elihu's speech", "When his wife returned"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 42:10",
+    "verseText": "And the LORD restored the fortunes of Job, when he had prayed for his friends. And the LORD gave Job twice as much as he had before."
+  },
+  {
+    "text": "How much did God restore to Job compared to what he had before?",
+    "options": ["The same amount", "Half as much", "Twice as much", "Ten times as much"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Easy",
+    "verseReference": "Job 42:10",
+    "verseText": "And the LORD gave Job twice as much as he had before."
+  },
+  {
+    "text": "Who came to Job after his restoration to comfort and console him?",
+    "options": ["Only Elihu", "His three friends again", "All his brothers, sisters, and former acquaintances", "Messengers from God"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 42:11",
+    "verseText": "Then came to him all his brothers and sisters and all who had known him before, and ate bread with him in his house. And they showed him sympathy and comforted him for all the evil that the LORD had brought upon him."
+  },
+  {
+    "text": "What did each person give Job during this visit?",
+    "options": ["Advice", "Food", "A piece of money and a gold ring", "Livestock"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 42:11",
+    "verseText": "And each of them gave him a piece of money and a ring of gold."
+  },
+  {
+    "text": "How many sheep, camels, yoke of oxen, and female donkeys did Job have after his restoration?",
+    "options": ["7,000 sheep, 3,000 camels, 500 yoke of oxen, 500 female donkeys", "10,000 sheep, 5,000 camels, 1,000 yoke of oxen, 1,000 female donkeys", "14,000 sheep, 6,000 camels, 1,000 yoke of oxen, 1,000 female donkeys", "20,000 sheep, 10,000 camels, 2,000 yoke of oxen, 2,000 female donkeys"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 42:12",
+    "verseText": "And the LORD blessed the latter days of Job more than his beginning. And he had 14,000 sheep, 6,000 camels, 1,000 yoke of oxen, and 1,000 female donkeys."
+  },
+  {
+    "text": "How many sons and daughters did Job have after his restoration?",
+    "options": ["Seven sons and three daughters", "Ten sons", "Five sons and five daughters", "Three sons and seven daughters"],
+    "correctAnswerIndex": 0,
+    "book": "Job",
+    "difficulty": "Easy",
+    "verseReference": "Job 42:13",
+    "verseText": "He had also seven sons and three daughters."
+  },
+  {
+    "text": "What were the names of Job's three daughters born after his suffering?",
+    "options": ["Leah, Rachel, Bilhah", "Jemimah, Keziah, Keren-happuch", "Mary, Martha, Salome", "Ruth, Orpah, Naomi"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 42:14",
+    "verseText": "And he called the name of the first daughter Jemimah, and the name of the second Keziah, and the name of the third Keren-happuch."
+  },
+  {
+    "text": "What was said about the beauty of Job's daughters?",
+    "options": ["They were ordinary looking", "No women were found so beautiful in all the land", "They resembled their mother", "Their beauty faded quickly"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Easy",
+    "verseReference": "Job 42:15",
+    "verseText": "And in all the land there were no women so beautiful as Job's daughters."
+  },
+  {
+    "text": "What unusual thing did Job give his daughters along with his sons?",
+    "options": ["Control over his flocks", "An inheritance among their brothers", "Positions of authority", "Special blessings"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 42:15",
+    "verseText": "And their father gave them an inheritance among their brothers."
+  },
+  {
+    "text": "How long did Job live after his suffering?",
+    "options": ["70 years", "100 years", "140 years", "200 years"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Easy",
+    "verseReference": "Job 42:16",
+    "verseText": "And after this Job lived 140 years,"
+  },
+  {
+    "text": "How many generations of his descendants did Job see?",
+    "options": ["Two generations", "Three generations", "Four generations", "Five generations"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 42:16",
+    "verseText": "...and saw his sons, and his sons' sons, four generations."
+  },
+  {
+    "text": "How is the end of Job's life described?",
+    "options": ["He died in poverty", "He died suddenly", "He died old and full of days", "He died longing for heaven"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Easy",
+    "verseReference": "Job 42:17",
+    "verseText": "And Job died, an old man, and full of days."
+  },
+  {
+    "text": "What fundamental question does the book of Job primarily explore?",
+    "options": ["The origin of evil", "The problem of suffering, especially undeserved suffering", "The nature of angels", "The history of Uz"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Book Overview",
+    "verseText": "The book explores theodicy - the vindication of divine goodness and providence in view of the existence of evil and suffering."
+  },
+  {
+    "text": "The dialogues between Job and his friends represent different perspectives on what?",
+    "options": ["The best way to get rich", "The cause of suffering and God's justice", "Political leadership", "The interpretation of dreams"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Book Overview",
+    "verseText": "The friends generally represent the traditional view that suffering is always a direct result of sin, while Job challenges this view based on his experience."
+  },
+  {
+    "text": "What does God's response from the whirlwind emphasize?",
+    "options": ["The specific reasons for Job's suffering", "God's infinite wisdom and power compared to human limitations", "The importance of friendship", "The powerlessness of Satan"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 38-41",
+    "verseText": "God's speeches highlight His sovereignty over creation and the limits of human understanding, rather than directly answering Job's 'why'."
+  },
+  {
+    "text": "What is a key takeaway from Job's final repentance?",
+    "options": ["He finally admitted his secret sins", "He acknowledged God's sovereignty and his own limited perspective", "He realized his friends were right", "He gave up on understanding God"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Hard",
+    "verseReference": "Job 42:1-6",
+    "verseText": "Job's repentance stems from a profound encounter with God's majesty, leading him to trust God despite unanswered questions."
+  },
+  {
+    "text": "The restoration of Job's fortunes serves to demonstrate what?",
+    "options": ["Wealth is the ultimate reward", "God's ultimate faithfulness and blessing for those who endure", "Suffering is temporary", "Job's friends were completely wrong"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 42:10-17",
+    "verseText": "The restoration shows God's approval of Job's faithfulness through trial and His ability to restore beyond measure."
+  },
+  {
+    "text": "What literary form constitutes the main body of the Book of Job (chapters 3-42:6)?",
+    "options": ["Narrative history", "Prophecy", "Poetry", "Law code"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Book Structure",
+    "verseText": "The prologue and epilogue are narrative prose, but the extensive dialogues and speeches are in Hebrew poetry."
+  },
+  {
+    "text": "Elihu's speeches serve as a bridge between which parts of the book?",
+    "options": ["Prologue and Dialogues", "Dialogues with friends and God's speeches", "God's speeches and Epilogue", "Job's laments and friends' accusations"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Hard",
+    "verseReference": "Job 32-37",
+    "verseText": "Elihu speaks after the three friends fall silent and before God answers Job from the whirlwind, offering a different perspective."
+  },
+  {
+    "text": "The concept of a 'Redeemer' (Go'el) mentioned by Job in chapter 19 traditionally referred to what?",
+    "options": ["A military leader", "A high priest", "A kinsman who avenges, defends, or buys back family/property", "A prophet"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Hard",
+    "verseReference": "Job 19:25",
+    "verseText": "The Go'el was a crucial figure in Israelite society responsible for upholding family rights and honor, which Job applies hopefully to God or a divine intermediary."
+  },
+  {
+    "text": "Does the Book of Job provide a simple, direct answer to why good people suffer?",
+    "options": ["Yes, it's always due to sin.", "Yes, it's always a test from God.", "No, it explores the complexity and mystery surrounding suffering and divine justice.", "Yes, it's always Satan's fault."],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Book Overview",
+    "verseText": "The book resists easy answers, ultimately pointing to trust in God's wisdom even when His ways are incomprehensible."
   }
 ]

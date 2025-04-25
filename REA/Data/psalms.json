@@ -88,5 +88,680 @@
     "difficulty": "Medium",
     "verseReference": "Psalm 139:7-10",
     "verseText": "Where shall I go from your Spirit? Or where shall I flee from your presence? If I ascend to heaven, you are there! If I make my bed in Sheol, you are there! If I take the wings of the morning and dwell in the uttermost parts of the sea, even there your hand shall lead me, and your right hand shall hold me."
+  },
+  {
+    "text": "What does the blessed man in Psalm 1 delight in?",
+    "options": ["The company of friends", "The law of the LORD", "Acquiring wealth", "Building great structures"],
+    "correctAnswerIndex": 1,
+    "book": "Psalms",
+    "difficulty": "Easy",
+    "verseReference": "Psalm 1:2",
+    "verseText": "but his delight is in the law of the LORD, and on his law he meditates day and night."
+  },
+  {
+    "text": "The blessed man in Psalm 1 is compared to what, planted by streams of water?",
+    "options": ["A rock", "A strong tower", "A tree", "A vine"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Easy",
+    "verseReference": "Psalm 1:3",
+    "verseText": "He is like a tree planted by streams of water that yields its fruit in its season, and its leaf does not wither. In all that he does, he prospers."
+  },
+  {
+    "text": "Psalm 2 speaks of the nations raging and plotting in vain against whom?",
+    "options": ["Themselves", "The earth", "The LORD and his Anointed", "The poor"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 2:1-2",
+    "verseText": "Why do the nations rage and the peoples plot in vain? The kings of the earth set themselves, and the rulers take counsel together, against the LORD and against his Anointed,"
+  },
+  {
+    "text": "In Psalm 8, the psalmist marvels that God is mindful of whom, considering the majesty of the heavens?",
+    "options": ["The angels", "Man (humankind)", "The animals", "The kings of the earth"],
+    "correctAnswerIndex": 1,
+    "book": "Psalms",
+    "difficulty": "Easy",
+    "verseReference": "Psalm 8:3-4",
+    "verseText": "When I look at your heavens, the work of your fingers, the moon and the stars, which you have set in place, what is man that you are mindful of him, and the son of man that you care for him?"
+  },
+  {
+    "text": "What does Psalm 14:1 say the fool says in his heart?",
+    "options": ["'God is great'", "'There is no God'", "'I am wise'", "'Let us eat and drink'"],
+    "correctAnswerIndex": 1,
+    "book": "Psalms",
+    "difficulty": "Easy",
+    "verseReference": "Psalm 14:1",
+    "verseText": "The fool says in his heart, “There is no God.” They are corrupt, they do abominable deeds; there is none who does good."
+  },
+  {
+    "text": "Psalm 15 asks who may dwell in God's holy hill. What is one characteristic mentioned?",
+    "options": ["One who is wealthy", "One who speaks truth in his heart", "One who is powerful", "One who offers many sacrifices"],
+    "correctAnswerIndex": 1,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 15:1-2",
+    "verseText": "O LORD, who shall sojourn in your tent? Who shall dwell on your holy hill? He who walks blamelessly and does what is right and speaks truth in his heart;"
+  },
+  {
+    "text": "In Psalm 16, the psalmist declares that the LORD is his chosen portion and his cup, and says 'the lines have fallen for me in...'?",
+    "options": ["Difficult places", "Pleasant places", "Faraway lands", "Troubled waters"],
+    "correctAnswerIndex": 1,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 16:5-6",
+    "verseText": "The LORD is my chosen portion and my cup; you hold my lot. The lines have fallen for me in pleasant places; indeed, I have a beautiful inheritance."
+  },
+  {
+    "text": "What does the psalmist ask God to keep him as in Psalm 17?",
+    "options": ["A king on his throne", "A tree by the water", "The apple of his eye", "A sheep in his flock"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 17:8",
+    "verseText": "Keep me as the apple of your eye; hide me in the shadow of your wings,"
+  },
+  {
+    "text": "Psalm 18 begins with the declaration, 'I love you, O LORD, my...'?",
+    "options": ["King", "Shepherd", "Strength", "Light"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Easy",
+    "verseReference": "Psalm 18:1",
+    "verseText": "I love you, O LORD, my strength."
+  },
+  {
+    "text": "Besides the heavens, what else does Psalm 19 praise as perfect and reviving the soul?",
+    "options": ["Human wisdom", "The beauty of nature", "The law of the LORD", "Military strength"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 19:7",
+    "verseText": "The law of the LORD is perfect, reviving the soul; the testimony of the LORD is sure, making wise the simple;"
+  },
+  {
+    "text": "What does the psalmist ask God to cleanse him from in Psalm 19?",
+    "options": ["Physical illness", "Poverty", "Hidden faults", "His enemies"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 19:12",
+    "verseText": "Who can discern his errors? Declare me innocent from hidden faults."
+  },
+  {
+    "text": "Psalm 20 is a prayer for the king before battle. What do some trust in, contrasting with the psalmist's trust in the name of the LORD?",
+    "options": ["Their wisdom", "Their alliances", "Chariots and horses", "Their own strength"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 20:7",
+    "verseText": "Some trust in chariots and some in horses, but we trust in the name of the LORD our God."
+  },
+  {
+    "text": "Which Psalm contains the anguished cry, 'My God, my God, why have you forsaken me?'",
+    "options": ["Psalm 22", "Psalm 51", "Psalm 88", "Psalm 130"],
+    "correctAnswerIndex": 0,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 22:1",
+    "verseText": "My God, my God, why have you forsaken me? Why are you so far from saving me, from the words of my groaning?"
+  },
+  {
+    "text": "Psalm 22 graphically describes suffering, including the piercing of what body parts?",
+    "options": ["Eyes and ears", "Heart and soul", "Hands and feet", "Side and back"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Hard",
+    "verseReference": "Psalm 22:16",
+    "verseText": "For dogs encompass me; a company of evildoers encircles me; they have pierced my hands and feet—"
+  },
+  {
+    "text": "In Psalm 23, even when walking through the valley of the shadow of death, why does the psalmist fear no evil?",
+    "options": ["He is strong", "He knows the way", "God is with him", "He has many companions"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Easy",
+    "verseReference": "Psalm 23:4",
+    "verseText": "Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me; your rod and your staff, they comfort me."
+  },
+  {
+    "text": "What does God prepare for the psalmist in the presence of his enemies in Psalm 23?",
+    "options": ["An escape route", "A hiding place", "A table", "A victory song"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Easy",
+    "verseReference": "Psalm 23:5",
+    "verseText": "You prepare a table before me in the presence of my enemies; you anoint my head with oil; my cup overflows."
+  },
+  {
+    "text": "Psalm 24 declares that the earth and everything in it belongs to whom?",
+    "options": ["The kings of the earth", "Humanity", "The LORD", "No one"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Easy",
+    "verseReference": "Psalm 24:1",
+    "verseText": "The earth is the LORD's and the fullness thereof, the world and those who dwell therein,"
+  },
+  {
+    "text": "Who may ascend the hill of the LORD, according to Psalm 24?",
+    "options": ["The wealthy and powerful", "Those with clean hands and a pure heart", "Those who offer large sacrifices", "Anyone who desires"],
+    "correctAnswerIndex": 1,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 24:3-4",
+    "verseText": "Who shall ascend the hill of the LORD? And who shall stand in his holy place? He who has clean hands and a pure heart, who does not lift up his soul to what is false and does not swear deceitfully."
+  },
+  {
+    "text": "What is the primary request made throughout Psalm 25?",
+    "options": ["Wealth and prosperity", "Victory over enemies", "Guidance and forgiveness", "Long life"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 25:4-5, 11",
+    "verseText": "Make me to know your ways, O LORD; teach me your paths. Lead me in your truth and teach me... For your name's sake, O LORD, pardon my guilt, for it is great."
+  },
+  {
+    "text": "Psalm 27 begins, 'The LORD is my light and my salvation; whom shall I...?'",
+    "options": ["Praise", "Serve", "Fear", "Follow"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Easy",
+    "verseReference": "Psalm 27:1",
+    "verseText": "The LORD is my light and my salvation; whom shall I fear? The LORD is the stronghold of my life; of whom shall I be afraid?"
+  },
+  {
+    "text": "What one thing does the psalmist ask from the LORD in Psalm 27?",
+    "options": ["Riches", "Honor", "To dwell in the house of the LORD forever", "Victory"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 27:4",
+    "verseText": "One thing have I asked of the LORD, that will I seek after: that I may dwell in the house of the LORD all the days of my life, to gaze upon the beauty of the LORD and to inquire in his temple."
+  },
+  {
+    "text": "Psalm 29 calls the 'heavenly beings' (or 'sons of God') to ascribe what to the LORD?",
+    "options": ["Wisdom and knowledge", "Glory and strength", "Judgment and wrath", "Mercy and grace"],
+    "correctAnswerIndex": 1,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 29:1",
+    "verseText": "Ascribe to the LORD, O heavenly beings, ascribe to the LORD glory and strength."
+  },
+  {
+    "text": "The voice of the LORD in Psalm 29 is described as powerful and majestic, having power over what natural element?",
+    "options": ["The sun", "The wind", "The waters", "The earth"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 29:3",
+    "verseText": "The voice of the LORD is over the waters; the God of glory thunders, the LORD, over many waters."
+  },
+  {
+    "text": "In Psalm 32, what is the state of the person whose transgression is forgiven and whose sin is covered?",
+    "options": ["Weak", "Confused", "Blessed", "Ignored"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Easy",
+    "verseReference": "Psalm 32:1",
+    "verseText": "Blessed is the one whose transgression is forgiven, whose sin is covered."
+  },
+  {
+    "text": "What happens when the psalmist keeps silent about his sin, according to Psalm 32?",
+    "options": ["He feels peace", "His bones waste away", "He becomes wise", "His enemies leave him alone"],
+    "correctAnswerIndex": 1,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 32:3",
+    "verseText": "For when I kept silent, my bones wasted away through my groaning all day long."
+  },
+  {
+    "text": "Psalm 34 contains the invitation, 'Oh, taste and see that the LORD is...'?",
+    "options": ["Mighty", "Just", "Good", "Holy"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Easy",
+    "verseReference": "Psalm 34:8",
+    "verseText": "Oh, taste and see that the LORD is good! Blessed is the man who takes refuge in him!"
+  },
+  {
+    "text": "According to Psalm 34, the righteous face many afflictions, but what does the LORD do?",
+    "options": ["He ignores them", "He adds to their afflictions", "He delivers them out of them all", "He teaches them patience"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 34:19",
+    "verseText": "Many are the afflictions of the righteous, but the LORD delivers him out of them all."
+  },
+  {
+    "text": "What does Psalm 37 advise against doing when wicked people succeed?",
+    "options": ["Joining them", "Ignoring them", "Fretting or being envious", "Praying for them"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Easy",
+    "verseReference": "Psalm 37:1",
+    "verseText": "Fret not yourself because of evildoers; be not envious of wrongdoers!"
+  },
+  {
+    "text": "What are the righteous encouraged to do in Psalm 37, with the promise that God will give them the desires of their heart?",
+    "options": ["Fight against the wicked", "Trust in the LORD and do good", "Accumulate wealth", "Seek positions of power"],
+    "correctAnswerIndex": 1,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 37:3-4",
+    "verseText": "Trust in the LORD, and do good; dwell in the land and befriend faithfulness. Delight yourself in the LORD, and he will give you the desires of your heart."
+  },
+  {
+    "text": "Psalm 39 is a meditation on the brevity and frailty of what?",
+    "options": ["Wealth", "Power", "Human life", "Friendship"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 39:4-5",
+    "verseText": "“O LORD, make me know my end and what is the measure of my days; let me know how fleeting I am! Behold, you have made my days a few handbreadths, and my lifetime is as nothing before you."
+  },
+  {
+    "text": "In Psalm 40, the psalmist speaks of waiting patiently for the LORD and being lifted out of what?",
+    "options": ["Poverty", "Sickness", "A slimy pit (pit of destruction)", "Prison"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 40:1-2",
+    "verseText": "I waited patiently for the LORD; he inclined to me and heard my cry. He drew me up from the pit of destruction, out of the miry bog, and set my feet upon a rock, making my steps secure."
+  },
+  {
+    "text": "What does the psalmist desire more than sacrifice and offering, according to Psalm 40?",
+    "options": ["Wealth", "Long life", "God opening his ears (obedience)", "Victory"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Hard",
+    "verseReference": "Psalm 40:6",
+    "verseText": "In sacrifice and offering you have not delighted, but you have given me an open ear. Burnt offering and sin offering you have not required."
+  },
+  {
+    "text": "Psalm 42 expresses a deep longing for God, comparing the soul's thirst to what animal panting for water?",
+    "options": ["A lion", "An eagle", "A deer", "A sheep"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Easy",
+    "verseReference": "Psalm 42:1",
+    "verseText": "As a deer pants for flowing streams, so pants my soul for you, O God."
+  },
+  {
+    "text": "What question does the psalmist repeatedly ask his soul in Psalms 42 and 43 when feeling downcast?",
+    "options": ["'Why are you so afraid?'", "'Why are you so angry?'", "'Why are you cast down, O my soul?'", "'Why are you so forgetful?'"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 42:5, 11; 43:5",
+    "verseText": "Why are you cast down, O my soul, and why are you in turmoil within me? Hope in God; for I shall again praise him, my salvation and my God."
+  },
+  {
+    "text": "Psalm 51 contains the plea, 'Create in me a clean..., O God.'",
+    "options": ["Mind", "Heart", "Spirit", "Life"],
+    "correctAnswerIndex": 1,
+    "book": "Psalms",
+    "difficulty": "Easy",
+    "verseReference": "Psalm 51:10",
+    "verseText": "Create in me a clean heart, O God, and renew a right spirit within me."
+  },
+  {
+    "text": "What kind of sacrifice does Psalm 51 say God desires, rather than burnt offerings?",
+    "options": ["Large amounts of gold", "Many animals", "A broken spirit; a broken and contrite heart", "Fasting and prayer alone"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 51:16-17",
+    "verseText": "For you will not delight in sacrifice, or I would give it; you will not be pleased with a burnt offering. The sacrifices of God are a broken spirit; a broken and contrite heart, O God, you will not despise."
+  },
+  {
+    "text": "Psalm 62 emphasizes trusting in God alone. What are people compared to, suggesting their unreliability?",
+    "options": ["Solid rocks", "Strong trees", "A mere breath, lighter than a breath", "Flowing rivers"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 62:9",
+    "verseText": "Those of low estate are but a breath; those of high estate are a delusion; in the balances they go up; they are together lighter than a breath."
+  },
+  {
+    "text": "Psalm 63 expresses deep longing for God, often associated with being in what kind of environment?",
+    "options": ["A palace", "A bustling city", "A dry and weary land (wilderness)", "A fertile valley"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 63:1 (superscription and verse)",
+    "verseText": "A Psalm of David, when he was in the wilderness of Judah. O God, you are my God; earnestly I seek you; my soul thirsts for you; my flesh faints for you, as in a dry and weary land where there is no water."
+  },
+  {
+    "text": "Psalm 73 describes the psalmist's struggle with seeing the prosperity of whom?",
+    "options": ["The righteous", "The poor", "The wicked", "Foreign nations"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 73:2-3",
+    "verseText": "But as for me, my feet had almost stumbled, my steps had nearly slipped. For I was envious of the arrogant when I saw the prosperity of the wicked."
+  },
+  {
+    "text": "What changed the psalmist's perspective on the prosperity of the wicked in Psalm 73?",
+    "options": ["He became wealthy himself", "He went into the sanctuary of God", "He talked to his friends", "He read the Law"],
+    "correctAnswerIndex": 1,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 73:16-17",
+    "verseText": "But when I thought how to understand this, it seemed to me a wearisome task, until I went into the sanctuary of God; then I discerned their end."
+  },
+  {
+    "text": "Psalm 84 expresses a deep love for God's dwelling place. How lovely is God's dwelling place, according to the psalmist?",
+    "options": ["It is acceptable", "It is quite lovely", "How lovely is your dwelling place!", "It needs improvement"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Easy",
+    "verseReference": "Psalm 84:1",
+    "verseText": "How lovely is your dwelling place, O LORD of hosts!"
+  },
+  {
+    "text": "What would the psalmist rather be in the house of God than dwell in the tents of wickedness, according to Psalm 84?",
+    "options": ["A king", "A priest", "A doorkeeper", "A singer"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 84:10",
+    "verseText": "For a day in your courts is better than a thousand elsewhere. I would rather be a doorkeeper in the house of my God than dwell in the tents of wickedness."
+  },
+  {
+    "text": "Psalm 90, attributed to Moses, is a meditation on God's eternality compared to human...?",
+    "options": ["Strength", "Wisdom", "Transience (fleeting nature)", "Wealth"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 90:1-6",
+    "verseText": "Lord, you have been our dwelling place in all generations. Before the mountains were brought forth... you are God. You return man to dust... For a thousand years in your sight are but as yesterday..."
+  },
+  {
+    "text": "What does Psalm 90 ask God to teach us to do, in light of life's brevity?",
+    "options": ["Accumulate wealth", "Number our days", "Build great monuments", "Seek pleasure"],
+    "correctAnswerIndex": 1,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 90:12",
+    "verseText": "So teach us to number our days that we may get a heart of wisdom."
+  },
+  {
+    "text": "Psalm 91 promises deliverance from the 'deadly pestilence' and what hidden danger?",
+    "options": ["The sword of the enemy", "The snare of the fowler", "The floodwaters", "The fire"],
+    "correctAnswerIndex": 1,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 91:3",
+    "verseText": "For he will deliver you from the snare of the fowler and from the deadly pestilence."
+  },
+  {
+    "text": "What will God command concerning the one who dwells in His shelter, according to Psalm 91?",
+    "options": ["His angels to guard them", "The sun to shine on them", "The earth to yield fruit for them", "Their enemies to flee"],
+    "correctAnswerIndex": 0,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 91:11",
+    "verseText": "For he will command his angels concerning you to guard you in all your ways."
+  },
+  {
+    "text": "Psalm 95 begins with a call to sing and make a joyful noise to whom?",
+    "options": ["The king", "The heavens", "The rock of our salvation", "Ourselves"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Easy",
+    "verseReference": "Psalm 95:1",
+    "verseText": "Oh come, let us sing to the LORD; let us make a joyful noise to the rock of our salvation!"
+  },
+  {
+    "text": "Psalm 95 warns against hardening one's heart, referencing what event in Israel's history?",
+    "options": ["The crossing of the Red Sea", "The giving of the Law at Sinai", "The rebellion at Meribah and Massah", "The conquest of Jericho"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Hard",
+    "verseReference": "Psalm 95:8-9",
+    "verseText": "Do not harden your hearts, as at Meribah, as on the day at Massah in the wilderness, when your fathers put me to the test and put me to the proof, though they had seen my work."
+  },
+  {
+    "text": "Psalm 103 calls upon what part of the psalmist's being to bless the LORD?",
+    "options": ["His hands", "His mind", "His soul", "His voice"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Easy",
+    "verseReference": "Psalm 103:1",
+    "verseText": "Bless the LORD, O my soul, and all that is within me, bless his holy name!"
+  },
+  {
+    "text": "What benefits does Psalm 103 list, including forgiveness and healing?",
+    "options": ["Forgives all your iniquity, heals all your diseases", "Gives you wealth, grants you power", "Makes you famous, gives you long life", "Defeats your enemies, establishes your throne"],
+    "correctAnswerIndex": 0,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 103:2-3",
+    "verseText": "Bless the LORD, O my soul, and forget not all his benefits, who forgives all your iniquity, who heals all your diseases,"
+  },
+  {
+    "text": "How far does Psalm 103 say God removes our transgressions from us?",
+    "options": ["As far as the north is from the south", "As far as the east is from the west", "As far as the heavens are from the earth", "As far as the sea is from the land"],
+    "correctAnswerIndex": 1,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 103:12",
+    "verseText": "as far as the east is from the west, so far does he remove our transgressions from us."
+  },
+  {
+    "text": "Psalm 104 is a majestic hymn celebrating God as what?",
+    "options": ["Savior", "Judge", "Creator", "Lawgiver"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 104 (Overall theme)",
+    "verseText": "(Psalm celebrating God's creation and sustenance of the world)"
+  },
+  {
+    "text": "Psalm 107 recounts God's deliverance for various groups in distress. Which group is NOT explicitly mentioned?",
+    "options": ["Those lost in the desert", "Prisoners", "The sick/fools suffering for sin", "Kings dethroned"],
+    "correctAnswerIndex": 3,
+    "book": "Psalms",
+    "difficulty": "Hard",
+    "verseReference": "Psalm 107:4, 10, 17, 23",
+    "verseText": "(Recounts deliverance for wanderers, prisoners, fools/sick, and seafarers)"
+  },
+  {
+    "text": "What refrain is repeated in Psalm 107, calling people to thank the LORD?",
+    "options": ["'His mercy endures forever'", "'The LORD reigns'", "'Let them thank the LORD for his steadfast love'", "'Great is his faithfulness'"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 107:8, 15, 21, 31",
+    "verseText": "Let them thank the LORD for his steadfast love, for his wondrous works to the children of man!"
+  },
+  {
+    "text": "Psalm 110 speaks of a priestly king. After whose order is this king a priest forever?",
+    "options": ["Aaron", "Levi", "Zadok", "Melchizedek"],
+    "correctAnswerIndex": 3,
+    "book": "Psalms",
+    "difficulty": "Hard",
+    "verseReference": "Psalm 110:4",
+    "verseText": "The LORD has sworn and will not change his mind, “You are a priest forever after the order of Melchizedek.”"
+  },
+  {
+    "text": "According to Psalm 111, what is the beginning of wisdom?",
+    "options": ["Wealth", "Power", "The fear of the LORD", "Knowledge"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Easy",
+    "verseReference": "Psalm 111:10",
+    "verseText": "The fear of the LORD is the beginning of wisdom; all those who practice it have a good understanding. His praise endures forever!"
+  },
+  {
+    "text": "Psalm 118 contains the line, 'The stone that the builders rejected has become the...'?",
+    "options": ["Foundation", "Cornerstone", "Stumbling block", "Pillar"],
+    "correctAnswerIndex": 1,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 118:22",
+    "verseText": "The stone that the builders rejected has become the cornerstone."
+  },
+  {
+    "text": "What phrase is repeated in every verse of Psalm 136?",
+    "options": ["'The LORD is good'", "'Praise the LORD'", "'His steadfast love endures forever'", "'God is our strength'"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Easy",
+    "verseReference": "Psalm 136",
+    "verseText": "(Refrain repeated throughout the Psalm)"
+  },
+  {
+    "text": "Psalm 119 is an extended meditation on the excellence of what?",
+    "options": ["God's creation", "God's power", "God's Word (Law, precepts, statutes, etc.)", "God's temple"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Easy",
+    "verseReference": "Psalm 119 (Overall theme)",
+    "verseText": "(Psalm focused entirely on God's Word)"
+  },
+  {
+    "text": "How does the psalmist describe God's word in relation to his path in Psalm 119?",
+    "options": ["A map for my journey", "A sword for my battle", "A lamp to my feet and a light to my path", "A shield for my protection"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Easy",
+    "verseReference": "Psalm 119:105",
+    "verseText": "Your word is a lamp to my feet and a light to my path."
+  },
+  {
+    "text": "What has the psalmist stored up in his heart, according to Psalm 119, to avoid sinning against God?",
+    "options": ["Wealth", "Wisdom", "God's word", "Anger"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 119:11",
+    "verseText": "I have stored up your word in my heart, that I might not sin against you."
+  },
+  {
+    "text": "Psalm 121 begins, 'I lift up my eyes to the hills. From where does my help come?' What is the answer?",
+    "options": ["From the hills", "From my own strength", "My help comes from the LORD", "From wise counselors"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Easy",
+    "verseReference": "Psalm 121:1-2",
+    "verseText": "I lift up my eyes to the hills. From where does my help come? My help comes from the LORD, who made heaven and earth."
+  },
+  {
+    "text": "What assurance is given in Psalm 121 regarding the Keeper of Israel?",
+    "options": ["He sometimes rests", "He will neither slumber nor sleep", "He occasionally forgets", "He delegates His watch"],
+    "correctAnswerIndex": 1,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 121:4",
+    "verseText": "Behold, he who keeps Israel will neither slumber nor sleep."
+  },
+  {
+    "text": "Psalm 127 states that unless the LORD builds the house, what happens?",
+    "options": ["The foundation crumbles", "Those who build it labor in vain", "It will not be beautiful", "It will be too expensive"],
+    "correctAnswerIndex": 1,
+    "book": "Psalms",
+    "difficulty": "Easy",
+    "verseReference": "Psalm 127:1",
+    "verseText": "Unless the LORD builds the house, those who build it labor in vain. Unless the LORD watches over the city, the watchman stays awake in vain."
+  },
+  {
+    "text": "What are described as a heritage from the LORD and a reward in Psalm 127?",
+    "options": ["Wealth and riches", "Land and property", "Children", "Wisdom and knowledge"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 127:3",
+    "verseText": "Behold, children are a heritage from the LORD, the fruit of the womb a reward."
+  },
+  {
+    "text": "Psalm 130 is a cry to God from where?",
+    "options": ["A mountaintop", "A palace", "The depths", "A battlefield"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 130:1",
+    "verseText": "Out of the depths I cry to you, O LORD!"
+  },
+  {
+    "text": "What does the psalmist wait for more than watchmen wait for the morning, according to Psalm 130?",
+    "options": ["Riches", "Deliverance", "The LORD", "Justice"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 130:5-6",
+    "verseText": "I wait for the LORD, my soul waits, and in his word I hope; my soul waits for the Lord more than watchmen for the morning, more than watchmen for the morning."
+  },
+  {
+    "text": "Psalm 133 celebrates the goodness and pleasantness of what?",
+    "options": ["Solitude", "Wealth", "Brothers dwelling in unity", "Victory in battle"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Easy",
+    "verseReference": "Psalm 133:1",
+    "verseText": "Behold, how good and pleasant it is when brothers dwell in unity!"
+  },
+  {
+    "text": "Psalm 137 expresses the sorrow of the exiles. By which rivers did they sit down and weep?",
+    "options": ["The Nile", "The Jordan", "The rivers of Babylon", "The Tigris and Euphrates"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 137:1",
+    "verseText": "By the waters of Babylon, there we sat down and wept, when we remembered Zion."
+  },
+  {
+    "text": "What do the exiles in Psalm 137 say should happen if they forget Jerusalem?",
+    "options": ["May they prosper", "May their right hand forget its skill", "May they find peace", "May their enemies be defeated"],
+    "correctAnswerIndex": 1,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 137:5",
+    "verseText": "If I forget you, O Jerusalem, let my right hand forget its skill!"
+  },
+  {
+    "text": "According to Psalm 139, when did God know the psalmist?",
+    "options": ["From his birth", "When he was being made in the womb", "After he sinned", "When he became king"],
+    "correctAnswerIndex": 1,
+    "book": "Psalms",
+    "difficulty": "Medium",
+    "verseReference": "Psalm 139:13, 16",
+    "verseText": "For you formed my inward parts; you knitted me together in my mother's womb... Your eyes saw my unformed substance; in your book were written, every one of them, the days that were formed for me, when as yet there was none of them."
+  },
+  {
+    "text": "How does the psalmist describe his formation in the womb in Psalm 139?",
+    "options": ["As simple and quick", "As fearful and wonderful", "As accidental", "As unimportant"],
+    "correctAnswerIndex": 1,
+    "book": "Psalms",
+    "difficulty": "Easy",
+    "verseReference": "Psalm 139:14",
+    "verseText": "I praise you, for I am fearfully and wonderfully made. Wonderful are your works; my soul knows it very well."
+  },
+  {
+    "text": "Psalm 145 is described in its superscription as a psalm of what?",
+    "options": ["Lament", "Wisdom", "Thanksgiving", "Praise"],
+    "correctAnswerIndex": 3,
+    "book": "Psalms",
+    "difficulty": "Easy",
+    "verseReference": "Psalm 145 (superscription)",
+    "verseText": "A Song of Praise. Of David."
+  },
+  {
+    "text": "Psalm 150, the final psalm, calls for praise using what?",
+    "options": ["Quiet meditation", "Recitation of the law", "Various musical instruments and dancing", "Silent prayer"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Easy",
+    "verseReference": "Psalm 150:3-5",
+    "verseText": "Praise him with trumpet sound; praise him with lute and harp! Praise him with tambourine and dance; praise him with strings and pipe! Praise him with sounding cymbals; praise him with loud clashing cymbals!"
+  },
+  {
+    "text": "How does Psalm 150 conclude the entire book of Psalms?",
+    "options": ["With a lament", "With a blessing", "Let everything that has breath praise the LORD!", "With a call to repentance"],
+    "correctAnswerIndex": 2,
+    "book": "Psalms",
+    "difficulty": "Easy",
+    "verseReference": "Psalm 150:6",
+    "verseText": "Let everything that has breath praise the LORD! Praise the LORD!"
   }
 ]

@@ -88,5 +88,365 @@
     "difficulty": "Easy",
     "verseReference": "Ecclesiastes 12:13",
     "verseText": "The end of the matter; all has been heard. Fear God and keep his commandments, for this is the whole duty of man."
+  },
+  {
+    "text": "The Preacher explored pleasure and laughter as sources of meaning. What was his conclusion about them?",
+    "options": ["They are the highest good", "They are ultimately meaningless or madness", "They lead to wisdom", "They guarantee happiness"],
+    "correctAnswerIndex": 1,
+    "book": "Ecclesiastes",
+    "difficulty": "Medium",
+    "verseReference": "Ecclesiastes 2:1-2",
+    "verseText": "I said in my heart, “Come now, I will test you with pleasure; enjoy yourself.” But behold, this also was vanity. I said of laughter, “It is mad,” and of pleasure, “What use is it?”"
+  },
+  {
+    "text": "After pursuing great projects, wealth, and pleasures, what did the Preacher find when he looked back on his labor?",
+    "options": ["Lasting satisfaction", "True wisdom", "It was all vanity and striving after wind", "The approval of God"],
+    "correctAnswerIndex": 2,
+    "book": "Ecclesiastes",
+    "difficulty": "Medium",
+    "verseReference": "Ecclesiastes 2:11",
+    "verseText": "Then I considered all that my hands had done and the toil I had expended in doing it, and behold, all was vanity and a striving after wind, and there was nothing to be gained under the sun."
+  },
+  {
+    "text": "What advantage did the Preacher see that wisdom has over folly?",
+    "options": ["None, both are vanity", "Wisdom leads to wealth, folly to poverty", "Wisdom is like light, folly like darkness", "Folly brings more pleasure"],
+    "correctAnswerIndex": 2,
+    "book": "Ecclesiastes",
+    "difficulty": "Medium",
+    "verseReference": "Ecclesiastes 2:13",
+    "verseText": "Then I saw that there is more gain in wisdom than in folly, as there is more gain in light than in darkness."
+  },
+  {
+    "text": "Despite wisdom's advantage, what common fate awaits both the wise man and the fool, according to the Preacher?",
+    "options": ["Both achieve fame", "Both are forgotten after death", "The wise man lives forever", "The fool gains wisdom eventually"],
+    "correctAnswerIndex": 1,
+    "book": "Ecclesiastes",
+    "difficulty": "Medium",
+    "verseReference": "Ecclesiastes 2:16",
+    "verseText": "For of the wise as of the fool there is no enduring remembrance, seeing that in the days to come all will have been long forgotten. How the wise dies just like the fool!"
+  },
+  {
+    "text": "Ecclesiastes lists specific times for various activities (e.g., 'a time to be born, and a time to die'). What is the overarching point of this list?",
+    "options": ["Life is chaotic and random", "Humans can control the timing of all events", "There is an appropriate and appointed time for everything", "Some activities are more important than others"],
+    "correctAnswerIndex": 2,
+    "book": "Ecclesiastes",
+    "difficulty": "Easy",
+    "verseReference": "Ecclesiastes 3:1-8",
+    "verseText": "For everything there is a season, and a time for every matter under heaven: a time to be born, and a time to die; a time to plant, and a time to pluck up what is planted..."
+  },
+  {
+    "text": "What does the Preacher observe about the tears of the oppressed and their lack of a comforter?",
+    "options": ["The oppressors always face justice", "The oppressed find comfort in their suffering", "It is a grievous evil under the sun", "The oppressed eventually gain power"],
+    "correctAnswerIndex": 2,
+    "book": "Ecclesiastes",
+    "difficulty": "Medium",
+    "verseReference": "Ecclesiastes 4:1",
+    "verseText": "Again I saw all the oppressions that are done under the sun. And behold, the tears of the oppressed, and they had no one to comfort them! On the side of their oppressors there was power, and there was no one to comfort them."
+  },
+  {
+    "text": "Why does Ecclesiastes say that two are better than one?",
+    "options": ["They can argue more effectively", "They have a good reward for their toil", "One can dominate the other", "They can accumulate wealth faster"],
+    "correctAnswerIndex": 1,
+    "book": "Ecclesiastes",
+    "difficulty": "Easy",
+    "verseReference": "Ecclesiastes 4:9",
+    "verseText": "Two are better than one, because they have a good reward for their toil."
+  },
+  {
+    "text": "What specific benefit of companionship is mentioned regarding falling down?",
+    "options": ["One can blame the other", "One can lift up his fellow", "Both can laugh about it", "They learn to be more careful"],
+    "correctAnswerIndex": 1,
+    "book": "Ecclesiastes",
+    "difficulty": "Easy",
+    "verseReference": "Ecclesiastes 4:10",
+    "verseText": "For if they fall, one will lift up his fellow. But woe to him who is alone when he falls and has not another to lift him up!"
+  },
+  {
+    "text": "What metaphor is used in Ecclesiastes 4 to describe the strength of companionship?",
+    "options": ["A strong tower", "A sturdy wall", "A threefold cord", "A sharp sword"],
+    "correctAnswerIndex": 2,
+    "book": "Ecclesiastes",
+    "difficulty": "Medium",
+    "verseReference": "Ecclesiastes 4:12",
+    "verseText": "And though a man might prevail against one who is alone, two will withstand him—a threefold cord is not quickly broken."
+  },
+  {
+    "text": "When going to the house of God, what does Ecclesiastes 5 advise is better than offering the sacrifice of fools?",
+    "options": ["To sing loudly", "To draw near and listen", "To make many vows", "To stay silent"],
+    "correctAnswerIndex": 1,
+    "book": "Ecclesiastes",
+    "difficulty": "Medium",
+    "verseReference": "Ecclesiastes 5:1",
+    "verseText": "Guard your steps when you go to the house of God. To draw near to listen is better than to offer the sacrifice of fools, for they do not know that they are doing evil."
+  },
+  {
+    "text": "What reason does Ecclesiastes give for letting your words be few before God?",
+    "options": ["God prefers silence", "God is in heaven and you are on earth", "Speaking too much reveals ignorance", "Few words are easier to remember"],
+    "correctAnswerIndex": 1,
+    "book": "Ecclesiastes",
+    "difficulty": "Medium",
+    "verseReference": "Ecclesiastes 5:2",
+    "verseText": "Be not rash with your mouth, nor let your heart be hasty to utter a word before God, for God is in heaven and you are on earth. Therefore let your words be few."
+  },
+  {
+    "text": "What does Ecclesiastes say about the relationship between the love of money and satisfaction?",
+    "options": ["Loving money brings full satisfaction", "He who loves money will never be satisfied with money", "Satisfaction comes from hoarding money", "Money guarantees happiness"],
+    "correctAnswerIndex": 1,
+    "book": "Ecclesiastes",
+    "difficulty": "Easy",
+    "verseReference": "Ecclesiastes 5:10",
+    "verseText": "He who loves money will not be satisfied with money, nor he who loves wealth with his income; this also is vanity."
+  },
+  {
+    "text": "What grievous evil does the Preacher observe regarding wealth kept by its owner?",
+    "options": ["It always multiplies", "It brings great joy", "It is kept to the owner's hurt", "It guarantees a long life"],
+    "correctAnswerIndex": 2,
+    "book": "Ecclesiastes",
+    "difficulty": "Medium",
+    "verseReference": "Ecclesiastes 5:13",
+    "verseText": "There is a grievous evil that I have seen under the sun: riches were kept by their owner to his hurt,"
+  },
+  {
+    "text": "How does a person leave the world compared to how they came into it, according to Ecclesiastes?",
+    "options": ["With great riches", "With many possessions", "Naked, as they came", "With honor and fame"],
+    "correctAnswerIndex": 2,
+    "book": "Ecclesiastes",
+    "difficulty": "Easy",
+    "verseReference": "Ecclesiastes 5:15",
+    "verseText": "As he came from his mother's womb he shall go again, naked as he came, and shall take nothing for his toil that he may carry away in his hand."
+  },
+  {
+    "text": "What does Ecclesiastes recommend as good and fitting for people to do during the few days God gives them?",
+    "options": ["To mourn constantly", "To work without rest", "To eat, drink, and find enjoyment in their toil", "To seek only wisdom"],
+    "correctAnswerIndex": 2,
+    "book": "Ecclesiastes",
+    "difficulty": "Easy",
+    "verseReference": "Ecclesiastes 5:18",
+    "verseText": "Behold, what I have seen to be good and fitting is to eat and drink and find enjoyment in all the toil with which one toils under the sun the few days of his life that God has given him, for this is his lot."
+  },
+  {
+    "text": "What is considered better than precious ointment or the day of birth, according to Ecclesiastes 7?",
+    "options": ["Great wealth", "A good name", "Royal power", "A long life"],
+    "correctAnswerIndex": 1,
+    "book": "Ecclesiastes",
+    "difficulty": "Medium",
+    "verseReference": "Ecclesiastes 7:1",
+    "verseText": "A good name is better than precious ointment, and the day of death than the day of birth."
+  },
+  {
+    "text": "Where is it considered better to go, the house of mourning or the house of feasting, and why?",
+    "options": ["Feasting, for pleasure", "Mourning, because it is the end of all mankind", "Feasting, to make friends", "Mourning, to show respect"],
+    "correctAnswerIndex": 1,
+    "book": "Ecclesiastes",
+    "difficulty": "Medium",
+    "verseReference": "Ecclesiastes 7:2",
+    "verseText": "It is better to go to the house of mourning than to go to the house of feasting, for this is the end of all mankind, and the living will lay it to heart."
+  },
+  {
+    "text": "What effect does sorrow have on the heart compared to laughter, according to Ecclesiastes 7?",
+    "options": ["Sorrow destroys the heart", "Laughter makes the heart wise", "By sadness of face the heart is made glad (or better)", "Both are equally meaningless"],
+    "correctAnswerIndex": 2,
+    "book": "Ecclesiastes",
+    "difficulty": "Hard",
+    "verseReference": "Ecclesiastes 7:3",
+    "verseText": "Sorrow is better than laughter, for by sadness of face the heart is made glad."
+  },
+  {
+    "text": "What offers protection similar to the protection offered by money, according to Ecclesiastes?",
+    "options": ["Power", "Folly", "Wisdom", "Friendship"],
+    "correctAnswerIndex": 2,
+    "book": "Ecclesiastes",
+    "difficulty": "Medium",
+    "verseReference": "Ecclesiastes 7:12",
+    "verseText": "For the protection of wisdom is like the protection of money, and the advantage of knowledge is that wisdom preserves the life of him who has it."
+  },
+  {
+    "text": "What specific advantage does wisdom provide to the one who possesses it?",
+    "options": ["It guarantees wealth", "It preserves life", "It brings popularity", "It eliminates sorrow"],
+    "correctAnswerIndex": 1,
+    "book": "Ecclesiastes",
+    "difficulty": "Medium",
+    "verseReference": "Ecclesiastes 7:12",
+    "verseText": "For the protection of wisdom is like the protection of money, and the advantage of knowledge is that wisdom preserves the life of him who has it."
+  },
+  {
+    "text": "Ecclesiastes advises against being overly righteous or overly wise. Why?",
+    "options": ["It leads to poverty", "It makes others envious", "Why should you destroy yourself?", "It is impossible to achieve"],
+    "correctAnswerIndex": 2,
+    "book": "Ecclesiastes",
+    "difficulty": "Hard",
+    "verseReference": "Ecclesiastes 7:16",
+    "verseText": "Be not overly righteous, and do not make yourself overly wise. Why should you destroy yourself?"
+  },
+  {
+    "text": "What conclusion does the Preacher reach about the righteousness of people on earth?",
+    "options": ["Most people are perfectly righteous", "There is no one on earth who is righteous and never sins", "Only the wealthy are righteous", "Righteousness is easy to attain"],
+    "correctAnswerIndex": 1,
+    "book": "Ecclesiastes",
+    "difficulty": "Easy",
+    "verseReference": "Ecclesiastes 7:20",
+    "verseText": "Surely there is not a righteous man on earth who does good and never sins."
+  },
+  {
+    "text": "What advice is given regarding paying attention to all the words people speak?",
+    "options": ["Listen carefully to everything", "Record every conversation", "Do not take to heart all the things people say", "Challenge every word spoken"],
+    "correctAnswerIndex": 2,
+    "book": "Ecclesiastes",
+    "difficulty": "Medium",
+    "verseReference": "Ecclesiastes 7:21",
+    "verseText": "Do not take to heart all the things that people say, lest you hear your servant cursing you."
+  },
+  {
+    "text": "What observation does Ecclesiastes 8 make about the timing of judgment for evil deeds?",
+    "options": ["Sentence against evil is executed swiftly", "Sentence against evil is never executed", "Because sentence is not executed speedily, people do evil", "Judgment only happens after death"],
+    "correctAnswerIndex": 2,
+    "book": "Ecclesiastes",
+    "difficulty": "Medium",
+    "verseReference": "Ecclesiastes 8:11",
+    "verseText": "Because the sentence against an evil deed is not executed speedily, the heart of the children of man is fully set to do evil."
+  },
+  {
+    "text": "Despite observing that righteous people sometimes suffer like the wicked, what does the Preacher ultimately believe about those who fear God?",
+    "options": ["They will suffer more", "It will be well with them", "They will be forgotten", "Their fate is the same as the wicked"],
+    "correctAnswerIndex": 1,
+    "book": "Ecclesiastes",
+    "difficulty": "Medium",
+    "verseReference": "Ecclesiastes 8:12",
+    "verseText": "Though a sinner does evil a hundred times and prolongs his life, yet I know that it will be well with those who fear God, because they fear before him."
+  },
+  {
+    "text": "What common event happens to the righteous and the wicked, the good and the evil, the clean and the unclean?",
+    "options": ["They all become wealthy", "They all suffer", "They all share the same fate (death)", "They all find wisdom"],
+    "correctAnswerIndex": 2,
+    "book": "Ecclesiastes",
+    "difficulty": "Medium",
+    "verseReference": "Ecclesiastes 9:2",
+    "verseText": "It is the same for all, since the same event happens to the righteous and the wicked, to the good and the evil, to the clean and the unclean, to him who sacrifices and him who does not sacrifice."
+  },
+  {
+    "text": "What advice does Ecclesiastes 9 give for enjoying life's simple pleasures, like eating and drinking?",
+    "options": ["Do it sparingly", "Do it with a joyful heart, for God approves", "Avoid them altogether", "Only do so in secret"],
+    "correctAnswerIndex": 1,
+    "book": "Ecclesiastes",
+    "difficulty": "Easy",
+    "verseReference": "Ecclesiastes 9:7",
+    "verseText": "Go, eat your bread with joy, and drink your wine with a merry heart, for God has already approved what you do."
+  },
+  {
+    "text": "What should one do with all their might while they are alive, according to Ecclesiastes 9?",
+    "options": ["Whatever your hand finds to do", "Accumulate wealth", "Seek power", "Rest and relax"],
+    "correctAnswerIndex": 0,
+    "book": "Ecclesiastes",
+    "difficulty": "Medium",
+    "verseReference": "Ecclesiastes 9:10",
+    "verseText": "Whatever your hand finds to do, do it with your might, for there is no work or thought or knowledge or wisdom in Sheol, to which you are going."
+  },
+  {
+    "text": "Why is there no work, thought, knowledge, or wisdom in Sheol (the grave)?",
+    "options": ["Because the dead are busy elsewhere", "Because Sheol is a place of learning", "Because activity and consciousness cease at death (in the context of the book)", "Because God forbids it"],
+    "correctAnswerIndex": 2,
+    "book": "Ecclesiastes",
+    "difficulty": "Medium",
+    "verseReference": "Ecclesiastes 9:10",
+    "verseText": "Whatever your hand finds to do, do it with your might, for there is no work or thought or knowledge or wisdom in Sheol, to which you are going."
+  },
+  {
+    "text": "Ecclesiastes tells a story of a poor wise man who saved a city. What happened to him afterward?",
+    "options": ["He was made king", "He was rewarded with great riches", "No one remembered him", "He became famous"],
+    "correctAnswerIndex": 2,
+    "book": "Ecclesiastes",
+    "difficulty": "Medium",
+    "verseReference": "Ecclesiastes 9:15",
+    "verseText": "But there was found in it a poor, wise man, and he by his wisdom delivered the cityscape. Yet no one remembered that poor man."
+  },
+  {
+    "text": "What does Ecclesiastes say is better: the quiet words of the wise or the shouting of a ruler among fools?",
+    "options": ["The shouting of a ruler", "Both are equally ineffective", "The quiet words of the wise", "Neither is valuable"],
+    "correctAnswerIndex": 2,
+    "book": "Ecclesiastes",
+    "difficulty": "Medium",
+    "verseReference": "Ecclesiastes 9:17",
+    "verseText": "The words of the wise heard in quiet are better than the shouting of a ruler among fools."
+  },
+  {
+    "text": "What small thing can outweigh wisdom and honor, according to Ecclesiastes 10?",
+    "options": ["Great wealth", "A little folly", "Physical strength", "Royal favor"],
+    "correctAnswerIndex": 1,
+    "book": "Ecclesiastes",
+    "difficulty": "Medium",
+    "verseReference": "Ecclesiastes 10:1",
+    "verseText": "Dead flies make the perfumer's ointment give off a stench; so a little folly outweighs wisdom and honor."
+  },
+  {
+    "text": "What practical advice does Ecclesiastes 11 give regarding generosity and investment, using the metaphor of bread on water?",
+    "options": ["Hoard your resources", "Cast your bread upon the waters (be generous/invest)", "Only give to the wealthy", "Expect immediate returns"],
+    "correctAnswerIndex": 1,
+    "book": "Ecclesiastes",
+    "difficulty": "Medium",
+    "verseReference": "Ecclesiastes 11:1",
+    "verseText": "Cast your bread upon the waters, for you will find it after many days."
+  },
+  {
+    "text": "Why should one 'divide portions' or diversify their efforts, according to Ecclesiastes 11?",
+    "options": ["To show off wealth", "Because you do not know what disaster may happen", "To confuse competitors", "To concentrate risk"],
+    "correctAnswerIndex": 1,
+    "book": "Ecclesiastes",
+    "difficulty": "Medium",
+    "verseReference": "Ecclesiastes 11:2",
+    "verseText": "Give a portion to seven, or even to eight, for you know not what disaster may happen on earth."
+  },
+  {
+    "text": "What should young people remember in the days of their youth, before the 'days of trouble' come?",
+    "options": ["Their wealth", "Their Creator", "Their friends", "Their accomplishments"],
+    "correctAnswerIndex": 1,
+    "book": "Ecclesiastes",
+    "difficulty": "Easy",
+    "verseReference": "Ecclesiastes 12:1",
+    "verseText": "Remember also your Creator in the days of your youth, before the evil days come and the years draw near of which you will say, “I have no pleasure in them”;"
+  },
+  {
+    "text": "Ecclesiastes 12 uses several metaphors (darkened sun, trembling keepers, grinding maids) to describe what process?",
+    "options": ["Building a house", "The process of aging and death", "A wedding feast", "Planting a vineyard"],
+    "correctAnswerIndex": 1,
+    "book": "Ecclesiastes",
+    "difficulty": "Hard",
+    "verseReference": "Ecclesiastes 12:2-6",
+    "verseText": "...before the sun and the light and the moon and the stars are darkened and the clouds return after the rain, in the day when the keepers of the house tremble, and the strong men are bent..."
+  },
+  {
+    "text": "What happens to the 'dust' and the 'spirit' when a person dies, according to Ecclesiastes 12?",
+    "options": ["Both return to the earth", "Dust returns to earth, spirit returns to God", "Both ascend to heaven", "Spirit ceases to exist, dust remains"],
+    "correctAnswerIndex": 1,
+    "book": "Ecclesiastes",
+    "difficulty": "Medium",
+    "verseReference": "Ecclesiastes 12:7",
+    "verseText": "and the dust returns to the earth as it was, and the spirit returns to God who gave it."
+  },
+  {
+    "text": "How are the words of the wise described in Ecclesiastes 12, likening them to tools used by shepherds?",
+    "options": ["Like soft pillows", "Like goads and firmly fixed nails", "Like confusing riddles", "Like heavy burdens"],
+    "correctAnswerIndex": 1,
+    "book": "Ecclesiastes",
+    "difficulty": "Hard",
+    "verseReference": "Ecclesiastes 12:11",
+    "verseText": "The words of the wise are like goads, and like nails firmly fixed are the collected sayings; they are given by one Shepherd."
+  },
+  {
+    "text": "What warning does the Preacher give about making many books?",
+    "options": ["It brings great wisdom", "It is essential for learning", "There is no end, and much study is a weariness", "It guarantees fame"],
+    "correctAnswerIndex": 2,
+    "book": "Ecclesiastes",
+    "difficulty": "Medium",
+    "verseReference": "Ecclesiastes 12:12",
+    "verseText": "My son, beware of anything beyond these. Of making many books there is no end, and much study is a weariness of the flesh."
+  },
+  {
+    "text": "Ultimately, what does the Preacher identify as the 'whole duty of man'?",
+    "options": ["To seek pleasure", "To gain knowledge", "To accumulate wealth", "To fear God and keep His commandments"],
+    "correctAnswerIndex": 3,
+    "book": "Ecclesiastes",
+    "difficulty": "Easy",
+    "verseReference": "Ecclesiastes 12:13",
+    "verseText": "The end of the matter; all has been heard. Fear God and keep his commandments, for this is the whole duty of man."
   }
 ]

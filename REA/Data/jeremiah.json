@@ -88,5 +88,537 @@
     "difficulty": "Easy",
     "verseReference": "Jeremiah 38:6",
     "verseText": "So they took Jeremiah and cast him into the cistern of Malchiah, the king's son, which was in the court of the guard, letting Jeremiah down by ropes. And there was no water in the cistern, but only mud, and Jeremiah sank in the mud."
+  },
+  {
+    "text": "What nation did God frequently use Jeremiah to prophesy against, warning Judah of impending judgment from them?",
+    "options": ["Egypt", "Assyria", "Babylon", "Philistia"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Easy"
+  },
+  {
+    "text": "Jeremiah used the imagery of a marred linen loincloth hidden near the Euphrates River to symbolize what?",
+    "options": ["The coming wealth of Judah", "The spoiled pride of Judah and Jerusalem", "The need for ritual purity", "The strength of the Babylonian army"],
+    "correctAnswerIndex": 1,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "What did God forbid Jeremiah from doing as a sign of the coming sorrow and desolation in Judah?",
+    "options": ["Eating certain foods", "Entering the Temple", "Marrying and having children", "Speaking for 40 days"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "Which false prophet clashed with Jeremiah, breaking the symbolic yoke Jeremiah wore and falsely prophesying a quick return from exile?",
+    "options": ["Shemaiah", "Hananiah", "Zedekiah", "Pashhur"],
+    "correctAnswerIndex": 1,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "During the siege of Jerusalem, what controversial action did Jeremiah perform as a sign of faith in God's promise of future restoration?",
+    "options": ["He offered a large sacrifice", "He wrote a poem of hope", "He bought a field in his hometown Anathoth", "He organized an escape plan"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Hard"
+  },
+  {
+    "text": "Who rescued Jeremiah from the muddy cistern where he had been left to die?",
+    "options": ["Baruch the scribe", "King Zedekiah", "Ebed-melech the Ethiopian", "Gedaliah the governor"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "After the fall of Jerusalem, Gedaliah was appointed governor by the Babylonians but was later assassinated. Where did the remaining Judeans, against Jeremiah's warning, decide to flee?",
+    "options": ["Babylon", "Moab", "Egypt", "Ammon"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "Jeremiah prophesied that the exile in Babylon would last for how many years?",
+    "options": ["40 years", "50 years", "70 years", "100 years"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Easy"
+  },
+  {
+    "text": "What symbolic action involving large stones did Jeremiah perform in Tahpanhes, Egypt, to signify Babylon's future dominance even there?",
+    "options": ["Building an altar", "Writing on the stones", "Hiding them in the brick pavement at Pharaoh's palace entrance", "Breaking the stones"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Hard"
+  },
+  {
+    "text": "Besides Judah, Jeremiah also delivered prophecies concerning which other nations?",
+    "options": ["Only Babylon and Egypt", "Only the nations immediately bordering Judah", "Egypt, Philistia, Moab, Ammon, Edom, Damascus, Kedar, Hazor, Elam, and Babylon", "Greece and Rome"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "What title or metaphor does God use for King Nebuchadnezzar of Babylon, indicating his role as an instrument of divine judgment?",
+    "options": ["My Shepherd", "My Anointed", "My Hammer", "My Servant"],
+    "correctAnswerIndex": 3,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "In his lament, Jeremiah compares his suffering and the destruction of Jerusalem to what?",
+    "options": ["A broken ship", "A withered tree", "A woman in labor", "A city whose walls are breached (as detailed in Lamentations, traditionally attributed to him)"],
+    "correctAnswerIndex": 3,
+    "book": "Jeremiah",
+    "difficulty": "Easy"
+  },
+  {
+    "text": "What specific sin related to worship does Jeremiah repeatedly condemn among the people of Judah, particularly associated with the Valley of Hinnom?",
+    "options": ["Ignoring the Sabbath", "Refusing to tithe", "Child sacrifice", "Worshipping Asherah poles"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "King Zedekiah, the last king of Judah, often sought Jeremiah's counsel but ultimately failed to do what?",
+    "options": ["Pay the temple tax", "Heed Jeremiah's advice to surrender to Babylon", "Appoint Jeremiah as his chief advisor", "Rebuild the city walls"],
+    "correctAnswerIndex": 1,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "What does Jeremiah promise will happen to the descendants of David and the Levites in the context of the New Covenant and restoration?",
+    "options": ["They will be replaced by foreign rulers", "They will become farmers", "Their lines will continue and multiply", "They will be exiled permanently"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "Who was Pashhur, the priest, known for doing to Jeremiah?",
+    "options": ["Protecting him from the crowds", "Helping him write the scrolls", "Having him beaten and put in stocks", "Sending him gifts"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Easy"
+  },
+  {
+    "text": "Jeremiah warned the people against trusting in the physical presence of what building, thinking it guaranteed their safety?",
+    "options": ["The king's palace", "The city walls", "The Temple of the LORD in Jerusalem", "The high places"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Easy"
+  },
+  {
+    "text": "What did God compare Israel to in Jeremiah's time, suggesting they had become wild and untamed?",
+    "options": ["A stubborn mule", "A wild donkey in heat", "A roaring lion", "A wandering sheep"],
+    "correctAnswerIndex": 1,
+    "book": "Jeremiah",
+    "difficulty": "Hard"
+  },
+  {
+    "text": "The Rechabites were commended by God through Jeremiah for what specific act of obedience?",
+    "options": ["Faithfully paying tithes", "Obeying their ancestor's command not to drink wine or build houses", "Defending Jerusalem bravely", "Giving generously to the poor"],
+    "correctAnswerIndex": 1,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "What future righteous figure did Jeremiah prophesy would descend from David, known as 'The LORD is our Righteousness'?",
+    "options": ["A great high priest", "A conquering general", "A righteous Branch", "A wise scribe"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "When the first scroll of Jeremiah's prophecies was destroyed, what did God command Jeremiah to do?",
+    "options": ["Give up prophesying", "Flee to Egypt immediately", "Rewrite the scroll, adding more words", "Challenge the king to a debate"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Easy"
+  },
+  {
+    "text": "Jeremiah lamented that he had become an object of what to the people?",
+    "options": ["Admiration", "Derision and reproach", "Indifference", "Worship"],
+    "correctAnswerIndex": 1,
+    "book": "Jeremiah",
+    "difficulty": "Easy"
+  },
+  {
+    "text": "What natural disaster did Jeremiah use as an analogy for God's judgment and the resulting devastation?",
+    "options": ["Earthquake", "Flood", "Drought", "Volcanic eruption"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "God tells Jeremiah He knew him and set him apart before what event?",
+    "options": ["Before he could speak", "Before the reign of King Josiah", "Before he was born / formed in the womb", "Before Jerusalem was built"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Easy"
+  },
+  {
+    "text": "What did Jeremiah accuse the prophets and priests of Jerusalem of doing?",
+    "options": ["Healing the wound of God's people lightly, saying 'Peace, peace,' when there is no peace", "Encouraging strict obedience to the Law", "Spending too much time in prayer", "Ignoring the needs of the king"],
+    "correctAnswerIndex": 0,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "In the vision of the two baskets of figs shown to Jeremiah, what did the good figs represent?",
+    "options": ["The wicked people remaining in Judah", "The exiles taken to Babylon whom God would restore", "The neighboring nations", "The false prophets"],
+    "correctAnswerIndex": 1,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "What did the bad figs, which were too rotten to eat, represent in Jeremiah's vision?",
+    "options": ["The faithful remnant", "King Zedekiah and the officials remaining in Jerusalem, destined for disaster", "The Babylonians", "The Egyptians"],
+    "correctAnswerIndex": 1,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "Jeremiah wore a yoke on his neck as a symbol. What was it meant to represent?",
+    "options": ["The burden of sin", "The call to agricultural labor", "Submission to the king of Babylon", "The weight of prophecy"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Easy"
+  },
+  {
+    "text": "Where was Jeremiah from?",
+    "options": ["Jerusalem", "Bethlehem", "Anathoth, a town of priests", "Hebron"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Easy"
+  },
+  {
+    "text": "God promised to gather the remnant of His flock from all the countries where they were scattered and bring them back to do what?",
+    "options": ["Serve foreign gods", "Become soldiers", "Be fruitful and multiply in their own pasture", "Build a new temple in Babylon"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "What emotion did Jeremiah express when contemplating the deception of false prophets?",
+    "options": ["Joy", "Indifference", "Anguish and a broken heart", "Confusion"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "Jeremiah accused the people of Judah of turning God's house into what?",
+    "options": ["A marketplace", "A den of robbers", "A royal court", "A military barracks"],
+    "correctAnswerIndex": 1,
+    "book": "Jeremiah",
+    "difficulty": "Easy"
+  },
+  {
+    "text": "What does God promise regarding the knowledge of Him under the New Covenant?",
+    "options": ["Only priests will know Him", "Knowledge will be hidden", "All will know Him, from the least to the greatest", "Knowledge will require great effort"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "What characteristic of God is emphasized in the New Covenant promise regarding Israel's past sins?",
+    "options": ["His remembrance of every sin", "His forgiveness and remembering sins no more", "His requirement of further sacrifices", "His conditional pardon"],
+    "correctAnswerIndex": 1,
+    "book": "Jeremiah",
+    "difficulty": "Easy"
+  },
+  {
+    "text": "Who sought to kill Jeremiah because of his prophecies of doom against Jerusalem and the Temple?",
+    "options": ["The Babylonians", "The common people", "The priests, the prophets, and officials", "King Josiah"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "Which official defended Jeremiah, reminding the assembly of the prophet Micah who prophesied similarly in Hezekiah's time without being killed?",
+    "options": ["Baruch", "Gedaliah", "Ahikam son of Shaphan", "Seraiah"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Hard"
+  },
+  {
+    "text": "Jeremiah prophesied that which city, once a center of worship, would become a desolate ruin like Shiloh?",
+    "options": ["Babylon", "Nineveh", "Jerusalem (specifically the Temple)", "Samaria"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "What does God instruct Jeremiah to tell the nations using the metaphor of a cup of wrath?",
+    "options": ["That they will prosper", "That they must drink from it, signifying judgment", "That they should share it peacefully", "That the cup is empty"],
+    "correctAnswerIndex": 1,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "How did Jeremiah describe the human heart?",
+    "options": ["Pure and holy", "Strong and resilient", "Deceitful above all things and desperately sick", "Naturally good"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Easy"
+  },
+  {
+    "text": "What did Jeremiah observe about the stork, turtledove, swallow, and crane that contrasted with Israel's behavior?",
+    "options": ["They built better nests", "They migrated predictably, knowing their seasons, unlike Israel knowing God's laws", "They were more numerous", "They sang more beautifully"],
+    "correctAnswerIndex": 1,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "Jeremiah lamented being deceived or overpowered by God, feeling compelled to speak God's word even when it brought him pain. What imagery did he use for the word within him?",
+    "options": ["A soothing balm", "A heavy weight", "A fire shut up in his bones", "A gentle whisper"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "What punishment did God decree for the false prophet Shemaiah who sent letters from Babylon undermining Jeremiah?",
+    "options": ["He would be rewarded", "He would be ignored", "He and his descendants would not see the good God would do for His people", "He would become Jeremiah's assistant"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Hard"
+  },
+  {
+    "text": "In a prophecy of restoration, God promises to bring Israel and Judah back from captivity and cause them to possess what?",
+    "options": ["Great military power", "The land promised to their fathers", "Dominion over Egypt", "Vast gold reserves"],
+    "correctAnswerIndex": 1,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "What sound does Jeremiah prophesy will cease in the towns of Judah and streets of Jerusalem due to the coming judgment?",
+    "options": ["The sound of construction", "The sound of military trumpets", "The sounds of joy and gladness, bride and bridegroom", "The sound of merchants trading"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Easy"
+  },
+  {
+    "text": "Despite the grim prophecies, Jeremiah includes messages of hope, such as the restoration of fortunes and the rebuilding of what city?",
+    "options": ["Babylon", "Tyre", "Jerusalem", "Damascus"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Easy"
+  },
+  {
+    "text": "Who was Seraiah, Baruch's brother, tasked with doing when he went to Babylon with King Zedekiah's delegation?",
+    "options": ["Negotiating a peace treaty", "Spying on the Babylonians", "Reading Jeremiah's prophecies against Babylon and then sinking the scroll in the Euphrates", "Establishing a Judean community there"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Hard"
+  },
+  {
+    "text": "What happened to King Zedekiah's sons when he was captured by the Babylonians?",
+    "options": ["They escaped with him", "They were taken as hostages to Babylon", "They were killed before his eyes", "They became Babylonian officials"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "After being captured, what punishment did King Zedekiah himself suffer?",
+    "options": ["He was immediately executed", "He was released and sent to Egypt", "His eyes were put out, and he was taken in chains to Babylon", "He was made a servant in Nebuchadnezzar's court"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "Who gave the orders to the Babylonian captain of the guard, Nebuzaradan, to treat Jeremiah well after Jerusalem's fall?",
+    "options": ["King Zedekiah", "Pharaoh Neco", "King Nebuchadnezzar", "Baruch the scribe"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "Given the choice after Jerusalem's fall, where did Jeremiah initially choose to stay?",
+    "options": ["Go into exile in Babylon", "Flee to Egypt", "Remain in Judah with Gedaliah and the remnant", "Hide in the wilderness"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "What specific idolatrous practice did the Judean refugees in Egypt, particularly the women, vow to continue despite Jeremiah's warnings?",
+    "options": ["Worshipping Baal", "Making offerings to the Queen of Heaven", "Sacrificing to Molech", "Setting up Asherah poles"],
+    "correctAnswerIndex": 1,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "Jeremiah prophesied that the Judean remnant who fled to Egypt seeking safety would ultimately face what?",
+    "options": ["Prosperity and peace", "Assimilation into Egyptian culture", "Sword, famine, and plague, with few survivors", "A return journey to Judah"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "What sign did God give through Jeremiah to prove His word against the refugees in Egypt would stand?",
+    "options": ["A plague of locusts", "The Nile drying up", "Pharaoh Hophra being handed over to his enemies", "An earthquake destroying their homes"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Hard"
+  },
+  {
+    "text": "What personal promise did God give to Baruch, Jeremiah's scribe, amidst the widespread destruction?",
+    "options": ["He would become king", "He would be spared death and his life given as a prize", "He would receive great wealth", "He would lead the exiles back"],
+    "correctAnswerIndex": 1,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "The final chapter of Jeremiah (Chapter 52) largely serves as what?",
+    "options": ["A collection of poems", "A final prophecy against Egypt", "A historical appendix detailing the fall of Jerusalem and the exile, similar to 2 Kings 24-25", "Jeremiah's personal diary"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Easy"
+  },
+  {
+    "text": "What positive event concerning the exiled King Jehoiachin is recorded at the very end of the book of Jeremiah?",
+    "options": ["His escape from Babylon", "His appointment as governor", "His release from prison and elevation in the Babylonian court", "His successful rebellion"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "Jeremiah compared searching for a righteous person in Jerusalem to searching with what?",
+    "options": ["A magnifying glass", "A divining rod", "Lamps", "A map"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "What did God say He would make His words in Jeremiah's mouth?",
+    "options": ["Honey", "Water", "Fire", "Stone"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Easy"
+  },
+  {
+    "text": "The people of Anathoth, Jeremiah's hometown, threatened him with what if he continued prophesying?",
+    "options": ["Exile", "Imprisonment", "Death", "Confiscation of property"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "What agricultural metaphor did Jeremiah use to describe the superficial repentance of Israel?",
+    "options": ["Sowing among thorns", "Watering dry ground", "Pruning dead branches", "Harvesting unripe fruit"],
+    "correctAnswerIndex": 0,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "What did Jeremiah lament finding when he looked for grapes on the vine or figs on the fig tree, symbolizing Israel's lack of righteousness?",
+    "options": ["An abundance of fruit", "Rotten fruit", "Nothing, or only leaves", "Fruit stolen by others"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "God tells Jeremiah not to pray for the well-being of the people of Judah because their wickedness was too great. This highlights the severity of what?",
+    "options": ["God's love", "Jeremiah's fatigue", "The impending judgment", "The power of prayer"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "What does Jeremiah ask God regarding the prosperity of the wicked?",
+    "options": ["How he can become prosperous too", "Why the way of the wicked prospers", "If their prosperity is a sign of God's favor", "To immediately punish them"],
+    "correctAnswerIndex": 1,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "Jeremiah prophesied that the Davidic king who would reign justly was also called by what name?",
+    "options": ["Son of Man", "The Branch", "Wonderful Counselor", "King of Kings"],
+    "correctAnswerIndex": 1,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "What did the officials do to Jeremiah after hearing Baruch read the scroll, before taking it to King Jehoiakim?",
+    "options": ["Arrested Baruch", "Burned the scroll themselves", "Advised Jeremiah and Baruch to hide", "Praised Jeremiah's bravery"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "What specific judgment did Jeremiah pronounce against King Jehoiakim for burning the scroll?",
+    "options": ["He would win a great victory", "He would have a long and prosperous reign", "He would have no descendant sitting on David's throne and his body would be cast out", "He would repent and be forgiven"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Hard"
+  },
+  {
+    "text": "Jeremiah's letter to the exiles countered the advice of false prophets who were promising what?",
+    "options": ["A long and difficult exile", "Prosperity in Babylon", "An immediate or very quick return to Jerusalem", "The overthrow of Nebuchadnezzar"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Easy"
+  },
+  {
+    "text": "The promise of the New Covenant includes the assurance that God will be their God and they shall be His what?",
+    "options": ["Servants", "Soldiers", "People", "Prophets"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Easy"
+  },
+  {
+    "text": "King Zedekiah secretly consulted Jeremiah during the final siege. What was Jeremiah's consistent message to him?",
+    "options": ["Fight to the death", "Surrender to the Babylonians to save the city and his own life", "Escape to Egypt", "Pray for a miracle"],
+    "correctAnswerIndex": 1,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "What reason did the officials give for wanting to execute Jeremiah during the siege?",
+    "options": ["He was spying for Egypt", "He was discouraging the soldiers and people by advocating surrender", "He blasphemed God", "He stole from the temple treasury"],
+    "correctAnswerIndex": 1,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "What does the name 'Jeremiah' possibly mean?",
+    "options": ["God is my strength", "Yahweh establishes or appoints", "Weeping prophet", "Man of sorrows"],
+    "correctAnswerIndex": 1,
+    "book": "Jeremiah",
+    "difficulty": "Hard"
+  },
+  {
+    "text": "Jeremiah's ministry spanned the reigns of which kings of Judah?",
+    "options": ["Manasseh, Amon, Josiah", "Josiah, Jehoahaz, Jehoiakim, Jehoiachin, Zedekiah", "Hezekiah, Manasseh, Amon", "David, Solomon, Rehoboam"],
+    "correctAnswerIndex": 1,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "What image does God use to describe His relationship with Israel, which they broke?",
+    "options": ["A shepherd and his sheep", "A king and his subjects", "A covenant or marriage", "A potter and clay"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "Jeremiah condemned the people for putting misplaced trust in 'lying words' by chanting what phrase repeatedly?",
+    "options": ["'Great is the LORD!'", "'The Temple of the LORD, the Temple of the LORD, the Temple of the LORD!'", "'We are safe in Jerusalem!'", "'Babylon will fall!'"],
+    "correctAnswerIndex": 1,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "What did God promise to give the people after His own heart, who would lead them with knowledge and understanding, replacing the unfaithful leaders?",
+    "options": ["Foreign kings", "Military generals", "Shepherds", "Wealthy merchants"],
+    "correctAnswerIndex": 2,
+    "book": "Jeremiah",
+    "difficulty": "Medium"
+  },
+  {
+    "text": "The book of Jeremiah contains several sections often referred to as Jeremiah's 'Confessions' or 'Laments'. What do these passages primarily express?",
+    "options": ["His joy in prophesying", "His personal anguish, struggles with God, and persecution", "His political strategies", "His detailed plans for the temple"],
+    "correctAnswerIndex": 1,
+    "book": "Jeremiah",
+    "difficulty": "Easy"
   }
 ]

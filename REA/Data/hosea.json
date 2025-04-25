@@ -88,5 +88,311 @@
     "difficulty": "Medium",
     "verseReference": "Hosea 10:12-13",
     "verseText": "Sow for yourselves righteousness; reap steadfast love... You have plowed iniquity; you have reaped injustice; you have eaten the fruit of lies."
+  },
+  {
+    "text": "What specific failure of the priests is highlighted early in Hosea's accusations against Israel?",
+    "options": ["Stealing sacrifices", "Performing incorrect rituals", "Rejecting knowledge and forgetting God's law", "Building unauthorized temples"],
+    "correctAnswerIndex": 2,
+    "book": "Hosea",
+    "difficulty": "Medium",
+    "verseReference": "Hosea 4:6",
+    "verseText": "My people are destroyed for lack of knowledge; because you have rejected knowledge, I reject you from being a priest to me. And since you have forgotten the law of your God, I also will forget your children."
+  },
+  {
+    "text": "Which two nations did Israel foolishly try to ally with, instead of trusting God?",
+    "options": ["Babylon and Persia", "Egypt and Assyria", "Moab and Ammon", "Philistia and Tyre"],
+    "correctAnswerIndex": 1,
+    "book": "Hosea",
+    "difficulty": "Medium",
+    "verseReference": "Hosea 5:13, 7:11, 12:1",
+    "verseText": "When Ephraim saw his sickness, and Judah his wound, then Ephraim went to Assyria... Ephraim is like a dove, silly and without sense, calling to Egypt, going to Assyria... Ephraim feeds on the wind and pursues the east wind all day long; they multiply lies and violence; they make a covenant with Assyria, and oil is carried to Egypt."
+  },
+  {
+    "text": "What does God compare Ephraim (Israel) to when describing their tendency to seek help from foreign powers?",
+    "options": ["A roaring lion", "A sturdy oak", "A silly, senseless dove", "A watchful eagle"],
+    "correctAnswerIndex": 2,
+    "book": "Hosea",
+    "difficulty": "Medium",
+    "verseReference": "Hosea 7:11",
+    "verseText": "Ephraim is like a dove, silly and without sense, calling to Egypt, going to Assyria."
+  },
+  {
+    "text": "What is the meaning behind the name 'Lo-ruhama' given to Hosea's daughter?",
+    "options": ["'God is gracious'", "'My delight is in her'", "'Not pitied' or 'No mercy'", "'God will restore'"],
+    "correctAnswerIndex": 2,
+    "book": "Hosea",
+    "difficulty": "Medium",
+    "verseReference": "Hosea 1:6",
+    "verseText": "She conceived again and bore a daughter. And the LORD said to him, “Call her name No Mercy (Lo-ruhama), for I will no more have mercy on the house of Israel, to forgive them at all.\""
+  },
+  {
+    "text": "What is the meaning behind the name 'Lo-ammi' given to Hosea's second son?",
+    "options": ["'God is with us'", "'Not my people'", "'Son of sorrow'", "'Prince of God'"],
+    "correctAnswerIndex": 1,
+    "book": "Hosea",
+    "difficulty": "Medium",
+    "verseReference": "Hosea 1:9",
+    "verseText": "And the LORD said, “Call his name Not My People (Lo-ammi), for you are not my people, and I am not your God.”"
+  },
+  {
+    "text": "Despite the judgment names given to his children, what future hope does God promise immediately after?",
+    "options": ["They will be permanently scattered", "Their numbers will be like the sand of the sea, and they will be called 'sons of the living God'", "They will conquer their enemies", "They will build a new temple"],
+    "correctAnswerIndex": 1,
+    "book": "Hosea",
+    "difficulty": "Hard",
+    "verseReference": "Hosea 1:10-11",
+    "verseText": "Yet the number of the children of Israel shall be like the sand of the sea, which cannot be measured or numbered. And in the place where it was said to them, “You are not my people,” it shall be said to them, “Sons of the living God.”"
+  },
+  {
+    "text": "How does God describe the fleeting nature of Israel's and Judah's loyalty in Hosea 6?",
+    "options": ["Like a strong fortress", "Like an everlasting covenant", "Like the morning mist or early dew that disappears", "Like a deeply rooted tree"],
+    "correctAnswerIndex": 2,
+    "book": "Hosea",
+    "difficulty": "Medium",
+    "verseReference": "Hosea 6:4",
+    "verseText": "What shall I do with you, O Ephraim? What shall I do with you, O Judah? Your love is like a morning cloud, like the dew that goes early away."
+  },
+  {
+    "text": "What specific idol, associated with Samaria, is repeatedly condemned by Hosea?",
+    "options": ["Baal", "Asherah", "The calf idol", "Molech"],
+    "correctAnswerIndex": 2,
+    "book": "Hosea",
+    "difficulty": "Easy",
+    "verseReference": "Hosea 8:5-6, 10:5, 13:2",
+    "verseText": "I have spurned your calf, O Samaria... For it was made by a craftsman; it is not God. The calf of Samaria shall be broken to pieces... The inhabitants of Samaria tremble for the calf of Beth-aven... They sin more and more, and make for themselves metal images, idols skillfully made of their silver..."
+  },
+  {
+    "text": "What consequence does Hosea warn will come from Israel 'sowing the wind'?",
+    "options": ["They will reap a gentle breeze", "They will reap the whirlwind (disaster)", "They will harvest abundance", "They will find shelter"],
+    "correctAnswerIndex": 1,
+    "book": "Hosea",
+    "difficulty": "Medium",
+    "verseReference": "Hosea 8:7",
+    "verseText": "For they sow the wind, and they shall reap the whirlwind. The standing grain has no heads; it shall yield no flour; if it were to yield, strangers would devour it."
+  },
+  {
+    "text": "What does God compare Israel to in Hosea 10, describing their past fruitfulness and subsequent slide into idolatry?",
+    "options": ["A barren fig tree", "A luxuriant vine that yields its fruit", "A cedar of Lebanon", "A mustard seed"],
+    "correctAnswerIndex": 1,
+    "book": "Hosea",
+    "difficulty": "Medium",
+    "verseReference": "Hosea 10:1",
+    "verseText": "Israel is a luxuriant vine that yields its fruit. The more his fruit increased, the more altars he built; as his country improved, he improved his pillars."
+  },
+  {
+    "text": "What emotional struggle does God express in Hosea 11 regarding punishing Ephraim (Israel)?",
+    "options": ["Indifference", "Pure anger and desire for destruction", "Deep parental love and compassion conflicting with the need for judgment", "Joy at their downfall"],
+    "correctAnswerIndex": 2,
+    "book": "Hosea",
+    "difficulty": "Hard",
+    "verseReference": "Hosea 11:8-9",
+    "verseText": "How can I give you up, O Ephraim? How can I hand you over, O Israel? ... My heart recoils within me; my compassion grows warm and tender. I will not execute my burning anger; I will not again destroy Ephraim; for I am God and not a man, the Holy One in your midst, and I will not come in wrath."
+  },
+  {
+    "text": "How did God guide Israel out of Egypt, according to Hosea 11?",
+    "options": ["With chariots of fire", "With an army of angels", "With cords of kindness and bands of love, like one lifting a yoke", "With pillars of cloud and fire"],
+    "correctAnswerIndex": 2,
+    "book": "Hosea",
+    "difficulty": "Medium",
+    "verseReference": "Hosea 11:1, 4",
+    "verseText": "When Israel was a child, I loved him, and out of Egypt I called my son... I led them with cords of kindness, with the bands of love, and I became to them as one who eases the yoke on their jaws, and I bent down to them and fed them."
+  },
+  {
+    "text": "What is the primary sin associated with Gilead and Gilgal in Hosea?",
+    "options": ["Laziness", "Inhospitality", "Iniquity, idolatry, and worthless sacrifices", "Cowardice in battle"],
+    "correctAnswerIndex": 2,
+    "book": "Hosea",
+    "difficulty": "Medium",
+    "verseReference": "Hosea 6:8, 9:15, 12:11",
+    "verseText": "Gilead is a city of evildoers, tracked with blood... all their princes are rebels. ... Is there iniquity in Gilead? They shall surely come to nothing. In Gilgal they sacrifice bulls; their altars also are like stone heaps on the furrows of the field."
+  },
+  {
+    "text": "What does Hosea urge Israel to return to God with in chapter 14?",
+    "options": ["Expensive sacrifices", "Military victories", "Words of repentance, asking for forgiveness and offering praise", "Political treaties"],
+    "correctAnswerIndex": 2,
+    "book": "Hosea",
+    "difficulty": "Easy",
+    "verseReference": "Hosea 14:1-2",
+    "verseText": "Return, O Israel, to the LORD your God, for you have stumbled because of your iniquity. Take with you words and return to the LORD; say to him, “Take away all iniquity; accept what is good, and we will pay with bulls the vows of our lips.\""
+  },
+  {
+    "text": "In God's promise of restoration in Hosea 14, what does He promise to be to Israel?",
+    "options": ["A consuming fire", "A harsh judge", "Like the dew, causing them to blossom like the lily", "A distant king"],
+    "correctAnswerIndex": 2,
+    "book": "Hosea",
+    "difficulty": "Medium",
+    "verseReference": "Hosea 14:5",
+    "verseText": "I will be like the dew to Israel; he shall blossom like the lily; he shall take root like the trees of Lebanon."
+  },
+  {
+    "text": "What animalistic metaphors does God use to describe His judgment against unfaithful Israel?",
+    "options": ["A gentle lamb and a peaceful dove", "A lion, a leopard, and a bear", "A hardworking ox and a swift horse", "A wise owl and a cunning fox"],
+    "correctAnswerIndex": 1,
+    "book": "Hosea",
+    "difficulty": "Medium",
+    "verseReference": "Hosea 5:14, 13:7-8",
+    "verseText": "For I will be like a lion to Ephraim, and like a young lion to the house of Judah... So I will be to them like a lion; like a leopard I will lurk beside the way. I will fall upon them like a bear robbed of her cubs; I will tear open their breast..."
+  },
+  {
+    "text": "What does Hosea identify as a major problem in Israelite society related to truth and loyalty?",
+    "options": ["Excessive honesty", "Too much loyalty to the king", "No faithfulness, no steadfast love, no knowledge of God in the land", "An abundance of treaties"],
+    "correctAnswerIndex": 2,
+    "book": "Hosea",
+    "difficulty": "Medium",
+    "verseReference": "Hosea 4:1",
+    "verseText": "Hear the word of the LORD, O children of Israel, for the LORD has a controversy with the inhabitants of the land. There is no faithfulness or steadfast love, and no knowledge of God in the land."
+  },
+  {
+    "text": "What kind of 'spirit' is said to be within Israel, leading them astray?",
+    "options": ["A spirit of wisdom", "A spirit of generosity", "A spirit of whoredom (idolatry/unfaithfulness)", "A spirit of courage"],
+    "correctAnswerIndex": 2,
+    "book": "Hosea",
+    "difficulty": "Medium",
+    "verseReference": "Hosea 4:12, 5:4",
+    "verseText": "My people inquire of a piece of wood, and their staff gives them oracles. For a spirit of whoredom has led them astray, and they have left their God to play the whore... Their deeds do not permit them to return to their God. For the spirit of whoredom is within them, and they know not the LORD."
+  },
+  {
+    "text": "What does Hosea say about Israel's kings and princes, reflecting political instability and ungodly leadership?",
+    "options": ["They were all chosen by God", "They established lasting peace", "They set up kings, but not through God; their princes were unknown to Him", "They were faithful worshippers"],
+    "correctAnswerIndex": 2,
+    "book": "Hosea",
+    "difficulty": "Medium",
+    "verseReference": "Hosea 8:4",
+    "verseText": "They made kings, but not through me. They set up princes, but I knew it not. With their silver and gold they made idols for their own destruction."
+  },
+  {
+    "text": "What does God desire Israel to 'sow' and 'reap' according to Hosea 10?",
+    "options": ["Sow discord, reap conflict", "Sow wealth, reap luxury", "Sow righteousness, reap steadfast love", "Sow laziness, reap poverty"],
+    "correctAnswerIndex": 2,
+    "book": "Hosea",
+    "difficulty": "Medium",
+    "verseReference": "Hosea 10:12",
+    "verseText": "Sow for yourselves righteousness; reap steadfast love; break up your fallow ground, for it is the time to seek the LORD, that he may come and rain righteousness upon you."
+  },
+  {
+    "text": "What historical event involving Jacob (Israel) is recalled in Hosea 12 to contrast with the current generation's behavior?",
+    "options": ["His building of an altar", "His wrestling with the angel and seeking God's blessing", "His flight from Esau", "His marriage to Leah and Rachel"],
+    "correctAnswerIndex": 1,
+    "book": "Hosea",
+    "difficulty": "Hard",
+    "verseReference": "Hosea 12:3-4",
+    "verseText": "In the womb he took his brother by the heel, and in his manhood he strove with God. He strove with the angel and prevailed; he wept and sought his favor. He met God at Bethel, and there God spoke with us—"
+  },
+  {
+    "text": "What is the ultimate fate Hosea prophesies for Samaria due to its rebellion?",
+    "options": ["It will become a great empire", "It will be forgiven unconditionally", "It will bear its guilt, fall by the sword, and face destruction", "It will form a lasting alliance with Judah"],
+    "correctAnswerIndex": 2,
+    "book": "Hosea",
+    "difficulty": "Medium",
+    "verseReference": "Hosea 13:16",
+    "verseText": "Samaria shall bear her guilt, because she has rebelled against her God; they shall fall by the sword; their little ones shall be dashed in pieces, and their pregnant women ripped open."
+  },
+  {
+    "text": "What is the final call to wisdom at the very end of the book of Hosea?",
+    "options": ["To gain more wealth", "To build stronger armies", "To understand and walk in the ways of the Lord, which are right", "To seek knowledge from other nations"],
+    "correctAnswerIndex": 2,
+    "book": "Hosea",
+    "difficulty": "Easy",
+    "verseReference": "Hosea 14:9",
+    "verseText": "Whoever is wise, let him understand these things; whoever is discerning, let him know them; for the ways of the LORD are right, and the upright walk in them, but transgressors stumble in them."
+  },
+  {
+    "text": "What metaphor does Hosea use to describe Israel's stubbornness?",
+    "options": ["A trained horse", "A stubborn heifer", "A soaring eagle", "A gentle sheep"],
+    "correctAnswerIndex": 1,
+    "book": "Hosea",
+    "difficulty": "Medium",
+    "verseReference": "Hosea 4:16",
+    "verseText": "Like a stubborn heifer, Israel is stubborn; can the LORD now feed them like a lamb in a broad pasture?"
+  },
+  {
+    "text": "What does God accuse Israel of mixing themselves with, leading to their weakening?",
+    "options": ["Righteous neighbors", "The peoples (other nations)", "Pure doctrine", "Holy practices"],
+    "correctAnswerIndex": 1,
+    "book": "Hosea",
+    "difficulty": "Medium",
+    "verseReference": "Hosea 7:8",
+    "verseText": "Ephraim mixes himself with the peoples; Ephraim is a cake not turned."
+  },
+  {
+    "text": "What does the metaphor 'a cake not turned' signify about Ephraim (Israel)?",
+    "options": ["Perfectly cooked and ready", "Completely burnt and useless", "Half-baked, inconsistent, damaged by foreign influences", "Sweet and desirable"],
+    "correctAnswerIndex": 2,
+    "book": "Hosea",
+    "difficulty": "Hard",
+    "verseReference": "Hosea 7:8",
+    "verseText": "Ephraim mixes himself with the peoples; Ephraim is a cake not turned."
+  },
+  {
+    "text": "What does Hosea say has 'devoured' Ephraim's strength without him realizing it?",
+    "options": ["Internal strife", "Hard work", "Strangers (foreign alliances/influences)", "Natural disasters"],
+    "correctAnswerIndex": 2,
+    "book": "Hosea",
+    "difficulty": "Medium",
+    "verseReference": "Hosea 7:9",
+    "verseText": "Strangers devour his strength, and he knows it not; gray hairs are sprinkled upon him, and he knows it not."
+  },
+  {
+    "text": "What location is mentioned as a place of past sin (related to the golden calf) and future trembling for Israel?",
+    "options": ["Jerusalem", "Bethel (called Beth-aven, 'house of wickedness')", "Shiloh", "Hebron"],
+    "correctAnswerIndex": 1,
+    "book": "Hosea",
+    "difficulty": "Medium",
+    "verseReference": "Hosea 10:5, 10:15",
+    "verseText": "The inhabitants of Samaria tremble for the calf of Beth-aven... Thus shall it be done to you, O Bethel, because of your great evil."
+  },
+  {
+    "text": "What does God promise to heal in Israel upon their repentance in the final chapter?",
+    "options": ["Their political divisions", "Their economic poverty", "Their apostasy or faithlessness", "Their physical illnesses"],
+    "correctAnswerIndex": 2,
+    "book": "Hosea",
+    "difficulty": "Medium",
+    "verseReference": "Hosea 14:4",
+    "verseText": "I will heal their apostasy; I will love them freely, for my anger has turned from them."
+  },
+  {
+    "text": "What kind of relationship does God ultimately promise to restore with Israel, using marriage language?",
+    "options": ["A temporary truce", "A master-servant relationship", "An eternal betrothal in righteousness, justice, love, and mercy", "A distant acquaintance"],
+    "correctAnswerIndex": 2,
+    "book": "Hosea",
+    "difficulty": "Medium",
+    "verseReference": "Hosea 2:19-20",
+    "verseText": "And I will betroth you to me forever. I will betroth you to me in righteousness and in justice, in steadfast love and in mercy. I will betroth you to me in faithfulness. And you shall know the LORD."
+  },
+  {
+    "text": "What specific sin involving scales and trade is Ephraim accused of?",
+    "options": ["Generosity to the poor", "Fair pricing", "Loving to oppress using deceitful balances", "Refusing to trade"],
+    "correctAnswerIndex": 2,
+    "book": "Hosea",
+    "difficulty": "Medium",
+    "verseReference": "Hosea 12:7",
+    "verseText": "A merchant, in whose hands are false balances, he loves to oppress."
+  },
+  {
+    "text": "What does Hosea indicate was the consequence of Ephraim 'speaking with trembling' versus becoming guilty through Baal worship?",
+    "options": ["He was ignored / He became powerful", "He was exalted / He died (spiritually/nationally)", "He was punished / He was rewarded", "He found wisdom / He lost wealth"],
+    "correctAnswerIndex": 1,
+    "book": "Hosea",
+    "difficulty": "Hard",
+    "verseReference": "Hosea 13:1",
+    "verseText": "When Ephraim spoke, there was trembling; he was exalted in Israel, but he incurred guilt through Baal and died."
+  },
+  {
+    "text": "What will Israel no longer rely on or call 'our God' if they truly return to the Lord?",
+    "options": ["Their own wisdom", "Their military strength ('Assyria', 'horses')", "The work of their hands (idols)", "All of the above"],
+    "correctAnswerIndex": 3,
+    "book": "Hosea",
+    "difficulty": "Medium",
+    "verseReference": "Hosea 14:3",
+    "verseText": "Assyria shall not save us; we will not ride on horses; and we will say no more, ‘Our God,’ to the work of our hands. In you the orphan finds mercy."
+  },
+  {
+    "text": "What is the significance of the name 'Jezreel' for Hosea's first son, relating to a past event?",
+    "options": ["A place of great victory", "A symbol of fertility", "God will punish the house of Jehu for the blood shed at Jezreel", "God will gather his people there"],
+    "correctAnswerIndex": 2,
+    "book": "Hosea",
+    "difficulty": "Hard",
+    "verseReference": "Hosea 1:4-5",
+    "verseText": "And the LORD said to him, “Call his name Jezreel, for in just a little while I will punish the house of Jehu for the blood of Jezreel, and I will put an end to the kingdom of the house of Israel.\""
   }
 ]

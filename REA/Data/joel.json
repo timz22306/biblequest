@@ -27,7 +27,7 @@
     "verseText": "Alas for the day! For the day of the LORD is near, and as destruction from the Almighty it comes... Blow a trumpet in Zion; sound an alarm on my holy mountain! Let all the inhabitants of the land tremble, for the day of the LORD is coming; it is near,"
   },
   {
-    "text": "In Joel 2, God promises to restore what the locusts have eaten if the people repent?",
+    "text": "Following the call to repentance, what does God promise to restore that the locusts had consumed?",
     "options": ["Their political power", "Their wealth", "The years", "Their reputation"],
     "correctAnswerIndex": 2,
     "book": "Joel",
@@ -36,7 +36,7 @@
     "verseText": "I will restore to you the years that the swarming locust has eaten, the hopper, the destroyer, and the cutter, my great army, which I sent among you."
   },
   {
-    "text": "What significant promise does God make in Joel 2:28-29 concerning His Spirit?",
+    "text": "What significant promise does God make concerning the outpouring of His Spirit 'afterward' (following restoration)?",
     "options": ["He will pour out His Spirit only on the priests", "He will pour out His Spirit on all flesh (sons, daughters, old men, young men, servants)", "His Spirit will depart from them", "His Spirit will only empower prophets"],
     "correctAnswerIndex": 1,
     "book": "Joel",
@@ -54,7 +54,7 @@
     "verseText": "(Peter explicitly quotes Joel 2:28-32 to explain the events of Pentecost)"
   },
   {
-    "text": "According to Joel 2:32, what will happen to everyone who calls on the name of the LORD?",
+    "text": "In the context of the coming Day of the Lord and the outpouring of the Spirit, what promise is given to everyone who calls on the name of the LORD?",
     "options": ["They will become rich", "They will be delivered or saved", "They will become prophets", "They will defeat their enemies"],
     "correctAnswerIndex": 1,
     "book": "Joel",
@@ -63,7 +63,7 @@
     "verseText": "And it shall come to pass that everyone who calls on the name of the LORD shall be saved. For in Mount Zion and in Jerusalem there shall be those who escape, as the LORD has said, and among the survivors shall be those whom the LORD calls."
   },
   {
-    "text": "In Joel 3, where does God say He will gather the nations for judgment?",
+    "text": "In the final chapter describing future judgment, where does God say He will gather the nations?",
     "options": ["Mount Sinai", "The plains of Megiddo (Armageddon)", "The Valley of Jehoshaphat (Valley of Decision)", "The city of Babylon"],
     "correctAnswerIndex": 2,
     "book": "Joel",
@@ -72,7 +72,7 @@
     "verseText": "I will gather all the nations and bring them down to the Valley of Jehoshaphat... Let the nations stir themselves up and come up to the Valley of Jehoshaphat; for there I will sit to judge all the surrounding nations... Multitudes, multitudes, in the valley of decision! For the day of the LORD is near in the valley of decision."
   },
   {
-    "text": "What agricultural tools does Joel 3:10 urge the nations to turn into weapons?",
+    "text": "In a reversal of the call to peace (Isaiah 2:4), what does Joel urge the nations preparing for judgment to turn their agricultural tools into?",
     "options": ["Swords into plowshares", "Spears into pruning hooks", "Plowshares into swords, pruning hooks into spears", "Scythes into shields"],
     "correctAnswerIndex": 2,
     "book": "Joel",
@@ -88,5 +88,185 @@
     "difficulty": "Easy",
     "verseReference": "Joel 3:20-21",
     "verseText": "But Judah shall be inhabited forever, and Jerusalem to all generations... For the LORD dwells in Zion."
+  },
+  {
+    "text": "Who is specifically called upon early in the prophecy to lament the disaster and put on sackcloth because offerings are withheld from the temple?",
+    "options": ["The elders", "The farmers", "The priests and ministers of the altar", "The king and his court"],
+    "correctAnswerIndex": 2,
+    "book": "Joel",
+    "difficulty": "Easy",
+    "verseReference": "Joel 1:13",
+    "verseText": "Put on sackcloth and lament, O priests; wail, O ministers of the altar. Go in, pass the night in sackcloth, O ministers of my God! For grain offering and drink offering are withheld from the house of your God."
+  },
+  {
+    "text": "What has dried up or withered due to the disaster described in Joel 1?",
+    "options": ["Only the grain fields", "Only the rivers", "Grain, new wine, oil, trees (fig, vine, pomegranate, palm, apple), joy", "The people's hope"],
+    "correctAnswerIndex": 2,
+    "book": "Joel",
+    "difficulty": "Medium",
+    "verseReference": "Joel 1:10-12",
+    "verseText": "The fields are destroyed, the ground mourns, because the grain is destroyed, the new wine dries up, the oil languishes... The vine dries up; the fig tree languishes. Pomegranate, palm, and apple, all the trees of the field are dried up, and gladness dries up from the children of man."
+  },
+  {
+    "text": "When sounding the alarm for the Day of the Lord, what instrument is to be blown in Zion?",
+    "options": ["A harp", "A trumpet (shofar)", "A flute", "Cymbals"],
+    "correctAnswerIndex": 1,
+    "book": "Joel",
+    "difficulty": "Easy",
+    "verseReference": "Joel 2:1",
+    "verseText": "Blow a trumpet in Zion; sound an alarm on my holy mountain! Let all the inhabitants of the land tremble, for the day of the LORD is coming; it is near,"
+  },
+  {
+    "text": "How is the appearance and sound of the invading army (symbolized by locusts) described as it approaches?",
+    "options": ["As slow and clumsy", "Like the appearance of horses, like war horses they charge; like the rumbling of chariots", "As small and insignificant", "As easily defeated"],
+    "correctAnswerIndex": 1,
+    "book": "Joel",
+    "difficulty": "Medium",
+    "verseReference": "Joel 2:4-5",
+    "verseText": "Their appearance is like the appearance of horses, and like war horses they run. As with the rumbling of chariots, they leap on the tops of the mountains, like the crackling of a flame of fire devouring the stubble, like a powerful army drawn up for battle."
+  },
+  {
+    "text": "When calling for repentance, what specific inner action does Joel emphasize over the outward display of tearing garments?",
+    "options": ["Rend your garments, not your hearts", "Offer more sacrifices", "Rend your hearts and not your garments", "Build a new altar"],
+    "correctAnswerIndex": 2,
+    "book": "Joel",
+    "difficulty": "Easy",
+    "verseReference": "Joel 2:13",
+    "verseText": "and rend your hearts and not your garments.” Return to the LORD your God, for he is gracious and merciful, slow to anger, and abounding in steadfast love; and he relents over disaster."
+  },
+  {
+    "text": "What qualities of God are highlighted as the motivation for the people to return to Him in repentance?",
+    "options": ["Strict and demanding", "Distant and unknowable", "Gracious, merciful, slow to anger, abounding in steadfast love", "Powerful and warlike"],
+    "correctAnswerIndex": 2,
+    "book": "Joel",
+    "difficulty": "Easy",
+    "verseReference": "Joel 2:13",
+    "verseText": "Return to the LORD your God, for he is gracious and merciful, slow to anger, and abounding in steadfast love; and he relents over disaster."
+  },
+  {
+    "text": "Who is specifically included in the call to gather for the solemn assembly during the national crisis?",
+    "options": ["Only the men", "Only the priests and elders", "Everyone: elders, children, nursing infants, bridegroom, bride", "Only the wealthy"],
+    "correctAnswerIndex": 2,
+    "book": "Joel",
+    "difficulty": "Medium",
+    "verseReference": "Joel 2:15-16",
+    "verseText": "Blow the trumpet in Zion; consecrate a fast; call a solemn assembly; gather the people. Consecrate the congregation; assemble the elders; gather the children, even nursing infants. Let the bridegroom leave his room, and the bride her chamber."
+  },
+  {
+    "text": "Where specifically are the priests, the ministers of the Lord, instructed to weep and intercede for the people?",
+    "options": ["In the city square", "On the city walls", "Between the porch and the altar", "In their homes"],
+    "correctAnswerIndex": 2,
+    "book": "Joel",
+    "difficulty": "Medium",
+    "verseReference": "Joel 2:17",
+    "verseText": "Between the vestibule and the altar let the priests, the ministers of the LORD, weep and say, “Spare your people, O LORD, and make not your heritage a reproach, a byword among the nations..."
+  },
+  {
+    "text": "After the people repent, what physical blessings does God promise to send them in abundance?",
+    "options": ["A new king", "Foreign allies", "Grain, wine, and oil", "More laws"],
+    "correctAnswerIndex": 2,
+    "book": "Joel",
+    "difficulty": "Easy",
+    "verseReference": "Joel 2:19",
+    "verseText": "The LORD answered and said to his people, “Behold, I am sending to you grain, wine, and oil, and you will be satisfied; and I will no more make you a reproach among the nations."
+  },
+  {
+    "text": "Following repentance, what does God promise to remove far from the people, driving it into desolate lands and the sea?",
+    "options": ["Their sins", "The northern army (locusts)", "Their fear", "The surrounding nations"],
+    "correctAnswerIndex": 1,
+    "book": "Joel",
+    "difficulty": "Medium",
+    "verseReference": "Joel 2:20",
+    "verseText": "“I will remove the northerner far from you, and drive him into a parched and desolate land, his vanguard into the eastern sea, and his rear guard into the western sea..."
+  },
+  {
+    "text": "As part of the restoration, what specific, vital kinds of rain does God promise to send as before?",
+    "options": ["Only summer rain", "Only winter rain", "The early and latter rains", "A continuous downpour"],
+    "correctAnswerIndex": 2,
+    "book": "Joel",
+    "difficulty": "Medium",
+    "verseReference": "Joel 2:23",
+    "verseText": "“Be glad, O children of Zion, and rejoice in the LORD your God, for he has given the early rain for your vindication; he has poured down for you abundant rain, the early and the latter rain, as before."
+  },
+  {
+    "text": "What will be the ultimate spiritual result of God's restoration and the outpouring of His Spirit on the people?",
+    "options": ["Israel will conquer its neighbors", "They will eat, be satisfied, praise God, and know He is in their midst, never again shamed", "The Temple will be rebuilt with gold", "They will forget their past suffering"],
+    "correctAnswerIndex": 1,
+    "book": "Joel",
+    "difficulty": "Easy",
+    "verseReference": "Joel 2:26-27",
+    "verseText": "“You shall eat in plenty and be satisfied, and praise the name of the LORD your God, who has dealt wondrously with you. And my people shall never again be put to shame. You shall know that I am in the midst of Israel, and that I am the LORD your God and there is none else. And my people shall never again be put to shame."
+  },
+  {
+    "text": "What cosmic signs involving blood, fire, smoke, the sun, and the moon will precede the great and awesome Day of the LORD?",
+    "options": ["Stars falling like figs", "Wonders in heavens and earth: blood, fire, smoke; sun darkened, moon turned to blood", "The sky rolling up like a scroll", "Mountains melting like wax"],
+    "correctAnswerIndex": 1,
+    "book": "Joel",
+    "difficulty": "Medium",
+    "verseReference": "Joel 2:30-31",
+    "verseText": "“And I will show wonders in the heavens and on the earth, blood and fire and columns of smoke. The sun shall be turned to darkness, and the moon to blood, before the great and awesome day of the LORD comes."
+  },
+  {
+    "text": "Why does God state He is bringing the nations to the Valley of Jehoshaphat?",
+    "options": ["To make treaties", "To teach them His law", "To judge them for scattering Israel and dividing His land", "To give them land"],
+    "correctAnswerIndex": 2,
+    "book": "Joel",
+    "difficulty": "Medium",
+    "verseReference": "Joel 3:2",
+    "verseText": "I will gather all the nations and bring them down to the Valley of Jehoshaphat. And I will enter into judgment with them there, on behalf of my people and my heritage Israel, because they have scattered them among the nations and have divided up my land,"
+  },
+  {
+    "text": "Which specific coastal regions/cities are called out for judgment due to their actions against Judah?",
+    "options": ["Egypt and Assyria", "Babylon and Persia", "Tyre, Sidon, and all the regions of Philistia", "Edom and Moab"],
+    "correctAnswerIndex": 2,
+    "book": "Joel",
+    "difficulty": "Medium",
+    "verseReference": "Joel 3:4",
+    "verseText": "“What are you to me, O Tyre and Sidon, and all the regions of Philistia? Are you paying me back for something? If you are paying me back, I will return your payment on your own head swiftly and speedily."
+  },
+  {
+    "text": "What specific accusation involving God's treasures and the slave trade does God level against Tyre, Sidon, and Philistia?",
+    "options": ["Idolatry", "Breaking treaties", "Taking God's silver/gold and selling Judahites/Jerusalemites to the Greeks", "Military aggression"],
+    "correctAnswerIndex": 2,
+    "book": "Joel",
+    "difficulty": "Hard",
+    "verseReference": "Joel 3:5-6",
+    "verseText": "For you have taken my silver and my gold, and have carried my rich treasures into your temples. You have sold the people of Judah and Jerusalem to the Greeks in order to remove them far from their own border."
+  },
+  {
+    "text": "The phrase 'Valley of Decision' in Joel 3:14 emphasizes what aspect of the gathering of nations?",
+    "options": ["The nations must decide whether to follow God", "It is a place where God's decisive judgment will occur", "Israel must decide its future course", "It is a place for negotiation"],
+    "correctAnswerIndex": 1,
+    "book": "Joel",
+    "difficulty": "Medium",
+    "verseReference": "Joel 3:14",
+    "verseText": "Multitudes, multitudes, in the valley of decision! For the day of the LORD is near in the valley of decision."
+  },
+  {
+    "text": "What will happen to the celestial bodies (sun, moon, stars) when the LORD judges the nations in the valley?",
+    "options": ["They will shine brighter", "They will fall from the sky", "They will be darkened and withdraw their shining", "They will change color"],
+    "correctAnswerIndex": 2,
+    "book": "Joel",
+    "difficulty": "Medium",
+    "verseReference": "Joel 3:15",
+    "verseText": "The sun and moon are darkened, and the stars withdraw their shining."
+  },
+  {
+    "text": "Where will the LORD roar from like a lion, causing heavens and earth to shake, yet being a refuge for His people?",
+    "options": ["Mount Sinai", "Babylon", "Zion and Jerusalem", "The Valley of Decision"],
+    "correctAnswerIndex": 2,
+    "book": "Joel",
+    "difficulty": "Easy",
+    "verseReference": "Joel 3:16",
+    "verseText": "The LORD roars from Zion, and utters his voice from Jerusalem, and the heavens and the earth quake. But the LORD is a refuge to his people, a stronghold to the people of Israel."
+  },
+  {
+    "text": "While Judah and Jerusalem are promised eternal habitation, what future is prophesied for Egypt and Edom due to their violence against Judah?",
+    "options": ["They will become allies of Israel", "They will become a desolation and a desert waste", "They will also be restored", "They will worship the LORD"],
+    "correctAnswerIndex": 1,
+    "book": "Joel",
+    "difficulty": "Medium",
+    "verseReference": "Joel 3:19",
+    "verseText": "“Egypt shall become a desolation and Edom a desolate wilderness, for the violence done to the people of Judah, because they have shed innocent blood in their land."
   }
 ]

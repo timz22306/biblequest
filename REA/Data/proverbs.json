@@ -1,6 +1,6 @@
 [
   {
-    "text": "According to Proverbs 1:7, what is the beginning of knowledge?",
+    "text": "The opening verses of Proverbs state that a foundational element is the beginning of knowledge. What is this element?",
     "options": ["Hard work", "The fear of the LORD", "Listening to elders", "Studying the Law"],
     "correctAnswerIndex": 1,
     "book": "Proverbs",
@@ -9,8 +9,8 @@
     "verseText": "The fear of the LORD is the beginning of knowledge; fools despise wisdom and instruction."
   },
   {
-    "text": "Proverbs 3:5 advises trusting in the LORD with what?",
-    "options": ["Some of your heart", "Your mind", "All your heart", "Your strength"],
+    "text": "When seeking guidance, Proverbs advises placing complete trust in the LORD rather than relying on what?",
+    "options": ["The advice of friends", "Past experiences", "Your own understanding", "Your accumulated wealth"],
     "correctAnswerIndex": 2,
     "book": "Proverbs",
     "difficulty": "Easy",
@@ -18,7 +18,7 @@
     "verseText": "Trust in the LORD with all your heart, and do not lean on your own understanding."
   },
   {
-    "text": "What does Proverbs 6:6 tell the sluggard to consider?",
+    "text": "To learn about diligence and wisdom, what small creature does Proverbs suggest the lazy person observe?",
     "options": ["The eagle", "The lion", "The ant", "The bee"],
     "correctAnswerIndex": 2,
     "book": "Proverbs",
@@ -27,8 +27,8 @@
     "verseText": "Go to the ant, O sluggard; consider her ways, and be wise."
   },
   {
-    "text": "Proverbs 10:4 contrasts a slack hand with a diligent hand. What does the hand of the diligent do?",
-    "options": ["Causes poverty", "Brings anger", "Makes rich", "Leads to shame"],
+    "text": "Proverbs contrasts the outcomes of laziness and diligence regarding wealth. What is the result of a diligent hand?",
+    "options": ["It causes poverty", "It brings anger", "It makes rich", "It leads to shame"],
     "correctAnswerIndex": 2,
     "book": "Proverbs",
     "difficulty": "Medium",
@@ -36,7 +36,7 @@
     "verseText": "A slack hand causes poverty, but the hand of the diligent makes rich."
   },
   {
-    "text": "According to Proverbs 15:1, what turns away wrath?",
+    "text": "In managing conflict, Proverbs suggests a specific type of response can diffuse anger. What kind of answer turns away wrath?",
     "options": ["A harsh word", "Silence", "A soft answer", "A loud voice"],
     "correctAnswerIndex": 2,
     "book": "Proverbs",
@@ -45,8 +45,8 @@
     "verseText": "A soft answer turns away wrath, but a harsh word stirs up anger."
   },
   {
-    "text": "Proverbs 16:9 states that 'The heart of man plans his way, but...'?",
-    "options": ["...his friends direct his steps.", "...the LORD establishes his steps.", "...chance determines his steps.", "...his wisdom guides his steps."],
+    "text": "While humans make their plans, Proverbs indicates a higher power ultimately guides their journey. Who establishes a person's steps?",
+    "options": ["Their friends", "The LORD", "Chance", "Their own wisdom"],
     "correctAnswerIndex": 1,
     "book": "Proverbs",
     "difficulty": "Medium",
@@ -54,7 +54,7 @@
     "verseText": "The heart of man plans his way, but the LORD establishes his steps."
   },
   {
-    "text": "What does Proverbs 17:17 say a friend does?",
+    "text": "Describing the nature of true friendship, Proverbs states that a friend exhibits what quality consistently?",
     "options": ["Loves at all times", "Helps only in need", "Offers advice constantly", "Keeps secrets"],
     "correctAnswerIndex": 0,
     "book": "Proverbs",
@@ -63,7 +63,7 @@
     "verseText": "A friend loves at all times, and a brother is born for adversity."
   },
   {
-    "text": "Proverbs 18:24 contrasts having many companions with what kind of friend?",
+    "text": "Proverbs contrasts superficial relationships with deep ones. What kind of companion is described as providing exceptional loyalty?",
     "options": ["A wealthy friend", "A powerful friend", "A friend who sticks closer than a brother", "A wise friend"],
     "correctAnswerIndex": 2,
     "book": "Proverbs",
@@ -72,8 +72,8 @@
     "verseText": "A man of many companions may come to ruin, but there is a friend who sticks closer than a brother."
   },
   {
-    "text": "According to Proverbs 22:6, what is the result of training up a child in the way he should go?",
-    "options": ["He will become wealthy", "He will be famous", "He will not depart from it when he is old", "He will always obey his parents"],
+    "text": "Regarding child-rearing, Proverbs suggests that proper guidance early in life has a lasting impact. What is the long-term outcome?",
+    "options": ["They will become wealthy", "They will be famous", "They will not depart from it when old", "They will always obey their parents"],
     "correctAnswerIndex": 2,
     "book": "Proverbs",
     "difficulty": "Easy",
@@ -81,12 +81,804 @@
     "verseText": "Train up a child in the way he should go; even when he is old he will not depart from it."
   },
   {
-    "text": "What is compared to 'apples of gold in a setting of silver' in Proverbs 25:11?",
+    "text": "Proverbs uses a beautiful metaphor involving precious metals to describe the value of timely and appropriate communication. What is compared to 'apples of gold in a setting of silver'?",
     "options": ["Wisdom", "A word fitly spoken", "Righteousness", "Wealth"],
     "correctAnswerIndex": 1,
     "book": "Proverbs",
     "difficulty": "Medium",
     "verseReference": "Proverbs 25:11",
     "verseText": "A word fitly spoken is like apples of gold in a setting of silver."
+  },
+  {
+    "text": "Proverbs warns against guaranteeing loans for others. What is the person who 'puts up security' for a neighbor described as lacking?",
+    "options": ["Compassion", "Wealth", "Sense", "Friends"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 17:18",
+    "verseText": "One who lacks sense gives a pledge and puts up security in the presence of his neighbor."
+  },
+  {
+    "text": "What positive outcome does Proverbs associate with humility and the fear of the LORD?",
+    "options": ["Great physical strength", "Victory in battle", "Riches and honor and life", "Many children"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 22:4",
+    "verseText": "The reward for humility and fear of the LORD is riches and honor and life."
+  },
+  {
+    "text": "Proverbs describes wisdom metaphorically as a source of vitality. What is wisdom likened to for those who embrace it?",
+    "options": ["A shield", "A strong tower", "A tree of life", "A flowing stream"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 3:18",
+    "verseText": "She is a tree of life to those who lay hold of her; those who hold her fast are called blessed."
+  },
+  {
+    "text": "Regarding managing anger, Proverbs contrasts a patient person with one who is quick-tempered. What does the quick-tempered person display?",
+    "options": ["Great understanding", "Folly", "Strength", "Wealth"],
+    "correctAnswerIndex": 1,
+    "book": "Proverbs",
+    "difficulty": "Easy",
+    "verseReference": "Proverbs 14:29",
+    "verseText": "Whoever is slow to anger has great understanding, but he who has a hasty temper exalts folly."
+  },
+  {
+    "text": "Proverbs highlights the protective nature of wisdom. What does it say wisdom will do for the one who cherishes her?",
+    "options": ["Make them wealthy", "Guard them", "Give them many friends", "Make them famous"],
+    "correctAnswerIndex": 1,
+    "book": "Proverbs",
+    "difficulty": "Easy",
+    "verseReference": "Proverbs 4:6",
+    "verseText": "Do not forsake her, and she will keep you; love her, and she will guard you."
+  },
+  {
+    "text": "What does Proverbs identify as the source from which 'the springs of life' flow, emphasizing the need to guard it diligently?",
+    "options": ["Your wealth", "Your reputation", "Your heart", "Your family"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 4:23",
+    "verseText": "Keep your heart with all vigilance, for from it flow the springs of life."
+  },
+  {
+    "text": "Proverbs warns against associating with a specific type of person known for stirring up conflict. What kind of person should be avoided to end quarrels?",
+    "options": ["The fool", "The sluggard", "The scoffer", "The gossip"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 22:10",
+    "verseText": "Drive out a scoffer, and strife will go out, and quarreling and abuse will cease."
+  },
+  {
+    "text": "Proverbs speaks about the destructive power of words. What is likened to 'piercing swords'?",
+    "options": ["A soft answer", "Wise counsel", "Reckless words", "Silent disagreement"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 12:18",
+    "verseText": "There is one whose rash words are like sword thrusts, but the tongue of the wise brings healing."
+  },
+  {
+    "text": "In contrast to harmful speech, what positive effect does Proverbs attribute to the 'tongue of the wise'?",
+    "options": ["It causes arguments", "It brings healing", "It reveals secrets", "It leads to poverty"],
+    "correctAnswerIndex": 1,
+    "book": "Proverbs",
+    "difficulty": "Easy",
+    "verseReference": "Proverbs 12:18",
+    "verseText": "There is one whose rash words are like sword thrusts, but the tongue of the wise brings healing."
+  },
+  {
+    "text": "Proverbs values honesty in commerce. What does it describe as an 'abomination to the LORD'?",
+    "options": ["High prices", "Bargaining", "Dishonest scales", "Borrowing money"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Easy",
+    "verseReference": "Proverbs 11:1",
+    "verseText": "A false balance is an abomination to the LORD, but a just weight is his delight."
+  },
+  {
+    "text": "What character trait, according to Proverbs, often precedes a downfall or destruction?",
+    "options": ["Humility", "Generosity", "Pride", "Patience"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Easy",
+    "verseReference": "Proverbs 16:18",
+    "verseText": "Pride goes before destruction, and a haughty spirit before a fall."
+  },
+  {
+    "text": "Proverbs emphasizes the importance of seeking advice. What is said to be found in a multitude of counselors?",
+    "options": ["Confusion", "Wealth", "Safety (or success)", "Conflict"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 11:14",
+    "verseText": "Where there is no guidance, a people falls, but in an abundance of counselors there is safety."
+  },
+  {
+    "text": "How does Proverbs describe the long-term prospect of wealth obtained hastily or dishonestly?",
+    "options": ["It will multiply", "It will be secure", "It will dwindle", "It brings honor"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 13:11",
+    "verseText": "Wealth gained hastily will dwindle, but whoever gathers little by little will increase it."
+  },
+  {
+    "text": "Proverbs contrasts the paths of the righteous and the wicked. How is the path of the righteous described?",
+    "options": ["Like deepening darkness", "Like the light of dawn", "Like a tangled thicket", "Like a slippery slope"],
+    "correctAnswerIndex": 1,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 4:18",
+    "verseText": "But the path of the righteous is like the light of dawn, which shines brighter and brighter until full day."
+  },
+  {
+    "text": "What does Proverbs say about the reliability of a gossip or talebearer?",
+    "options": ["They are trustworthy", "They betray confidences", "They give wise counsel", "They promote peace"],
+    "correctAnswerIndex": 1,
+    "book": "Proverbs",
+    "difficulty": "Easy",
+    "verseReference": "Proverbs 11:13",
+    "verseText": "Whoever goes about slandering reveals secrets, but he who is trustworthy in spirit keeps a thing covered."
+  },
+  {
+    "text": "Proverbs advises on financial prudence, warning against becoming surety for whom?",
+    "options": ["Family members", "Close friends", "Strangers", "Business partners"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 11:15",
+    "verseText": "Whoever puts up security for a stranger will surely suffer harm, but he who hates striking hands in pledge is secure."
+  },
+  {
+    "text": "What virtue does Proverbs associate with a woman that leads to honor, contrasting it with the outcome for ruthless men?",
+    "options": ["Beauty", "Wealth", "Graciousness", "Ambition"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 11:16",
+    "verseText": "A gracious woman gets honor, and ruthless men get only riches."
+  },
+  {
+    "text": "Proverbs describes the refreshing effect of good news. What part of the body is said to be made healthy by a good report?",
+    "options": ["The heart", "The eyes", "The bones", "The mind"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Hard",
+    "verseReference": "Proverbs 15:30",
+    "verseText": "The light of the eyes rejoices the heart, and good news refreshes the bones."
+  },
+  {
+    "text": "What does Proverbs say is better than starting a quarrel?",
+    "options": ["Winning the argument", "Ignoring the issue", "Walking away from it", "Seeking mediation immediately"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Easy",
+    "verseReference": "Proverbs 17:14",
+    "verseText": "The beginning of strife is like letting out water, so quit before the quarrel breaks out."
+  },
+  {
+    "text": "Proverbs uses the imagery of refining precious metals to describe how the LORD tests what aspect of a person?",
+    "options": ["Their physical strength", "Their wealth", "Their heart", "Their patience"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 17:3",
+    "verseText": "The crucible is for silver, and the furnace is for gold, and the LORD tests hearts."
+  },
+  {
+    "text": "What attitude towards the poor does Proverbs condemn as showing contempt for their Maker?",
+    "options": ["Helping them", "Ignoring them", "Oppressing them", "Praying for them"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 14:31",
+    "verseText": "Whoever oppresses a poor man insults his Maker, but he who is generous to the needy honors him."
+  },
+  {
+    "text": "Proverbs suggests that true beauty is not merely physical. What quality is praised in a woman over charm and physical appearance?",
+    "options": ["Wealth", "Intelligence", "Fear of the LORD", "Social status"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Easy",
+    "verseReference": "Proverbs 31:30",
+    "verseText": "Charm is deceitful, and beauty is vain, but a woman who fears the LORD is to be praised."
+  },
+  {
+    "text": "What does Proverbs say about the potential danger of receiving bribes?",
+    "options": ["They ensure success", "They blind the eyes (of the wise)", "They are acceptable if small", "They guarantee loyalty"],
+    "correctAnswerIndex": 1,
+    "book": "Proverbs",
+    "difficulty": "Hard",
+    "verseReference": "Proverbs 17:8",
+    "verseText": "A bribe is like a magic stone in the eyes of the one who gives it; wherever he turns he prospers. (Note: Other verses like 17:23 condemn bribes; this question tests knowledge of this specific description, often interpreted ironically or as the briber's perspective)."
+  },
+  {
+    "text": "Proverbs contrasts the temporary nature of ill-gotten gains with the enduring quality of what?",
+    "options": ["Righteousness", "Power", "Fame", "Pleasure"],
+    "correctAnswerIndex": 0,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 10:2",
+    "verseText": "Treasures gained by wickedness do not profit, but righteousness delivers from death."
+  },
+  {
+    "text": "What common household pest is used in Proverbs to illustrate persistence and the ability to reach high places despite being small?",
+    "options": ["The fly", "The ant", "The spider", "The lizard (or gecko)"],
+    "correctAnswerIndex": 3,
+    "book": "Proverbs",
+    "difficulty": "Hard",
+    "verseReference": "Proverbs 30:28",
+    "verseText": "the lizard you can take in your hands, yet it is in kings' palaces."
+  },
+  {
+    "text": "Proverbs warns that excessive sleep can lead to what negative consequence?",
+    "options": ["Poor health", "Poverty", "Loss of friends", "Anger"],
+    "correctAnswerIndex": 1,
+    "book": "Proverbs",
+    "difficulty": "Easy",
+    "verseReference": "Proverbs 20:13",
+    "verseText": "Love not sleep, lest you come to poverty; open your eyes, and you will have plenty of bread."
+  },
+  {
+    "text": "What does Proverbs say is like 'cold water to a thirsty soul'?",
+    "options": ["Unexpected wealth", "Good news from a far country", "A day of rest", "Finding a lost item"],
+    "correctAnswerIndex": 1,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 25:25",
+    "verseText": "Like cold water to a thirsty soul, so is good news from a far country."
+  },
+  {
+    "text": "Proverbs advises against meddling in quarrels that don't concern you, comparing it to doing what to a dog?",
+    "options": ["Feeding it scraps", "Taking it for a walk", "Seizing it by the ears", "Teaching it tricks"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 26:17",
+    "verseText": "Whoever meddles in a quarrel not his own is like one who takes a passing dog by the ears."
+  },
+  {
+    "text": "What sharpens a person's character, according to the analogy used in Proverbs involving metal?",
+    "options": ["Wealth sharpens ambition", "Conflict sharpens wit", "Iron sharpens iron (a friend sharpens a friend)", "Knowledge sharpens the mind"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Easy",
+    "verseReference": "Proverbs 27:17",
+    "verseText": "Iron sharpens iron, and one man sharpens another."
+  },
+  {
+    "text": "Proverbs describes the righteous as having a particular quality in contrast to the wicked who flee when no one pursues. What is this quality?",
+    "options": ["Wealthy", "Wise", "Bold as a lion", "Patient"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 28:1",
+    "verseText": "The wicked flee when no one pursues, but the righteous are bold as a lion."
+  },
+  {
+    "text": "What does Proverbs say about the relationship between confessing sins and finding mercy?",
+    "options": ["Concealing sins brings mercy", "Confessing sins leads to prosperity", "Whoever confesses and forsakes sins finds mercy", "Only the righteous receive mercy"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Easy",
+    "verseReference": "Proverbs 28:13",
+    "verseText": "Whoever conceals his transgressions will not prosper, but he who confesses and forsakes them will obtain mercy."
+  },
+  {
+    "text": "Proverbs warns against envying evil men or desiring their company for what reason?",
+    "options": ["They are usually poor", "Their hearts plot violence, and their lips talk trouble", "They are not intelligent", "They will betray you"],
+    "correctAnswerIndex": 1,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 24:1-2",
+    "verseText": "Be not envious of evil men, nor desire to be with them, for their hearts devise violence, and their lips talk of trouble."
+  },
+  {
+    "text": "According to Proverbs, what is the consequence for someone who ignores discipline or correction?",
+    "options": ["They gain wisdom", "They achieve greatness", "They come to poverty and shame", "They become popular"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Easy",
+    "verseReference": "Proverbs 13:18",
+    "verseText": "Poverty and disgrace come to him who ignores instruction, but whoever heeds reproof is honored."
+  },
+  {
+    "text": "Proverbs describes a person who is hasty in their words. What are they more likely to experience compared to a fool?",
+    "options": ["Greater success", "More hope", "Less hope", "More friends"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Hard",
+    "verseReference": "Proverbs 29:20",
+    "verseText": "Do you see a man who is hasty in his words? There is more hope for a fool than for him."
+  },
+  {
+    "text": "What does Proverbs say about the effect of a cheerful heart on one's well-being?",
+    "options": ["It leads to carelessness", "It is good medicine", "It brings wealth", "It causes envy"],
+    "correctAnswerIndex": 1,
+    "book": "Proverbs",
+    "difficulty": "Easy",
+    "verseReference": "Proverbs 17:22",
+    "verseText": "A joyful heart is good medicine, but a crushed spirit dries up the bones."
+  },
+  {
+    "text": "Proverbs contrasts a crushed spirit with a joyful heart. What negative effect does a crushed spirit have?",
+    "options": ["It sharpens the mind", "It builds character", "It dries up the bones", "It leads to humility"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Easy",
+    "verseReference": "Proverbs 17:22",
+    "verseText": "A joyful heart is good medicine, but a crushed spirit dries up the bones."
+  },
+  {
+    "text": "What does Proverbs identify as a 'crown' to a husband?",
+    "options": ["Great wealth", "Many children", "An excellent wife", "High social standing"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Easy",
+    "verseReference": "Proverbs 12:4",
+    "verseText": "An excellent wife is the crown of her husband, but she who brings shame is like rottenness in his bones."
+  },
+  {
+    "text": "Proverbs warns against being argumentative, comparing living with a quarrelsome wife to living where?",
+    "options": ["In a palace", "On the corner of a roof", "In a busy marketplace", "In a foreign land"],
+    "correctAnswerIndex": 1,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 21:9",
+    "verseText": "It is better to live in a corner of the housetop than in a house shared with a quarrelsome wife."
+  },
+  {
+    "text": "What does Proverbs say about the plans established through seeking advice?",
+    "options": ["They always fail", "They are established", "They cause division", "They require great wealth"],
+    "correctAnswerIndex": 1,
+    "book": "Proverbs",
+    "difficulty": "Easy",
+    "verseReference": "Proverbs 20:18",
+    "verseText": "Plans are established by counsel; by wise guidance wage war."
+  },
+  {
+    "text": "Proverbs emphasizes the value of a good reputation. What is said to be chosen rather than great riches?",
+    "options": ["Power", "A good name", "Knowledge", "Long life"],
+    "correctAnswerIndex": 1,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 22:1",
+    "verseText": "A good name is to be chosen rather than great riches, and favor is better than silver or gold."
+  },
+  {
+    "text": "Proverbs contrasts the wise and the foolish in their response to instruction. How does a wise son react to his father's teaching?",
+    "options": ["He ignores it", "He argues against it", "He listens to it", "He mocks it"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Easy",
+    "verseReference": "Proverbs 13:1",
+    "verseText": "A wise son hears his father's instruction, but a scoffer does not listen to rebuke."
+  },
+  {
+    "text": "What does Proverbs say about the relationship between righteousness and the length of one's life?",
+    "options": ["Righteousness shortens life", "Righteousness has no effect on lifespan", "The fear of the LORD prolongs life", "Wickedness prolongs life"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 10:27",
+    "verseText": "The fear of the LORD prolongs life, but the years of the wicked will be short."
+  },
+  {
+    "text": "Proverbs warns against laziness with a specific consequence related to desire. What happens to the soul of the sluggard?",
+    "options": ["It is always satisfied", "It craves and gets nothing", "It becomes wise", "It finds rest"],
+    "correctAnswerIndex": 1,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 13:4",
+    "verseText": "The soul of the sluggard craves and gets nothing, while the soul of the diligent is richly supplied."
+  },
+  {
+    "text": "In contrast to the sluggard, what is the outcome for the soul of the diligent, according to Proverbs?",
+    "options": ["It is never content", "It gets nothing", "It is richly supplied", "It becomes proud"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Easy",
+    "verseReference": "Proverbs 13:4",
+    "verseText": "The soul of the sluggard craves and gets nothing, while the soul of the diligent is richly supplied."
+  },
+  {
+    "text": "Proverbs speaks about the source of true blessing that adds no sorrow. What brings this kind of blessing?",
+    "options": ["Hard work alone", "Inherited wealth", "The blessing of the LORD", "Good luck"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 10:22",
+    "verseText": "The blessing of the LORD makes rich, and he adds no sorrow with it."
+  },
+  {
+    "text": "How does Proverbs describe the mouth of the righteous in terms of what it produces?",
+    "options": ["It speaks folly", "It is a source of life", "It stirs up conflict", "It is always silent"],
+    "correctAnswerIndex": 1,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 10:11",
+    "verseText": "The mouth of the righteous is a fountain of life, but the mouth of the wicked conceals violence."
+  },
+  {
+    "text": "Proverbs contrasts love and hatred in their approach to offenses. What does hatred stir up?",
+    "options": ["Peace", "Understanding", "Strife", "Forgiveness"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Easy",
+    "verseReference": "Proverbs 10:12",
+    "verseText": "Hatred stirs up strife, but love covers all offenses."
+  },
+  {
+    "text": "In contrast to hatred, what action does Proverbs attribute to love regarding offenses?",
+    "options": ["It ignores them", "It publicizes them", "It covers them", "It multiplies them"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Easy",
+    "verseReference": "Proverbs 10:12",
+    "verseText": "Hatred stirs up strife, but love covers all offenses."
+  },
+  {
+    "text": "Proverbs warns about the fleeting nature of hope for the wicked. What happens to their expectation when they die?",
+    "options": ["It is fulfilled", "It is transferred to their children", "It perishes", "It brings peace"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 11:7",
+    "verseText": "When the wicked dies, his hope will perish, and the expectation of wealth perishes too."
+  },
+  {
+    "text": "What quality does Proverbs say delivers the righteous from trouble?",
+    "options": ["Their wealth", "Their strength", "Their knowledge", "Their connections"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 11:9",
+    "verseText": "With his mouth the godless man would destroy his neighbor, but by knowledge the righteous are delivered."
+  },
+  {
+    "text": "Proverbs describes the impact of the righteous and the wicked on a city's well-being. What happens when the righteous prosper?",
+    "options": ["The city mourns", "The city is exalted", "The city is destroyed", "The city becomes poor"],
+    "correctAnswerIndex": 1,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 11:10",
+    "verseText": "When it goes well with the righteous, the city rejoices, and when the wicked perish, there are shouts of gladness."
+  },
+  {
+    "text": "What is the outcome for a city when the wicked perish, according to Proverbs?",
+    "options": ["It falls into ruin", "There are shouts of gladness", "It becomes fearful", "It loses its wealth"],
+    "correctAnswerIndex": 1,
+    "book": "Proverbs",
+    "difficulty": "Easy",
+    "verseReference": "Proverbs 11:10",
+    "verseText": "When it goes well with the righteous, the city rejoices, and when the wicked perish, there are shouts of gladness."
+  },
+  {
+    "text": "Proverbs contrasts the generous and the stingy. What happens to the one who waters others?",
+    "options": ["They themselves will thirst", "They will lose what they have", "They themselves will be watered", "They will be forgotten"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Easy",
+    "verseReference": "Proverbs 11:25",
+    "verseText": "Whoever brings blessing will be enriched, and one who waters will himself be watered."
+  },
+  {
+    "text": "What does Proverbs say about the certainty of punishment for the wicked and the deliverance of the righteous?",
+    "options": ["The wicked escape, the righteous are punished", "Both escape punishment", "The wicked will not go unpunished, the righteous will be delivered", "Punishment is random"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 11:21",
+    "verseText": "Be assured, an evil person will not go unpunished, but the offspring of the righteous will be delivered."
+  },
+  {
+    "text": "Proverbs uses an analogy involving an animal and jewelry to describe a beautiful woman lacking what quality?",
+    "options": ["Wealth", "Discretion", "Humility", "Kindness"],
+    "correctAnswerIndex": 1,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 11:22",
+    "verseText": "Like a gold ring in a pig's snout is a beautiful woman without discretion."
+  },
+  {
+    "text": "What does Proverbs teach about the relationship between loving discipline and loving knowledge?",
+    "options": ["Loving discipline means hating knowledge", "Loving discipline is unrelated to knowledge", "Whoever loves discipline loves knowledge", "Only fools love discipline"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Easy",
+    "verseReference": "Proverbs 12:1",
+    "verseText": "Whoever loves discipline loves knowledge, but he who hates reproof is stupid."
+  },
+  {
+    "text": "How does Proverbs describe the thoughts of the righteous compared to the counsel of the wicked?",
+    "options": ["Righteous thoughts are deceitful", "Righteous thoughts are just", "Wicked counsel is reliable", "Both are untrustworthy"],
+    "correctAnswerIndex": 1,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 12:5",
+    "verseText": "The thoughts of the righteous are just; the counsels of the wicked are deceitful."
+  },
+  {
+    "text": "Proverbs contrasts the stability of the righteous and the wicked using the metaphor of a root. What is said about the root of the righteous?",
+    "options": ["It will wither", "It cannot be moved", "It produces thorns", "It is shallow"],
+    "correctAnswerIndex": 1,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 12:3",
+    "verseText": "No one is established by wickedness, but the root of the righteous will never be moved."
+  },
+  {
+    "text": "What does Proverbs say about the words of the wicked versus the mouth of the upright?",
+    "options": ["Wicked words bring healing", "The mouth of the upright conceals violence", "Wicked words are an ambush for blood, the mouth of the upright delivers", "Both speak truth"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Hard",
+    "verseReference": "Proverbs 12:6",
+    "verseText": "The words of the wicked lie in wait for blood, but the mouth of the upright delivers them."
+  },
+  {
+    "text": "Proverbs contrasts the prudent and the foolish regarding knowledge. What does a prudent person do with knowledge?",
+    "options": ["They boast about it", "They conceal it", "They misuse it", "They forget it"],
+    "correctAnswerIndex": 1,
+    "book": "Proverbs",
+    "difficulty": "Hard",
+    "verseReference": "Proverbs 12:23",
+    "verseText": "A prudent man conceals knowledge, but the heart of fools proclaims folly."
+  },
+  {
+    "text": "What emotional state does Proverbs associate with anxiety in a person's heart?",
+    "options": ["It makes them strong", "It weighs them down", "It brings joy", "It leads to wisdom"],
+    "correctAnswerIndex": 1,
+    "book": "Proverbs",
+    "difficulty": "Easy",
+    "verseReference": "Proverbs 12:25",
+    "verseText": "Anxiety in a man's heart weighs him down, but a good word makes him glad."
+  },
+  {
+    "text": "In contrast to anxiety, what effect does Proverbs say a 'good word' has on the heart?",
+    "options": ["It causes sorrow", "It makes it glad", "It brings confusion", "It leads to pride"],
+    "correctAnswerIndex": 1,
+    "book": "Proverbs",
+    "difficulty": "Easy",
+    "verseReference": "Proverbs 12:25",
+    "verseText": "Anxiety in a man's heart weighs him down, but a good word makes him glad."
+  },
+  {
+    "text": "Proverbs describes the way of the wicked as misleading. What does it lead them into?",
+    "options": ["Prosperity", "Wisdom", "Safety", "Going astray"],
+    "correctAnswerIndex": 3,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 12:26",
+    "verseText": "One who is righteous is a guide to his neighbor, but the way of the wicked leads them astray."
+  },
+  {
+    "text": "What does Proverbs say about the outcome of diligent hands versus slackness?",
+    "options": ["Diligence leads to servitude", "Slackness leads to rule", "Diligent hands will rule", "Both lead to poverty"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Easy",
+    "verseReference": "Proverbs 12:24",
+    "verseText": "The hand of the diligent will rule, while the slothful will be put to forced labor."
+  },
+  {
+    "text": "Proverbs speaks of hope deferred. What effect does it have on the heart?",
+    "options": ["It makes the heart strong", "It makes the heart sick", "It brings joy", "It leads to patience"],
+    "correctAnswerIndex": 1,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 13:12",
+    "verseText": "Hope deferred makes the heart sick, but a desire fulfilled is a tree of life."
+  },
+  {
+    "text": "What is described as a 'tree of life' in Proverbs, contrasting with the sickness of deferred hope?",
+    "options": ["Great wealth", "A desire fulfilled", "Accumulated knowledge", "A powerful position"],
+    "correctAnswerIndex": 1,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 13:12",
+    "verseText": "Hope deferred makes the heart sick, but a desire fulfilled is a tree of life."
+  },
+  {
+    "text": "Proverbs advises on choosing companions. What is the outcome of walking with wise men?",
+    "options": ["One becomes foolish", "One becomes wise", "One becomes poor", "One becomes lonely"],
+    "correctAnswerIndex": 1,
+    "book": "Proverbs",
+    "difficulty": "Easy",
+    "verseReference": "Proverbs 13:20",
+    "verseText": "Whoever walks with the wise becomes wise, but the companion of fools will suffer harm."
+  },
+  {
+    "text": "Conversely, what does Proverbs say will happen to the companion of fools?",
+    "options": ["They will become wise", "They will prosper", "They will suffer harm", "They will find honor"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Easy",
+    "verseReference": "Proverbs 13:20",
+    "verseText": "Whoever walks with the wise becomes wise, but the companion of fools will suffer harm."
+  },
+  {
+    "text": "Proverbs links discipline with love in parenting. What does it say about a father who spares the rod?",
+    "options": ["He loves his son", "He hates his son", "He is wise", "He ensures his son's success"],
+    "correctAnswerIndex": 1,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 13:24",
+    "verseText": "Whoever spares the rod hates his son, but he who loves him is diligent to discipline him."
+  },
+  {
+    "text": "How does Proverbs describe the house built by wisdom compared to the one torn down by folly?",
+    "options": ["Wisdom tears down, folly builds up", "Every wise woman builds her house", "Folly builds a strong house", "Wisdom leads to ruin"],
+    "correctAnswerIndex": 1,
+    "book": "Proverbs",
+    "difficulty": "Easy",
+    "verseReference": "Proverbs 14:1",
+    "verseText": "The wisest of women builds her house, but folly with her own hands tears it down."
+  },
+  {
+    "text": "Proverbs describes a way that seems right to a person but leads to what end?",
+    "options": ["Great success", "Honor", "The way of death", "True wisdom"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 14:12",
+    "verseText": "There is a way that seems right to a man, but its end is the way to death."
+  },
+  {
+    "text": "Even amidst laughter, Proverbs acknowledges a potential underlying emotion. What can the heart experience even in laughter?",
+    "options": ["Perfect peace", "Ache or sorrow", "True wisdom", "Complete satisfaction"],
+    "correctAnswerIndex": 1,
+    "book": "Proverbs",
+    "difficulty": "Hard",
+    "verseReference": "Proverbs 14:13",
+    "verseText": "Even in laughter the heart may ache, and the end of joy may be grief."
+  },
+  {
+    "text": "Proverbs contrasts the simpleton with the prudent person in their approach to belief. What does the simpleton believe?",
+    "options": ["Only proven facts", "Nothing at all", "Every word", "Only wise counsel"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Easy",
+    "verseReference": "Proverbs 14:15",
+    "verseText": "The simple believes everything, but the prudent gives thought to his steps."
+  },
+  {
+    "text": "What does the prudent person do, according to Proverbs, in contrast to the simpleton who believes everything?",
+    "options": ["Acts impulsively", "Ignores advice", "Gives thought to his steps", "Believes nothing"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Easy",
+    "verseReference": "Proverbs 14:15",
+    "verseText": "The simple believes everything, but the prudent gives thought to his steps."
+  },
+  {
+    "text": "Proverbs describes the reaction of a wise person versus a fool when faced with evil. What does the wise person do?",
+    "options": ["Joins in", "Is cautious and turns away", "Becomes angry and reckless", "Ignores it"],
+    "correctAnswerIndex": 1,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 14:16",
+    "verseText": "One who is wise is cautious and turns away from evil, but a fool is reckless and careless."
+  },
+  {
+    "text": "How is the heart of the discerning described in Proverbs in relation to knowledge?",
+    "options": ["It rejects knowledge", "It acquires knowledge", "It boasts of knowledge", "It hides knowledge"],
+    "correctAnswerIndex": 1,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 18:15",
+    "verseText": "An intelligent heart acquires knowledge, and the ear of the wise seeks knowledge."
+  },
+  {
+    "text": "Proverbs suggests a way to gain access to important people. What makes way for a person and brings them before the great?",
+    "options": ["Loud boasting", "Criticism", "A gift", "Silence"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 18:16",
+    "verseText": "A man's gift makes room for him and brings him before the great."
+  },
+  {
+    "text": "In legal disputes, Proverbs notes an advantage held by one party until another speaks. Who seems right initially?",
+    "options": ["The one who speaks last", "The judge", "The one who presents his case first", "The witness"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 18:17",
+    "verseText": "The one who states his case first seems right, until the other comes and examines him."
+  },
+  {
+    "text": "Proverbs describes the difficulty of reconciliation after an offense. An offended brother is harder to win than what?",
+    "options": ["A small village", "A strong city", "A wealthy merchant", "A wise king"],
+    "correctAnswerIndex": 1,
+    "book": "Proverbs",
+    "difficulty": "Hard",
+    "verseReference": "Proverbs 18:19",
+    "verseText": "A brother offended is more unyielding than a strong city, and quarreling is like the bars of a castle."
+  },
+  {
+    "text": "What power does Proverbs attribute to the tongue concerning life and death?",
+    "options": ["It only speaks truth", "It has no real power", "Death and life are in the power of the tongue", "It only causes arguments"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 18:21",
+    "verseText": "Death and life are in the power of the tongue, and those who love it will eat its fruits."
+  },
+  {
+    "text": "According to Proverbs, what does a person find when they find a wife?",
+    "options": ["Trouble", "Financial burden", "A good thing and favor from the LORD", "Distraction"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Easy",
+    "verseReference": "Proverbs 18:22",
+    "verseText": "He who finds a wife finds a good thing and obtains favor from the LORD."
+  },
+  {
+    "text": "Proverbs contrasts the poor and the rich in how they communicate. How does the poor person plead?",
+    "options": ["With demands", "With mercy (or humility)", "With arrogance", "With silence"],
+    "correctAnswerIndex": 1,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 18:23",
+    "verseText": "The poor use entreaties, but the rich answer roughly."
+  },
+  {
+    "text": "What does Proverbs say is better than being a rich person who is perverse in their ways?",
+    "options": ["A poor person who walks in integrity", "A fool with many friends", "A ruler who oppresses", "A merchant who cheats"],
+    "correctAnswerIndex": 0,
+    "book": "Proverbs",
+    "difficulty": "Easy",
+    "verseReference": "Proverbs 19:1",
+    "verseText": "Better is a poor person who walks in his integrity than one who is crooked in speech and is a fool."
+  },
+  {
+    "text": "Proverbs warns that desire without knowledge is not good. What happens to someone who acts too quickly or is hasty with their feet?",
+    "options": ["They reach their goal faster", "They miss their way (or sin)", "They become wise", "They gain respect"],
+    "correctAnswerIndex": 1,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 19:2",
+    "verseText": "Desire without knowledge is not good, and whoever makes haste with his feet misses his way."
+  },
+  {
+    "text": "What quality in a person makes them desirable or lovely, according to Proverbs?",
+    "options": ["Their wealth", "Their power", "Their steadfast love (or loyalty)", "Their beauty"],
+    "correctAnswerIndex": 2,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 19:22",
+    "verseText": "What is desired in a man is steadfast love, and a poor man is better than a liar."
+  },
+  {
+    "text": "Proverbs suggests that the fear of the LORD leads to a specific outcome, allowing one to rest securely. What does it lead to?",
+    "options": ["Poverty", "Life", "Conflict", "Folly"],
+    "correctAnswerIndex": 1,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 19:23",
+    "verseText": "The fear of the LORD leads to life, and whoever has it rests satisfied; he will not be visited by harm."
+  },
+  {
+    "text": "Proverbs uses hyperbole to describe extreme laziness. Where does the sluggard bury his hand?",
+    "options": ["In his work", "In the dish", "In his pocket", "In the soil"],
+    "correctAnswerIndex": 1,
+    "book": "Proverbs",
+    "difficulty": "Medium",
+    "verseReference": "Proverbs 19:24",
+    "verseText": "The sluggard buries his hand in the dish and will not even bring it back to his mouth."
+  },
+  {
+    "text": "What does Proverbs say about the effect of striking a scoffer versus reproving one who has understanding?",
+    "options": ["The simple learn nothing from either", "Striking a scoffer makes the simple prudent", "Reproving the understanding yields no result", "Both actions are futile"],
+    "correctAnswerIndex": 1,
+    "book": "Proverbs",
+    "difficulty": "Hard",
+    "verseReference": "Proverbs 19:25",
+    "verseText": "Strike a scoffer, and the simple will learn prudence; reprove a man of understanding, and he will gain knowledge."
   }
 ]

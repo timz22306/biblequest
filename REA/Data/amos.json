@@ -88,5 +88,320 @@
     "difficulty": "Easy",
     "verseReference": "Amos 9:11-15",
     "verseText": "“In that day I will raise up the booth of David that is fallen and repair its breaches... I will restore the fortunes of my people Israel... I will plant them on their land, and they shall never again be uprooted out of the land that I have given them,” says the LORD your God."
+  },
+  {
+    "text": "According to Amos 1:2, where does the LORD 'roar' from?",
+    "options": ["Bethel", "Samaria", "Jerusalem/Zion", "Tekoa"],
+    "correctAnswerIndex": 2,
+    "book": "Amos",
+    "difficulty": "Easy",
+    "verseReference": "Amos 1:2",
+    "verseText": "And he said: “The LORD roars from Zion and utters his voice from Jerusalem; the pastures of the shepherds mourn, and the top of Carmel withers.”"
+  },
+  {
+    "text": "Which nation was condemned in Amos 1 for 'threshing Gilead with threshing sledges of iron'?",
+    "options": ["Tyre", "Damascus (Aram)", "Edom", "Ammon"],
+    "correctAnswerIndex": 1,
+    "book": "Amos",
+    "difficulty": "Medium",
+    "verseReference": "Amos 1:3",
+    "verseText": "Thus says the LORD: “For three transgressions of Damascus, and for four, I will not revoke the punishment, because they have threshed Gilead with threshing sledges of iron."
+  },
+  {
+    "text": "What specific sin led to the judgment pronounced on Tyre in Amos 1?",
+    "options": ["Idolatry", "Breaking a covenant of brotherhood by selling people into slavery", "Oppressing the poor", "Attacking Judah"],
+    "correctAnswerIndex": 1,
+    "book": "Amos",
+    "difficulty": "Medium",
+    "verseReference": "Amos 1:9",
+    "verseText": "Thus says the LORD: “For three transgressions of Tyre, and for four, I will not revoke the punishment, because they delivered up a whole people to Edom, and did not remember the covenant of brotherhood."
+  },
+  {
+    "text": "Edom was condemned primarily for what sin against his 'brother' (Israel/Judah)?",
+    "options": ["Economic exploitation", "Pursuing him with the sword and casting off all pity", "Idolatry", "Making treaties with Assyria"],
+    "correctAnswerIndex": 1,
+    "book": "Amos",
+    "difficulty": "Medium",
+    "verseReference": "Amos 1:11",
+    "verseText": "Thus says the LORD: “For three transgressions of Edom, and for four, I will not revoke the punishment, because he pursued his brother with the sword and cast off all pity, and his anger tore perpetually, and he kept his wrath forever."
+  },
+  {
+    "text": "The Ammonites faced judgment for what horrific act mentioned in Amos 1:13?",
+    "options": ["Burning bones", "Breaking treaties", "Ripping open pregnant women in Gilead", "Worshipping Molech"],
+    "correctAnswerIndex": 2,
+    "book": "Amos",
+    "difficulty": "Hard",
+    "verseReference": "Amos 1:13",
+    "verseText": "Thus says the LORD: “For three transgressions of the Ammonites, and for four, I will not revoke the punishment, because they have ripped open pregnant women in Gilead, that they might enlarge their border."
+  },
+  {
+    "text": "Moab was condemned for what specific act of desecration?",
+    "options": ["Attacking Israel", "Idolatry", "Burning the bones of the king of Edom into lime", "Oppressing the poor"],
+    "correctAnswerIndex": 2,
+    "book": "Amos",
+    "difficulty": "Medium",
+    "verseReference": "Amos 2:1",
+    "verseText": "Thus says the LORD: “For three transgressions of Moab, and for four, I will not revoke the punishment, because he burned to lime the bones of the king of Edom."
+  },
+  {
+    "text": "What was the primary reason given for God's judgment against Judah in Amos 2?",
+    "options": ["Military weakness", "Economic failure", "Rejecting the law of the LORD and not keeping His statutes", "Making alliances with Egypt"],
+    "correctAnswerIndex": 2,
+    "book": "Amos",
+    "difficulty": "Easy",
+    "verseReference": "Amos 2:4",
+    "verseText": "Thus says the LORD: “For three transgressions of Judah, and for four, I will not revoke the punishment, because they have rejected the law of the LORD, and have not kept his statutes, but their lies have led them astray..."
+  },
+  {
+    "text": "In Amos 3:2, why does God say He will punish Israel for all their iniquities?",
+    "options": ["Because they are weaker than other nations", "Because He knew them uniquely ('You only have I known')", "Because they failed to pay tribute", "Because their king was evil"],
+    "correctAnswerIndex": 1,
+    "book": "Amos",
+    "difficulty": "Medium",
+    "verseReference": "Amos 3:2",
+    "verseText": "“You only have I known of all the families of the earth; therefore I will punish you for all your iniquities."
+  },
+  {
+    "text": "What rhetorical question does Amos use in 3:3 to illustrate the broken relationship between God and Israel?",
+    "options": ["'Does a lion roar when it has no prey?'", "'Do two walk together, unless they have agreed to meet?'", "'Does a bird fall into a snare where there is no trap?'", "'Does disaster come to a city, unless the LORD has done it?'"],
+    "correctAnswerIndex": 1,
+    "book": "Amos",
+    "difficulty": "Easy",
+    "verseReference": "Amos 3:3",
+    "verseText": "Do two walk together, unless they have agreed to meet?"
+  },
+  {
+    "text": "What does Amos call the wealthy, oppressive women of Samaria in Amos 4:1?",
+    "options": ["Daughters of Zion", "Princesses of Israel", "Cows of Bashan", "Vipers of Samaria"],
+    "correctAnswerIndex": 2,
+    "book": "Amos",
+    "difficulty": "Medium",
+    "verseReference": "Amos 4:1",
+    "verseText": "“Hear this word, you cows of Bashan, who are on the mountain of Samaria, who oppress the poor, who crush the needy, who say to your husbands, ‘Bring, that we may drink!’"
+  },
+  {
+    "text": "Which of these was NOT among the judgments God sent on Israel (mentioned in Amos 4) that failed to make them return?",
+    "options": ["Lack of bread (famine)", "Withholding rain (drought)", "Plague like Egypt's", "Invasion by Babylon"],
+    "correctAnswerIndex": 3,
+    "book": "Amos",
+    "difficulty": "Medium",
+    "verseReference": "Amos 4:6-11",
+    "verseText": "(Lists famine, drought, blight/mildew, pestilence, and destruction like Sodom/Gomorrah)"
+  },
+  {
+    "text": "What is the recurring refrain after each failed judgment described in Amos 4:6-11?",
+    "options": ["'And the LORD relented'", "'Yet you did not return to me'", "'Therefore repent and believe'", "'Woe to you, Israel'"],
+    "correctAnswerIndex": 1,
+    "book": "Amos",
+    "difficulty": "Easy",
+    "verseReference": "Amos 4:6, 8, 9, 10, 11",
+    "verseText": "“...yet you did not return to me,” declares the LORD."
+  },
+  {
+    "text": "After listing the failed corrective judgments, what does God tell Israel to do in Amos 4:12?",
+    "options": ["Offer more sacrifices", "Prepare to meet your God", "Flee to the mountains", "Appoint a new king"],
+    "correctAnswerIndex": 1,
+    "book": "Amos",
+    "difficulty": "Easy",
+    "verseReference": "Amos 4:12",
+    "verseText": "“Therefore thus I will do to you, O Israel; because I will do this to you, prepare to meet your God, O Israel!”"
+  },
+  {
+    "text": "What kind of song does Amos raise over Israel in Amos 5:1-2?",
+    "options": ["A song of victory", "A psalm of praise", "A lamentation (dirge)", "A wedding song"],
+    "correctAnswerIndex": 2,
+    "book": "Amos",
+    "difficulty": "Medium",
+    "verseReference": "Amos 5:1-2",
+    "verseText": "Hear this word that I take up over you in lamentation, O house of Israel: “Fallen, no more to rise, is the virgin Israel; forsaken on her land, with none to raise her up.”"
+  },
+  {
+    "text": "In Amos 5:18, what warning does Amos give about the 'Day of the LORD'?",
+    "options": ["It will be delayed", "It will bring prosperity", "It will be darkness, not light", "It will only affect the nations"],
+    "correctAnswerIndex": 2,
+    "book": "Amos",
+    "difficulty": "Medium",
+    "verseReference": "Amos 5:18",
+    "verseText": "Woe to you who desire the day of the LORD! Why would you have the day of the LORD? It is darkness, and not light,"
+  },
+  {
+    "text": "What does Amos 5:15 urge the people to do in the gate (place of judgment)?",
+    "options": ["Offer sacrifices", "Hate evil, love good, and establish justice", "Build stronger walls", "Pray for the king"],
+    "correctAnswerIndex": 1,
+    "book": "Amos",
+    "difficulty": "Easy",
+    "verseReference": "Amos 5:15",
+    "verseText": "Hate evil, and love good, and establish justice in the gate; it may be that the LORD, the God of hosts, will be gracious to the remnant of Joseph."
+  },
+  {
+    "text": "Amos condemns the Israelites in chapter 6 for being 'at ease' and 'complacent'. Where were these complacent people located?",
+    "options": ["In Egypt and Assyria", "In the wilderness", "In Zion and Samaria", "In Tekoa and Bethel"],
+    "correctAnswerIndex": 2,
+    "book": "Amos",
+    "difficulty": "Medium",
+    "verseReference": "Amos 6:1",
+    "verseText": "“Woe to those who are at ease in Zion, and to those who feel secure on the mountain of Samaria, the notable men of the first of the nations, to whom the house of Israel comes!"
+  },
+  {
+    "text": "What luxury items are mentioned in Amos 6:4-6 associated with the complacency of the rich?",
+    "options": ["Stone houses and vineyards", "Gold jewelry and fine horses", "Beds of ivory, eating lambs/calves, wine, inventing musical instruments", "Chariots and weapons"],
+    "correctAnswerIndex": 2,
+    "book": "Amos",
+    "difficulty": "Medium",
+    "verseReference": "Amos 6:4-6",
+    "verseText": "“Woe to those who lie on beds of ivory and stretch themselves out on their couches, and eat lambs from the flock and calves from the midst of the stall, who sing idle songs to the sound of the harp and like David invent for themselves instruments of music, who drink wine in bowls and anoint themselves with the finest oils..."
+  },
+  {
+    "text": "What key characteristic were the complacent rich lacking, according to Amos 6:6?",
+    "options": ["Military skill", "Political power", "Grief over the ruin of Joseph (Israel)", "Proper temple worship"],
+    "correctAnswerIndex": 2,
+    "book": "Amos",
+    "difficulty": "Medium",
+    "verseReference": "Amos 6:6",
+    "verseText": "...but are not grieved over the ruin of Joseph!"
+  },
+  {
+    "text": "In the first two visions (locusts and fire), what was Amos's response?",
+    "options": ["He rejoiced at the judgment", "He fled in fear", "He interceded, asking God to forgive", "He wrote down the vision immediately"],
+    "correctAnswerIndex": 2,
+    "book": "Amos",
+    "difficulty": "Medium",
+    "verseReference": "Amos 7:2, 7:5",
+    "verseText": "O Lord GOD, please forgive! How can Jacob stand? He is so small!... O Lord GOD, please cease! How can Jacob stand? He is so small!”"
+  },
+  {
+    "text": "What did the plumb line in Amos's third vision symbolize?",
+    "options": ["Israel's strength", "God's standard of righteousness against which Israel was measured", "The rebuilding of the temple", "The division of the kingdom"],
+    "correctAnswerIndex": 1,
+    "book": "Amos",
+    "difficulty": "Medium",
+    "verseReference": "Amos 7:7-8",
+    "verseText": "...Behold, I am setting a plumb line in the midst of my people Israel; I will never again pass by them;"
+  },
+  {
+    "text": "What accusation did Amaziah the priest make against Amos to King Jeroboam II?",
+    "options": ["Blasphemy", "Theft from the temple", "Conspiracy against the king", "False prophecy"],
+    "correctAnswerIndex": 2,
+    "book": "Amos",
+    "difficulty": "Easy",
+    "verseReference": "Amos 7:10",
+    "verseText": "Then Amaziah the priest of Bethel sent to Jeroboam king of Israel, saying, “Amos has conspired against you in the midst of the house of Israel. The land is not able to bear all his words."
+  },
+  {
+    "text": "Where did Amaziah tell Amos to go and prophesy instead of Bethel?",
+    "options": ["Samaria", "Jerusalem", "The land of Judah", "His hometown of Tekoa"],
+    "correctAnswerIndex": 2,
+    "book": "Amos",
+    "difficulty": "Easy",
+    "verseReference": "Amos 7:12",
+    "verseText": "And Amaziah said to Amos, “O seer, go, flee away to the land of Judah, and eat bread there, and prophesy there;"
+  },
+  {
+    "text": "How did Amos respond to Amaziah's command to stop prophesying in Israel?",
+    "options": ["He apologized and left", "He denied being a professional prophet and pronounced judgment on Amaziah", "He appealed to King Jeroboam", "He hid from Amaziah"],
+    "correctAnswerIndex": 1,
+    "book": "Amos",
+    "difficulty": "Medium",
+    "verseReference": "Amos 7:14-17",
+    "verseText": "Then Amos answered and said to Amaziah, “I was no prophet, nor a prophet's son... but the LORD took me... and the LORD said to me, ‘Go, prophesy to my people Israel.’ Now therefore hear the word of the LORD... your wife shall be a prostitute... your sons and daughters shall fall by the sword... and you yourself shall die in an unclean land..."
+  },
+  {
+    "text": "What did the basket of 'summer fruit' (qayits) in Amos's fourth vision symbolize?",
+    "options": ["A time of blessing", "The harvest season", "The 'end' (qets) had come for Israel", "A peace offering"],
+    "correctAnswerIndex": 2,
+    "book": "Amos",
+    "difficulty": "Medium",
+    "verseReference": "Amos 8:1-2",
+    "verseText": "He showed me: behold, a basket of summer fruit... And he said, “Amos, what do you see?” And I said, “A basket of summer fruit.” Then the LORD said to me, “The end has come upon my people Israel; I will never again pass by them."
+  },
+  {
+    "text": "What specific dishonest practices by merchants does Amos condemn in 8:5-6?",
+    "options": ["Charging high prices", "Selling rotten goods", "Making the ephah small, the shekel great, and using false balances", "Refusing to sell to the poor"],
+    "correctAnswerIndex": 2,
+    "book": "Amos",
+    "difficulty": "Medium",
+    "verseReference": "Amos 8:5-6",
+    "verseText": "...making the ephah small and the shekel great and dealing deceitfully with false balances, that we may buy the poor for silver and the needy for a pair of sandals and sell the chaff of the wheat?”"
+  },
+  {
+    "text": "Amos 8:11 prophesies a unique kind of famine. What will people hunger and thirst for?",
+    "options": ["Bread and water", "Wealth and power", "Hearing the words of the LORD", "Justice and mercy"],
+    "correctAnswerIndex": 2,
+    "book": "Amos",
+    "difficulty": "Medium",
+    "verseReference": "Amos 8:11",
+    "verseText": "“Behold, the days are coming,” declares the Lord GOD, “when I will send a famine on the land— not a famine of bread, nor a thirst for water, but of hearing the words of the LORD."
+  },
+  {
+    "text": "In the fifth vision (Amos 9), where is the Lord standing when He commands the destruction?",
+    "options": ["In heaven", "On Mount Zion", "Beside the altar", "At the city gate"],
+    "correctAnswerIndex": 2,
+    "book": "Amos",
+    "difficulty": "Medium",
+    "verseReference": "Amos 9:1",
+    "verseText": "I saw the Lord standing beside the altar, and he said: “Strike the capitals until the thresholds shake, and shatter them on the heads of all the people..."
+  },
+  {
+    "text": "What does God emphasize about His inescapable judgment in Amos 9:2-4?",
+    "options": ["Only the leaders will be punished", "Escape is impossible, even to Sheol, heaven, Carmel, or the sea", "Repentance can still avert it", "Neighboring nations will help Israel hide"],
+    "correctAnswerIndex": 1,
+    "book": "Amos",
+    "difficulty": "Medium",
+    "verseReference": "Amos 9:2-4",
+    "verseText": "“If they dig into Sheol, from there shall my hand take them; if they climb up to heaven, from there I will bring them down... if they hide from my sight at the bottom of the sea, there I will command the serpent, and it shall bite them."
+  },
+  {
+    "text": "In Amos 9:7, God compares Israel's exodus to the movements of which other peoples?",
+    "options": ["Egyptians and Canaanites", "Assyrians and Babylonians", "Philistines from Caphtor and Syrians from Kir", "Edomites and Moabites"],
+    "correctAnswerIndex": 2,
+    "book": "Amos",
+    "difficulty": "Hard",
+    "verseReference": "Amos 9:7",
+    "verseText": "“Are you not like the Cushites to me, O people of Israel?” declares the LORD. “Did I not bring up Israel from the land of Egypt, and the Philistines from Caphtor and the Syrians from Kir?"
+  },
+  {
+    "text": "Despite judgment, what structure does God promise to restore in Amos 9:11?",
+    "options": ["The temple in Jerusalem", "The walls of Samaria", "The fallen booth (or tabernacle) of David", "The altar at Bethel"],
+    "correctAnswerIndex": 2,
+    "book": "Amos",
+    "difficulty": "Easy",
+    "verseReference": "Amos 9:11",
+    "verseText": "“In that day I will raise up the booth of David that is fallen and repair its breaches, and raise up its ruins and rebuild it as in the days of old,"
+  },
+  {
+    "text": "What image of agricultural abundance is used in Amos 9:13 to describe the time of restoration?",
+    "options": ["Rain falling constantly", "The plowman overtaking the reaper", "Trees bearing fruit year-round", "Larger harvests than ever before"],
+    "correctAnswerIndex": 1,
+    "book": "Amos",
+    "difficulty": "Medium",
+    "verseReference": "Amos 9:13",
+    "verseText": "“Behold, the days are coming,” declares the LORD, “when the plowman shall overtake the reaper and the treader of grapes him who sows the seed; the mountains shall drip sweet wine, and all the hills shall flow with it."
+  },
+  {
+    "text": "What is the final promise God makes to restored Israel in Amos 9:15?",
+    "options": ["They will conquer all nations", "They will never again be uprooted from their land", "They will have a new king like David", "They will receive new laws"],
+    "correctAnswerIndex": 1,
+    "book": "Amos",
+    "difficulty": "Easy",
+    "verseReference": "Amos 9:15",
+    "verseText": "I will plant them on their land, and they shall never again be uprooted out of the land that I have given them,” says the LORD your God."
+  },
+  {
+    "text": "During whose reigns did Amos prophesy?",
+    "options": ["David and Solomon", "Ahab and Jezebel", "Uzziah of Judah and Jeroboam II of Israel", "Hezekiah and Josiah"],
+    "correctAnswerIndex": 2,
+    "book": "Amos",
+    "difficulty": "Easy",
+    "verseReference": "Amos 1:1",
+    "verseText": "The words of Amos... which he saw concerning Israel in the days of Uzziah king of Judah and in the days of Jeroboam the son of Joash, king of Israel, two years before the earthquake."
+  },
+  {
+    "text": "What natural disaster is mentioned in Amos 1:1 as a time reference for his prophecy?",
+    "options": ["A flood", "A famine", "An earthquake", "A plague"],
+    "correctAnswerIndex": 2,
+    "book": "Amos",
+    "difficulty": "Medium",
+    "verseReference": "Amos 1:1",
+    "verseText": "...two years before the earthquake."
   }
 ]
