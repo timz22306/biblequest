@@ -88,5 +88,365 @@
     "difficulty": "Medium",
     "verseReference": "1 Thessalonians 4:3",
     "verseText": "For this is the will of God, your sanctification: that you abstain from sexual immorality;"
+    },
+  {
+    "text": "Paul remembers the Thessalonians' work produced by faith, labor prompted by love, and endurance inspired by what?",
+    "options": ["Fear of judgment", "Hope in our Lord Jesus Christ", "Desire for reward", "Obedience to the Law"],
+    "correctAnswerIndex": 1,
+    "book": "1 Thessalonians",
+    "difficulty": "Medium",
+    "verseReference": "1 Thessalonians 1:3",
+    "verseText": "We remember before our God and Father your work of faith and labor of love and steadfastness of hope in our Lord Jesus Christ."
+  },
+  {
+    "text": "How did the gospel come to the Thessalonians, according to Paul?",
+    "options": ["In word only", "With persuasive arguments", "Not only in word, but also in power and in the Holy Spirit and with full conviction", "Through written letters only"],
+    "correctAnswerIndex": 2,
+    "book": "1 Thessalonians",
+    "difficulty": "Medium",
+    "verseReference": "1 Thessalonians 1:5",
+    "verseText": "because our gospel came to you not only in word, but also in power and in the Holy Spirit and with full conviction. You know what kind of men we proved to be among you for your sake."
+  },
+  {
+    "text": "The Thessalonians became imitators of Paul, his companions, and whom else?",
+    "options": ["The Jerusalem church", "The Roman believers", "The Lord", "The prophets"],
+    "correctAnswerIndex": 2,
+    "book": "1 Thessalonians",
+    "difficulty": "Easy",
+    "verseReference": "1 Thessalonians 1:6",
+    "verseText": "And you became imitators of us and of the Lord, for you received the word in much affliction, with the joy of the Holy Spirit,"
+  },
+  {
+    "text": "The Thessalonians' faith became known everywhere, so much so that Paul didn't need to say anything. What specific change in their lives was reported?",
+    "options": ["They became wealthy", "They turned to God from idols to serve the living and true God", "They started following Jewish customs", "They gained political power"],
+    "correctAnswerIndex": 1,
+    "book": "1 Thessalonians",
+    "difficulty": "Medium",
+    "verseReference": "1 Thessalonians 1:9",
+    "verseText": "For they themselves report concerning us the kind of reception we had among you, and how you turned to God from idols to serve the living and true God,"
+  },
+  {
+    "text": "Besides serving the living God, what else were the Thessalonians waiting for from heaven?",
+    "options": ["A new apostle", "Signs and wonders", "His Son, whom He raised from the dead", "The end of Roman rule"],
+    "correctAnswerIndex": 2,
+    "book": "1 Thessalonians",
+    "difficulty": "Easy",
+    "verseReference": "1 Thessalonians 1:10",
+    "verseText": "and to wait for his Son from heaven, whom he raised from the dead, Jesus who delivers us from the wrath to come."
+  },
+  {
+    "text": "Paul reminds the Thessalonians that his visit was not a failure, even though he had previously suffered and been shamefully treated where?",
+    "options": ["In Athens", "In Corinth", "In Philippi", "In Jerusalem"],
+    "correctAnswerIndex": 2,
+    "book": "1 Thessalonians",
+    "difficulty": "Medium",
+    "verseReference": "1 Thessalonians 2:2",
+    "verseText": "But though we had already suffered and been shamefully treated at Philippi, as you know, we had boldness in our God to declare to you the gospel of God in the midst of much conflict."
+  },
+  {
+    "text": "Paul compares his gentle care for the Thessalonians to what?",
+    "options": ["A king ruling his subjects", "A soldier training recruits", "A nursing mother taking care of her own children", "A farmer tending his crops"],
+    "correctAnswerIndex": 2,
+    "book": "1 Thessalonians",
+    "difficulty": "Easy",
+    "verseReference": "1 Thessalonians 2:7",
+    "verseText": "But we were gentle among you, like a nursing mother taking care of her own children."
+  },
+  {
+    "text": "Why did Paul and his companions work night and day while preaching the gospel to the Thessalonians?",
+    "options": ["To become wealthy", "Because they enjoyed manual labor", "So that they might not be a burden to any of them", "To fulfill Old Testament law"],
+    "correctAnswerIndex": 2,
+    "book": "1 Thessalonians",
+    "difficulty": "Medium",
+    "verseReference": "1 Thessalonians 2:9",
+    "verseText": "For you remember, brothers, our labor and toil: we worked night and day, that we might not be a burden to any of you, while we proclaimed to you the gospel of God."
+  },
+  {
+    "text": "Paul also compares his interaction with the Thessalonians to how a father deals with his children, doing what?",
+    "options": ["Commanding them harshly", "Ignoring their needs", "Exhorting, encouraging, and charging them to walk worthily of God", "Providing only material support"],
+    "correctAnswerIndex": 2,
+    "book": "1 Thessalonians",
+    "difficulty": "Medium",
+    "verseReference": "1 Thessalonians 2:11-12",
+    "verseText": "For you know how, like a father with his children, we exhorted each one of you and encouraged you and charged you to walk in a manner worthy of God, who calls you into his own kingdom and glory."
+  },
+  {
+    "text": "How did the Thessalonians accept the word of God they heard from Paul?",
+    "options": ["As the word of men", "With skepticism", "Not as the word of men but as it really is, the word of God", "As merely good advice"],
+    "correctAnswerIndex": 2,
+    "book": "1 Thessalonians",
+    "difficulty": "Medium",
+    "verseReference": "1 Thessalonians 2:13",
+    "verseText": "And we also thank God constantly for this, that when you received the word of God, which you heard from us, you accepted it not as the word of men but as what it really is, the word of God, which is at work in you believers."
+  },
+  {
+    "text": "The Thessalonian church became imitators of the churches of God in Judea by suffering from whom?",
+    "options": ["The Roman authorities", "Their own countrymen", "Jewish leaders from Jerusalem", "False apostles"],
+    "correctAnswerIndex": 1,
+    "book": "1 Thessalonians",
+    "difficulty": "Medium",
+    "verseReference": "1 Thessalonians 2:14",
+    "verseText": "For you, brothers, became imitators of the churches of God in Christ Jesus that are in Judea. For you suffered the same things from your own countrymen as they did from the Jews,"
+  },
+  {
+    "text": "Who does Paul say hindered him from visiting the Thessalonians again?",
+    "options": ["The Roman government", "Timothy", "Satan", "His own lack of desire"],
+    "correctAnswerIndex": 2,
+    "book": "1 Thessalonians",
+    "difficulty": "Medium",
+    "verseReference": "1 Thessalonians 2:18",
+    "verseText": "because we wanted to come to you—I, Paul, again and again—but Satan hindered us."
+  },
+  {
+    "text": "What does Paul call the Thessalonian believers in anticipation of Christ's return?",
+    "options": ["His burden", "His hope, joy, and crown of boasting", "His disciples", "His source of income"],
+    "correctAnswerIndex": 1,
+    "book": "1 Thessalonians",
+    "difficulty": "Easy",
+    "verseReference": "1 Thessalonians 2:19",
+    "verseText": "For what is our hope or joy or crown of boasting before our Lord Jesus at his coming? Is it not you?"
+  },
+  {
+    "text": "Paul sent Timothy to the Thessalonians so that no one would be moved by what?",
+    "options": ["False teachings", "Their afflictions", "Desire for wealth", "Political promises"],
+    "correctAnswerIndex": 1,
+    "book": "1 Thessalonians",
+    "difficulty": "Medium",
+    "verseReference": "1 Thessalonians 3:3",
+    "verseText": "that no one be moved by these afflictions. For you yourselves know that we are destined for this."
+  },
+  {
+    "text": "What good news did Timothy bring back from Thessalonica that greatly encouraged Paul?",
+    "options": ["That the persecution had stopped", "News of their faith and love", "That the church had grown wealthy", "That they had built a large building"],
+    "correctAnswerIndex": 1,
+    "book": "1 Thessalonians",
+    "difficulty": "Easy",
+    "verseReference": "1 Thessalonians 3:6",
+    "verseText": "But now that Timothy has come to us from you, and has brought us the good news of your faith and love and reported that you always remember us kindly and long to see us, as we long to see you—"
+  },
+  {
+    "text": "Paul prays that the Lord would make the Thessalonians increase and abound in what towards one another and all people?",
+    "options": ["Knowledge", "Wealth", "Love", "Power"],
+    "correctAnswerIndex": 2,
+    "book": "1 Thessalonians",
+    "difficulty": "Easy",
+    "verseReference": "1 Thessalonians 3:12",
+    "verseText": "and may the Lord make you increase and abound in love for one another and for all, as we do for you,"
+  },
+  {
+    "text": "The goal of abounding in love is so that God may establish their hearts blameless in holiness before Him at what event?",
+    "options": ["Their baptism", "The coming of our Lord Jesus with all his saints", "The destruction of Jerusalem", "Paul's next visit"],
+    "correctAnswerIndex": 1,
+    "book": "1 Thessalonians",
+    "difficulty": "Medium",
+    "verseReference": "1 Thessalonians 3:13",
+    "verseText": "so that he may establish your hearts blameless in holiness before our God and Father, at the coming of our Lord Jesus with all his saints."
+  },
+  {
+    "text": "Paul urges the Thessalonians to walk and please God, just as they received instruction from him, and to do this how?",
+    "options": ["Occasionally", "Only when feeling spiritual", "More and more", "Secretly"],
+    "correctAnswerIndex": 2,
+    "book": "1 Thessalonians",
+    "difficulty": "Easy",
+    "verseReference": "1 Thessalonians 4:1",
+    "verseText": "Finally, then, brothers, we ask and urge you in the Lord Jesus, that as you received from us how you ought to walk and to please God, just as you are doing, that you do so more and more."
+  },
+  {
+    "text": "Regarding sanctification, each believer should know how to control their own body in what manner?",
+    "options": ["In passion and lust", "In holiness and honor", "According to cultural norms", "Without thought"],
+    "correctAnswerIndex": 1,
+    "book": "1 Thessalonians",
+    "difficulty": "Medium",
+    "verseReference": "1 Thessalonians 4:4",
+    "verseText": "that each one of you know how to control his own body in holiness and honor,"
+  },
+  {
+    "text": "Believers should not control their bodies in the 'passion of lust' like whom?",
+    "options": ["The apostles", "The angels", "The Gentiles who do not know God", "The Old Testament prophets"],
+    "correctAnswerIndex": 2,
+    "book": "1 Thessalonians",
+    "difficulty": "Medium",
+    "verseReference": "1 Thessalonians 4:5",
+    "verseText": "not in the passion of lust like the Gentiles who do not know God;"
+  },
+  {
+    "text": "What warning does Paul give regarding wronging or defrauding a brother in the matter of sexual immorality?",
+    "options": ["It is acceptable if consensual", "The Lord is an avenger in all these things", "It only affects the individuals involved", "The church should ignore it"],
+    "correctAnswerIndex": 1,
+    "book": "1 Thessalonians",
+    "difficulty": "Medium",
+    "verseReference": "1 Thessalonians 4:6",
+    "verseText": "that no one transgress and wrong his brother in this matter, because the Lord is an avenger in all these things, as we told you beforehand and solemnly warned you."
+  },
+  {
+    "text": "God has called believers not for impurity, but for what?",
+    "options": ["Wealth", "Power", "Sanctification (holiness)", "Knowledge"],
+    "correctAnswerIndex": 2,
+    "book": "1 Thessalonians",
+    "difficulty": "Easy",
+    "verseReference": "1 Thessalonians 4:7",
+    "verseText": "For God has not called us for impurity, but in holiness."
+  },
+  {
+    "text": "Therefore, whoever disregards the teaching on sanctification disregards not man, but whom?",
+    "options": ["Paul", "The church leaders", "God, who gives His Holy Spirit", "Tradition"],
+    "correctAnswerIndex": 2,
+    "book": "1 Thessalonians",
+    "difficulty": "Medium",
+    "verseReference": "1 Thessalonians 4:8",
+    "verseText": "Therefore whoever disregards this, disregards not man but God, who gives his Holy Spirit to you."
+  },
+  {
+    "text": "Paul encourages the Thessalonians to aspire to live quietly, mind their own affairs, and do what else?",
+    "options": ["Engage in politics", "Travel extensively", "Work with their hands", "Debate philosophy"],
+    "correctAnswerIndex": 2,
+    "book": "1 Thessalonians",
+    "difficulty": "Medium",
+    "verseReference": "1 Thessalonians 4:11",
+    "verseText": "and to aspire to live quietly, and to mind your own affairs, and to work with your hands, as we instructed you,"
+  },
+  {
+    "text": "Living quietly and working enables believers to walk properly before whom and be dependent on no one?",
+    "options": ["God only", "Outsiders", "Church leaders", "Family members"],
+    "correctAnswerIndex": 1,
+    "book": "1 Thessalonians",
+    "difficulty": "Medium",
+    "verseReference": "1 Thessalonians 4:12",
+    "verseText": "so that you may walk properly before outsiders and be dependent on no one."
+  },
+  {
+    "text": "Paul doesn't want believers to be uninformed about 'those who are asleep' (the dead in Christ) so that they don't grieve like whom?",
+    "options": ["The apostles", "Those who have no hope", "The Old Testament saints", "The angels"],
+    "correctAnswerIndex": 1,
+    "book": "1 Thessalonians",
+    "difficulty": "Easy",
+    "verseReference": "1 Thessalonians 4:13",
+    "verseText": "But we do not want you to be uninformed, brothers, about those who are asleep, that you may not grieve as others do who have no hope."
+  },
+  {
+    "text": "What is the basis for the belief that God will bring with Jesus those who have fallen asleep?",
+    "options": ["Wishful thinking", "The belief that Jesus died and rose again", "Old Testament prophecy alone", "A new revelation to Paul"],
+    "correctAnswerIndex": 1,
+    "book": "1 Thessalonians",
+    "difficulty": "Medium",
+    "verseReference": "1 Thessalonians 4:14",
+    "verseText": "For since we believe that Jesus died and rose again, even so, through Jesus, God will bring with him those who have fallen asleep."
+  },
+  {
+    "text": "When the Lord descends, who will rise first?",
+    "options": ["The living believers", "The apostles", "The dead in Christ", "The Old Testament saints"],
+    "correctAnswerIndex": 2,
+    "book": "1 Thessalonians",
+    "difficulty": "Easy",
+    "verseReference": "1 Thessalonians 4:16",
+    "verseText": "For the Lord himself will descend from heaven with a cry of command, with the voice of an archangel, and with the sound of the trumpet of God. And the dead in Christ will rise first."
+  },
+  {
+    "text": "What will happen to the believers who are alive and left at the Lord's coming?",
+    "options": ["They will be left behind", "They will be caught up together with the risen dead in the clouds", "They will judge the world", "They will establish an earthly kingdom"],
+    "correctAnswerIndex": 1,
+    "book": "1 Thessalonians",
+    "difficulty": "Easy",
+    "verseReference": "1 Thessalonians 4:17",
+    "verseText": "Then we who are alive, who are left, will be caught up together with them in the clouds to meet the Lord in the air, and so we will always be with the Lord."
+  },
+  {
+    "text": "What are the believers instructed to do with the words about Christ's return?",
+    "options": ["Keep them secret", "Debate them", "Encourage one another with them", "Worry about them"],
+    "correctAnswerIndex": 2,
+    "book": "1 Thessalonians",
+    "difficulty": "Easy",
+    "verseReference": "1 Thessalonians 4:18",
+    "verseText": "Therefore encourage one another with these words."
+  },
+  {
+    "text": "Regarding the times and seasons of the Lord's return, what does Paul say?",
+    "options": ["He gives a specific date", "He says they have no need to be written to, as they know the Day comes like a thief", "He refers them to Old Testament prophets", "He admits he doesn't know"],
+    "correctAnswerIndex": 1,
+    "book": "1 Thessalonians",
+    "difficulty": "Medium",
+    "verseReference": "1 Thessalonians 5:1-2",
+    "verseText": "Now concerning the times and the seasons, brothers, you have no need to have anything written to you. For you yourselves are fully aware that the day of the Lord will come like a thief in the night."
+  },
+  {
+    "text": "When people are saying 'Peace and security', what will happen?",
+    "options": ["The kingdom will be established", "Sudden destruction will come upon them", "The apostles will return", "A time of prosperity will begin"],
+    "correctAnswerIndex": 1,
+    "book": "1 Thessalonians",
+    "difficulty": "Medium",
+    "verseReference": "1 Thessalonians 5:3",
+    "verseText": "While people are saying, “There is peace and security,” then sudden destruction will come upon them as labor pains come upon a pregnant woman, and they will not escape."
+  },
+  {
+    "text": "God has not destined believers for wrath, but for what?",
+    "options": ["Suffering", "Obtaining salvation through our Lord Jesus Christ", "Judging angels", "Earthly rule"],
+    "correctAnswerIndex": 1,
+    "book": "1 Thessalonians",
+    "difficulty": "Easy",
+    "verseReference": "1 Thessalonians 5:9",
+    "verseText": "For God has not destined us for wrath, but to obtain salvation through our Lord Jesus Christ,"
+  },
+  {
+    "text": "What should believers do for those who labor among them and are over them in the Lord?",
+    "options": ["Criticize them", "Ignore them", "Respect them and esteem them very highly in love", "Obey them without question"],
+    "correctAnswerIndex": 2,
+    "book": "1 Thessalonians",
+    "difficulty": "Medium",
+    "verseReference": "1 Thessalonians 5:12-13",
+    "verseText": "We ask you, brothers, to respect those who labor among you and are over you in the Lord and admonish you, and to esteem them very highly in love because of their work. Be at peace among yourselves."
+  },
+  {
+    "text": "Paul urges the believers to admonish the idle, encourage the fainthearted, help the weak, and be what toward all?",
+    "options": ["Judgmental", "Indifferent", "Patient", "Strict"],
+    "correctAnswerIndex": 2,
+    "book": "1 Thessalonians",
+    "difficulty": "Medium",
+    "verseReference": "1 Thessalonians 5:14",
+    "verseText": "And we urge you, brothers, admonish the idle, encourage the fainthearted, help the weak, be patient with them all."
+  },
+  {
+    "text": "What should believers ensure no one repays another with?",
+    "options": ["Good for good", "Evil for evil", "Money for favors", "Silence for words"],
+    "correctAnswerIndex": 1,
+    "book": "1 Thessalonians",
+    "difficulty": "Easy",
+    "verseReference": "1 Thessalonians 5:15",
+    "verseText": "See that no one repays anyone evil for evil, but always seek to do good to one another and to everyone."
+  },
+  {
+    "text": "Regarding prophecies, what should believers NOT do, while also testing everything?",
+    "options": ["Believe them immediately", "Despise them", "Write them down", "Ignore them"],
+    "correctAnswerIndex": 1,
+    "book": "1 Thessalonians",
+    "difficulty": "Medium",
+    "verseReference": "1 Thessalonians 5:20-21",
+    "verseText": "Do not despise prophecies, but test everything; hold fast what is good."
+  },
+  {
+    "text": "What should believers abstain from?",
+    "options": ["Worldly pleasures", "Every form of evil", "Political activity", "Contact with unbelievers"],
+    "correctAnswerIndex": 1,
+    "book": "1 Thessalonians",
+    "difficulty": "Easy",
+    "verseReference": "1 Thessalonians 5:22",
+    "verseText": "Abstain from every form of evil."
+  },
+  {
+    "text": "Paul prays that the God of peace Himself will sanctify the Thessalonians completely, keeping their spirit, soul, and body blameless until when?",
+    "options": ["Their death", "The destruction of the temple", "The coming of our Lord Jesus Christ", "Paul's return"],
+    "correctAnswerIndex": 2,
+    "book": "1 Thessalonians",
+    "difficulty": "Medium",
+    "verseReference": "1 Thessalonians 5:23",
+    "verseText": "Now may the God of peace himself sanctify you completely, and may your whole spirit and soul and body be kept blameless at the coming of our Lord Jesus Christ."
+  },
+  {
+    "text": "What assurance does Paul give regarding God, who calls the believers?",
+    "options": ["He is forgetful", "He is faithful; He will surely do it (complete their sanctification)", "He is distant", "He might change His mind"],
+    "correctAnswerIndex": 1,
+    "book": "1 Thessalonians",
+    "difficulty": "Easy",
+    "verseReference": "1 Thessalonians 5:24",
+    "verseText": "He who calls you is faithful; he will surely do it."
   }
 ]

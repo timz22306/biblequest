@@ -88,5 +88,1211 @@
     "difficulty": "Medium",
     "verseReference": "Romans 13:1",
     "verseText": "Let every person be subject to the governing authorities. For there is no authority except from God, and those that exist have been instituted by God."
+  },
+  {
+    "text": "In the opening chapter, Paul argues that God's invisible attributes, eternal power, and divine nature are clearly perceived through what?",
+    "options": ["Sacred texts", "Philosophical reasoning", "What has been made (creation)", "Mystical experiences"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 1:20",
+    "verseText": "For his invisible attributes, namely, his eternal power and divine nature, have been clearly perceived, ever since the creation of the world, in the things that have been made. So they are without excuse."
+  },
+  {
+    "text": "Paul contends that Gentile unrighteousness is demonstrated by their suppression of the truth and exchange of God's glory for what?",
+    "options": ["Political power", "Images resembling created things (idolatry)", "Knowledge", "Moral codes"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 1:21-23",
+    "verseText": "For although they knew God, they did not honor him as God or give thanks to him, but they became futile in their thinking, and their foolish hearts were darkened... and exchanged the glory of the immortal God for images resembling mortal man and birds and animals and creeping things."
+  },
+  {
+    "text": "In Romans 2, Paul addresses the Jews, arguing that possessing the Law and circumcision does not exempt them from judgment if they do what?",
+    "options": ["Associate with Gentiles", "Fail to keep the Law themselves", "Neglect temple rituals", "Disobey Roman authorities"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 2:17-23",
+    "verseText": "But if you call yourself a Jew and rely on the law and boast in God... you who preach against stealing, do you steal? You who say that one must not commit adultery, do you commit adultery? You who abhor idols, do you rob temples?"
+  },
+  {
+    "text": "What defines a 'true Jew' according to Paul's argument in Romans 2?",
+    "options": ["Physical lineage only", "Strict adherence to dietary laws", "One who is a Jew inwardly, with circumcision of the heart by the Spirit", "Membership in the Sanhedrin"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Hard",
+    "verseReference": "Romans 2:28-29",
+    "verseText": "For no one is a Jew who is merely one outwardly, nor is circumcision outward and physical. But a Jew is one inwardly, and circumcision is a matter of the heart, by the Spirit, not by the letter. His praise is not from man but from God."
+  },
+  {
+    "text": "Paul quotes the Old Testament extensively in Romans 3 to demonstrate what universal truth before concluding 'all have sinned'?",
+    "options": ["God's faithfulness to Israel", "The goodness of humanity", "That no one is righteous, not even one", "The necessity of sacrifices"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 3:10-12",
+    "verseText": "as it is written: “None is righteous, no, not one; no one understands; no one seeks for God. All have turned aside; together they have become worthless; no one does good, not even one.”"
+  },
+  {
+    "text": "What function did the Law serve, according to Paul in Romans 3, if not justification?",
+    "options": ["To grant salvation", "To make sin known", "To establish political order", "To provide health guidelines"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 3:20",
+    "verseText": "For by works of the law no human being will be justified in his sight, since through the law comes knowledge of sin."
+  },
+  {
+    "text": "How is God's righteousness revealed apart from the Law, as explained in Romans 3?",
+    "options": ["Through human effort", "Through philosophical insight", "Through faith in Jesus Christ for all who believe", "Through angelic messengers"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 3:21-22",
+    "verseText": "But now the righteousness of God has been manifested apart from the law, although the Law and the Prophets bear witness to it— the righteousness of God through faith in Jesus Christ for all who believe."
+  },
+  {
+    "text": "What term does Paul use in Romans 3 to describe Christ's sacrifice as an appeasement of God's wrath against sin?",
+    "options": ["Redemption", "Justification", "Propitiation (or sacrifice of atonement)", "Sanctification"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Hard",
+    "verseReference": "Romans 3:25",
+    "verseText": "whom God put forward as a propitiation by his blood, to be received by faith. This was to show God's righteousness, because in his divine forbearance he had passed over former sins."
+  },
+  {
+    "text": "Paul uses which Old Testament figure in Romans 4 as the primary example of justification by faith?",
+    "options": ["Moses", "David", "Abraham", "Noah"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Easy",
+    "verseReference": "Romans 4:3",
+    "verseText": "For what does the Scripture say? “Abraham believed God, and it was counted to him as righteousness.”"
+  },
+  {
+    "text": "Abraham's faith was counted as righteousness before or after he was circumcised?",
+    "options": ["After", "Before", "At the same time", "Circumcision was irrelevant"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 4:10-11",
+    "verseText": "How then was it counted to him? Was it before or after he had been circumcised? It was not after, but before he was circumcised. He received the sign of circumcision as a seal of the righteousness that he had by faith while he was still uncircumcised."
+  },
+  {
+    "text": "Besides Abraham, which other Old Testament figure does Paul quote in Romans 4 regarding the blessing of having sins forgiven and covered?",
+    "options": ["Isaiah", "Jeremiah", "David", "Solomon"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 4:6-8",
+    "verseText": "just as David also speaks of the blessing of the one to whom God counts righteousness apart from works: “Blessed are those whose lawless deeds are forgiven, and whose sins are covered; blessed is the man against whom the Lord will not count his sin.”"
+  },
+  {
+    "text": "Romans 5 contrasts the results of Adam's trespass with the results of Christ's one act of righteousness. What came through Adam, and what came through Christ?",
+    "options": ["Life through Adam, death through Christ", "Condemnation/death through Adam, justification/life through Christ", "Law through Adam, grace through Christ", "Ignorance through Adam, knowledge through Christ"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 5:18",
+    "verseText": "Therefore, as one trespass led to condemnation for all men, so one act of righteousness leads to justification and life for all men."
+  },
+  {
+    "text": "What does Paul say 'abounded all the more' where sin increased?",
+    "options": ["Judgment", "Law", "Grace", "Confusion"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Easy",
+    "verseReference": "Romans 5:20",
+    "verseText": "Now the law came in to increase the trespass, but where sin increased, grace abounded all the more,"
+  },
+  {
+    "text": "What rhetorical question does Paul strongly refute at the beginning of Romans 6, following his statement about grace abounding?",
+    "options": ["'Should we keep sinning so that grace may increase?'", "'Is God unjust?'", "'Has God rejected His people?'", "'Should we obey the government?'"],
+    "correctAnswerIndex": 0,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 6:1-2",
+    "verseText": "What shall we say then? Are we to continue in sin that grace may abound? By no means! How can we who died to sin still live in it?"
+  },
+  {
+    "text": "Believers are urged in Romans 6 not to let sin reign in their mortal bodies but to present themselves to God as instruments of what?",
+    "options": ["Righteousness", "Judgment", "Sacrifice", "Worship"],
+    "correctAnswerIndex": 0,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 6:13",
+    "verseText": "Do not present your members to sin as instruments for unrighteousness, but present yourselves to God as those who have been brought from death to life, and your members to God as instruments for righteousness."
+  },
+  {
+    "text": "What are the 'wages' of sin, according to Romans 6?",
+    "options": ["Temporary pleasure", "Knowledge", "Death", "Righteousness"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Easy",
+    "verseReference": "Romans 6:23",
+    "verseText": "For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord."
+  },
+  {
+    "text": "What is contrasted with the wages of sin in Romans 6:23?",
+    "options": ["The curse of the Law", "Human effort", "The free gift of God, which is eternal life", "Temporary rewards"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Easy",
+    "verseReference": "Romans 6:23",
+    "verseText": "For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord."
+  },
+  {
+    "text": "In Romans 7, Paul uses the analogy of marriage to illustrate what point about the Law?",
+    "options": ["The Law is eternal", "Believers are released from the Law through the death of Christ, free to belong to Him", "The Law brings happiness", "Marriage is symbolic of sin"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Hard",
+    "verseReference": "Romans 7:4",
+    "verseText": "Likewise, my brothers, you also have died to the law through the body of Christ, so that you may belong to another, to him who has been raised from the dead, in order that we may bear fruit for God."
+  },
+  {
+    "text": "Paul describes an internal struggle in Romans 7 between his desire to do good and the sin dwelling within him. What does he exclaim in despair?",
+    "options": ["'Who is good but God alone?'", "'What must I do to be saved?'", "'Wretched man that I am! Who will deliver me from this body of death?'", "'Is the Law sin?'"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 7:24",
+    "verseText": "Wretched man that I am! Who will deliver me from this body of death?"
+  },
+  {
+    "text": "Who provides the deliverance from the 'body of death' mentioned in Romans 7?",
+    "options": ["Moses", "The Law", "Self-discipline", "God through Jesus Christ our Lord"],
+    "correctAnswerIndex": 3,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 7:25",
+    "verseText": "Thanks be to God through Jesus Christ our Lord! So then, I myself serve the law of God with my mind, but with my flesh I serve the law of sin."
+  },
+  {
+    "text": "What indwelling power enables believers to fulfill the righteous requirement of the Law, according to Romans 8?",
+    "options": ["Their own willpower", "The Holy Spirit", "Angelic help", "Community support"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 8:4",
+    "verseText": "in order that the righteous requirement of the law might be fulfilled in us, who walk not according to the flesh but according to the Spirit."
+  },
+  {
+    "text": "Those who live according to the flesh set their minds on the things of the flesh, while those who live according to the Spirit set their minds on what?",
+    "options": ["Worldly success", "The things of the Spirit", "Past traditions", "Future rewards only"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Easy",
+    "verseReference": "Romans 8:5",
+    "verseText": "For those who live according to the flesh set their minds on the things of the flesh, but those who live according to the Spirit set their minds on the things of the Spirit."
+  },
+  {
+    "text": "What relationship with God do believers receive through the Spirit, replacing a spirit of fear?",
+    "options": ["Servitude", "Adoption as sons/children", "Partnership", "Distant respect"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 8:15",
+    "verseText": "For you did not receive the spirit of slavery to fall back into fear, but you have received the Spirit of adoption as sons, by whom we cry, “Abba! Father!”"
+  },
+  {
+    "text": "The Spirit helps believers in their weakness by doing what for them?",
+    "options": ["Preventing all suffering", "Interceding for them with groanings too deep for words", "Giving them material wealth", "Revealing the future"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 8:26",
+    "verseText": "Likewise the Spirit helps us in our weakness. For we do not know what to pray for as we ought, but the Spirit himself intercedes for us with groanings too deep for words."
+  },
+  {
+    "text": "What promise is given in Romans 8:28 regarding God's working in the lives of those who love Him?",
+    "options": ["They will never suffer", "All things work together for good", "They will understand everything", "They will become famous"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Easy",
+    "verseReference": "Romans 8:28",
+    "verseText": "And we know that for those who love God all things work together for good, for those who are called according to his purpose."
+  },
+  {
+    "text": "Paul outlines a sequence of God's saving actions in Romans 8: foreknown, predestined, called, justified, and what final step?",
+    "options": ["Sanctified", "Glorified", "Adopted", "Sealed"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 8:30",
+    "verseText": "And those whom he predestined he also called, and those whom he called he also justified, and those whom he justified he also glorified."
+  },
+  {
+    "text": "If God is for us, what rhetorical question does Paul ask in Romans 8?",
+    "options": ["'Who can understand Him?'", "'Who can be against us?'", "'Why do we suffer?'", "'How can we repay Him?'"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Easy",
+    "verseReference": "Romans 8:31",
+    "verseText": "What then shall we say to these things? If God is for us, who can be against us?"
+  },
+  {
+    "text": "Who does Paul say brings a charge against God's elect, and who condemns them, in Romans 8?",
+    "options": ["Satan / The world", "The Law / Moses", "No one (God justifies) / No one (Christ intercedes)", "Their own conscience / Their past sins"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 8:33-34",
+    "verseText": "Who shall bring any charge against God's elect? It is God who justifies. Who is to condemn? Christ Jesus is the one who died—more than that, who was raised—who is at the right hand of God, who indeed is interceding for us."
+  },
+  {
+    "text": "Paul expresses great sorrow and anguish in Romans 9 over what?",
+    "options": ["Roman persecution", "His own failings", "The unbelief of his kinsmen according to the flesh (Israel)", "The divisions in the church"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 9:1-3",
+    "verseText": "I am speaking the truth in Christ—I am not lying; my conscience bears me witness in the Holy Spirit— that I have great sorrow and unceasing anguish in my heart. For I could wish that I myself were accursed and cut off from Christ for the sake of my brothers, my kinsmen according to the flesh."
+  },
+  {
+    "text": "Paul uses the Old Testament examples of Jacob and Esau in Romans 9 to illustrate what principle about God's choice?",
+    "options": ["It is based on human merit", "It is based on foreseen faith", "It depends not on human will or exertion, but on God's mercy (sovereign choice)", "It is random"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Hard",
+    "verseReference": "Romans 9:11-16",
+    "verseText": "though they were not yet born and had done nothing either good or bad—in order that God's purpose of election might continue, not because of works but because of him who calls— she was told, “The older will serve the younger.”... So then it depends not on human will or exertion, but on God who has mercy."
+  },
+  {
+    "text": "What analogy does Paul use in Romans 9 to counter objections about God's fairness in choosing some and hardening others?",
+    "options": ["A shepherd and his sheep", "A king and his subjects", "A potter and the clay", "A farmer and his seeds"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 9:20-21",
+    "verseText": "But who are you, O man, to answer back to God? Will what is molded say to its molder, “Why have you made me like this?” Has the potter no right over the clay, to make out of the same lump one vessel for honorable use and another for dishonorable use?"
+  },
+  {
+    "text": "In Romans 10, Paul states that Israel's zeal for God was not based on what?",
+    "options": ["Sincerity", "Knowledge", "Love", "Obedience"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 10:2",
+    "verseText": "For I bear them witness that they have a zeal for God, but not according to knowledge."
+  },
+  {
+    "text": "How does Paul describe the righteousness that comes from faith in Romans 10, contrasting it with righteousness from the Law?",
+    "options": ["It requires great effort", "It is far away and hard to find", "The word is near you, in your mouth and heart (the word of faith)", "It is only for the Jews"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 10:6-8",
+    "verseText": "But the righteousness based on faith says, “Do not say in your heart, ‘Who will ascend into heaven?’” (that is, to bring Christ down) “or ‘Who will descend into the abyss?’” (that is, to bring Christ up from the dead). But what does it say? “The word is near you, in your mouth and in your heart” (that is, the word of faith that we proclaim);"
+  },
+  {
+    "text": "What confession and belief leads to salvation, according to Romans 10?",
+    "options": ["Confessing the Law and believing Moses", "Confessing Caesar is Lord and believing in Rome", "Confessing Jesus is Lord and believing God raised him from the dead", "Confessing one's sins and believing in self-improvement"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Easy",
+    "verseReference": "Romans 10:9",
+    "verseText": "because, if you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved."
+  },
+  {
+    "text": "For people to call on the Lord and be saved, what sequence of events must happen first, according to Romans 10?",
+    "options": ["They must see miracles, then believe", "They must feel remorse, then confess", "They must believe, which requires hearing, which requires a preacher being sent", "They must read the Law, then understand"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 10:14-15",
+    "verseText": "How then will they call on him in whom they have not believed? And how are they to believe in him of whom they have never heard? And how are they to hear without someone preaching? And how are they to preach unless they are sent?"
+  },
+  {
+    "text": "Paul asks in Romans 11 if God has rejected His people (Israel). What is his emphatic answer?",
+    "options": ["Yes, temporarily", "Yes, permanently", "By no means! (Absolutely not!)", "It is unclear"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Easy",
+    "verseReference": "Romans 11:1",
+    "verseText": "I ask, then, has God rejected his people? By no means! For I myself am an Israelite, a descendant of Abraham, a member of the tribe of Benjamin."
+  },
+  {
+    "text": "Paul speaks of a 'remnant' of Israel chosen by what?",
+    "options": ["Their own merit", "Their adherence to the Law", "Grace", "Their political influence"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 11:5",
+    "verseText": "So too at the present time there is a remnant, chosen by grace."
+  },
+  {
+    "text": "What analogy does Paul use in Romans 11 to illustrate the relationship between Israel and Gentile believers?",
+    "options": ["A building with different stones", "A body with different parts", "An olive tree with natural branches (Israel) and wild branches grafted in (Gentiles)", "A vineyard with different types of grapes"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 11:17-24",
+    "verseText": "But if some of the branches were broken off, and you, although a wild olive shoot, were grafted in among the others and now share in the nourishing root of the olive tree..."
+  },
+  {
+    "text": "What warning does Paul give the Gentile believers in the olive tree analogy?",
+    "options": ["To separate from the Jewish believers", "Not to become arrogant, but to stand fast through faith", "To take over leadership", "To boast about their position"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 11:20-21",
+    "verseText": "That is true. They were broken off because of their unbelief, but you stand fast through faith. So do not become proud, but fear. For if God did not spare the natural branches, neither will he spare you."
+  },
+  {
+    "text": "Paul reveals a 'mystery' in Romans 11 concerning Israel's hardening and the inclusion of Gentiles. How long will the partial hardening of Israel last?",
+    "options": ["Forever", "Until Paul's death", "Until the fullness of the Gentiles has come in", "Until the temple is rebuilt"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Hard",
+    "verseReference": "Romans 11:25",
+    "verseText": "Lest you be wise in your own sight, I do not want you to be unaware of this mystery, brothers: a partial hardening has come upon Israel, until the fullness of the Gentiles has come in."
+  },
+  {
+    "text": "What is the ultimate outcome for 'all Israel' according to Romans 11?",
+    "options": ["They will be permanently cut off", "They will be saved", "They will merge with the Gentiles", "Their fate is uncertain"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 11:26",
+    "verseText": "And in this way all Israel will be saved, as it is written, “The Deliverer will come from Zion, he will banish ungodliness from Jacob”; "
+  },
+  {
+    "text": "How does Paul conclude his discussion of God's plan for Israel and Gentiles in Romans 11, before transitioning to practical application?",
+    "options": ["With a call to judgment", "With a doxology praising God's unfathomable wisdom and ways", "With a list of rules", "With a personal testimony"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 11:33-36",
+    "verseText": "Oh, the depth of the riches and wisdom and knowledge of God! How unsearchable are his judgments and how inscrutable his ways! ... For from him and through him and to him are all things. To him be glory forever. Amen."
+  },
+  {
+    "text": "Presenting our bodies as a living sacrifice is described as our 'spiritual worship' or 'reasonable service'. What else are believers urged NOT to do in Romans 12?",
+    "options": ["Engage in commerce", "Be conformed to this world", "Associate with unbelievers", "Pay taxes"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Easy",
+    "verseReference": "Romans 12:2",
+    "verseText": "Do not be conformed to this world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect."
+  },
+  {
+    "text": "How should believers be transformed, according to Romans 12?",
+    "options": ["By outward conformity", "By political action", "By the renewal of their minds", "By isolating themselves"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 12:2",
+    "verseText": "Do not be conformed to this world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect."
+  },
+  {
+    "text": "Paul instructs believers in Romans 12 not to think of themselves more highly than they ought, but to think with what?",
+    "options": ["Great confidence", "Sober judgment", "Skepticism", "Ambition"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 12:3",
+    "verseText": "For by the grace given to me I say to everyone among you not to think of himself more highly than he ought to think, but to think with sober judgment, each according to the measure of faith that God has assigned."
+  },
+  {
+    "text": "The analogy of the body with many members having different functions is used in Romans 12 to illustrate what aspect of the church?",
+    "options": ["The church's hierarchy", "The diversity of spiritual gifts and unity in Christ", "The need for separation", "The church's political structure"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 12:4-6",
+    "verseText": "For as in one body we have many members, and the members do not all have the same function, so we, though many, are one body in Christ, and individually members one of another. Having gifts that differ according to the grace given to us, let us use them:"
+  },
+  {
+    "text": "What characteristics should mark a believer's love, according to Romans 12?",
+    "options": ["Hypocrisy and pretense", "Genuineness (abhorring evil, holding fast to good)", "Indifference", "Exclusivity"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 12:9",
+    "verseText": "Let love be genuine. Abhor what is evil; hold fast to what is good."
+  },
+  {
+    "text": "How should believers treat those who persecute them, according to Romans 12?",
+    "options": ["Curse them", "Seek revenge", "Bless them and do not curse them", "Ignore them"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Easy",
+    "verseReference": "Romans 12:14",
+    "verseText": "Bless those who persecute you; bless and do not curse them."
+  },
+  {
+    "text": "Instead of taking revenge, what are believers instructed to do in Romans 12?",
+    "options": ["Leave it to the wrath of God", "Organize resistance", "Publicly shame offenders", "Demand immediate justice"],
+    "correctAnswerIndex": 0,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 12:19",
+    "verseText": "Beloved, never avenge yourselves, but leave it to the wrath of God, for it is written, “Vengeance is mine, I will repay, says the Lord.”"
+  },
+  {
+    "text": "How can believers 'overcome evil', according to the end of Romans 12?",
+    "options": ["With greater evil", "With political power", "With good", "By avoiding conflict"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Easy",
+    "verseReference": "Romans 12:21",
+    "verseText": "Do not be overcome by evil, but overcome evil with good."
+  },
+  {
+    "text": "What specific obligation does Paul mention believers should fulfill towards governing authorities in Romans 13?",
+    "options": ["Military service", "Paying taxes and revenue", "Voting in elections", "Running for office"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 13:6-7",
+    "verseText": "For because of this you also pay taxes, for the authorities are ministers of God, attending to this very thing. Pay to all what is owed to them: taxes to whom taxes are owed, revenue to whom revenue is owed, respect to whom respect is owed, honor to whom honor is owed."
+  },
+  {
+    "text": "Besides submitting to authorities, what overarching command fulfills the Law's requirements regarding neighbors, according to Romans 13?",
+    "options": ["Love your neighbor as yourself", "Judge your neighbor righteously", "Provide for your neighbor's needs", "Pray for your neighbor"],
+    "correctAnswerIndex": 0,
+    "book": "Romans",
+    "difficulty": "Easy",
+    "verseReference": "Romans 13:8-9",
+    "verseText": "Owe no one anything, except to love each other, for the one who loves another has fulfilled the law... And any other commandment, are summed up in this word: “You shall love your neighbor as yourself.”"
+  },
+  {
+    "text": "Paul urges believers in Romans 13 to 'wake from sleep' because what is nearer than when they first believed?",
+    "options": ["The end of the world", "Their death", "Salvation", "Persecution"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 13:11",
+    "verseText": "Besides this you know the time, that the hour has come for you to wake from sleep. For salvation is nearer to us now than when we first believed."
+  },
+  {
+    "text": "Instead of making provision for the flesh, what are believers instructed to 'put on' in Romans 13?",
+    "options": ["The armor of God", "Sackcloth and ashes", "The Lord Jesus Christ", "A new attitude"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 13:14",
+    "verseText": "But put on the Lord Jesus Christ, and make no provision for the flesh, to gratify its desires."
+  },
+  {
+    "text": "Romans 14 deals with disputes over 'doubtful matters'. What examples does Paul use?",
+    "options": ["Circumcision and Law-keeping", "Eating certain foods (like meat vs. vegetables) and observing special days", "Speaking in tongues and prophecy", "Church leadership structure"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 14:2-3, 5-6",
+    "verseText": "One person believes he may eat anything, while the weak person eats only vegetables... One person esteems one day as better than another, while another esteems all days alike."
+  },
+  {
+    "text": "What principle should guide believers ('the strong') in their interactions with those who have scruples about doubtful matters ('the weak')?",
+    "options": ["Condemn their weakness", "Force them to change", "Welcome them without quarreling and avoid causing them to stumble", "Ignore their concerns"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 14:1, 13",
+    "verseText": "As for the one who is weak in faith, welcome him, but not to quarrel over opinions... Therefore let us not pass judgment on one another any longer, but rather decide never to put a stumbling block or hindrance in the way of a brother."
+  },
+  {
+    "text": "The Kingdom of God is not a matter of eating and drinking, but of what, according to Romans 14?",
+    "options": ["Power and authority", "Rules and regulations", "Righteousness and peace and joy in the Holy Spirit", "Knowledge and wisdom"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 14:17",
+    "verseText": "For the kingdom of God is not a matter of eating and drinking but of righteousness and peace and joy in the Holy Spirit."
+  },
+  {
+    "text": "What should be the aim of believers in their interactions, according to Romans 14:19?",
+    "options": ["Winning arguments", "Proving their own righteousness", "Pursuing what makes for peace and mutual upbuilding", "Establishing uniform practices"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 14:19",
+    "verseText": "So then let us pursue what makes for peace and for mutual upbuilding."
+  },
+  {
+    "text": "Romans 15 begins by stating that the strong ought to bear with the failings of the weak and not do what?",
+    "options": ["Associate with them", "Please themselves", "Judge them", "Teach them"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 15:1",
+    "verseText": "We who are strong have an obligation to bear with the failings of the weak, and not to please ourselves."
+  },
+  {
+    "text": "Paul quotes the Old Testament in Romans 15 to show that Christ became a servant to the circumcised (Jews) to confirm God's promises and also so that who might glorify God?",
+    "options": ["The angels", "The Gentiles", "The prophets", "The apostles"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 15:8-9",
+    "verseText": "For I tell you that Christ became a servant to the circumcised to show God's truthfulness, in order to confirm the promises given to the patriarchs, and in order that the Gentiles might glorify God for his mercy."
+  },
+  {
+    "text": "What was Paul's ambition in his missionary work, as stated in Romans 15?",
+    "options": ["To preach only where churches already existed", "To preach the gospel where Christ had not been named", "To focus only on major cities", "To write as many letters as possible"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 15:20",
+    "verseText": "and thus I make it my ambition to preach the gospel, not where Christ has already been named, lest I build on someone else's foundation,"
+  },
+  {
+    "text": "Paul expresses his hope to visit Rome on his way to what further destination?",
+    "options": ["Jerusalem", "Spain", "Greece", "Asia Minor"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 15:24, 28",
+    "verseText": "I hope to see you in passing as I go to Spain, and to be helped on my journey there by you... I shall go on by way of you to Spain."
+  },
+  {
+    "text": "Before visiting Rome, Paul was heading to Jerusalem for what purpose?",
+    "options": ["To be tried by the Sanhedrin", "To deliver a contribution from the Gentile churches for the poor saints there", "To consult with the apostles", "To celebrate Passover"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 15:25-26",
+    "verseText": "At present, however, I am going to Jerusalem bringing aid to the saints. For Macedonia and Achaia have been pleased to make some contribution for the poor among the saints at Jerusalem."
+  },
+  {
+    "text": "Paul asks the Roman believers to strive together with him in prayers for what specific requests regarding his Jerusalem trip?",
+    "options": ["Financial success", "That he might be delivered from unbelievers in Judea and his service be acceptable to the saints", "Safe and quick travel", "Recognition from the apostles"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Hard",
+    "verseReference": "Romans 15:30-31",
+    "verseText": "I appeal to you, brothers, by our Lord Jesus Christ and by the love of the Spirit, to strive together with me in your prayers to God on my behalf, that I may be delivered from the unbelievers in Judea, and that my service for Jerusalem may be acceptable to the saints,"
+  },
+  {
+    "text": "In Romans 16, Paul commends whom to the Roman church, describing her as a servant (or deaconess) of the church in Cenchreae?",
+    "options": ["Lydia", "Priscilla", "Phoebe", "Mary"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 16:1-2",
+    "verseText": "I commend to you our sister Phoebe, a servant of the church at Cenchreae, that you may welcome her in the Lord in a way worthy of the saints, and help her in whatever she may need from you, for she has been a patron of many and of myself as well."
+  },
+  {
+    "text": "Which couple does Paul greet warmly in Romans 16, calling them fellow workers who risked their necks for his life?",
+    "options": ["Andronicus and Junia", "Aquila and Priscilla", "Urbanus and Stachys", "Philologus and Julia"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 16:3-4",
+    "verseText": "Greet Prisca [Priscilla] and Aquila, my fellow workers in Christ Jesus, who risked their necks for my life, to whom not only I give thanks but all the churches of the Gentiles give thanks as well."
+  },
+  {
+    "text": "Paul warns the Romans in chapter 16 to watch out for those who cause what?",
+    "options": ["Financial hardship", "Political unrest", "Divisions and obstacles contrary to the doctrine they had learned", "Doctrinal debates"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 16:17",
+    "verseText": "I appeal to you, brothers, to watch out for those who cause divisions and create obstacles contrary to the doctrine that you have been taught; avoid them."
+  },
+  {
+    "text": "Who served as Paul's amanuensis (scribe) in writing the letter to the Romans?",
+    "options": ["Timothy", "Titus", "Tertius", "Luke"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Hard",
+    "verseReference": "Romans 16:22",
+    "verseText": "I Tertius, who wrote this letter, greet you in the Lord."
+  },
+  {
+    "text": "The final verses of Romans (16:25-27) form a doxology praising God for His power to establish believers according to Paul's gospel and the revelation of what?",
+    "options": ["The Law", "Future events", "The mystery hidden for long ages but now disclosed", "The structure of the church"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 16:25-26",
+    "verseText": "Now to him who is able to strengthen you according to my gospel and the preaching of Jesus Christ, according to the revelation of the mystery that was kept secret for long ages but has now been disclosed and through the prophetic writings has been made known to all nations..."
+  },
+  {
+    "text": "Paul describes himself in the opening as 'set apart' for what?",
+    "options": ["A special mission to Jerusalem", "The gospel of God", "A life of suffering", "Leadership over the apostles"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Easy",
+    "verseReference": "Romans 1:1",
+    "verseText": "Paul, a servant of Christ Jesus, called to be an apostle, set apart for the gospel of God,"
+  },
+  {
+    "text": "The gospel Paul preaches concerns God's Son, who was descended from whom according to the flesh?",
+    "options": ["Abraham", "Moses", "David", "Adam"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 1:3",
+    "verseText": "concerning his Son, who was descended from David according to the flesh"
+  },
+  {
+    "text": "How was Jesus declared to be the Son of God in power, according to Romans 1?",
+    "options": ["By His miracles", "By His teachings", "By His resurrection from the dead", "By John the Baptist's testimony"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 1:4",
+    "verseText": "and was declared to be the Son of God in power according to the Spirit of holiness by his resurrection from the dead, Jesus Christ our Lord,"
+  },
+  {
+    "text": "Paul expresses his eagerness to preach the gospel also to those where?",
+    "options": ["In Jerusalem", "In Athens", "In Rome", "In Spain"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Easy",
+    "verseReference": "Romans 1:15",
+    "verseText": "So I am eager to preach the gospel to you also who are in Rome."
+  },
+  {
+    "text": "The righteousness of God is revealed in the gospel 'from faith for faith'. What Old Testament quote supports this?",
+    "options": ["'The just shall live by his faith'", "'Love your neighbor as yourself'", "'The fear of the Lord is the beginning of wisdom'", "'Prepare the way of the Lord'"],
+    "correctAnswerIndex": 0,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 1:17",
+    "verseText": "For in it the righteousness of God is revealed from faith for faith, as it is written, “The righteous shall live by faith.”"
+  },
+  {
+    "text": "God's wrath is revealed against ungodliness and unrighteousness of men who do what with the truth?",
+    "options": ["Ignore it", "Misunderstand it", "Suppress it", "Debate it"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 1:18",
+    "verseText": "For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who by their unrighteousness suppress the truth."
+  },
+  {
+    "text": "Because humans exchanged the truth about God for a lie and worshiped creation, God gave them up to what?",
+    "options": ["Prosperity", "Wisdom", "Dishonorable passions and a debased mind", "Political power"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 1:24, 26, 28",
+    "verseText": "Therefore God gave them up in the lusts of their hearts to impurity... For this reason God gave them up to dishonorable passions... And since they did not see fit to acknowledge God, God gave them up to a debased mind to do what ought not to be done."
+  },
+  {
+    "text": "In Romans 2, Paul argues that those who judge others condemn themselves. Why?",
+    "options": ["Because judging is always wrong", "Because they practice the very same things", "Because only God can judge", "Because they lack authority"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 2:1",
+    "verseText": "Therefore you have no excuse, O man, every one of you who judges. For in passing judgment on another you condemn yourself, because you, the judge, practice the very same things."
+  },
+  {
+    "text": "God's kindness, forbearance, and patience are meant to lead people toward what?",
+    "options": ["Complacency", "Judgment", "Repentance", "Self-righteousness"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 2:4",
+    "verseText": "Or do you presume on the riches of his kindness and forbearance and patience, not knowing that God's kindness is meant to lead you to repentance?"
+  },
+  {
+    "text": "God will render to each one according to what, according to Romans 2?",
+    "options": ["Their faith", "Their beliefs", "Their works", "Their status"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 2:6",
+    "verseText": "He will render to each one according to his works:"
+  },
+  {
+    "text": "Paul states that it is not the hearers of the Law but the ______ of the Law who will be justified.",
+    "options": ["Teachers", "Critics", "Doers", "Memorizers"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Easy",
+    "verseReference": "Romans 2:13",
+    "verseText": "For it is not the hearers of the law who are righteous before God, but the doers of the law who will be justified."
+  },
+  {
+    "text": "What advantage did the Jew have, or what was the value of circumcision, according to Paul's initial question in Romans 3?",
+    "options": ["None", "Guaranteed salvation", "Mainly that they were entrusted with the oracles of God", "Political superiority"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 3:1-2",
+    "verseText": "Then what advantage has the Jew? Or what is the value of circumcision? Much in every way. To begin with, the Jews were entrusted with the oracles of God."
+  },
+  {
+    "text": "Does the unfaithfulness of some nullify the faithfulness of God?",
+    "options": ["Yes", "No (By no means!)", "Sometimes", "It depends on the circumstances"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Easy",
+    "verseReference": "Romans 3:3-4",
+    "verseText": "What if some were unfaithful? Does their faithlessness nullify the faithfulness of God? By no means! Let God be true though every one were a liar,"
+  },
+  {
+    "text": "Justification through faith demonstrates God's righteousness because He is both just and the ______ of the one who has faith in Jesus.",
+    "options": ["Creator", "Judge", "Justifier", "Redeemer"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 3:26",
+    "verseText": "it was to show his righteousness at the present time, so that he might be just and the justifier of the one who has faith in Jesus."
+  },
+  {
+    "text": "If justification is by faith, what happens to boasting?",
+    "options": ["It increases", "It is excluded", "It shifts to boasting in the Law", "It becomes acceptable"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 3:27",
+    "verseText": "Then what becomes of our boasting? It is excluded. By what kind of law? By a law of works? No, but by the law of faith."
+  },
+  {
+    "text": "Does faith overthrow the Law, according to Paul's conclusion in Romans 3?",
+    "options": ["Yes, completely", "No, on the contrary, it upholds the Law", "It makes the Law irrelevant", "It replaces the Law with grace"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 3:31",
+    "verseText": "Do we then overthrow the law by this faith? By no means! On the contrary, we uphold the law."
+  },
+  {
+    "text": "Abraham was declared righteous by faith while he was still what?",
+    "options": ["A Gentile (uncircumcised)", "Young", "Poor", "Childless"],
+    "correctAnswerIndex": 0,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 4:10-11",
+    "verseText": "It was not after, but before he was circumcised. He received the sign of circumcision as a seal of the righteousness that he had by faith while he was still uncircumcised."
+  },
+  {
+    "text": "The promise to Abraham and his offspring depended on the righteousness of faith so that it might be guaranteed to all offspring based on what?",
+    "options": ["Works of the Law", "Grace", "Lineage alone", "Obedience"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Hard",
+    "verseReference": "Romans 4:16",
+    "verseText": "That is why it depends on faith, in order that the promise may rest on grace and be guaranteed to all his offspring—not only to the adherent of the law but also to the one who shares the faith of Abraham, who is the father of us all,"
+  },
+  {
+    "text": "Abraham's faith was strong despite facing the 'deadness' of his own body and what else?",
+    "options": ["Political opposition", "The deadness of Sarah's womb", "Lack of resources", "Doubt from others"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 4:19",
+    "verseText": "He did not weaken in faith when he considered his own body, which was as good as dead (since he was about a hundred years old), or when he considered the barrenness [deadness] of Sarah's womb."
+  },
+  {
+    "text": "Besides peace with God, what else have believers gained access to through faith, according to Romans 5?",
+    "options": ["Political power", "Perfect knowledge", "This grace in which we stand", "Freedom from all suffering"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 5:2",
+    "verseText": "Through him we have also obtained access by faith into this grace in which we stand, and we rejoice in hope of the glory of God."
+  },
+  {
+    "text": "Paul says believers rejoice in sufferings, knowing that suffering produces what?",
+    "options": ["Despair", "Endurance", "Wealth", "Anger"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Easy",
+    "verseReference": "Romans 5:3",
+    "verseText": "Not only that, but we rejoice in our sufferings, knowing that suffering produces endurance,"
+  },
+  {
+    "text": "Endurance produces character, and character produces what?",
+    "options": ["Pride", "Hope", "Fear", "Doubt"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Easy",
+    "verseReference": "Romans 5:4",
+    "verseText": "and endurance produces character, and character produces hope,"
+  },
+  {
+    "text": "Why does this hope not put us to shame?",
+    "options": ["Because we are strong", "Because God's love has been poured into our hearts through the Holy Spirit", "Because suffering will end soon", "Because we have earned it"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 5:5",
+    "verseText": "and hope does not put us to shame, because God's love has been poured into our hearts through the Holy Spirit who has been given to us."
+  },
+  {
+    "text": "Christ died for the ungodly at what time?",
+    "options": ["After they repented", "While they were still weak/sinners", "When they deserved it", "Before creation"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 5:6, 8",
+    "verseText": "For while we were still weak, at the right time Christ died for the ungodly... but God shows his love for us in that while we were still sinners, Christ died for us."
+  },
+  {
+    "text": "If believers were reconciled to God through Christ's death while enemies, what are they assured of now?",
+    "options": ["A life free from trouble", "Being saved by His life", "Understanding all mysteries", "Becoming apostles"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 5:10",
+    "verseText": "For if while we were enemies we were reconciled to God by the death of his Son, much more, now that we are reconciled, shall we be saved by his life."
+  },
+  {
+    "text": "Through whom did sin and death enter the world?",
+    "options": ["Moses", "Abraham", "One man (Adam)", "Satan directly"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Easy",
+    "verseReference": "Romans 5:12",
+    "verseText": "Therefore, just as sin came into the world through one man, and death through sin, and so death spread to all men because all sinned—"
+  },
+  {
+    "text": "Why did the Law come in, according to Romans 5?",
+    "options": ["To justify people", "To increase the trespass", "To abolish sin", "To confuse people"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 5:20",
+    "verseText": "Now the law came in to increase the trespass, but where sin increased, grace abounded all the more,"
+  },
+  {
+    "text": "Being united with Christ in His death through baptism means believers should also walk in what?",
+    "options": ["Fear and trembling", "The old ways", "Newness of life", "Darkness"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 6:4",
+    "verseText": "We were buried therefore with him by baptism into death, in order that, just as Christ was raised from the dead by the glory of the Father, we too might walk in newness of life."
+  },
+  {
+    "text": "What does Paul mean when he says believers are 'dead to sin'?",
+    "options": ["They never sin anymore", "Sin has no more power or claim over them", "They are physically dead", "They are unaware of sin"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 6:11",
+    "verseText": "So you also must consider yourselves dead to sin and alive to God in Christ Jesus."
+  },
+  {
+    "text": "Having been set free from sin, believers have become slaves to what?",
+    "options": ["The Law", "Righteousness / God", "Their desires", "The apostles"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 6:18, 22",
+    "verseText": "and, having been set free from sin, have become slaves of righteousness... But now that you have been set free from sin and have become slaves of God..."
+  },
+  {
+    "text": "The result (fruit) of being enslaved to God is sanctification, and its end is what?",
+    "options": ["More suffering", "Eternal life", "Worldly recognition", "Mastery over others"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 6:22",
+    "verseText": "But now that you have been set free from sin and have become slaves of God, the fruit you get leads to sanctification and its end, eternal life."
+  },
+  {
+    "text": "Paul clarifies in Romans 7 that the Law itself is not sin, but rather it did what?",
+    "options": ["Justified sinners", "Revealed sin / Made sin known", "Caused sin", "Abolished sin"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 7:7",
+    "verseText": "What then shall we say? That the law is sin? By no means! Yet if it had not been for the law, I would not have known sin. For I would not have known what it is to covet if the law had not said, “You shall not covet.”"
+  },
+  {
+    "text": "Paul describes the Law as holy, righteous, and what else?",
+    "options": ["Weak", "Temporary", "Good", "Burden"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Easy",
+    "verseReference": "Romans 7:12",
+    "verseText": "So the law is holy, and the commandment is holy and righteous and good."
+  },
+  {
+    "text": "What prevents Paul from doing the good he wants to do in the struggle described in Romans 7?",
+    "options": ["Lack of desire", "External circumstances", "Sin dwelling within him", "God's direct intervention"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 7:17, 20",
+    "verseText": "So now it is no longer I who do it, but sin that dwells within me... Now if I do what I do not want, it is no longer I who do it, but sin that dwells within me."
+  },
+  {
+    "text": "The 'law of sin and death' is contrasted in Romans 8 with what other law?",
+    "options": ["The law of Moses", "The law of the Spirit of life", "Roman law", "The law of nature"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 8:2",
+    "verseText": "For the law of the Spirit of life has set you free in Christ Jesus from the law of sin and death."
+  },
+  {
+    "text": "What could the Law not do because it was weakened by the flesh, which God did by sending His Son?",
+    "options": ["Reveal sin", "Condemn sin in the flesh", "Provide guidance", "Create unity"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Hard",
+    "verseReference": "Romans 8:3",
+    "verseText": "For God has done what the law, weakened by the flesh, could not do. By sending his own Son in the likeness of sinful flesh and for sin, he condemned sin in the flesh,"
+  },
+  {
+    "text": "To set the mind on the flesh is death, but to set the mind on the Spirit is what?",
+    "options": ["Life and peace", "Struggle and conflict", "Knowledge and power", "Weakness and doubt"],
+    "correctAnswerIndex": 0,
+    "book": "Romans",
+    "difficulty": "Easy",
+    "verseReference": "Romans 8:6",
+    "verseText": "For to set the mind on the flesh is death, but to set the mind on the Spirit is life and peace."
+  },
+  {
+    "text": "If the Spirit of God dwells in someone, they are not in the flesh but in the Spirit. What is true if someone does NOT have the Spirit of Christ?",
+    "options": ["They are seeking God", "They belong to the Law", "They do not belong to Him", "They are neutral"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 8:9",
+    "verseText": "You, however, are not in the flesh but in the Spirit, if in fact the Spirit of God dwells in you. Anyone who does not have the Spirit of Christ does not belong to him."
+  },
+  {
+    "text": "Believers are debtors, but not to whom?",
+    "options": ["To God", "To Christ", "To the flesh", "To the Spirit"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 8:12",
+    "verseText": "So then, brothers, we are debtors, not to the flesh, to live according to the flesh."
+  },
+  {
+    "text": "All who are led by the Spirit of God are what?",
+    "options": ["Apostles", "Perfect", "Sons (children) of God", "Prophets"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Easy",
+    "verseReference": "Romans 8:14",
+    "verseText": "For all who are led by the Spirit of God are sons of God."
+  },
+  {
+    "text": "The Spirit Himself bears witness with our spirit that we are what?",
+    "options": ["Sinners", "Servants", "Children of God", "Mere mortals"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Easy",
+    "verseReference": "Romans 8:16",
+    "verseText": "The Spirit himself bears witness with our spirit that we are children of God,"
+  },
+  {
+    "text": "If we are children of God, then we are heirs - heirs of God and fellow heirs with whom?",
+    "options": ["Abraham", "Moses", "Christ", "The apostles"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Easy",
+    "verseReference": "Romans 8:17",
+    "verseText": "and if children, then heirs—heirs of God and fellow heirs with Christ, provided we suffer with him in order that we may also be glorified with him."
+  },
+  {
+    "text": "Paul considers that present sufferings are not worth comparing to what?",
+    "options": ["Past blessings", "The glory that is to be revealed to us", "The sufferings of others", "The demands of the Law"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 8:18",
+    "verseText": "For I consider that the sufferings of this present time are not worth comparing with the glory that is to be revealed to us."
+  },
+  {
+    "text": "What does the creation await with eager longing?",
+    "options": ["Its destruction", "The return of the Law", "The revealing of the sons of God", "A new king"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 8:19",
+    "verseText": "For the creation waits with eager longing for the revealing of the sons of God."
+  },
+  {
+    "text": "Creation was subjected to futility, but in hope that it will be set free from what?",
+    "options": ["Human control", "Its bondage to corruption", "Natural disasters", "The cycle of seasons"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Hard",
+    "verseReference": "Romans 8:20-21",
+    "verseText": "For the creation was subjected to futility, not willingly, but because of him who subjected it, in hope that the creation itself will be set free from its bondage to corruption and obtain the freedom of the glory of the children of God."
+  },
+  {
+    "text": "Not only creation, but believers who have the firstfruits of the Spirit also do what inwardly?",
+    "options": ["Rejoice constantly", "Groan inwardly, awaiting adoption and redemption", "Understand all things", "Judge the world"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 8:23",
+    "verseText": "And not only the creation, but we ourselves, who have the firstfruits of the Spirit, groan inwardly as we wait eagerly for adoption as sons, the redemption of our bodies."
+  },
+  {
+    "text": "In hope we were saved. But hope that is seen is not hope. What does Paul say we do if we hope for what we do not see?",
+    "options": ["We give up", "We wait for it with patience", "We demand it", "We forget about it"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 8:24-25",
+    "verseText": "For in this hope we were saved. Now hope that is seen is not hope. For who hopes for what he sees? But if we hope for what we do not see, we wait for it with patience."
+  },
+  {
+    "text": "Who intercedes for the saints according to the will of God?",
+    "options": ["Angels", "Moses", "The Spirit", "Believers for each other only"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 8:27",
+    "verseText": "And he who searches hearts knows what is the mind of the Spirit, because the Spirit intercedes for the saints according to the will of God."
+  },
+  {
+    "text": "Those whom God foreknew, He also predestined to be conformed to what?",
+    "options": ["The Law", "The image of His Son", "A life of ease", "Apostolic authority"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 8:29",
+    "verseText": "For those whom he foreknew he also predestined to be conformed to the image of his Son, in order that he might be the firstborn among many brothers."
+  },
+  {
+    "text": "God did not spare His own Son but gave Him up for us all. What else will He give us along with Him?",
+    "options": ["Specific instructions", "Worldly power", "All things", "Immunity from suffering"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 8:32",
+    "verseText": "He who did not spare his own Son but gave him up for us all, how will he not also with him graciously give us all things?"
+  },
+  {
+    "text": "Who is at the right hand of God, interceding for believers?",
+    "options": ["Moses", "Abraham", "Christ Jesus", "The Holy Spirit"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Easy",
+    "verseReference": "Romans 8:34",
+    "verseText": "Who is to condemn? Christ Jesus is the one who died—more than that, who was raised—who is at the right hand of God, who indeed is interceding for us."
+  },
+  {
+    "text": "In all the trials listed (tribulation, distress, persecution, etc.), what is the status of believers through Him who loved them?",
+    "options": ["Barely surviving", "Defeated", "More than conquerors", "Confused"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 8:37",
+    "verseText": "No, in all these things we are more than conquerors through him who loved us."
+  },
+  {
+    "text": "Paul lists several privileges belonging to the Israelites in Romans 9. Which of these is NOT listed?",
+    "options": ["The adoption, the glory, the covenants", "The giving of the law, the worship, the promises", "The patriarchs, and Christ according to the flesh", "The gift of tongues"],
+    "correctAnswerIndex": 3,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 9:4-5",
+    "verseText": "They are Israelites, and to them belong the adoption, the glory, the covenants, the giving of the law, the worship, and the promises. To them belong the patriarchs, and from their race, according to the flesh, is the Christ, who is God over all, blessed forever. Amen."
+  },
+  {
+    "text": "Not all who are descended from Israel belong to Israel. This illustrates that God's promise is realized through which children?",
+    "options": ["Children of the flesh", "Children of the promise", "Children who keep the Law perfectly", "Children of Abraham only"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Hard",
+    "verseReference": "Romans 9:6-8",
+    "verseText": "But it is not as though the word of God has failed. For not all who are descended from Israel belong to Israel, and not all are children of Abraham because they are his offspring... This means that it is not the children of the flesh who are the children of God, but the children of the promise are counted as offspring."
+  },
+  {
+    "text": "Paul quotes God's words to Moses: 'I will have mercy on whom I have mercy, and I will have _______ on whom I have _______.'",
+    "options": ["judgment / judgment", "compassion / compassion", "blessing / blessing", "wrath / wrath"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Easy",
+    "verseReference": "Romans 9:15",
+    "verseText": "For he says to Moses, “I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion.”"
+  },
+  {
+    "text": "God endured vessels of wrath prepared for destruction in order to make known what?",
+    "options": ["His great anger", "The riches of His glory for vessels of mercy", "The weakness of humanity", "The power of Satan"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Hard",
+    "verseReference": "Romans 9:22-23",
+    "verseText": "What if God, desiring to show his wrath and to make known his power, has endured with much patience vessels of wrath prepared for destruction, in order to make known the riches of his glory for vessels of mercy, which he has prepared beforehand for glory—"
+  },
+  {
+    "text": "Israel pursued righteousness based on the Law but failed to attain it because they pursued it by works instead of by what?",
+    "options": ["Grace", "Faith", "Knowledge", "Power"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 9:31-32",
+    "verseText": "but that Israel who pursued a law that would lead to righteousness did not succeed in reaching that law. Why? Because they did not pursue it by faith, but as if it were based on works."
+  },
+  {
+    "text": "Christ is the end of the Law for what purpose, for everyone who believes?",
+    "options": ["For judgment", "For righteousness", "For condemnation", "For confusion"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 10:4",
+    "verseText": "For Christ is the end of the law for righteousness to everyone who believes."
+  },
+  {
+    "text": "With what does one believe, resulting in righteousness, according to Romans 10?",
+    "options": ["The mind", "The heart", "The soul", "The strength"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Easy",
+    "verseReference": "Romans 10:10",
+    "verseText": "For with the heart one believes and is justified [lit: results in righteousness], and with the mouth one confesses and is saved."
+  },
+  {
+    "text": "With what does one confess, resulting in salvation, according to Romans 10?",
+    "options": ["The mind", "The heart", "The mouth", "Actions"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Easy",
+    "verseReference": "Romans 10:10",
+    "verseText": "For with the heart one believes and is justified, and with the mouth one confesses and is saved."
+  },
+  {
+    "text": "Is there a distinction between Jew and Greek regarding calling on the Lord for salvation?",
+    "options": ["Yes, Jews have priority", "Yes, Gentiles have priority", "No, the same Lord is Lord of all, bestowing riches on all who call", "No, neither can be saved"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Easy",
+    "verseReference": "Romans 10:12-13",
+    "verseText": "For there is no distinction between Jew and Greek; for the same Lord is Lord of all, bestowing his riches on all who call on him. For “everyone who calls on the name of the Lord will be saved.”"
+  },
+  {
+    "text": "How beautiful are the feet of those who preach what?",
+    "options": ["The Law", "Judgment", "Good news", "Philosophy"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Easy",
+    "verseReference": "Romans 10:15",
+    "verseText": "And how are they to preach unless they are sent? As it is written, “How beautiful are the feet of those who preach the good news!”"
+  },
+  {
+    "text": "Faith comes from hearing, and hearing comes through what?",
+    "options": ["Reading the Law", "Personal experience", "The word of Christ", "Philosophical debate"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Easy",
+    "verseReference": "Romans 10:17",
+    "verseText": "So faith comes from hearing, and hearing through the word of Christ."
+  },
+  {
+    "text": "Paul uses the example of Elijah to show that God has always preserved what?",
+    "options": ["The Temple", "The monarchy", "A remnant for Himself", "The land of Israel"],
+    "correctAnswerIndex": 2,
+    "book": "Romans",
+    "difficulty": "Medium",
+    "verseReference": "Romans 11:2-5",
+    "verseText": "Do you not know what the Scripture says of Elijah, how he appeals to God against Israel? ... But what is God's reply to him? “I have kept for myself seven thousand men who have not bowed the knee to Baal.” So too at the present time there is a remnant, chosen by grace."
+  },
+  {
+    "text": "If salvation is by grace, it is no longer on the basis of what?",
+    "options": ["Faith", "Works", "God's choice", "Love"],
+    "correctAnswerIndex": 1,
+    "book": "Romans",
+    "difficulty": "Easy",
+    "verseReference": "Romans 11:6",
+    "verseText": "But if it is by grace, it is no longer on the basis of works; otherwise grace would no longer be grace."
   }
 ]

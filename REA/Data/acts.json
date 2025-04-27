@@ -745,5 +745,617 @@
     "difficulty": "Medium",
     "verseReference": "Acts 28:4, 6",
     "verseText": "When the native people saw the creature hanging from his hand, they said to one another, “No doubt this man is a murderer. Though he has escaped from the sea, Justice has not allowed him to live.”... They waited, expecting him to swell up or suddenly fall down dead. But when they had waited a long time and saw no misfortune come to him, they changed their minds and said that he was a god."
+  },
+  {
+    "text": "After Peter's sermon on Pentecost, how did the new believers demonstrate their commitment?",
+    "options": ["They immediately left Jerusalem", "They devoted themselves to the apostles' teaching, fellowship, breaking bread, and prayer", "They built a new temple", "They formed a political party"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Easy",
+    "verseReference": "Acts 2:42",
+    "verseText": "And they devoted themselves to the apostles' teaching and the fellowship, to the breaking of bread and the prayers."
+  },
+  {
+    "text": "What characterized the fellowship of the earliest believers in Jerusalem, regarding possessions?",
+    "options": ["Strict individual ownership", "Selling possessions and distributing proceeds as any had need", "Hiding their wealth", "Paying taxes to the apostles"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 2:44-45",
+    "verseText": "And all who believed were together and had all things in common. And they were selling their possessions and belongings and distributing the proceeds to all, as any had need."
+  },
+  {
+    "text": "When Peter and John were arrested after healing the lame man, what did the Sanhedrin command them not to do?",
+    "options": ["Heal anyone else", "Enter the temple", "Speak or teach in the name of Jesus", "Leave Jerusalem"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 4:18",
+    "verseText": "So they called them and charged them not to speak or teach at all in the name of Jesus."
+  },
+  {
+    "text": "What was Peter and John's response when commanded by the Sanhedrin not to speak about Jesus?",
+    "options": ["They agreed to stop", "They asked for time to consider", "They said, 'Whether it is right in the sight of God to listen to you rather than to God, you must judge'", "They fled the city"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 4:19-20",
+    "verseText": "But Peter and John answered them, “Whether it is right in the sight of God to listen to you rather than to God, you must judge, for we cannot but speak of what we have seen and heard.”"
+  },
+  {
+    "text": "After being released, Peter and John prayed with the believers. What did they ask God for?",
+    "options": ["Protection from their enemies", "Power to perform more miracles", "Boldness to continue speaking God's word", "Wealth to support the church"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 4:29",
+    "verseText": "And now, Lord, look upon their threats and grant to your servants to continue to speak your word with all boldness,"
+  },
+  {
+    "text": "What happened immediately after the believers prayed for boldness in Acts 4?",
+    "options": ["An angel appeared", "The place where they were gathered was shaken, and they were filled with the Holy Spirit", "The Sanhedrin arrested them again", "A thunderstorm began"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 4:31",
+    "verseText": "And when they had prayed, the place in which they were gathered together was shaken, and they were all filled with the Holy Spirit and continued to speak the word of God with boldness."
+  },
+  {
+    "text": "Who was Barnabas, introduced in Acts 4 as an example of generosity?",
+    "options": ["A Roman soldier", "A Levite from Cyprus who sold a field and gave the money to the apostles", "A fisherman from Galilee", "A member of the Sanhedrin"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 4:36-37",
+    "verseText": "Thus Joseph, who was also called by the apostles Barnabas (which means son of encouragement), a Levite, a native of Cyprus, sold a field that belonged to him and brought the money and laid it at the apostles' feet."
+  },
+  {
+    "text": "When the apostles were arrested again in Acts 5, how did they get out of the public prison?",
+    "options": ["Gamaliel ordered their release", "An angel of the Lord opened the prison doors", "They bribed the guards", "An earthquake occurred"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 5:19",
+    "verseText": "But during the night an angel of the Lord opened the prison doors and brought them out, and said,"
+  },
+  {
+    "text": "What specific task were the seven men (including Stephen and Philip) chosen for in Acts 6?",
+    "options": ["To lead missionary journeys", "To serve tables and ensure fair distribution to widows", "To guard the temple", "To write letters to other churches"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Easy",
+    "verseReference": "Acts 6:2-3",
+    "verseText": "And the twelve summoned the full number of the disciples and said, “It is not right that we should give up preaching the word of God to serve tables. Therefore, brothers, pick out from among you seven men of good repute, full of the Spirit and of wisdom, whom we will appoint to this duty."
+  },
+  {
+    "text": "Besides serving tables, what else is Stephen noted for in Acts 6?",
+    "options": ["His great wealth", "His Roman citizenship", "Being full of grace and power, doing great wonders and signs", "His skill in tentmaking"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 6:8",
+    "verseText": "And Stephen, full of grace and power, was doing great wonders and signs among the people."
+  },
+  {
+    "text": "Stephen's speech before the Sanhedrin primarily recounted what?",
+    "options": ["Greek philosophy", "Roman law", "The history of Israel, highlighting their rejection of God's messengers", "His personal life story"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 7:2-53",
+    "verseText": "(Summary of Stephen's speech recounting Israel's history and resistance to God, culminating in the rejection of Jesus)."
+  },
+  {
+    "text": "What was the immediate consequence of Stephen's martyrdom for the church in Jerusalem?",
+    "options": ["The church grew rapidly", "A great persecution arose, scattering the believers", "The apostles were also arrested", "The Romans intervened"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 8:1",
+    "verseText": "And Saul approved of his execution. And there arose on that day a great persecution against the church in Jerusalem, and they were all scattered throughout the regions of Judea and Samaria, except the apostles."
+  },
+  {
+    "text": "When Philip preached in Samaria, what did the Samaritans do?",
+    "options": ["They ignored him", "They drove him out of the city", "They paid attention and were baptized, rejoicing greatly", "They argued with him"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Easy",
+    "verseReference": "Acts 8:6, 8, 12",
+    "verseText": "And the crowds with one accord paid attention to what was being said by Philip... So there was much joy in that city... But when they believed Philip as he preached good news about the kingdom of God and the name of Jesus Christ, they were baptized, both men and women."
+  },
+  {
+    "text": "Why did Peter and John go to Samaria after hearing about Philip's success?",
+    "options": ["To investigate Philip", "To collect money", "So the Samaritan believers might receive the Holy Spirit", "To establish a new council"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 8:14-15",
+    "verseText": "Now when the apostles at Jerusalem heard that Samaria had received the word of God, they sent to them Peter and John, who came down and prayed for them that they might receive the Holy Spirit,"
+  },
+  {
+    "text": "What specific passage was the Ethiopian eunuch reading when Philip met him?",
+    "options": ["The creation account in Genesis", "David's psalms of repentance", "Isaiah's prophecy about the suffering servant", "The laws in Leviticus"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 8:32-33",
+    "verseText": "Now the passage of the Scripture that he was reading was this: “Like a sheep he was led to the slaughter and like a lamb before its shearer is silent, so he opens not his mouth...” (Quoting Isaiah 53:7-8)"
+  },
+  {
+    "text": "After baptizing the Ethiopian eunuch, what happened to Philip?",
+    "options": ["He returned to Jerusalem", "He was arrested", "The Spirit of the Lord carried him away", "He continued traveling with the eunuch"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 8:39",
+    "verseText": "And when they came up out of the water, the Spirit of the Lord carried Philip away, and the eunuch saw him no more, and went on his way rejoicing."
+  },
+  {
+    "text": "What was Saul doing when Jesus confronted him on the road to Damascus?",
+    "options": ["Going to preach the gospel", "Traveling for business", "Going to arrest Christians", "Visiting relatives"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Easy",
+    "verseReference": "Acts 9:1-2",
+    "verseText": "But Saul, still breathing threats and murder against the disciples of the Lord, went to the high priest and asked him for letters to the synagogues at Damascus, so that if he found any belonging to the Way, men or women, he might bring them bound to Jerusalem."
+  },
+  {
+    "text": "How did Saul escape from Damascus when the Jews plotted to kill him?",
+    "options": ["He fought his way out", "The Roman governor protected him", "His disciples lowered him in a basket through an opening in the wall", "An angel rescued him"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 9:25",
+    "verseText": "but his disciples took him by night and let him down through an opening in the wall, lowering him in a basket."
+  },
+  {
+    "text": "Peter healed a paralyzed man in Lydda. What was his name?",
+    "options": ["Tabitha", "Cornelius", "Aeneas", "Simon"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 9:33-34",
+    "verseText": "There he found a man named Aeneas, bedridden for eight years, who was paralyzed. And Peter said to him, “Aeneas, Jesus Christ heals you; rise and make your bed.” And immediately he rose."
+  },
+  {
+    "text": "Cornelius, the centurion who sent for Peter, is described as what kind of man?",
+    "options": ["A persecutor of Christians", "A devout man who feared God, gave alms, and prayed continually", "A corrupt Roman official", "A Jewish leader"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 10:1-2",
+    "verseText": "At Caesarea there was a man named Cornelius, a centurion of what was known as the Italian Cohort, a devout man who feared God with all his household, gave alms generously to the people, and prayed continually to God."
+  },
+  {
+    "text": "What was Peter's initial reaction to the vision of the sheet with unclean animals?",
+    "options": ["He rejoiced", "He was confused", "He refused, saying he had never eaten anything unclean", "He asked for an interpretation"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 10:14",
+    "verseText": "But Peter said, “By no means, Lord; for I have never eaten anything that is common or unclean.”"
+  },
+  {
+    "text": "What convinced Peter that he should go with the men sent by Cornelius?",
+    "options": ["They offered him money", "The Holy Spirit told him to go without hesitation", "He recognized them as fellow Jews", "He was afraid to refuse"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 10:19-20",
+    "verseText": "And while Peter was pondering the vision, the Spirit said to him, “Behold, three men are looking for you. Rise and go down and accompany them without hesitation, for I have sent them.”"
+  },
+  {
+    "text": "When Peter explained the gospel to Cornelius and his household, what happened while he was still speaking?",
+    "options": ["An earthquake shook the house", "The Holy Spirit fell on all who heard the word", "Roman soldiers arrested Peter", "Cornelius interrupted him"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Easy",
+    "verseReference": "Acts 10:44",
+    "verseText": "While Peter was still saying these things, the Holy Spirit fell on all who heard the word."
+  },
+  {
+    "text": "How did the Jewish believers in Jerusalem initially react when they heard Peter had visited Gentiles?",
+    "options": ["They praised God", "They criticized Peter", "They sent Barnabas to investigate", "They were indifferent"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 11:2-3",
+    "verseText": "So when Peter went up to Jerusalem, the circumcision party criticized him, saying, “You went to uncircumcised men and ate with them.”"
+  },
+  {
+    "text": "After Peter recounted his experience with Cornelius, what was the reaction of the Jerusalem believers?",
+    "options": ["They remained critical", "They argued among themselves", "They fell silent and glorified God, acknowledging God granted repentance to Gentiles", "They expelled Peter"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 11:18",
+    "verseText": "When they heard these things they fell silent. And they glorified God, saying, “Then to the Gentiles also God has granted repentance that leads to life.”"
+  },
+  {
+    "text": "Which church sent Barnabas to Antioch to check on the believers there?",
+    "options": ["The church in Rome", "The church in Corinth", "The church in Jerusalem", "The church in Ephesus"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 11:22",
+    "verseText": "The report of this came to the ears of the church in Jerusalem, and they sent Barnabas to Antioch."
+  },
+  {
+    "text": "Who did Barnabas fetch from Tarsus to help him teach the growing church in Antioch?",
+    "options": ["Peter", "John Mark", "Silas", "Saul (Paul)"],
+    "correctAnswerIndex": 3,
+    "book": "Acts",
+    "difficulty": "Easy",
+    "verseReference": "Acts 11:25-26",
+    "verseText": "So Barnabas went to Tarsus to look for Saul, and when he had found him, he brought him to Antioch. For a whole year they met with the church and taught a great many people."
+  },
+  {
+    "text": "What prompted the church in Antioch to send relief funds to the believers in Judea?",
+    "options": ["A letter from Peter", "A command from the Roman governor", "A prophecy by Agabus about a coming famine", "A request from Barnabas"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 11:27-29",
+    "verseText": "Now in these days prophets came down from Jerusalem to Antioch. And one of them named Agabus stood up and foretold by the Spirit that there would be a great famine over all the world (this took place in the days of Claudius). So the disciples determined, every one according to his ability, to send relief to the brothers living in Judea."
+  },
+  {
+    "text": "While Peter was imprisoned by Herod, what were the believers doing?",
+    "options": ["Plotting a rescue", "Protesting publicly", "Earnestly praying to God for him", "Hiding in fear"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Easy",
+    "verseReference": "Acts 12:5",
+    "verseText": "So Peter was kept in prison, but earnest prayer for him was made to God by the church."
+  },
+  {
+    "text": "Who commissioned Barnabas and Saul for their first missionary journey, prompted by the Holy Spirit?",
+    "options": ["The apostles in Jerusalem", "The Roman governor", "The prophets and teachers in the church at Antioch", "King Herod"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 13:1-3",
+    "verseText": "Now there were in the church at Antioch prophets and teachers... While they were worshiping the Lord and fasting, the Holy Spirit said, “Set apart for me Barnabas and Saul for the work to which I have called them.” Then after fasting and praying they laid their hands on them and sent them off."
+  },
+  {
+    "text": "In Antioch of Pisidia, Paul's sermon recounted God's dealings with Israel, culminating in whom?",
+    "options": ["Moses", "David", "John the Baptist", "Jesus, the Savior"],
+    "correctAnswerIndex": 3,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 13:16-23",
+    "verseText": "(Paul's sermon summary)... Of this man's offspring God has brought to Israel a Savior, Jesus, as he promised."
+  },
+  {
+    "text": "What was the reaction of many Gentiles in Antioch of Pisidia to Paul's message?",
+    "options": ["They rejected it", "They asked Paul to leave", "They rejoiced and glorified the word of the Lord", "They reported Paul to the authorities"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 13:48",
+    "verseText": "And when the Gentiles heard this, they began rejoicing and glorifying the word of the Lord, and as many as were appointed to eternal life believed."
+  },
+  {
+    "text": "Why did Paul and Barnabas turn their focus to the Gentiles in Antioch of Pisidia?",
+    "options": ["They preferred Gentiles", "The Holy Spirit commanded it", "The Jews rejected the message and considered themselves unworthy of eternal life", "The Gentiles offered them money"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 13:46",
+    "verseText": "And Paul and Barnabas spoke out boldly, saying, “It was necessary that the word of God be spoken first to you. Since you thrust it aside and judge yourselves unworthy of eternal life, behold, we are turning to the Gentiles.”"
+  },
+  {
+    "text": "In Iconium, Paul and Barnabas faced opposition stirred up by whom?",
+    "options": ["Roman soldiers", "Greek philosophers", "Unbelieving Jews who poisoned the minds of the Gentiles", "The city leaders"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 14:2",
+    "verseText": "But the unbelieving Jews stirred up the Gentiles and poisoned their minds against the brothers."
+  },
+  {
+    "text": "After being stoned in Lystra, what did Paul and Barnabas do upon reviving?",
+    "options": ["They immediately left the region", "They went back into the city and then left the next day", "They sought revenge", "They appealed to the Roman authorities"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 14:19-20",
+    "verseText": "...they stoned Paul and dragged him out of the city, supposing that he was dead. But when the disciples gathered about him, he rose up and entered the city, and on the next day he went on with Barnabas to Derbe."
+  },
+  {
+    "text": "On their return journey through Lystra, Iconium, and Antioch, what did Paul and Barnabas do for the churches?",
+    "options": ["Collected taxes", "Strengthened the disciples and appointed elders", "Built church buildings", "Taught them Greek"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 14:22-23",
+    "verseText": "strengthening the souls of the disciples, encouraging them to continue in the faith, and saying that through many tribulations we must enter the kingdom of God. And when they had appointed elders for them in every church, with prayer and fasting they committed them to the Lord in whom they had believed."
+  },
+  {
+    "text": "What key decision regarding Gentile believers was made at the Jerusalem Council?",
+    "options": ["Gentiles must become Jews first", "Gentiles must be circumcised and keep the Law of Moses", "Gentiles are saved by grace through faith, just like Jews, and should abstain from certain practices", "Gentiles should form separate churches"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 15:11, 19-20",
+    "verseText": "But we believe that we will be saved through the grace of the Lord Jesus, just as they will... Therefore my judgment is that we should not trouble those of the Gentiles who turn to God, but should write to them to abstain from the things polluted by idols, and from sexual immorality, and from what has been strangled, and from blood."
+  },
+  {
+    "text": "Who delivered the letter from the Jerusalem Council to the church in Antioch?",
+    "options": ["Peter and John", "Paul and Barnabas alone", "Judas (called Barsabbas) and Silas, along with Paul and Barnabas", "James and the elders"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 15:22, 27",
+    "verseText": "Then it seemed good to the apostles and the elders, with the whole church, to choose men from among them and send them to Antioch with Paul and Barnabas. They sent Judas called Barsabbas, and Silas, leading men among the brothers... We have therefore sent Judas and Silas, who themselves will tell you the same things by word of mouth."
+  },
+  {
+    "text": "Why did Paul have Timothy circumcised before taking him on his second missionary journey?",
+    "options": ["It was required by the Jerusalem Council", "Timothy requested it", "Because of the Jews in the area, as Timothy's father was Greek", "To fulfill a vow"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 16:3",
+    "verseText": "Paul wanted Timothy to accompany him, and he took him and circumcised him because of the Jews who were in those places, for they all knew that his father was a Greek."
+  },
+  {
+    "text": "What specific accusation led to Paul and Silas being beaten and imprisoned in Philippi?",
+    "options": ["Teaching against Roman gods", "Disturbing the peace and advocating customs unlawful for Romans", "Refusing to pay taxes", "Healing on the Sabbath"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 16:20-21",
+    "verseText": "And when they had brought them to the magistrates, they said, “These men are Jews, and they are disturbing our city. They advocate customs that are not lawful for us as Romans to accept or practice.”"
+  },
+  {
+    "text": "Why were the Philippian magistrates alarmed after beating and imprisoning Paul and Silas?",
+    "options": ["They feared a riot", "They realized Paul and Silas were innocent", "They learned Paul and Silas were Roman citizens", "They had a change of heart"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 16:38",
+    "verseText": "The police reported these words to the magistrates, and they were afraid when they heard that they were Roman citizens."
+  },
+  {
+    "text": "In Thessalonica, who hosted Paul and Silas and faced trouble from the mob?",
+    "options": ["Lydia", "Aquila", "Jason", "Timothy"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 17:5-7",
+    "verseText": "But the Jews were jealous, and taking some wicked men of the rabble, they formed a mob, set the city in an uproar, and attacked the house of Jason, seeking to bring them out to the crowd... accusing them, saying, “These men who have turned the world upside down have come here also, and Jason has received them..."
+  },
+  {
+    "text": "What philosophical groups did Paul encounter and debate with in Athens?",
+    "options": ["Cynics and Skeptics", "Platonists and Aristotelians", "Epicurean and Stoic philosophers", "Pythagoreans and Sophists"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 17:18",
+    "verseText": "Some of the Epicurean and Stoic philosophers also conversed with him."
+  },
+  {
+    "text": "What was the general reaction of the Athenian philosophers on Mars Hill to Paul's teaching about the resurrection?",
+    "options": ["Universal acceptance", "Complete rejection", "Some mocked, while others wanted to hear more", "They arrested him"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 17:32",
+    "verseText": "Now when they heard of the resurrection of the dead, some mocked. But others said, “We will hear you again about this.”"
+  },
+  {
+    "text": "Who was the proconsul of Achaia (based in Corinth) who dismissed the charges brought against Paul by the Jews?",
+    "options": ["Felix", "Festus", "Sergius Paulus", "Gallio"],
+    "correctAnswerIndex": 3,
+    "book": "Acts",
+    "difficulty": "Hard",
+    "verseReference": "Acts 18:12-16",
+    "verseText": "But when Gallio was proconsul of Achaia, the Jews made a united attack on Paul... Gallio said to the Jews, “If it were a matter of wrongdoing or vicious crime... I would have reason to accept your complaint. But since it is a matter of questions about words and names and your own law, see to it yourselves. I refuse to be a judge of these things.”"
+  },
+  {
+    "text": "Why did Paul cut his hair in Cenchreae before sailing to Syria?",
+    "options": ["It was a local custom", "He had taken a vow", "He was following Aquila's example", "The Bible doesn't say why"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Hard",
+    "verseReference": "Acts 18:18",
+    "verseText": "After this, Paul stayed many days longer and then took leave of the brothers and set sail for Syria, and with him Priscilla and Aquila. At Cenchreae he had cut his hair, for he was under a vow."
+  },
+  {
+    "text": "How long did Paul teach daily in the hall of Tyrannus in Ephesus?",
+    "options": ["Three months", "Six months", "One year", "Two years"],
+    "correctAnswerIndex": 3,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 19:9-10",
+    "verseText": "...he withdrew from them and took the disciples with him, reasoning daily in the hall of Tyrannus. This continued for two years, so that all the residents of Asia heard the word of the Lord, both Jews and Greeks."
+  },
+  {
+    "text": "What unusual miracles occurred through Paul in Ephesus?",
+    "options": ["Raising multiple people from the dead", "Healing through handkerchiefs or aprons that touched his skin", "Controlling the weather", "Walking on water"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 19:11-12",
+    "verseText": "And God was doing extraordinary miracles by the hands of Paul, so that even handkerchiefs or aprons that had touched his skin were carried away to the sick, and their diseases left them and the evil spirits came out of them."
+  },
+  {
+    "text": "What was the result of the incident with the sons of Sceva in Ephesus?",
+    "options": ["Paul was driven out of the city", "Many who practiced magic arts burned their books publicly", "The temple of Artemis was closed", "A law was passed against exorcism"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 19:17-19",
+    "verseText": "And this became known to all the residents of Ephesus... And fear fell upon them all, and the name of the Lord Jesus was extolled... Also many of those who were now believers came, confessing and divulging their practices. And a number of those who had practiced magic arts brought their books together and burned them in the sight of all."
+  },
+  {
+    "text": "Who quieted the riot in Ephesus, advising the crowd to use legal channels?",
+    "options": ["Paul", "The Roman governor", "The town clerk", "Demetrius the silversmith"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 19:35-41",
+    "verseText": "And when the town clerk had quieted the crowd, he said, “Men of Ephesus... If therefore Demetrius and the craftsmen with him have a complaint against anyone, the courts are open, and there are proconsuls. Let them bring charges against one another... With these words he dismissed the assembly."
+  },
+  {
+    "text": "Where was Paul heading, 'resolved in the Spirit', after his time in Ephesus and Macedonia/Achaia?",
+    "options": ["Tarsus", "Antioch", "Jerusalem, then Rome", "Egypt"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 19:21",
+    "verseText": "Now after these events Paul resolved in the Spirit to pass through Macedonia and Achaia and go to Jerusalem, saying, “After I have been there, I must also see Rome.”"
+  },
+  {
+    "text": "In his farewell to the Ephesian elders, Paul stated he was innocent of what?",
+    "options": ["Any crime against Rome", "The blood of all men, because he hadn't shrunk from declaring the whole counsel of God", "Financial mismanagement", "Disrespecting the temple"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 20:26-27",
+    "verseText": "Therefore I testify to you this day that I am innocent of the blood of all, for I did not shrink from declaring to you the whole counsel of God."
+  },
+  {
+    "text": "Despite warnings of imprisonment, why did Paul insist on going to Jerusalem?",
+    "options": ["He didn't believe the warnings", "He felt compelled by the Spirit and ready to die for Jesus' name", "He wanted to confront the apostles", "He was ordered by the church in Antioch"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 20:22-24, 21:13",
+    "verseText": "And now, behold, I am going to Jerusalem, constrained by the Spirit, not knowing what will happen to me there, except that the Holy Spirit testifies to me in every city that imprisonment and afflictions await me... Then Paul answered, “What are you doing, weeping and breaking my heart? For I am ready not only to be imprisoned but even to die in Jerusalem for the name of the Lord Jesus.”"
+  },
+  {
+    "text": "Who suggested Paul undertake purification rites in the temple to appease Jewish believers in Jerusalem?",
+    "options": ["Peter", "Agabus", "James and the elders", "The Roman commander"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 21:18, 20, 23-24",
+    "verseText": "On the following day Paul went in with us to James, and all the elders were present... And they said to him, “You see, brother, how many thousands there are among the Jews of those who have believed... Do therefore what we tell you. We have four men who are under a vow; take these men and purify yourself along with them..."
+  },
+  {
+    "text": "What specific action by Paul enraged the crowd when he spoke from the steps of the barracks in Jerusalem?",
+    "options": ["He spoke in Greek", "He mentioned his Roman citizenship", "He spoke of being sent to the Gentiles", "He criticized the High Priest"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 22:21-22",
+    "verseText": "And he said to me, ‘Go, for I will send you far away to the Gentiles.’” Up to this word they listened to him. Then they raised their voices and said, “Away with such a fellow from the earth! For he should not be allowed to live.”"
+  },
+  {
+    "text": "How many men plotted together, vowing not to eat or drink until they had killed Paul?",
+    "options": ["About 10", "About 20", "More than 40", "Over 100"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 23:12-13",
+    "verseText": "When it was day, the Jews made a plot and bound themselves by an oath neither to eat nor drink till they had killed Paul. There were more than forty who made this conspiracy."
+  },
+  {
+    "text": "Where was Paul sent under heavy guard from Jerusalem to ensure his safety from the Jewish plot?",
+    "options": ["Rome", "Antioch", "Caesarea", "Damascus"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Easy",
+    "verseReference": "Acts 23:23-24, 33",
+    "verseText": "Then he called two of the centurions and said, “Get ready two hundred soldiers... to go as far as Caesarea.” ... When they came to Caesarea and delivered the letter to the governor, they presented Paul also before him."
+  },
+  {
+    "text": "Who was the lawyer the Jewish leaders brought to Caesarea to formally accuse Paul before Governor Felix?",
+    "options": ["Gamaliel", "Tertullus", "Agabus", "Demetrius"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Hard",
+    "verseReference": "Acts 24:1-2",
+    "verseText": "And after five days the high priest Ananias came down with some elders and a spokesman, one Tertullus. They laid before the governor their case against Paul."
+  },
+  {
+    "text": "What topics did Paul discuss with Felix and his wife Drusilla that made Felix afraid?",
+    "options": ["Roman politics and law", "Righteousness, self-control, and the coming judgment", "Greek philosophy", "Jewish customs"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 24:24-25",
+    "verseText": "After some days Felix came with his wife Drusilla, who was Jewish, and he sent for Paul and heard him speak about faith in Christ Jesus. And as he reasoned about righteousness and self-control and the coming judgment, Felix was alarmed..."
+  },
+  {
+    "text": "What did Governor Festus propose, leading Paul to appeal to Caesar?",
+    "options": ["Release Paul immediately", "Send Paul back to Felix", "Have Paul go up to Jerusalem to be tried", "Keep Paul in Caesarea indefinitely"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 25:9",
+    "verseText": "But Festus, wishing to do the Jews a favor, said to Paul, “Do you wish to go up to Jerusalem and there be tried on these charges before me?”"
+  },
+  {
+    "text": "During the storm at sea, what assurance did an angel give Paul?",
+    "options": ["The ship would be saved", "He must stand before Caesar, and God had granted the lives of all on board", "They would reach Rome quickly", "The storm would stop immediately"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 27:23-24",
+    "verseText": "For this very night there stood before me an angel of the God to whom I belong and whom I worship, and he said, ‘Do not be afraid, Paul; you must stand before Caesar. And behold, God has granted you all those who sail with you.’"
+  },
+  {
+    "text": "How did Paul encourage the crew and passengers during the long storm before the shipwreck?",
+    "options": ["By promising them wealth", "By urging them to take food for survival", "By blaming the captain", "By trying to take command of the ship"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 27:33-36",
+    "verseText": "As day was about to dawn, Paul urged them all to take some food, saying, “Today is the fourteenth day that you have continued in suspense and without food... Therefore I urge you to take some food. For it will be for your survival...” Then they all were encouraged and ate some food themselves."
+  },
+  {
+    "text": "What prevented the soldiers from killing the prisoners, including Paul, during the shipwreck?",
+    "options": ["Paul pleaded for their lives", "The centurion, wanting to save Paul, kept them from their plan", "An angel intervened", "The storm was too severe"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 27:42-43",
+    "verseText": "The soldiers' plan was to kill the prisoners, lest any should swim away and escape. But the centurion, wishing to save Paul, kept them from carrying out their plan."
+  },
+  {
+    "text": "How long did Paul and the shipwrecked group stay on Malta?",
+    "options": ["One week", "One month", "Three months", "Six months"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 28:11",
+    "verseText": "After three months we set sail in a ship that had wintered in the island..."
+  },
+  {
+    "text": "When Paul finally arrived in Rome, who came out from the city to meet him?",
+    "options": ["Caesar", "The Jewish leaders", "Brothers (fellow Christians)", "Governor Festus"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 28:15",
+    "verseText": "And the brothers there, when they heard about us, came as far as the Forum of Appius and Three Taverns to meet us. On seeing them, Paul thanked God and took courage."
+  },
+  {
+    "text": "What was the initial reaction of the Jewish leaders in Rome when Paul explained his situation?",
+    "options": ["They immediately accused him", "They said they hadn't received letters about him and wanted to hear his views", "They tried to arrest him", "They refused to meet him"],
+    "correctAnswerIndex": 1,
+    "book": "Acts",
+    "difficulty": "Medium",
+    "verseReference": "Acts 28:21-22",
+    "verseText": "And they said to him, “We have received no letters from Judea about you, and none of the brothers coming here has reported or spoken any evil about you. But we desire to hear from you what your views are, for with regard to this sect we know that everywhere it is spoken against.”"
+  },
+  {
+    "text": "What Old Testament prophet did Paul quote to the Jews in Rome who disbelieved his message?",
+    "options": ["Jeremiah", "Ezekiel", "Daniel", "Isaiah"],
+    "correctAnswerIndex": 3,
+    "book": "Acts",
+    "difficulty": "Hard",
+    "verseReference": "Acts 28:25-27",
+    "verseText": "...Paul added one final word: “The Holy Spirit was right in saying to your fathers through Isaiah the prophet: ‘Go to this people, and say, “You will indeed hear but never understand, and you will indeed see but never perceive.”...’"
+  },
+  {
+    "text": "According to the final verses of Acts, what was Paul doing 'without hindrance' in Rome?",
+    "options": ["Writing letters", "Meeting with Caesar", "Proclaiming the kingdom of God and teaching about Jesus", "Planning his escape"],
+    "correctAnswerIndex": 2,
+    "book": "Acts",
+    "difficulty": "Easy",
+    "verseReference": "Acts 28:31",
+    "verseText": "proclaiming the kingdom of God and teaching about the Lord Jesus Christ with all boldness and without hindrance."
   }
 ]

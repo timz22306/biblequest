@@ -1,7 +1,7 @@
 [
   {
-    "text": "Who identifies himself as the author of 2 John?",
-    "options": ["Paul", "Peter", "The elder", "James"],
+    "text": "How does the author identify himself at the beginning of this short letter?",
+    "options": ["Paul, an apostle", "Peter, a servant", "The elder", "James, a bondservant"],
     "correctAnswerIndex": 2,
     "book": "2 John",
     "difficulty": "Easy",
@@ -9,8 +9,8 @@
     "verseText": "The elder to the elect lady and her children, whom I love in truth..."
   },
   {
-    "text": "Who is the recipient of 2 John?",
-    "options": ["Gaius", "Demas", "'The elect lady and her children' (likely a church and its members)", "Philemon"],
+    "text": "To whom is this letter addressed, often interpreted as a specific church and its members?",
+    "options": ["Gaius", "Demas", "'The elect lady and her children'", "Philemon"],
     "correctAnswerIndex": 2,
     "book": "2 John",
     "difficulty": "Medium",
@@ -18,7 +18,7 @@
     "verseText": "The elder to the elect lady and her children, whom I love in truth..."
   },
   {
-    "text": "What two themes, prominent in 1 John, are central to 2 John?",
+    "text": "What two interconnected concepts, emphasized throughout the Johannine writings, are central to this letter's greeting and message?",
     "options": ["Faith and hope", "Law and grace", "Truth and love", "Suffering and glory"],
     "correctAnswerIndex": 2,
     "book": "2 John",
@@ -27,8 +27,8 @@
     "verseText": "...whom I love in truth... Grace, mercy, and peace will be with us, from God the Father and from Jesus Christ the Father's Son, in truth and love. I rejoiced greatly to find some of your children walking in truth... And this is love, that we walk according to his commandments..."
   },
   {
-    "text": "John rejoices because he found some of the 'elect lady's' children walking in what?",
-    "options": ["Prosperity", "Truth", "Power", "Fame"],
+    "text": "What brought the author great joy regarding the recipients?",
+    "options": ["Hearing of their financial prosperity", "Finding some of her children walking in the truth", "Receiving a gift from them", "Learning of their political influence"],
     "correctAnswerIndex": 1,
     "book": "2 John",
     "difficulty": "Easy",
@@ -36,8 +36,8 @@
     "verseText": "I rejoiced greatly to find some of your children walking in truth, just as we were commanded by the Father."
   },
   {
-    "text": "What commandment does John remind the recipients of in 2 John?",
-    "options": ["To keep the Sabbath", "To be baptized", "To love one another", "To pay tithes"],
+    "text": "What commandment, described as not new but 'from the beginning', does the author urge the recipients to follow?",
+    "options": ["To keep the Sabbath holy", "To be baptized with water", "That we love one another", "To pay tithes faithfully"],
     "correctAnswerIndex": 2,
     "book": "2 John",
     "difficulty": "Easy",
@@ -45,8 +45,17 @@
     "verseText": "And now I ask you, dear lady—not as though I were writing you a new commandment, but the one we have had from the beginning—that we love one another."
   },
   {
-    "text": "John warns about the presence of many 'deceivers' who deny what?",
-    "options": ["The existence of God", "The authority of Scripture", "That Jesus Christ has come in the flesh", "The need for good works"],
+    "text": "How does the author define love in the context of obedience?",
+    "options": ["As a feeling of affection", "That we walk according to His commandments", "As tolerance for all beliefs", "As performing miracles"],
+    "correctAnswerIndex": 1,
+    "book": "2 John",
+    "difficulty": "Medium",
+    "verseReference": "2 John 6",
+    "verseText": "And this is love, that we walk according to his commandments; this is the commandment, just as you have heard from the beginning, so that you should walk in it."
+  },
+  {
+    "text": "The author warns that many 'deceivers' have gone out into the world. What specific false teaching does he highlight?",
+    "options": ["Denying God's creation", "Rejecting the Old Testament", "Denying that Jesus Christ has come in the flesh", "Promoting salvation by works"],
     "correctAnswerIndex": 2,
     "book": "2 John",
     "difficulty": "Medium",
@@ -54,8 +63,35 @@
     "verseText": "For many deceivers have gone out into the world, those who do not confess the coming of Jesus Christ in the flesh. Such a one is the deceiver and the antichrist."
   },
   {
-    "text": "What specific instruction does John give regarding how to treat these deceivers?",
-    "options": ["Debate with them publicly", "Invite them into your house for discussion", "Do not receive them into your house or give them any greeting", "Pray for them silently"],
+    "text": "What term does the author use to describe someone who promotes this false teaching about Christ?",
+    "options": ["A misguided brother", "A seeker of truth", "The deceiver and the antichrist", "A philosopher"],
+    "correctAnswerIndex": 2,
+    "book": "2 John",
+    "difficulty": "Medium",
+    "verseReference": "2 John 7",
+    "verseText": "Such a one is the deceiver and the antichrist."
+  },
+  {
+    "text": "What warning does the author give believers regarding their spiritual progress?",
+    "options": ["To boast about their achievements", "To watch themselves, so they don't lose what they've worked for", "To compare themselves with others", "To focus only on the future"],
+    "correctAnswerIndex": 1,
+    "book": "2 John",
+    "difficulty": "Medium",
+    "verseReference": "2 John 8",
+    "verseText": "Watch yourselves, so that you may not lose what we have worked for, but may win a full reward."
+  },
+  {
+    "text": "What is the consequence for anyone who 'goes on ahead' and does not abide in the teaching of Christ?",
+    "options": ["They receive a higher reward", "They are praised for their innovation", "They do not have God", "They are given special knowledge"],
+    "correctAnswerIndex": 2,
+    "book": "2 John",
+    "difficulty": "Hard",
+    "verseReference": "2 John 9",
+    "verseText": "Everyone who goes on ahead and does not abide in the teaching of Christ, does not have God. Whoever abides in the teaching has both the Father and the Son."
+  },
+  {
+    "text": "What specific instruction does the author give regarding hospitality towards those who bring false teaching?",
+    "options": ["Engage them in lengthy debate", "Offer them food and lodging", "Do not receive them into your house or give them any greeting", "Silently tolerate their presence"],
     "correctAnswerIndex": 2,
     "book": "2 John",
     "difficulty": "Medium",
@@ -63,8 +99,8 @@
     "verseText": "If anyone comes to you and does not bring this teaching, do not receive him into your house or give him any greeting,"
   },
   {
-    "text": "Why does John warn against even greeting such deceivers?",
-    "options": ["It might make them angry", "Whoever greets them takes part in their wicked works", "It is impolite", "They might steal from you"],
+    "text": "Why does the author issue such a strong warning against even greeting those who teach falsely?",
+    "options": ["Because it might cause offense", "Because whoever greets them takes part in their wicked works", "Because it is forbidden by Roman law", "Because they might be carrying disease"],
     "correctAnswerIndex": 1,
     "book": "2 John",
     "difficulty": "Hard",
@@ -72,8 +108,8 @@
     "verseText": "for whoever greets him takes part in his wicked works."
   },
   {
-    "text": "How does John express his desire to communicate further with the recipients?",
-    "options": ["By sending another letter", "By sending Timothy", "He hopes to visit and speak face to face", "Through a vision"],
+    "text": "Instead of writing everything with paper and ink, what does the author hope to do?",
+    "options": ["Send a messenger", "Record an audio message", "Visit the recipients and speak face to face", "Communicate telepathically"],
     "correctAnswerIndex": 2,
     "book": "2 John",
     "difficulty": "Easy",
@@ -81,12 +117,30 @@
     "verseText": "Though I have much to write to you, I would rather not use paper and ink. Instead I hope to come to you and talk face to face, so that our joy may be complete."
   },
   {
-    "text": "2 John is one of the shortest books in the New Testament, focusing on the importance of holding to the truth and avoiding fellowship with whom?",
-    "options": ["Roman soldiers", "Tax collectors", "Those who deny the core truths about Christ", "Gentiles"],
-    "correctAnswerIndex": 2,
+    "text": "What is the desired outcome of the author visiting and speaking face to face?",
+    "options": ["That they might solve a dispute", "That their joy may be complete", "That they can plan a new ministry", "That he can collect an offering"],
+    "correctAnswerIndex": 1,
     "book": "2 John",
     "difficulty": "Medium",
-    "verseReference": "2 John 7, 10-11",
-    "verseText": "(The letter warns against supporting or encouraging those who teach heresy, particularly regarding the incarnation of Christ)."
+    "verseReference": "2 John 12",
+    "verseText": "...so that our joy may be complete."
+  },
+  {
+    "text": "From whom does the final greeting in the letter come?",
+    "options": ["Paul and Timothy", "The church in Jerusalem", "The children of your elect sister", "The angels in heaven"],
+    "correctAnswerIndex": 2,
+    "book": "2 John",
+    "difficulty": "Easy",
+    "verseReference": "2 John 13",
+    "verseText": "The children of your elect sister greet you."
+  },
+  {
+    "text": "This letter emphasizes the need to balance which two Christian virtues?",
+    "options": ["Faith and works", "Truth and love", "Prayer and fasting", "Giving and receiving"],
+    "correctAnswerIndex": 1,
+    "book": "2 John",
+    "difficulty": "Medium",
+    "verseReference": "General theme",
+    "verseText": "(The letter stresses walking in truth and love, but warns against extending fellowship (love) to those who deny fundamental truth)."
   }
 ]

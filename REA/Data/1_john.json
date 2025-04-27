@@ -1,6 +1,6 @@
 [
   {
-    "text": "Who is traditionally understood to be the author of 1 John?",
+    "text": "Based on the opening verses emphasizing eyewitness testimony ('seen with our eyes', 'touched with our hands'), who is traditionally understood to be the author?",
     "options": ["John the Baptist", "The Apostle John, son of Zebedee", "John Mark", "An unknown John"],
     "correctAnswerIndex": 1,
     "book": "1 John",
@@ -9,8 +9,8 @@
     "verseText": "That which was from the beginning, which we have heard, which we have seen with our eyes, which we looked upon and have touched with our hands, concerning the word of life... that which we have seen and heard we proclaim also to you..."
   },
   {
-    "text": "1 John provides tests or assurances for believers to know what?",
-    "options": ["When the world will end", "Who the Antichrist is", "That they have eternal life and fellowship with God", "How to become wealthy"],
+    "text": "What is the stated purpose for John writing this letter, mentioned near the end?",
+    "options": ["To predict future events", "To identify false apostles by name", "So that believers may know they have eternal life", "To establish church hierarchy"],
     "correctAnswerIndex": 2,
     "book": "1 John",
     "difficulty": "Easy",
@@ -18,8 +18,8 @@
     "verseText": "I write these things to you who believe in the name of the Son of God, that you may know that you have eternal life."
   },
   {
-    "text": "What does 1 John 1:9 promise if we confess our sins?",
-    "options": ["God will ignore them", "God is faithful and just to forgive us our sins and cleanse us from all unrighteousness", "We will no longer be tempted", "We must perform penance"],
+    "text": "What promise is given to believers who confess their sins?",
+    "options": ["They will never sin again", "God is faithful and just to forgive and cleanse them", "Their sins will be remembered", "They must offer a sacrifice"],
     "correctAnswerIndex": 1,
     "book": "1 John",
     "difficulty": "Easy",
@@ -27,8 +27,8 @@
     "verseText": "If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness."
   },
   {
-    "text": "According to 1 John 2, how can we know that we know God?",
-    "options": ["If we have special feelings", "If we keep His commandments", "If we speak in tongues", "If we perform miracles"],
+    "text": "According to John, what is a primary way believers can have assurance that they truly know God?",
+    "options": ["By having profound spiritual experiences", "By keeping His commandments", "By accurately interpreting prophecy", "By belonging to the right group"],
     "correctAnswerIndex": 1,
     "book": "1 John",
     "difficulty": "Medium",
@@ -36,8 +36,8 @@
     "verseText": "And by this we know that we have come to know him, if we keep his commandments."
   },
   {
-    "text": "What command does John emphasize repeatedly throughout the letter, calling it both old and new?",
-    "options": ["To rest on the Sabbath", "To love one another", "To pay tithes", "To be baptized"],
+    "text": "What central command, described as both old (from the beginning) and new, does John repeatedly emphasize?",
+    "options": ["Honoring parents", "Loving one another", "Observing festivals", "Water baptism"],
     "correctAnswerIndex": 1,
     "book": "1 John",
     "difficulty": "Easy",
@@ -45,8 +45,8 @@
     "verseText": "Beloved, I am writing you no new commandment, but an old commandment that you had from the beginning... At the same time, it is a new commandment that I am writing to you... For this is the message that you have heard from the beginning, that we should love one another... Beloved, let us love one another... And this commandment we have from him: whoever loves God must also love his brother."
   },
   {
-    "text": "What does John warn believers not to love (1 John 2)?",
-    "options": ["God", "Fellow believers", "The world or the things in the world", "Themselves"],
+    "text": "What does John explicitly warn believers not to love, stating that loving it is incompatible with loving the Father?",
+    "options": ["Their families", "Their enemies", "The world or the things in the world", "Spiritual gifts"],
     "correctAnswerIndex": 2,
     "book": "1 John",
     "difficulty": "Easy",
@@ -54,8 +54,8 @@
     "verseText": "Do not love the world or the things in the world. If anyone loves the world, the love of the Father is not in him."
   },
   {
-    "text": "How does John define sin in 1 John 3:4?",
-    "options": ["A mistake", "Lawlessness", "Weakness", "Ignorance"],
+    "text": "How does John concisely define the nature of sin?",
+    "options": ["An unfortunate mistake", "Lawlessness", "A sign of weakness", "A lack of knowledge"],
     "correctAnswerIndex": 1,
     "book": "1 John",
     "difficulty": "Medium",
@@ -63,8 +63,8 @@
     "verseText": "Everyone who makes a practice of sinning also practices lawlessness; sin is lawlessness."
   },
   {
-    "text": "What is a key test John gives to discern whether a spirit is from God (1 John 4)?",
-    "options": ["Whether it performs miracles", "Whether it speaks eloquently", "Whether it acknowledges that Jesus Christ has come in the flesh", "Whether it predicts the future"],
+    "text": "What is the key doctrinal test John provides to discern whether a spirit originates from God?",
+    "options": ["Its ability to perform miracles", "Its popularity", "Its confession that Jesus Christ has come in the flesh", "Its prediction of future events"],
     "correctAnswerIndex": 2,
     "book": "1 John",
     "difficulty": "Medium",
@@ -72,8 +72,8 @@
     "verseText": "By this you know the Spirit of God: every spirit that confesses that Jesus Christ has come in the flesh is from God, and every spirit that does not confess Jesus is not from God. This is the spirit of the antichrist..."
   },
   {
-    "text": "What famous statement about God's nature is found in 1 John 4:8 and 4:16?",
-    "options": ["God is wrath", "God is distant", "God is love", "God is unknowable"],
+    "text": "What fundamental characteristic of God is stated twice in the fourth chapter?",
+    "options": ["God is Judge", "God is Spirit", "God is love", "God is Creator"],
     "correctAnswerIndex": 2,
     "book": "1 John",
     "difficulty": "Easy",
@@ -81,12 +81,705 @@
     "verseText": "Anyone who does not love does not know God, because God is love... So we have come to know and to believe the love that God has for us. God is love, and whoever abides in love abides in God, and God abides in him."
   },
   {
-    "text": "According to 1 John 5, what overcomes the world?",
-    "options": ["Political power", "Human wisdom", "Our faith", "Strict rules"],
+    "text": "According to the final chapter, what is the victory that overcomes the world?",
+    "options": ["Political revolution", "Intellectual superiority", "Our faith", "Ascetic practices"],
     "correctAnswerIndex": 2,
     "book": "1 John",
     "difficulty": "Medium",
     "verseReference": "1 John 5:4",
     "verseText": "For everyone who has been born of God overcomes the world. And this is the victory that has overcome the world—our faith."
+  },
+  {
+    "text": "What does John declare was 'from the beginning' and was manifested to the apostles?",
+    "options": ["The Law of Moses", "The plan of salvation", "The Word of life (Jesus Christ)", "The angelic hierarchy"],
+    "correctAnswerIndex": 2,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 1:1-2",
+    "verseText": "That which was from the beginning... concerning the word of life— the life was made manifest, and we have seen it, and testify to it and proclaim to you the eternal life, which was with the Father and was made manifest to us—"
+  },
+  {
+    "text": "Why does John proclaim what he has seen and heard?",
+    "options": ["To boast about his experiences", "So that his readers may have fellowship with the apostles and with God", "To correct Peter's theology", "To gain financial support"],
+    "correctAnswerIndex": 1,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 1:3",
+    "verseText": "that which we have seen and heard we proclaim also to you, so that you too may have fellowship with us; and indeed our fellowship is with the Father and with his Son Jesus Christ."
+  },
+  {
+    "text": "What statement about God's nature forms the basis for the need for believers to walk in the light?",
+    "options": ["God is Spirit", "God is Judge", "God is light, and in him is no darkness at all", "God is unchanging"],
+    "correctAnswerIndex": 2,
+    "book": "1 John",
+    "difficulty": "Easy",
+    "verseReference": "1 John 1:5",
+    "verseText": "This is the message we have heard from him and proclaim to you, that God is light, and in him is no darkness at all."
+  },
+  {
+    "text": "If we claim to have fellowship with God while walking in darkness, what does John say we are doing?",
+    "options": ["Growing spiritually", "Lying and not practicing the truth", "Seeking deeper knowledge", "Testing God"],
+    "correctAnswerIndex": 1,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 1:6",
+    "verseText": "If we say we have fellowship with him while we walk in darkness, we lie and do not practice the truth."
+  },
+  {
+    "text": "What is the result of walking in the light, as God is in the light?",
+    "options": ["We gain worldly power", "We have fellowship with one another, and the blood of Jesus cleanses us", "We become perfect immediately", "We understand all mysteries"],
+    "correctAnswerIndex": 1,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 1:7",
+    "verseText": "But if we walk in the light, as he is in the light, we have fellowship with one another, and the blood of Jesus his Son cleanses us from all sin."
+  },
+  {
+    "text": "If someone claims they have no sin, what does John say about them?",
+    "options": ["They are spiritually mature", "They deceive themselves, and the truth is not in them", "They have achieved perfection", "They are blessed by God"],
+    "correctAnswerIndex": 1,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 1:8",
+    "verseText": "If we say we have no sin, we deceive ourselves, and the truth is not in us."
+  },
+  {
+    "text": "Claiming we have not sinned makes God what?",
+    "options": ["Pleased", "Merciful", "A liar", "Patient"],
+    "correctAnswerIndex": 2,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 1:10",
+    "verseText": "If we say we have not sinned, we make him a liar, and his word is not in us."
+  },
+  {
+    "text": "John writes these things for what purpose related to sin?",
+    "options": ["So that believers may not sin", "To excuse sin", "To encourage sinning", "To define levels of sin"],
+    "correctAnswerIndex": 0,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 2:1",
+    "verseText": "My little children, I am writing these things to you so that you may not sin."
+  },
+  {
+    "text": "If anyone does sin, who does John say believers have as an advocate with the Father?",
+    "options": ["Mary", "The Holy Spirit", "Jesus Christ the righteous", "An angel"],
+    "correctAnswerIndex": 2,
+    "book": "1 John",
+    "difficulty": "Easy",
+    "verseReference": "1 John 2:1",
+    "verseText": "But if anyone does sin, we have an advocate with the Father, Jesus Christ the righteous."
+  },
+  {
+    "text": "Jesus Christ is described as the propitiation (atoning sacrifice) for our sins, and also for whose sins?",
+    "options": ["Only the apostles' sins", "Only the sins of Israel", "The sins of the whole world", "Only the sins of the elect"],
+    "correctAnswerIndex": 2,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 2:2",
+    "verseText": "He is the propitiation for our sins, and not for ours only but also for the sins of the whole world."
+  },
+  {
+    "text": "What does John say about someone who claims to know God but disobeys His commandments?",
+    "options": ["They are still learning", "They are a liar, and the truth is not in them", "They have a different kind of faith", "They are forgiven anyway"],
+    "correctAnswerIndex": 1,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 2:4",
+    "verseText": "Whoever says “I know him” but does not keep his commandments is a liar, and the truth is not in him,"
+  },
+  {
+    "text": "What is truly perfected in the one who keeps God's word?",
+    "options": ["Their knowledge", "Their status", "The love of God", "Their ability to teach"],
+    "correctAnswerIndex": 2,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 2:5",
+    "verseText": "but whoever keeps his word, in him truly the love of God is perfected."
+  },
+  {
+    "text": "How should someone who claims to abide in Christ live their life?",
+    "options": ["However they please", "In isolation", "To walk in the same way in which Jesus walked", "Focused only on spiritual matters"],
+    "correctAnswerIndex": 2,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 2:6",
+    "verseText": "whoever says he abides in him ought to walk in the same way in which he walked."
+  },
+  {
+    "text": "What does John say about someone who claims to be in the light but hates his brother?",
+    "options": ["They are forgiven", "They are still in darkness", "They are progressing", "They misunderstand the light"],
+    "correctAnswerIndex": 1,
+    "book": "1 John",
+    "difficulty": "Easy",
+    "verseReference": "1 John 2:9",
+    "verseText": "Whoever says he is in the light and hates his brother is still in darkness."
+  },
+  {
+    "text": "What is true of the person who loves his brother?",
+    "options": ["They are perfect", "They abide in the light, and there is no cause for stumbling in them", "They will never face trials", "They are guaranteed wealth"],
+    "correctAnswerIndex": 1,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 2:10",
+    "verseText": "Whoever loves his brother abides in the light, and in him there is no cause for stumbling."
+  },
+  {
+    "text": "John addresses different groups: 'little children', 'fathers', and 'young men'. Why does he write to the 'little children'?",
+    "options": ["Because they are innocent", "Because their sins are forgiven for His name's sake", "Because they need basic instruction", "Because they are easily deceived"],
+    "correctAnswerIndex": 1,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 2:12",
+    "verseText": "I am writing to you, little children, because your sins are forgiven for his name's sake."
+  },
+  {
+    "text": "Why does John write to the 'fathers'?",
+    "options": ["Because they are leaders", "Because they have known Him who is from the beginning", "Because they are old", "Because they provide for families"],
+    "correctAnswerIndex": 1,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 2:13-14",
+    "verseText": "I am writing to you, fathers, because you know him who is from the beginning..."
+  },
+  {
+    "text": "Why does John write to the 'young men'?",
+    "options": ["Because they are impulsive", "Because they have overcome the evil one", "Because they need jobs", "Because they are the future"],
+    "correctAnswerIndex": 1,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 2:13-14",
+    "verseText": "I am writing to you, young men, because you have overcome the evil one... because you are strong, and the word of God abides in you, and you have overcome the evil one."
+  },
+  {
+    "text": "What three aspects constitute 'all that is in the world' which believers should not love?",
+    "options": ["Nature, animals, and plants", "Family, friends, and neighbors", "The desires of the flesh, the desires of the eyes, and pride of life", "Work, rest, and worship"],
+    "correctAnswerIndex": 2,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 2:16",
+    "verseText": "For all that is in the world—the desires of the flesh and the desires of the eyes and pride of life—is not from the Father but is from the world."
+  },
+  {
+    "text": "What is the ultimate fate of the world and its desires?",
+    "options": ["It will be renewed", "It is passing away", "It will conquer the church", "It will merge with God's kingdom"],
+    "correctAnswerIndex": 1,
+    "book": "1 John",
+    "difficulty": "Easy",
+    "verseReference": "1 John 2:17",
+    "verseText": "And the world is passing away along with its desires..."
+  },
+  {
+    "text": "Who endures forever, in contrast to the passing world?",
+    "options": ["Those who are wealthy", "Those who hold positions of power", "Whoever does the will of God", "Those who are famous"],
+    "correctAnswerIndex": 2,
+    "book": "1 John",
+    "difficulty": "Easy",
+    "verseReference": "1 John 2:17",
+    "verseText": "...but whoever does the will of God abides forever."
+  },
+  {
+    "text": "John states it is the 'last hour'. What sign indicates this?",
+    "options": ["Natural disasters", "The rise of Rome", "The coming of many antichrists", "Widespread famine"],
+    "correctAnswerIndex": 2,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 2:18",
+    "verseText": "Children, it is the last hour, and as you have heard that antichrist is coming, so now many antichrists have come. Therefore we know that it is the last hour."
+  },
+  {
+    "text": "Where did the 'antichrists' John mentions come from?",
+    "options": ["Pagan temples", "Rome", "They went out from us (the Christian community)", "The Essene community"],
+    "correctAnswerIndex": 2,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 2:19",
+    "verseText": "They went out from us, but they were not of us; for if they had been of us, they would have continued with us. But they went out, that it might become plain that they all are not of us."
+  },
+  {
+    "text": "What have believers received from the Holy One that helps them discern truth?",
+    "options": ["A new law", "Political power", "An anointing (the Holy Spirit)", "Secret knowledge"],
+    "correctAnswerIndex": 2,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 2:20, 27",
+    "verseText": "But you have been anointed by the Holy One, and you all have knowledge... But the anointing that you received from him abides in you, and you have no need that anyone should teach you."
+  },
+  {
+    "text": "Who does John identify as the liar?",
+    "options": ["Anyone who sins", "The one who denies that Jesus is the Christ", "Someone who doubts", "A person who disagrees with the apostles"],
+    "correctAnswerIndex": 1,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 2:22",
+    "verseText": "Who is the liar but he who denies that Jesus is the Christ? This is the antichrist, he who denies the Father and the Son."
+  },
+  {
+    "text": "What is the relationship between denying the Son and having the Father?",
+    "options": ["One can deny the Son and still have the Father", "No one who denies the Son has the Father", "Acknowledging the Father requires denying the Son", "It is irrelevant"],
+    "correctAnswerIndex": 1,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 2:23",
+    "verseText": "No one who denies the Son has the Father. Whoever confesses the Son has the Father also."
+  },
+  {
+    "text": "What should believers let abide in them?",
+    "options": ["Doubt and fear", "Worldly wisdom", "What they heard from the beginning", "Their own understanding"],
+    "correctAnswerIndex": 2,
+    "book": "1 John",
+    "difficulty": "Easy",
+    "verseReference": "1 John 2:24",
+    "verseText": "Let what you heard from the beginning abide in you. If what you heard from the beginning abides in you, then you too will abide in the Son and in the Father."
+  },
+  {
+    "text": "What has Christ promised to those in whom the original message abides?",
+    "options": ["Health and wealth", "Freedom from persecution", "Eternal life", "Political influence"],
+    "correctAnswerIndex": 2,
+    "book": "1 John",
+    "difficulty": "Easy",
+    "verseReference": "1 John 2:25",
+    "verseText": "And this is the promise that he made to us—eternal life."
+  },
+  {
+    "text": "If believers abide in Christ, what confidence can they have when He appears?",
+    "options": ["They will receive rewards", "They may have confidence and not shrink from Him in shame", "They will judge the angels", "They will rule the nations"],
+    "correctAnswerIndex": 1,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 2:28",
+    "verseText": "And now, little children, abide in him, so that when he appears we may have confidence and not shrink from him in shame at his coming."
+  },
+  {
+    "text": "How can one recognize those who are 'born of Him' (God)?",
+    "options": ["By their eloquent speech", "By their wealth", "Everyone who practices righteousness is born of Him", "By their lineage"],
+    "correctAnswerIndex": 2,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 2:29",
+    "verseText": "If you know that he is righteous, you may be sure that everyone who practices righteousness has been born of him."
+  },
+  {
+    "text": "What status does the Father's love bestow upon believers?",
+    "options": ["Servants of God", "Children of God", "Friends of God", "Students of God"],
+    "correctAnswerIndex": 1,
+    "book": "1 John",
+    "difficulty": "Easy",
+    "verseReference": "1 John 3:1",
+    "verseText": "See what kind of love the Father has given to us, that we should be called children of God; and so we are."
+  },
+  {
+    "text": "Why does the world not know believers?",
+    "options": ["Because believers are secretive", "Because the world did not know Him (Christ)", "Because believers are few in number", "Because believers speak a different language"],
+    "correctAnswerIndex": 1,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 3:1",
+    "verseText": "The reason why the world does not know us is that it did not know him."
+  },
+  {
+    "text": "Although believers are now children of God, what does John say about their future state?",
+    "options": ["It has been fully revealed", "What we will be has not yet appeared", "We will become angels", "We will return to dust"],
+    "correctAnswerIndex": 1,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 3:2",
+    "verseText": "Beloved, we are God's children now, and what we will be has not yet appeared..."
+  },
+  {
+    "text": "What hope do believers have regarding Christ's appearance?",
+    "options": ["We will hide from Him", "We shall be like Him, because we shall see Him as He is", "We will question Him", "We will offer sacrifices to Him"],
+    "correctAnswerIndex": 1,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 3:2",
+    "verseText": "...but we know that when he appears we shall be like him, because we shall see him as he is."
+  },
+  {
+    "text": "What effect does the hope of seeing Christ as He is have on a believer?",
+    "options": ["It makes them complacent", "Everyone who thus hopes in Him purifies himself as He is pure", "It leads to despair", "It causes them to judge others"],
+    "correctAnswerIndex": 1,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 3:3",
+    "verseText": "And everyone who thus hopes in him purifies himself as he is pure."
+  },
+  {
+    "text": "Why did the Son of God appear?",
+    "options": ["To condemn the world", "To establish an earthly kingdom", "To destroy the works of the devil", "To give a new law"],
+    "correctAnswerIndex": 2,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 3:8",
+    "verseText": "Whoever makes a practice of sinning is of the devil, for the devil has been sinning from the beginning. The reason the Son of God appeared was to destroy the works of the devil."
+  },
+  {
+    "text": "What is characteristic of someone born of God regarding sin?",
+    "options": ["They boast about their sin", "They cannot keep on sinning, because God's seed abides in them", "They are unaware of sin", "They redefine sin"],
+    "correctAnswerIndex": 1,
+    "book": "1 John",
+    "difficulty": "Hard",
+    "verseReference": "1 John 3:9",
+    "verseText": "No one born of God makes a practice of sinning, for God's seed abides in him; and he cannot keep on sinning, because he has been born of God."
+  },
+  {
+    "text": "What distinguishes the children of God from the children of the devil?",
+    "options": ["Their nationality", "Their wealth", "Practicing righteousness and loving one's brother", "Their level of education"],
+    "correctAnswerIndex": 2,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 3:10",
+    "verseText": "By this it is evident who are the children of God, and who are the children of the devil: whoever does not practice righteousness is not of God, nor is the one who does not love his brother."
+  },
+  {
+    "text": "John uses an Old Testament example of hatred leading to murder. Who is this example?",
+    "options": ["Abel hating Cain", "Cain hating Abel", "Jacob hating Esau", "Saul hating David"],
+    "correctAnswerIndex": 1,
+    "book": "1 John",
+    "difficulty": "Easy",
+    "verseReference": "1 John 3:12",
+    "verseText": "We should not be like Cain, who was of the evil one and murdered his brother. And why did he murder him? Because his own deeds were evil and his brother's righteous."
+  },
+  {
+    "text": "How should believers react if the world hates them?",
+    "options": ["Retaliate with hatred", "Compromise to gain acceptance", "Do not be surprised", "Become fearful"],
+    "correctAnswerIndex": 2,
+    "book": "1 John",
+    "difficulty": "Easy",
+    "verseReference": "1 John 3:13",
+    "verseText": "Do not be surprised, brothers, that the world hates you."
+  },
+  {
+    "text": "How do believers know they have passed out of death into life?",
+    "options": ["Because they feel happy", "Because they love the brothers", "Because they speak in tongues", "Because they have visions"],
+    "correctAnswerIndex": 1,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 3:14",
+    "verseText": "We know that we have passed out of death into life, because we love the brothers. Whoever does not love abides in death."
+  },
+  {
+    "text": "What does John equate hatred for a brother with?",
+    "options": ["A minor disagreement", "Murder", "Righteous anger", "Immaturity"],
+    "correctAnswerIndex": 1,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 3:15",
+    "verseText": "Everyone who hates his brother is a murderer, and you know that no murderer has eternal life abiding in him."
+  },
+  {
+    "text": "How do we know what love is, according to John?",
+    "options": ["By reading poetry", "By observing nature", "Because Jesus laid down His life for us", "By philosophical reasoning"],
+    "correctAnswerIndex": 2,
+    "book": "1 John",
+    "difficulty": "Easy",
+    "verseReference": "1 John 3:16",
+    "verseText": "By this we know love, that he laid down his life for us..."
+  },
+  {
+    "text": "What practical action demonstrates the love of God abiding in a believer?",
+    "options": ["Saying 'I love you'", "Attending church regularly", "Helping a brother in need when one has the means", "Praying long prayers"],
+    "correctAnswerIndex": 2,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 3:17",
+    "verseText": "But if anyone has the world's goods and sees his brother in need, yet closes his heart against him, how does God's love abide in him?"
+  },
+  {
+    "text": "How should believers love?",
+    "options": ["Only with words", "Only in theory", "Not in word or talk but in deed and in truth", "Secretly"],
+    "correctAnswerIndex": 2,
+    "book": "1 John",
+    "difficulty": "Easy",
+    "verseReference": "1 John 3:18",
+    "verseText": "Little children, let us not love in word or talk but in deed and in truth."
+  },
+  {
+    "text": "What should believers do if their heart condemns them?",
+    "options": ["Give up hope", "Ignore their feelings", "Reassure their hearts before God, because God is greater than our heart", "Seek condemnation from others"],
+    "correctAnswerIndex": 2,
+    "book": "1 John",
+    "difficulty": "Hard",
+    "verseReference": "1 John 3:19-20",
+    "verseText": "By this we shall know that we are of the truth and reassure our heart before him; for whenever our heart condemns us, God is greater than our heart, and he knows everything."
+  },
+  {
+    "text": "What is the result of having a heart that does not condemn us?",
+    "options": ["We become proud", "We have confidence before God", "We no longer need God", "We stop praying"],
+    "correctAnswerIndex": 1,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 3:21",
+    "verseText": "Beloved, if our heart does not condemn us, we have confidence before God;"
+  },
+  {
+    "text": "Why do believers receive what they ask from God?",
+    "options": ["Because they perform rituals", "Because they keep His commandments and do what pleases Him", "Because God is obligated", "Because they ask loudly"],
+    "correctAnswerIndex": 1,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 3:22",
+    "verseText": "and whatever we ask we receive from him, because we keep his commandments and do what pleases him."
+  },
+  {
+    "text": "What is God's commandment summarized by John?",
+    "options": ["To follow the Law of Moses", "To believe in the name of His Son Jesus Christ and love one another", "To build temples", "To achieve political power"],
+    "correctAnswerIndex": 1,
+    "book": "1 John",
+    "difficulty": "Easy",
+    "verseReference": "1 John 3:23",
+    "verseText": "And this is his commandment, that we believe in the name of his Son Jesus Christ and love one another, just as he has commanded us."
+  },
+  {
+    "text": "How do we know that God abides in us?",
+    "options": ["By our feelings", "By the Spirit whom He has given us", "By our good works alone", "By signs and wonders"],
+    "correctAnswerIndex": 1,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 3:24",
+    "verseText": "Whoever keeps his commandments abides in God, and God in him. And by this we know that he abides in us, by the Spirit whom he has given us."
+  },
+  {
+    "text": "What warning does John give regarding spirits?",
+    "options": ["Believe every spirit", "Do not believe every spirit, but test the spirits", "Ignore all spirits", "Worship spirits"],
+    "correctAnswerIndex": 1,
+    "book": "1 John",
+    "difficulty": "Easy",
+    "verseReference": "1 John 4:1",
+    "verseText": "Beloved, do not believe every spirit, but test the spirits to see whether they are from God, for many false prophets have gone out into the world."
+  },
+  {
+    "text": "What is the defining characteristic of the 'spirit of the antichrist'?",
+    "options": ["It promotes love", "It performs miracles", "It does not confess Jesus (has come in the flesh)", "It speaks eloquently"],
+    "correctAnswerIndex": 2,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 4:3",
+    "verseText": "and every spirit that does not confess Jesus is not from God. This is the spirit of the antichrist, which you heard was coming and now is in the world already."
+  },
+  {
+    "text": "Why have believers overcome the false spirits in the world?",
+    "options": ["Because they are smarter", "Because He who is in you is greater than he who is in the world", "Because they have more resources", "Because they avoid conflict"],
+    "correctAnswerIndex": 1,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 4:4",
+    "verseText": "Little children, you are from God and have overcome them, for he who is in you is greater than he who is in the world."
+  },
+  {
+    "text": "Why does the world listen to false prophets?",
+    "options": ["Because they speak truth", "Because they are from the world and speak from the world's perspective", "Because God forces them to", "Because they offer money"],
+    "correctAnswerIndex": 1,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 4:5",
+    "verseText": "They are from the world; therefore they speak from the world, and the world listens to them."
+  },
+  {
+    "text": "How can one distinguish the 'spirit of truth' from the 'spirit of error' based on who listens?",
+    "options": ["Whoever knows God listens to the apostles; whoever is not from God does not listen", "Everyone listens to the spirit of truth", "Only the educated listen to the spirit of truth", "The spirit of error is more popular"],
+    "correctAnswerIndex": 0,
+    "book": "1 John",
+    "difficulty": "Hard",
+    "verseReference": "1 John 4:6",
+    "verseText": "We are from God. Whoever knows God listens to us; whoever is not from God does not listen to us. By this we know the Spirit of truth and the spirit of error."
+  },
+  {
+    "text": "Where does love originate?",
+    "options": ["From human effort", "From nature", "Love is from God", "From philosophical ideals"],
+    "correctAnswerIndex": 2,
+    "book": "1 John",
+    "difficulty": "Easy",
+    "verseReference": "1 John 4:7",
+    "verseText": "Beloved, let us love one another, for love is from God, and whoever loves has been born of God and knows God."
+  },
+  {
+    "text": "How did God demonstrate His love among us?",
+    "options": ["By creating the world", "By sending His only Son into the world so that we might live through Him", "By giving the Law", "By performing miracles through prophets"],
+    "correctAnswerIndex": 1,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 4:9",
+    "verseText": "In this the love of God was made manifest among us, that God sent his only Son into the world, so that we might live through him."
+  },
+  {
+    "text": "What is the essence of God's love, according to John's explanation?",
+    "options": ["That we loved God", "That God loved us and sent His Son as the propitiation for our sins", "That we love ourselves", "That God loves angels"],
+    "correctAnswerIndex": 1,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 4:10",
+    "verseText": "In this is love, not that we have loved God but that he loved us and sent his Son to be the propitiation for our sins."
+  },
+  {
+    "text": "Since God loved us so much, what is the resulting obligation for believers?",
+    "options": ["To boast about it", "We also ought to love one another", "To build monuments", "To feel superior"],
+    "correctAnswerIndex": 1,
+    "book": "1 John",
+    "difficulty": "Easy",
+    "verseReference": "1 John 4:11",
+    "verseText": "Beloved, if God so loved us, we also ought to love one another."
+  },
+  {
+    "text": "Although no one has ever seen God, how is His love perfected in believers?",
+    "options": ["Through visions", "If we love one another, God abides in us and His love is perfected in us", "Through intellectual understanding", "By following rituals"],
+    "correctAnswerIndex": 1,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 4:12",
+    "verseText": "No one has ever seen God; if we love one another, God abides in us and his love is perfected in us."
+  },
+  {
+    "text": "What drives out fear, according to John?",
+    "options": ["Knowledge", "Power", "Perfect love", "Wealth"],
+    "correctAnswerIndex": 2,
+    "book": "1 John",
+    "difficulty": "Easy",
+    "verseReference": "1 John 4:18",
+    "verseText": "There is no fear in love, but perfect love casts out fear. For fear has to do with punishment, and whoever fears has not been perfected in love."
+  },
+  {
+    "text": "Why do believers love?",
+    "options": ["Because it is natural", "Because He first loved us", "Because we are commanded to by law", "Because it benefits us"],
+    "correctAnswerIndex": 1,
+    "book": "1 John",
+    "difficulty": "Easy",
+    "verseReference": "1 John 4:19",
+    "verseText": "We love because he first loved us."
+  },
+  {
+    "text": "What does John say about someone who claims to love God but hates their brother?",
+    "options": ["They are confused", "They are a liar", "They are still growing", "They have partial love"],
+    "correctAnswerIndex": 1,
+    "book": "1 John",
+    "difficulty": "Easy",
+    "verseReference": "1 John 4:20",
+    "verseText": "If anyone says, “I love God,” and hates his brother, he is a liar; for he who does not love his brother whom he has seen cannot love God whom he has not seen."
+  },
+  {
+    "text": "What is the commandment received from God regarding loving Him and loving others?",
+    "options": ["Love God only", "Love your brother only", "Whoever loves God must also love his brother", "Love is optional"],
+    "correctAnswerIndex": 2,
+    "book": "1 John",
+    "difficulty": "Easy",
+    "verseReference": "1 John 4:21",
+    "verseText": "And this commandment we have from him: whoever loves God must also love his brother."
+  },
+  {
+    "text": "Who is born of God, according to the beginning of chapter 5?",
+    "options": ["Everyone who does good deeds", "Everyone who believes that Jesus is the Christ", "Everyone who attends church", "Everyone who is baptized"],
+    "correctAnswerIndex": 1,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 5:1",
+    "verseText": "Everyone who believes that Jesus is the Christ has been born of God..."
+  },
+  {
+    "text": "How do we know that we love the children of God?",
+    "options": ["By our feelings", "When we love God and obey His commandments", "By giving them gifts", "By agreeing with everything they say"],
+    "correctAnswerIndex": 1,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 5:2",
+    "verseText": "By this we know that we love the children of God, when we love God and obey his commandments."
+  },
+  {
+    "text": "What is the nature of God's commandments?",
+    "options": ["They are burdensome", "They are suggestions", "His commandments are not burdensome", "They are impossible to keep"],
+    "correctAnswerIndex": 2,
+    "book": "1 John",
+    "difficulty": "Easy",
+    "verseReference": "1 John 5:3",
+    "verseText": "For this is the love of God, that we keep his commandments. And his commandments are not burdensome."
+  },
+  {
+    "text": "Who is it that overcomes the world?",
+    "options": ["The strongest person", "The smartest person", "The one who believes that Jesus is the Son of God", "The wealthiest person"],
+    "correctAnswerIndex": 2,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 5:5",
+    "verseText": "Who is it that overcomes the world except the one who believes that Jesus is the Son of God?"
+  },
+  {
+    "text": "What three things bear witness concerning Jesus?",
+    "options": ["The Law, the Prophets, and the Writings", "Peter, James, and John", "The Spirit, the water, and the blood", "Angels, miracles, and prophecies"],
+    "correctAnswerIndex": 2,
+    "book": "1 John",
+    "difficulty": "Hard",
+    "verseReference": "1 John 5:6-8",
+    "verseText": "This is he who came by water and blood—Jesus Christ; not by the water only but by the water and the blood. And the Spirit is the one who testifies, because the Spirit is the truth. For there are three that testify: the Spirit and the water and the blood; and these three agree."
+  },
+  {
+    "text": "What is the testimony God has borne concerning His Son?",
+    "options": ["That He was a good teacher", "That God has given us eternal life, and this life is in His Son", "That He performed miracles", "That He fulfilled prophecy"],
+    "correctAnswerIndex": 1,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 5:11",
+    "verseText": "And this is the testimony, that God gave us eternal life, and this life is in his Son."
+  },
+  {
+    "text": "What is the relationship between having the Son and having life?",
+    "options": ["Having the Son guarantees wealth", "Whoever has the Son has life; whoever does not have the Son of God does not have life", "Having life leads to having the Son", "They are unrelated"],
+    "correctAnswerIndex": 1,
+    "book": "1 John",
+    "difficulty": "Easy",
+    "verseReference": "1 John 5:12",
+    "verseText": "Whoever has the Son has life; whoever does not have the Son of God does not have life."
+  },
+  {
+    "text": "What confidence do believers have in prayer?",
+    "options": ["That God hears every word", "That if we ask anything according to His will, He hears us", "That God will always give us exactly what we ask for", "That prayer changes God's mind"],
+    "correctAnswerIndex": 1,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 5:14",
+    "verseText": "And this is the confidence that we have toward him, that if we ask anything according to his will he hears us."
+  },
+  {
+    "text": "John mentions a 'sin that leads to death'. What instruction does he give regarding praying for someone committing this sin?",
+    "options": ["Pray fervently for them", "He does not say that one should pray for that", "Pray only once", "Pray with fasting"],
+    "correctAnswerIndex": 1,
+    "book": "1 John",
+    "difficulty": "Hard",
+    "verseReference": "1 John 5:16",
+    "verseText": "If anyone sees his brother committing a sin not leading to death, he shall ask, and God will give him life—to those who commit sins that do not lead to death. There is sin that leads to death; I do not say that one should pray for that."
+  },
+  {
+    "text": "What comforting knowledge does John state about those born of God?",
+    "options": ["They will never suffer", "The evil one does not touch him", "They understand all things", "They become wealthy"],
+    "correctAnswerIndex": 1,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 5:18",
+    "verseText": "We know that everyone who has been born of God does not keep on sinning, but he who was born of God protects him, and the evil one does not touch him."
+  },
+  {
+    "text": "What is the state of the whole world, according to John?",
+    "options": ["It is improving", "It lies in the power of the evil one", "It is seeking God", "It is neutral"],
+    "correctAnswerIndex": 1,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 5:19",
+    "verseText": "We know that we are from God, and the whole world lies in the power of the evil one."
+  },
+  {
+    "text": "What has the Son of God given believers?",
+    "options": ["Worldly power", "Perfect health", "Understanding, so that we may know Him who is true", "A book of rules"],
+    "correctAnswerIndex": 2,
+    "book": "1 John",
+    "difficulty": "Medium",
+    "verseReference": "1 John 5:20",
+    "verseText": "And we know that the Son of God has come and has given us understanding, so that we may know him who is true..."
+  },
+  {
+    "text": "What is the final command John gives in the letter?",
+    "options": ["Love one another", "Keep yourselves from idols", "Pray without ceasing", "Go into all the world"],
+    "correctAnswerIndex": 1,
+    "book": "1 John",
+    "difficulty": "Easy",
+    "verseReference": "1 John 5:21",
+    "verseText": "Little children, keep yourselves from idols."
   }
 ]

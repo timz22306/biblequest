@@ -88,5 +88,455 @@
     "difficulty": "Medium",
     "verseReference": "2 Corinthians 12:7-9",
     "verseText": "So to keep me from becoming conceited because of the surpassing greatness of the revelations, a thorn was given me in the flesh, a messenger of Satan to harass me, to keep me from becoming conceited. Three times I pleaded with the Lord about this, that it should leave me. But he said to me, “My grace is sufficient for you, for my power is made perfect in weakness.”"
+  },
+  {
+    "text": "Paul mentions a previous 'painful visit' and a 'severe letter' written out of anguish. What emotion motivated him to write that letter?",
+    "options": ["Anger", "Indifference", "Great affliction and anguish, with many tears, to show his love", "A desire for control"],
+    "correctAnswerIndex": 2,
+    "book": "2 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "2 Corinthians 2:1-4",
+    "verseText": "For I made up my mind not to make another painful visit to you... For I wrote to you out of much affliction and anguish of heart and with many tears, not to cause you pain but to let you know the abundant love that I have for you."
+  },
+  {
+    "text": "Regarding the man who caused pain (likely the offender from 1 Corinthians 5), what does Paul now urge the Corinthians to do?",
+    "options": ["Punish him further", "Forgive, comfort, and reaffirm their love for him", "Ignore him completely", "Send him away permanently"],
+    "correctAnswerIndex": 1,
+    "book": "2 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "2 Corinthians 2:6-8",
+    "verseText": "For such a one, this punishment by the majority is enough, so you should rather turn to forgive and comfort him, or he may be overwhelmed by excessive sorrow. So I beg you to reaffirm your love for him."
+  },
+  {
+    "text": "Paul describes his ministry and that of his companions as spreading what aroma in every place?",
+    "options": ["The aroma of sacrifice", "The aroma of incense", "The aroma of Christ", "The aroma of knowledge"],
+    "correctAnswerIndex": 2,
+    "book": "2 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "2 Corinthians 2:14-15",
+    "verseText": "But thanks be to God, who in Christ always leads us in triumphal procession, and through us spreads the fragrance of the knowledge of him everywhere. For we are the aroma of Christ to God among those who are being saved and among those who are perishing,"
+  },
+  {
+    "text": "In contrasting the Old and New Covenants, Paul mentions a veil over Moses' face. What does he say happens when one turns to the Lord?",
+    "options": ["The veil becomes thicker", "The veil is removed", "The Law becomes clearer", "They receive a new veil"],
+    "correctAnswerIndex": 1,
+    "book": "2 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "2 Corinthians 3:16",
+    "verseText": "But when one turns to the Lord, the veil is removed."
+  },
+  {
+    "text": "Paul states that the god of this world has done what to the minds of unbelievers?",
+    "options": ["Enlightened them", "Made them wiser", "Blinded them to keep them from seeing the light of the gospel", "Given them peace"],
+    "correctAnswerIndex": 2,
+    "book": "2 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "2 Corinthians 4:4",
+    "verseText": "In their case the god of this world has blinded the minds of the unbelievers, to keep them from seeing the light of the gospel of the glory of Christ, who is the image of God."
+  },
+  {
+    "text": "Despite facing afflictions, perplexity, and persecution, what does Paul say is NOT happening to him and his companions?",
+    "options": ["They are not growing weary", "They are not crushed, driven to despair, or forsaken", "They are not feeling pain", "They are not questioning God"],
+    "correctAnswerIndex": 1,
+    "book": "2 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "2 Corinthians 4:8-9",
+    "verseText": "We are afflicted in every way, but not crushed; perplexed, but not driven to despair; persecuted, but not forsaken; struck down, but not destroyed;"
+  },
+  {
+    "text": "Paul looks forward to a future dwelling, contrasting our earthly 'tent' with what?",
+    "options": ["A temporary shelter", "A building from God, an eternal house in heaven", "A renovated tent", "A spiritual body only"],
+    "correctAnswerIndex": 1,
+    "book": "2 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "2 Corinthians 5:1",
+    "verseText": "For we know that if the tent that is our earthly home is destroyed, we have a building from God, a house not made with hands, eternal in the heavens."
+  },
+  {
+    "text": "What motivates Paul's ministry, knowing that all must appear before the judgment seat of Christ?",
+    "options": ["The desire for fame", "The fear of the Lord", "The promise of reward only", "Pressure from others"],
+    "correctAnswerIndex": 1,
+    "book": "2 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "2 Corinthians 5:10-11",
+    "verseText": "For we must all appear before the judgment seat of Christ, so that each one may receive what is due for what he has done in the body, whether good or evil. Therefore, knowing the fear of the Lord, we persuade others."
+  },
+  {
+    "text": "What transformation does Paul say occurs when someone is 'in Christ'?",
+    "options": ["They become physically stronger", "They become a new creation", "They gain worldly wisdom", "They are freed from all suffering"],
+    "correctAnswerIndex": 1,
+    "book": "2 Corinthians",
+    "difficulty": "Easy",
+    "verseReference": "2 Corinthians 5:17",
+    "verseText": "Therefore, if anyone is in Christ, he is a new creation. The old has passed away; behold, the new has come."
+  },
+  {
+    "text": "As ambassadors for Christ, what appeal does Paul make on Christ's behalf?",
+    "options": ["'Follow the Law'", "'Be reconciled to God'", "'Join our group'", "'Perform miracles'"],
+    "correctAnswerIndex": 1,
+    "book": "2 Corinthians",
+    "difficulty": "Easy",
+    "verseReference": "2 Corinthians 5:20",
+    "verseText": "Therefore, we are ambassadors for Christ, God making his appeal through us. We implore you on behalf of Christ, be reconciled to God."
+  },
+  {
+    "text": "Paul describes his apostolic ministry as being approved through endurance in hardships, beatings, imprisonments, and tumults, often appearing as sorrowful, poor, and having nothing, yet possessing what?",
+    "options": ["Great authority", "Secret knowledge", "Always rejoicing, making many rich, and possessing everything", "Many followers"],
+    "correctAnswerIndex": 2,
+    "book": "2 Corinthians",
+    "difficulty": "Hard",
+    "verseReference": "2 Corinthians 6:4-10",
+    "verseText": "...as sorrowful, yet always rejoicing; as poor, yet making many rich; as having nothing, yet possessing everything."
+  },
+  {
+    "text": "After urging separation from unbelievers, what does Paul call the Corinthians to do regarding holiness?",
+    "options": ["Achieve perfection immediately", "Cleanse themselves from defilement and perfect holiness in the fear of God", "Assume they are already holy", "Focus only on outward actions"],
+    "correctAnswerIndex": 1,
+    "book": "2 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "2 Corinthians 7:1",
+    "verseText": "Since we have these promises, beloved, let us cleanse ourselves from every defilement of body and spirit, bringing holiness to completion in the fear of God."
+  },
+  {
+    "text": "Paul rejoiced greatly upon Titus's return because Titus reported what about the Corinthians?",
+    "options": ["Their continued rebellion", "Their longing, mourning, and zeal for Paul", "Their wealth and prosperity", "Their successful evangelism"],
+    "correctAnswerIndex": 1,
+    "book": "2 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "2 Corinthians 7:7, 11",
+    "verseText": "and not only by his coming but also by the comfort with which he was comforted by you, as he told us of your longing, your mourning, your zeal for me, so that I rejoiced still more... For see what earnestness this godly grief has produced in you..."
+  },
+  {
+    "text": "What kind of grief does Paul commend, contrasting it with worldly grief?",
+    "options": ["Superficial grief", "Godly grief that produces repentance leading to salvation", "Grief over material loss", "Grief that leads to despair"],
+    "correctAnswerIndex": 1,
+    "book": "2 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "2 Corinthians 7:10",
+    "verseText": "For godly grief produces a repentance that leads to salvation without regret, whereas worldly grief produces death."
+  },
+  {
+    "text": "Paul uses the example of which churches to motivate the Corinthians' giving, highlighting their generosity despite extreme poverty?",
+    "options": ["The churches of Jerusalem", "The churches of Macedonia", "The churches of Galatia", "The church in Rome"],
+    "correctAnswerIndex": 1,
+    "book": "2 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "2 Corinthians 8:1-2",
+    "verseText": "We want you to know, brothers, about the grace of God that has been given among the churches of Macedonia, for in a severe test of affliction, their abundance of joy and their extreme poverty have overflowed in a wealth of generosity on their part."
+  },
+  {
+    "text": "What ultimate example of giving does Paul point to in 2 Corinthians 8?",
+    "options": ["Abraham's tithe", "The widow's mite", "The grace of the Lord Jesus Christ, who became poor for our sake", "The Macedonians' generosity"],
+    "correctAnswerIndex": 2,
+    "book": "2 Corinthians",
+    "difficulty": "Easy",
+    "verseReference": "2 Corinthians 8:9",
+    "verseText": "For you know the grace of our Lord Jesus Christ, that though he was rich, yet for your sake he became poor, so that you by his poverty might become rich."
+  },
+  {
+    "text": "What principle does Paul state regarding the attitude behind giving?",
+    "options": ["Give only what is required", "Give only if you expect something in return", "Give cheerfully, not reluctantly or under compulsion", "Give only to those who can repay you"],
+    "correctAnswerIndex": 2,
+    "book": "2 Corinthians",
+    "difficulty": "Easy",
+    "verseReference": "2 Corinthians 9:7",
+    "verseText": "Each one must give as he has decided in his heart, not reluctantly or under compulsion, for God loves a cheerful giver."
+  },
+  {
+    "text": "Paul states that generous giving will result in thanksgiving to whom?",
+    "options": ["To Paul", "To the recipients", "To God", "To the church leaders"],
+    "correctAnswerIndex": 2,
+    "book": "2 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "2 Corinthians 9:11-12",
+    "verseText": "You will be enriched in every way to be generous in every way, which through us will produce thanksgiving to God. For the ministry of this service is not only supplying the needs of the saints but is also overflowing in many thanksgivings to God."
+  },
+  {
+    "text": "Though Paul lives in the flesh, what does he say about the weapons of his warfare?",
+    "options": ["They are weak and ineffective", "They are carnal (worldly)", "They have divine power to destroy strongholds", "They are primarily rhetorical skill"],
+    "correctAnswerIndex": 2,
+    "book": "2 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "2 Corinthians 10:3-4",
+    "verseText": "For though we walk in the flesh, we are not waging war according to the flesh. For the weapons of our warfare are not of the flesh but have divine power to destroy strongholds."
+  },
+  {
+    "text": "What kind of 'strongholds' does Paul mention his spiritual weapons are designed to destroy?",
+    "options": ["Physical fortresses", "Roman legions", "Arguments and lofty opinions raised against the knowledge of God", "Financial institutions"],
+    "correctAnswerIndex": 2,
+    "book": "2 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "2 Corinthians 10:4-5",
+    "verseText": "For the weapons of our warfare are not of the flesh but have divine power to destroy strongholds. We destroy arguments and every lofty opinion raised against the knowledge of God, and take every thought captive to obey Christ,"
+  },
+  {
+    "text": "Paul expresses concern that the Corinthians might be led astray from a sincere and pure devotion to Christ, just as who was deceived by the serpent?",
+    "options": ["Adam", "Eve", "Abraham", "Moses"],
+    "correctAnswerIndex": 1,
+    "book": "2 Corinthians",
+    "difficulty": "Easy",
+    "verseReference": "2 Corinthians 11:3",
+    "verseText": "But I am afraid that as the serpent deceived Eve by his cunning, your thoughts will be led astray from a sincere and pure devotion to Christ."
+  },
+  {
+    "text": "How did the 'super-apostles' apparently differ from Paul in their approach to receiving support from the Corinthians?",
+    "options": ["They refused all support", "They accepted support (and likely demanded it)", "They worked secular jobs", "They relied on other churches"],
+    "correctAnswerIndex": 1,
+    "book": "2 Corinthians",
+    "difficulty": "Hard",
+    "verseReference": "2 Corinthians 11:7, 20",
+    "verseText": "Or did I commit a sin in humbling myself so that you might be exalted, because I preached God's gospel to you free of charge?... For you bear it if someone makes slaves of you, or devours you, or takes advantage of you, or puts on airs, or strikes you in the face."
+  },
+  {
+    "text": "Paul sarcastically suggests he was inferior to the 'super-apostles' in what area, contrasting it with his own practice?",
+    "options": ["Miracles", "Knowledge", "Not burdening the Corinthians financially", "Suffering"],
+    "correctAnswerIndex": 2,
+    "book": "2 Corinthians",
+    "difficulty": "Hard",
+    "verseReference": "2 Corinthians 11:7-9, 12:13",
+    "verseText": "because I preached God's gospel to you free of charge?... For in what were you less favored than the other churches, except that I myself did not burden you? Forgive me this wrong!"
+  },
+  {
+    "text": "Paul lists numerous hardships he endured for the gospel (imprisonments, beatings, shipwrecks, dangers). What daily pressure does he also mention?",
+    "options": ["Financial worries", "The need to write letters", "Anxiety for all the churches", "Physical illness"],
+    "correctAnswerIndex": 2,
+    "book": "2 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "2 Corinthians 11:23-28",
+    "verseText": "...and, apart from other things, there is the daily pressure on me of my anxiety for all the churches."
+  },
+  {
+    "text": "If Paul must boast, what does he say he will boast about?",
+    "options": ["His successes and achievements", "His knowledge and wisdom", "The things that show his weakness", "His apostolic authority"],
+    "correctAnswerIndex": 2,
+    "book": "2 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "2 Corinthians 11:30, 12:5",
+    "verseText": "If I must boast, I will boast of the things that show my weakness... But on my own behalf I will not boast, except of my weaknesses."
+  },
+  {
+    "text": "Paul recounts being let down in a basket through a window in which city to escape?",
+    "options": ["Jerusalem", "Rome", "Ephesus", "Damascus"],
+    "correctAnswerIndex": 3,
+    "book": "2 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "2 Corinthians 11:32-33",
+    "verseText": "At Damascus, the governor under King Aretas was guarding the city of Damascus in order to seize me, but I was let down in a basket through a window in the wall and escaped his hands."
+  },
+  {
+    "text": "Paul speaks of visions and revelations, including being caught up to where?",
+    "options": ["The first heaven", "Mount Sinai", "The third heaven (Paradise)", "The depths of the sea"],
+    "correctAnswerIndex": 2,
+    "book": "2 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "2 Corinthians 12:2-4",
+    "verseText": "I know a man in Christ who fourteen years ago was caught up to the third heaven... and he heard things that cannot be told, which man may not utter."
+  },
+  {
+    "text": "What was God's response to Paul's repeated prayer regarding the 'thorn in the flesh'?",
+    "options": ["'It will be removed soon.'", "'You lack faith.'", "'My grace is sufficient for you, for my power is made perfect in weakness.'", "'Endure it silently.'"],
+    "correctAnswerIndex": 2,
+    "book": "2 Corinthians",
+    "difficulty": "Easy",
+    "verseReference": "2 Corinthians 12:9",
+    "verseText": "But he said to me, “My grace is sufficient for you, for my power is made perfect in weakness.” Therefore I will boast all the more gladly of my weaknesses, so that the power of Christ may rest upon me."
+  },
+  {
+    "text": "Because God's power is perfected in weakness, Paul states he is content with what?",
+    "options": ["Success and praise", "Weaknesses, insults, hardships, persecutions, and calamities", "A quiet life", "Financial security"],
+    "correctAnswerIndex": 1,
+    "book": "2 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "2 Corinthians 12:10",
+    "verseText": "For the sake of Christ, then, I am content with weaknesses, insults, hardships, persecutions, and calamities. For when I am weak, then I am strong."
+  },
+  {
+    "text": "Paul performed 'signs and wonders and mighty works' among the Corinthians, which he refers to as the marks of what?",
+    "options": ["A magician", "A true apostle", "A philosopher", "A wealthy patron"],
+    "correctAnswerIndex": 1,
+    "book": "2 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "2 Corinthians 12:12",
+    "verseText": "The signs of a true apostle were performed among you with utmost patience, with signs and wonders and mighty works."
+  },
+  {
+    "text": "Paul expresses fear that when he visits Corinth again, he might find them engaged in what kinds of behaviors?",
+    "options": ["Excessive praying and fasting", "Quarreling, jealousy, anger, hostility, slander, gossip, conceit, and disorder", "Building temples", "Ignoring Roman laws"],
+    "correctAnswerIndex": 1,
+    "book": "2 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "2 Corinthians 12:20",
+    "verseText": "For I fear that perhaps when I come I may find you not as I wish... perhaps there may be quarreling, jealousy, anger, hostility, slander, gossip, conceit, and disorder."
+  },
+  {
+    "text": "What does Paul urge the Corinthians to do before his arrival to avoid facing severe judgment?",
+    "options": ["Prepare a gift for him", "Examine themselves to see if they are in the faith", "Leave the church", "Write letters of defense"],
+    "correctAnswerIndex": 1,
+    "book": "2 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "2 Corinthians 13:5",
+    "verseText": "Examine yourselves, to see whether you are in the faith. Test yourselves. Or do you not realize this about yourselves, that Jesus Christ is in you?—unless indeed you fail to meet the test!"
+  },
+  {
+    "text": "Paul states that he and his companions can do nothing against what, but only for it?",
+    "options": ["Roman authority", "The super-apostles", "The truth", "The traditions"],
+    "correctAnswerIndex": 2,
+    "book": "2 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "2 Corinthians 13:8",
+    "verseText": "For we cannot do anything against the truth, but only for the truth."
+  },
+  {
+    "text": "What is Paul's prayer for the Corinthians, mentioned near the end of the letter?",
+    "options": ["That they become wealthy", "That they defeat their enemies", "Their restoration (or perfection)", "That they all speak in tongues"],
+    "correctAnswerIndex": 2,
+    "book": "2 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "2 Corinthians 13:9, 11",
+    "verseText": "For we are glad when we are weak and you are strong. Your restoration is what we pray for... Finally, brothers, rejoice. Aim for restoration, comfort one another, agree with one another, live in peace..."
+  },
+  {
+    "text": "What final instruction does Paul give regarding greetings?",
+    "options": ["Greet only the leaders", "Greet one another with a holy kiss", "Avoid public greetings", "Send written greetings only"],
+    "correctAnswerIndex": 1,
+    "book": "2 Corinthians",
+    "difficulty": "Easy",
+    "verseReference": "2 Corinthians 13:12",
+    "verseText": "Greet one another with a holy kiss."
+  },
+  {
+    "text": "The concluding verse (2 Cor 13:14) is a well-known benediction invoking whom?",
+    "options": ["Paul, Timothy, and Titus", "Abraham, Isaac, and Jacob", "The Lord Jesus Christ, God (the Father), and the Holy Spirit", "Peter, James, and John"],
+    "correctAnswerIndex": 2,
+    "book": "2 Corinthians",
+    "difficulty": "Easy",
+    "verseReference": "2 Corinthians 13:14",
+    "verseText": "The grace of the Lord Jesus Christ and the love of God and the fellowship of the Holy Spirit be with you all."
+  },
+  {
+    "text": "Who does Paul mention is with him in the opening greeting besides himself?",
+    "options": ["Titus", "Silas", "Timothy", "Luke"],
+    "correctAnswerIndex": 2,
+    "book": "2 Corinthians",
+    "difficulty": "Easy",
+    "verseReference": "2 Corinthians 1:1",
+    "verseText": "Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother..."
+  },
+  {
+    "text": "Paul explains a change in his travel plans, assuring the Corinthians his 'yes' is not 'yes and no'. He emphasizes the certainty found in whom?",
+    "options": ["His own plans", "Roman schedules", "Jesus Christ", "The Old Testament prophets"],
+    "correctAnswerIndex": 2,
+    "book": "2 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "2 Corinthians 1:18-20",
+    "verseText": "As surely as God is faithful, our word to you has not been Yes and No. For the Son of God, Jesus Christ, whom we proclaimed among you... was not Yes and No, but in him it is always Yes. For all the promises of God find their Yes in him."
+  },
+  {
+    "text": "Who does Paul say establishes believers and has anointed them, putting His seal on them?",
+    "options": ["The apostles", "The church elders", "God", "Their own efforts"],
+    "correctAnswerIndex": 2,
+    "book": "2 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "2 Corinthians 1:21-22",
+    "verseText": "And it is God who establishes us with you in Christ, and has anointed us, and who has also put his seal on us and given us his Spirit in our hearts as a guarantee."
+  },
+  {
+    "text": "Paul contrasts the 'ministry of death, carved in letters on stone' with the ministry of the Spirit. What characteristic marked the ministry of death despite its fading glory?",
+    "options": ["It brought life", "It came with glory (so that Israelites couldn't gaze at Moses' face)", "It was easy to follow", "It required no mediator"],
+    "correctAnswerIndex": 1,
+    "book": "2 Corinthians",
+    "difficulty": "Hard",
+    "verseReference": "2 Corinthians 3:7",
+    "verseText": "Now if the ministry of death, carved in letters on stone, came with such glory that the Israelites could not gaze at Moses' face because of its glory, which was being brought to an end,"
+  },
+  {
+    "text": "Where the Spirit of the Lord is, what does Paul say there is?",
+    "options": ["Strict rules", "Judgment", "Freedom", "Confusion"],
+    "correctAnswerIndex": 2,
+    "book": "2 Corinthians",
+    "difficulty": "Easy",
+    "verseReference": "2 Corinthians 3:17",
+    "verseText": "Now the Lord is the Spirit, and where the Spirit of the Lord is, there is freedom."
+  },
+  {
+    "text": "Believers, with unveiled faces, behold the glory of the Lord and are being transformed into what?",
+    "options": ["Angels", "Apostles", "The same image from one degree of glory to another", "Perfect beings immediately"],
+    "correctAnswerIndex": 2,
+    "book": "2 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "2 Corinthians 3:18",
+    "verseText": "And we all, with unveiled face, beholding the glory of the Lord, are being transformed into the same image from one degree of glory to another. For this comes from the Lord who is the Spirit."
+  },
+  {
+    "text": "Paul emphasizes that he preaches not himself, but whom?",
+    "options": ["Moses", "The Law", "Jesus Christ as Lord", "The church"],
+    "correctAnswerIndex": 2,
+    "book": "2 Corinthians",
+    "difficulty": "Easy",
+    "verseReference": "2 Corinthians 4:5",
+    "verseText": "For what we proclaim is not ourselves, but Jesus Christ as Lord, with ourselves as your servants for Jesus' sake."
+  },
+  {
+    "text": "Paul connects present, momentary affliction with preparing believers for what?",
+    "options": ["More suffering", "Worldly success", "An eternal weight of glory beyond all comparison", "A leadership position"],
+    "correctAnswerIndex": 2,
+    "book": "2 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "2 Corinthians 4:17",
+    "verseText": "For this light momentary affliction is preparing for us an eternal weight of glory beyond all comparison,"
+  },
+  {
+    "text": "While in our earthly bodies ('at home in the body'), Paul says we are away from whom?",
+    "options": ["Our families", "The church", "The Lord", "Suffering"],
+    "correctAnswerIndex": 2,
+    "book": "2 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "2 Corinthians 5:6",
+    "verseText": "So we are always of good courage. We know that while we are at home in the body we are away from the Lord,"
+  },
+  {
+    "text": "How does Paul say believers currently live, in contrast to living by sight?",
+    "options": ["By feelings", "By the Law", "By faith", "By reason"],
+    "correctAnswerIndex": 2,
+    "book": "2 Corinthians",
+    "difficulty": "Easy",
+    "verseReference": "2 Corinthians 5:7",
+    "verseText": "for we walk by faith, not by sight."
+  },
+  {
+    "text": "What is Paul's stated ambition, whether at home in the body or away from it?",
+    "options": ["To build large churches", "To please the Lord", "To defeat his opponents", "To gain wealth"],
+    "correctAnswerIndex": 1,
+    "book": "2 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "2 Corinthians 5:9",
+    "verseText": "So whether we are at home or away, we make it our aim to please him."
+  },
+  {
+    "text": "Paul describes the exchange that happened for believers: Christ became sin so that believers might become what?",
+    "options": ["Sinless", "Apostles", "The righteousness of God in Him", "Wealthy"],
+    "correctAnswerIndex": 2,
+    "book": "2 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "2 Corinthians 5:21",
+    "verseText": "For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God."
+  },
+  {
+    "text": "Paul urges the Corinthians not to receive God's grace in what way?",
+    "options": ["Silently", "Joyfully", "In vain", "Slowly"],
+    "correctAnswerIndex": 2,
+    "book": "2 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "2 Corinthians 6:1",
+    "verseText": "Working together with him, then, we appeal to you not to receive the grace of God in vain."
+  },
+  {
+    "text": "What relationship does Paul affirm between believers and God, quoting the Old Testament, after warning against being yoked with unbelievers?",
+    "options": ["Master and slave", "Judge and defendant", "'I will be a father to you, and you shall be sons and daughters to me'", "King and subjects"],
+    "correctAnswerIndex": 2,
+    "book": "2 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "2 Corinthians 6:17-18",
+    "verseText": "Therefore go out from their midst, and be separate from them, says the Lord, and touch no unclean thing; then I will welcome you, and I will be a father to you, and you shall be my sons and daughters, says the Lord Almighty."
   }
 ]

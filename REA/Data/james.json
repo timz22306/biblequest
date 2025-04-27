@@ -88,5 +88,383 @@
     "difficulty": "Medium",
     "verseReference": "James 5:14",
     "verseText": "Is anyone among you sick? Let him call for the elders of the church, and let them pray over him, anointing him with oil in the name of the Lord."
+  },
+  {
+    "text": "To whom is the Epistle of James addressed?",
+    "options": ["The church in Rome", "The Gentiles in Galatia", "The twelve tribes in the Dispersion", "The believers in Jerusalem"],
+    "correctAnswerIndex": 2,
+    "book": "James",
+    "difficulty": "Easy",
+    "verseReference": "James 1:1",
+    "verseText": "James, a servant of God and of the Lord Jesus Christ, To the twelve tribes in the Dispersion: Greetings."
+  },
+  {
+    "text": "What is the result of steadfastness being fully developed in a believer, according to James?",
+    "options": ["Wealth and honor", "Being perfect and complete, lacking nothing", "Freedom from all trials", "Popularity among peers"],
+    "correctAnswerIndex": 1,
+    "book": "James",
+    "difficulty": "Medium",
+    "verseReference": "James 1:4",
+    "verseText": "And let steadfastness have its full effect, that you may be perfect and complete, lacking in nothing."
+  },
+  {
+    "text": "How should one ask God for wisdom, according to James?",
+    "options": ["Loudly and publicly", "With doubt and hesitation", "In faith, with no doubting", "Only after fasting"],
+    "correctAnswerIndex": 2,
+    "book": "James",
+    "difficulty": "Easy",
+    "verseReference": "James 1:6",
+    "verseText": "But let him ask in faith, with no doubting, for the one who doubts is like a wave of the sea that is driven and tossed by the wind."
+  },
+  {
+    "text": "James compares a person who doubts to what natural phenomenon?",
+    "options": ["A wilting flower", "A wave of the sea driven by wind", "A cloud without rain", "A shifting shadow"],
+    "correctAnswerIndex": 1,
+    "book": "James",
+    "difficulty": "Medium",
+    "verseReference": "James 1:6",
+    "verseText": "for the one who doubts is like a wave of the sea that is driven and tossed by the wind."
+  },
+  {
+    "text": "In what should the 'lowly brother' boast, according to James?",
+    "options": ["His poverty", "His patience", "His exaltation", "His humility"],
+    "correctAnswerIndex": 2,
+    "book": "James",
+    "difficulty": "Medium",
+    "verseReference": "James 1:9",
+    "verseText": "Let the lowly brother boast in his exaltation,"
+  },
+  {
+    "text": "In what should the rich person boast, according to James?",
+    "options": ["His wealth", "His generosity", "His humiliation (because riches fade)", "His influence"],
+    "correctAnswerIndex": 2,
+    "book": "James",
+    "difficulty": "Medium",
+    "verseReference": "James 1:10",
+    "verseText": "and the rich in his humiliation, because like a flower of the grass he will pass away."
+  },
+  {
+    "text": "What does James say God cannot do?",
+    "options": ["Forgive sin", "Perform miracles", "Be tempted by evil", "Know the future"],
+    "correctAnswerIndex": 2,
+    "book": "James",
+    "difficulty": "Easy",
+    "verseReference": "James 1:13",
+    "verseText": "Let no one say when he is tempted, “I am being tempted by God,” for God cannot be tempted with evil, and he himself tempts no one."
+  },
+  {
+    "text": "Where does James say temptation comes from?",
+    "options": ["Directly from God", "From the devil only", "From one's own desires", "From difficult circumstances"],
+    "correctAnswerIndex": 2,
+    "book": "James",
+    "difficulty": "Medium",
+    "verseReference": "James 1:14",
+    "verseText": "But each person is tempted when he is lured and enticed by his own desire."
+  },
+  {
+    "text": "What is the ultimate result when desire conceives and gives birth?",
+    "options": ["Wisdom", "Patience", "Sin, which leads to death", "Righteousness"],
+    "correctAnswerIndex": 2,
+    "book": "James",
+    "difficulty": "Medium",
+    "verseReference": "James 1:15",
+    "verseText": "Then desire when it has conceived gives birth to sin, and sin when it is fully grown brings forth death."
+  },
+  {
+    "text": "James describes God as the Father of lights, with whom there is no variation or what?",
+    "options": ["Shadow due to change", "End or beginning", "Limit to power", "Lack of knowledge"],
+    "correctAnswerIndex": 0,
+    "book": "James",
+    "difficulty": "Hard",
+    "verseReference": "James 1:17",
+    "verseText": "Every good gift and every perfect gift is from above, coming down from the Father of lights, with whom there is no variation or shadow due to change."
+  },
+  {
+    "text": "How did God bring believers forth, making them a kind of firstfruits of his creatures?",
+    "options": ["By His mighty power", "By the word of truth", "By the blood of Christ", "By the laying on of hands"],
+    "correctAnswerIndex": 1,
+    "book": "James",
+    "difficulty": "Medium",
+    "verseReference": "James 1:18",
+    "verseText": "Of his own will he brought us forth by the word of truth, that we should be a kind of firstfruits of his creatures."
+  },
+  {
+    "text": "James advises believers to be quick to hear, slow to speak, and slow to what?",
+    "options": ["Forgive", "Act", "Anger", "Judge"],
+    "correctAnswerIndex": 2,
+    "book": "James",
+    "difficulty": "Easy",
+    "verseReference": "James 1:19",
+    "verseText": "Know this, my beloved brothers: let every person be quick to hear, slow to speak, slow to anger;"
+  },
+  {
+    "text": "Why should believers be slow to anger, according to James?",
+    "options": ["It harms personal relationships", "It does not produce the righteousness of God", "It is a sign of weakness", "It leads to poverty"],
+    "correctAnswerIndex": 1,
+    "book": "James",
+    "difficulty": "Medium",
+    "verseReference": "James 1:20",
+    "verseText": "for the anger of man does not produce the righteousness of God."
+  },
+  {
+    "text": "James compares someone who hears the word but doesn't do it to a person who does what?",
+    "options": ["Builds a house on sand", "Plants seed on rocky ground", "Looks at his face in a mirror and forgets", "Hides his talent in the ground"],
+    "correctAnswerIndex": 2,
+    "book": "James",
+    "difficulty": "Easy",
+    "verseReference": "James 1:23-24",
+    "verseText": "For if anyone is a hearer of the word and not a doer, he is like a man who looks intently at his natural face in a mirror. For he looks at himself and goes away and at once forgets what he was like."
+  },
+  {
+    "text": "What does James call the law that brings freedom?",
+    "options": ["The Law of Moses", "The Royal Law", "The Perfect Law", "The Law of the Spirit"],
+    "correctAnswerIndex": 2,
+    "book": "James",
+    "difficulty": "Medium",
+    "verseReference": "James 1:25",
+    "verseText": "But the one who looks into the perfect law, the law of liberty, and perseveres, being no hearer who forgets but a doer who acts—he will be blessed in his doing."
+  },
+  {
+    "text": "If someone considers himself religious but doesn't control his tongue, what does James say about his religion?",
+    "options": ["It is commendable", "It is acceptable", "It is worthless", "It is developing"],
+    "correctAnswerIndex": 2,
+    "book": "James",
+    "difficulty": "Easy",
+    "verseReference": "James 1:26",
+    "verseText": "If anyone thinks he is religious and does not bridle his tongue but deceives his heart, this person's religion is worthless."
+  },
+  {
+    "text": "What constitutes 'pure and undefiled religion' before God, according to James?",
+    "options": ["Attending church regularly and tithing", "Visiting orphans and widows in their affliction and keeping oneself unstained from the world", "Performing miracles and speaking in tongues", "Strict adherence to dietary laws and Sabbath observance"],
+    "correctAnswerIndex": 1,
+    "book": "James",
+    "difficulty": "Easy",
+    "verseReference": "James 1:27",
+    "verseText": "Religion that is pure and undefiled before God the Father is this: to visit orphans and widows in their affliction, and to keep oneself unstained from the world."
+  },
+  {
+    "text": "What example does James use to illustrate the sin of partiality?",
+    "options": ["Favoring Jews over Gentiles", "Favoring educated over uneducated", "Giving preferential treatment to a rich person over a poor person in the assembly", "Favoring men over women"],
+    "correctAnswerIndex": 2,
+    "book": "James",
+    "difficulty": "Easy",
+    "verseReference": "James 2:2-4",
+    "verseText": "For if a man wearing a gold ring and fine clothing comes into your assembly, and a poor man in shabby clothing also comes in, and if you pay attention to the one who wears the fine clothing... have you not then made distinctions among yourselves and become judges with evil thoughts?"
+  },
+  {
+    "text": "James states that if you keep the whole law but fail in one point, you are guilty of what?",
+    "options": ["Minor transgression", "Needing correction", "Breaking all of it", "Being weak"],
+    "correctAnswerIndex": 2,
+    "book": "James",
+    "difficulty": "Medium",
+    "verseReference": "James 2:10",
+    "verseText": "For whoever keeps the whole law but fails in one point has become guilty of all of it."
+  },
+  {
+    "text": "What does James call the command 'You shall love your neighbor as yourself'?",
+    "options": ["The Golden Rule", "The Great Commandment", "The Royal Law", "The Law of Liberty"],
+    "correctAnswerIndex": 2,
+    "book": "James",
+    "difficulty": "Medium",
+    "verseReference": "James 2:8",
+    "verseText": "If you really fulfill the royal law according to the Scripture, “You shall love your neighbor as yourself,” you are doing well."
+  },
+  {
+    "text": "What example from the Old Testament does James use to show faith without works is dead?",
+    "options": ["Noah building the ark", "Abraham offering Isaac", "Moses leading the Israelites", "David fighting Goliath"],
+    "correctAnswerIndex": 1,
+    "book": "James",
+    "difficulty": "Medium",
+    "verseReference": "James 2:21-22",
+    "verseText": "Was not Abraham our father justified by works when he offered up his son Isaac on the altar? You see that faith was active along with his works, and faith was completed by his works;"
+  },
+  {
+    "text": "Who is the second Old Testament example James uses to illustrate justification by works?",
+    "options": ["Sarah", "Deborah", "Rahab the prostitute", "Ruth"],
+    "correctAnswerIndex": 2,
+    "book": "James",
+    "difficulty": "Medium",
+    "verseReference": "James 2:25",
+    "verseText": "And in the same way was not also Rahab the prostitute justified by works when she received the messengers and sent them out by another way?"
+  },
+  {
+    "text": "James warns that not many should become what, because they will be judged with greater strictness?",
+    "options": ["Rich", "Leaders", "Teachers", "Prophets"],
+    "correctAnswerIndex": 2,
+    "book": "James",
+    "difficulty": "Medium",
+    "verseReference": "James 3:1",
+    "verseText": "Not many of you should become teachers, my brothers, for you know that we who teach will be judged with greater strictness."
+  },
+  {
+    "text": "James compares the tongue to what small object that directs a large ship?",
+    "options": ["A sail", "An anchor", "A rudder", "A map"],
+    "correctAnswerIndex": 2,
+    "book": "James",
+    "difficulty": "Easy",
+    "verseReference": "James 3:4",
+    "verseText": "Look at the ships also: though they are so large and are driven by strong winds, they are guided by a very small rudder wherever the will of the pilot directs."
+  },
+  {
+    "text": "What does James say cannot come out of the same mouth?",
+    "options": ["Truth and lies", "Blessing and cursing", "Prayer and gossip", "Singing and complaining"],
+    "correctAnswerIndex": 1,
+    "book": "James",
+    "difficulty": "Easy",
+    "verseReference": "James 3:10",
+    "verseText": "From the same mouth come blessing and cursing. My brothers, these things ought not to be so."
+  },
+  {
+    "text": "What are the characteristics of the wisdom that comes from above, according to James?",
+    "options": ["Secretive, complex, and exclusive", "Forceful, argumentative, and proud", "Pure, peaceable, gentle, open to reason, full of mercy and good fruits, impartial and sincere", "Worldly, profitable, and self-promoting"],
+    "correctAnswerIndex": 2,
+    "book": "James",
+    "difficulty": "Medium",
+    "verseReference": "James 3:17",
+    "verseText": "But the wisdom from above is first pure, then peaceable, gentle, open to reason, full of mercy and good fruits, impartial and sincere."
+  },
+  {
+    "text": "James says that friendship with the world is what in relation to God?",
+    "options": ["A necessary evil", "Beneficial for witness", "Enmity (hostility)", "Neutral"],
+    "correctAnswerIndex": 2,
+    "book": "James",
+    "difficulty": "Medium",
+    "verseReference": "James 4:4",
+    "verseText": "You adulterous people! Do you not know that friendship with the world is enmity with God? Therefore whoever wishes to be a friend of the world makes himself an enemy of God."
+  },
+  {
+    "text": "What does James say God opposes, and to whom does He give grace?",
+    "options": ["Opposes the weak, gives grace to the strong", "Opposes the poor, gives grace to the rich", "Opposes the proud, gives grace to the humble", "Opposes the ignorant, gives grace to the wise"],
+    "correctAnswerIndex": 2,
+    "book": "James",
+    "difficulty": "Easy",
+    "verseReference": "James 4:6",
+    "verseText": "But he gives more grace. Therefore it says, “God opposes the proud but gives grace to the humble.”"
+  },
+  {
+    "text": "What action does James instruct believers to take to draw near to God?",
+    "options": ["Build a temple", "Offer sacrifices", "Cleanse your hands and purify your hearts", "Travel to Jerusalem"],
+    "correctAnswerIndex": 2,
+    "book": "James",
+    "difficulty": "Medium",
+    "verseReference": "James 4:8",
+    "verseText": "Draw near to God, and he will draw near to you. Cleanse your hands, you sinners, and purify your hearts, you double-minded."
+  },
+  {
+    "text": "What sin does James warn against in chapter 4, related to speaking against a brother?",
+    "options": ["Gossip", "Slander (speaking evil)", "Lying", "Flattery"],
+    "correctAnswerIndex": 1,
+    "book": "James",
+    "difficulty": "Medium",
+    "verseReference": "James 4:11",
+    "verseText": "Do not speak evil against one another, brothers. The one who speaks against a brother or judges his brother speaks evil against the law and judges the law."
+  },
+  {
+    "text": "James rebukes those who make plans for the future without acknowledging what?",
+    "options": ["Potential risks", "Market conditions", "God's will ('If the Lord wills')", "Their own limitations"],
+    "correctAnswerIndex": 2,
+    "book": "James",
+    "difficulty": "Easy",
+    "verseReference": "James 4:13-15",
+    "verseText": "Come now, you who say, “Today or tomorrow we will go into such and such a town and spend a year there and trade and make a profit”— yet you do not know what tomorrow will bring... Instead you ought to say, “If the Lord wills, we will live and do this or that.”"
+  },
+  {
+    "text": "James compares human life to what transient thing?",
+    "options": ["A shadow", "A flower", "A mist or vapor", "A dream"],
+    "correctAnswerIndex": 2,
+    "book": "James",
+    "difficulty": "Easy",
+    "verseReference": "James 4:14",
+    "verseText": "What is your life? For you are a mist that appears for a little time and then vanishes."
+  },
+  {
+    "text": "Knowing the right thing to do and failing to do it is described by James as what?",
+    "options": ["Weakness", "Ignorance", "Sin", "Understandable"],
+    "correctAnswerIndex": 2,
+    "book": "James",
+    "difficulty": "Easy",
+    "verseReference": "James 4:17",
+    "verseText": "So whoever knows the right thing to do and fails to do it, for him it is sin."
+  },
+  {
+    "text": "What specific charge does James level against the rich who oppress workers?",
+    "options": ["Charging high interest", "Withholding wages", "Providing poor working conditions", "Demanding excessive hours"],
+    "correctAnswerIndex": 1,
+    "book": "James",
+    "difficulty": "Medium",
+    "verseReference": "James 5:4",
+    "verseText": "Behold, the wages of the laborers who mowed your fields, which you kept back by fraud, are crying out against you, and the cries of the harvesters have reached the ears of the Lord of hosts."
+  },
+  {
+    "text": "What example of patience does James encourage believers to imitate while waiting for the Lord's coming?",
+    "options": ["A soldier awaiting orders", "A farmer waiting for the harvest", "A watchman waiting for morning", "A student awaiting graduation"],
+    "correctAnswerIndex": 1,
+    "book": "James",
+    "difficulty": "Easy",
+    "verseReference": "James 5:7",
+    "verseText": "Be patient, therefore, brothers, until the coming of the Lord. See how the farmer waits for the precious fruit of the earth, being patient about it, until it receives the early and the late rains."
+  },
+  {
+    "text": "Which group of Old Testament figures does James point to as examples of suffering and patience?",
+    "options": ["The kings", "The priests", "The prophets", "The judges"],
+    "correctAnswerIndex": 2,
+    "book": "James",
+    "difficulty": "Medium",
+    "verseReference": "James 5:10",
+    "verseText": "As an example of suffering and patience, brothers, take the prophets who spoke in the name of the Lord."
+  },
+  {
+    "text": "Whose endurance does James specifically mention as an example, noting the Lord's compassion and mercy?",
+    "options": ["Abraham", "Moses", "David", "Job"],
+    "correctAnswerIndex": 3,
+    "book": "James",
+    "difficulty": "Easy",
+    "verseReference": "James 5:11",
+    "verseText": "Behold, we consider those blessed who remained steadfast. You have heard of the steadfastness of Job, and you have seen the purpose of the Lord, how the Lord is compassionate and merciful."
+  },
+  {
+    "text": "What practice does James strongly discourage in chapter 5?",
+    "options": ["Singing hymns", "Making oaths (swearing)", "Public prayer", "Giving generously"],
+    "correctAnswerIndex": 1,
+    "book": "James",
+    "difficulty": "Medium",
+    "verseReference": "James 5:12",
+    "verseText": "But above all, my brothers, do not swear, either by heaven or by earth or by any other oath, but let your “yes” be yes and your “no” be no, so that you may not fall under condemnation."
+  },
+  {
+    "text": "What should a cheerful believer do, according to James?",
+    "options": ["Give money away", "Sing praise", "Work harder", "Keep silent"],
+    "correctAnswerIndex": 1,
+    "book": "James",
+    "difficulty": "Easy",
+    "verseReference": "James 5:13",
+    "verseText": "Is anyone cheerful? Let him sing praise."
+  },
+  {
+    "text": "James states that the prayer of a righteous person has great power because it is what?",
+    "options": ["Loud", "Long", "Working (effective/fervent)", "Public"],
+    "correctAnswerIndex": 2,
+    "book": "James",
+    "difficulty": "Medium",
+    "verseReference": "James 5:16",
+    "verseText": "Therefore, confess your sins to one another and pray for one another, that you may be healed. The prayer of a righteous person has great power as it is working."
+  },
+  {
+    "text": "Which Old Testament prophet does James use as an example of powerful prayer affecting the weather?",
+    "options": ["Moses", "Isaiah", "Elijah", "Jeremiah"],
+    "correctAnswerIndex": 2,
+    "book": "James",
+    "difficulty": "Easy",
+    "verseReference": "James 5:17-18",
+    "verseText": "Elijah was a man with a nature like ours, and he prayed fervently that it might not rain, and for three years and six months it did not rain on the earth. Then he prayed again, and heaven gave rain, and the earth bore its fruit."
+  },
+  {
+    "text": "What outcome does James mention for someone who brings back a sinner who has strayed from the truth?",
+    "options": ["They will receive a reward in heaven", "They will save the sinner's soul from death and cover a multitude of sins", "They will gain honor in the church", "They will prove their own righteousness"],
+    "correctAnswerIndex": 1,
+    "book": "James",
+    "difficulty": "Medium",
+    "verseReference": "James 5:19-20",
+    "verseText": "My brothers, if anyone among you wanders from the truth and someone brings him back, let him know that whoever brings back a sinner from his wandering will save his soul from death and will cover a multitude of sins."
   }
 ]

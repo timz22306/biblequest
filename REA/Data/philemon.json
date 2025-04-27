@@ -1,6 +1,6 @@
 [
   {
-    "text": "Who is the author of the letter to Philemon?",
+    "text": "Who identifies himself as the primary author at the beginning of the letter to Philemon?",
     "options": ["Timothy", "Onesimus", "Paul", "Philemon"],
     "correctAnswerIndex": 2,
     "book": "Philemon",
@@ -9,7 +9,7 @@
     "verseText": "Paul, a prisoner for Christ Jesus, and Timothy our brother, To Philemon our beloved fellow worker"
   },
   {
-    "text": "Philemon is one of Paul's letters often categorized as what?",
+    "text": "Based on the author's self-description as a 'prisoner for Christ Jesus', Philemon is often categorized with which group of his letters?",
     "options": ["Pastoral Epistles", "General Epistles", "Prison Epistles", "Major Epistles"],
     "correctAnswerIndex": 2,
     "book": "Philemon",
@@ -18,7 +18,7 @@
     "verseText": "Paul, a prisoner for Christ Jesus... I, Paul, an old man and now a prisoner also for Christ Jesus— (Along with Ephesians, Philippians, Colossians, it was likely written during Paul's imprisonment)."
   },
   {
-    "text": "Who is the primary recipient of the letter?",
+    "text": "Who is named as the primary recipient of the letter?",
     "options": ["The church in Colossae", "Onesimus", "Philemon", "Apphia"],
     "correctAnswerIndex": 2,
     "book": "Philemon",
@@ -27,8 +27,8 @@
     "verseText": "To Philemon our beloved fellow worker"
   },
   {
-    "text": "Who was Onesimus in relation to Philemon?",
-    "options": ["Philemon's brother", "Philemon's business partner", "Philemon's runaway slave", "Philemon's pastor"],
+    "text": "What was the legal and social status of Onesimus in relation to Philemon before he ran away?",
+    "options": ["Philemon's brother", "Philemon's business partner", "Philemon's slave", "Philemon's pastor"],
     "correctAnswerIndex": 2,
     "book": "Philemon",
     "difficulty": "Easy",
@@ -36,8 +36,8 @@
     "verseText": "For this perhaps is why he was parted from you for a while, that you might have him back forever, no longer as a slave but more than a slave, as a beloved brother..."
   },
   {
-    "text": "What had happened to Onesimus after running away, while he was with Paul?",
-    "options": ["He was arrested", "He became a believer in Christ", "He became ill", "He started his own church"],
+    "text": "What significant life change occurred for Onesimus while he was away from Philemon and encountered Paul?",
+    "options": ["He was arrested by Roman authorities", "He became a follower of Christ", "He became seriously ill", "He started his own ministry"],
     "correctAnswerIndex": 1,
     "book": "Philemon",
     "difficulty": "Medium",
@@ -45,8 +45,8 @@
     "verseText": "I appeal to you for my child, Onesimus, whose father I became in my imprisonment."
   },
   {
-    "text": "What is the main purpose of Paul's letter to Philemon?",
-    "options": ["To condemn slavery", "To ask Philemon for money", "To appeal to Philemon to receive Onesimus back, not as a slave, but as a beloved brother in Christ", "To give instructions on church leadership"],
+    "text": "What is the central request Paul makes of Philemon in this personal letter?",
+    "options": ["To publicly condemn the practice of slavery", "To send financial support for Paul's ministry", "To welcome Onesimus back, not as property, but as a brother in Christ", "To provide instructions on church discipline"],
     "correctAnswerIndex": 2,
     "book": "Philemon",
     "difficulty": "Easy",
@@ -54,8 +54,8 @@
     "verseText": "no longer as a slave but more than a slave, as a beloved brother—specially to me, but how much more to you, both in the flesh and in the Lord. So if you consider me your partner, receive him as you would receive me."
   },
   {
-    "text": "How does Paul appeal to Philemon?",
-    "options": ["By commanding him as an apostle", "By threatening him", "By appealing on the basis of love and their partnership", "By offering to buy Onesimus"],
+    "text": "Rather than using his apostolic authority, on what basis does Paul primarily make his appeal to Philemon?",
+    "options": ["Threat of divine judgment", "Roman law", "Love and their shared faith partnership", "A financial transaction"],
     "correctAnswerIndex": 2,
     "book": "Philemon",
     "difficulty": "Medium",
@@ -63,8 +63,8 @@
     "verseText": "Accordingly, though I am bold enough in Christ to command you to do what is required, yet for love's sake I prefer to appeal to you—I, Paul... So if you consider me your partner, receive him as you would receive me."
   },
   {
-    "text": "What does Paul offer to do regarding any debt Onesimus might owe Philemon?",
-    "options": ["Ask the church to pay it", "Tell Philemon to forgive it", "Charge it to his own account (pay it himself)", "Suggest Onesimus work it off"],
+    "text": "What personal responsibility does Paul offer to take regarding any wrong Onesimus committed against Philemon?",
+    "options": ["He asks the church in Colossae to cover the cost", "He tells Philemon it should be forgiven", "He offers to pay any debt himself, charging it to his own account", "He suggests Onesimus work longer hours to repay it"],
     "correctAnswerIndex": 2,
     "book": "Philemon",
     "difficulty": "Medium",
@@ -72,8 +72,8 @@
     "verseText": "If he has wronged you at all, or owes you anything, charge that to my account. I, Paul, write this with my own hand: I will repay it—to say nothing of your owing me even your own self."
   },
   {
-    "text": "Paul describes Onesimus, who was formerly 'useless' to Philemon, as now being what?",
-    "options": ["Still useless", "Useful both to Philemon and to Paul", "A burden", "A leader"],
+    "text": "Paul uses a play on Onesimus' name (meaning 'useful'). How does he describe Onesimus' transformation in terms of usefulness?",
+    "options": ["He remains useless", "He is now useful to both Philemon and Paul", "He is now a burden", "He is useful only to Paul"],
     "correctAnswerIndex": 1,
     "book": "Philemon",
     "difficulty": "Medium",
@@ -81,12 +81,444 @@
     "verseText": "(Formerly he was useless to you, but now he is indeed useful to you and to me.) (This is a play on Onesimus' name, which means 'useful')."
   },
   {
-    "text": "This short letter provides a practical example of how the gospel transforms what?",
-    "options": ["Political systems", "Economic structures", "Social relationships", "Dietary laws"],
+    "text": "This intensely personal letter serves as a powerful illustration of how the gospel impacts and transforms what aspect of life?",
+    "options": ["Governmental structures", "International trade", "Social relationships and status", "Agricultural practices"],
     "correctAnswerIndex": 2,
     "book": "Philemon",
     "difficulty": "Medium",
     "verseReference": "Philemon 16",
     "verseText": "(The gospel changes the master-slave relationship into a brotherhood in Christ)."
+  },
+  {
+    "text": "Who joins Paul in sending greetings at the very beginning of the letter?",
+    "options": ["Luke", "Tychicus", "Timothy", "Silas"],
+    "correctAnswerIndex": 2,
+    "book": "Philemon",
+    "difficulty": "Easy",
+    "verseReference": "Philemon 1",
+    "verseText": "Paul, a prisoner for Christ Jesus, and Timothy our brother..."
+  },
+  {
+    "text": "Besides Philemon, who else is specifically named in the opening greeting?",
+    "options": ["Lydia and Chloe", "Apphia, Archippus, and the church in Philemon's house", "Priscilla and Aquila", "Titus and Epaphras"],
+    "correctAnswerIndex": 1,
+    "book": "Philemon",
+    "difficulty": "Medium",
+    "verseReference": "Philemon 1-2",
+    "verseText": "To Philemon our beloved fellow worker and Apphia our sister and Archippus our fellow soldier, and the church in your house:"
+  },
+  {
+    "text": "What relationship is suggested for Apphia in the greeting?",
+    "options": ["Philemon's servant", "Philemon's sister (likely his wife)", "A church leader from another city", "Onesimus' mother"],
+    "correctAnswerIndex": 1,
+    "book": "Philemon",
+    "difficulty": "Medium",
+    "verseReference": "Philemon 2",
+    "verseText": "and Apphia our sister..."
+  },
+  {
+    "text": "Who is referred to as 'our fellow soldier' in the greeting?",
+    "options": ["Timothy", "Onesimus", "Archippus", "Epaphras"],
+    "correctAnswerIndex": 2,
+    "book": "Philemon",
+    "difficulty": "Medium",
+    "verseReference": "Philemon 2",
+    "verseText": "and Archippus our fellow soldier..."
+  },
+  {
+    "text": "Where did the church associated with Philemon meet?",
+    "options": ["In a synagogue", "In a public hall", "In Philemon's house", "In the Colossian marketplace"],
+    "correctAnswerIndex": 2,
+    "book": "Philemon",
+    "difficulty": "Easy",
+    "verseReference": "Philemon 2",
+    "verseText": "...and the church in your house:"
+  },
+  {
+    "text": "What two qualities in Philemon does Paul mention he gives thanks for?",
+    "options": ["His wealth and influence", "His knowledge and wisdom", "His love and faith toward the Lord Jesus and all the saints", "His leadership skills and speaking ability"],
+    "correctAnswerIndex": 2,
+    "book": "Philemon",
+    "difficulty": "Medium",
+    "verseReference": "Philemon 4-5",
+    "verseText": "I thank my God always when I remember you in my prayers, because I hear of your love and of the faith that you have toward the Lord Jesus and for all the saints,"
+  },
+  {
+    "text": "What does Paul pray Philemon's 'sharing of his faith' will become?",
+    "options": ["Widely known", "A source of income", "Effective for the full knowledge of every good thing in Christ", "A model for other churches"],
+    "correctAnswerIndex": 2,
+    "book": "Philemon",
+    "difficulty": "Hard",
+    "verseReference": "Philemon 6",
+    "verseText": "and I pray that the sharing of your faith may become effective for the full knowledge of every good thing that is in us for the sake of Christ."
+  },
+  {
+    "text": "What effect did Philemon's love have on Paul and the saints?",
+    "options": ["It caused division", "It brought much joy and comfort, refreshing the hearts of the saints", "It was unnoticed", "It led to persecution"],
+    "correctAnswerIndex": 1,
+    "book": "Philemon",
+    "difficulty": "Medium",
+    "verseReference": "Philemon 7",
+    "verseText": "For I have derived much joy and comfort from your love, my brother, because the hearts of the saints have been refreshed through you."
+  },
+  {
+    "text": "Paul mentions he could be bold and command Philemon. What status gives him this potential authority?",
+    "options": ["His Roman citizenship", "His age", "His apostleship ('in Christ')", "His personal relationship with Philemon"],
+    "correctAnswerIndex": 2,
+    "book": "Philemon",
+    "difficulty": "Medium",
+    "verseReference": "Philemon 8",
+    "verseText": "Accordingly, though I am bold enough in Christ to command you to do what is required,"
+  },
+  {
+    "text": "Instead of commanding, Paul appeals 'for love's sake'. What two personal circumstances does he mention to support this appeal?",
+    "options": ["His wealth and status", "His upcoming visit and needs", "His old age and imprisonment", "His apostolic authority and miracles"],
+    "correctAnswerIndex": 2,
+    "book": "Philemon",
+    "difficulty": "Medium",
+    "verseReference": "Philemon 9",
+    "verseText": "yet for love's sake I prefer to appeal to you—I, Paul, an old man and now a prisoner also for Christ Jesus—"
+  },
+  {
+    "text": "How does Paul affectionately refer to Onesimus when appealing for him?",
+    "options": ["My fellow worker", "My servant", "My child, whose father I became in my imprisonment", "My brother in the flesh"],
+    "correctAnswerIndex": 2,
+    "book": "Philemon",
+    "difficulty": "Medium",
+    "verseReference": "Philemon 10",
+    "verseText": "I appeal to you for my child, Onesimus, whose father I became in my imprisonment."
+  },
+  {
+    "text": "Paul expresses a desire to keep Onesimus with him. For what purpose?",
+    "options": ["To serve Paul in his imprisonment, on Philemon's behalf", "To send him on a mission trip", "To train him as a church leader", "To protect him from Philemon"],
+    "correctAnswerIndex": 0,
+    "book": "Philemon",
+    "difficulty": "Medium",
+    "verseReference": "Philemon 13",
+    "verseText": "I would have been glad to keep him with me, in order that he might serve me on your behalf during my imprisonment for the gospel,"
+  },
+  {
+    "text": "Why did Paul decide to send Onesimus back instead of keeping him?",
+    "options": ["Onesimus wanted to go back", "Paul didn't need his help anymore", "He didn't want to do anything without Philemon's consent", "The Roman authorities required it"],
+    "correctAnswerIndex": 2,
+    "book": "Philemon",
+    "difficulty": "Medium",
+    "verseReference": "Philemon 14",
+    "verseText": "but I preferred to do nothing without your consent in order that your goodness might not be by compulsion but of your own accord."
+  },
+  {
+    "text": "Paul suggests a possible providential reason for Onesimus' temporary departure. What is it?",
+    "options": ["So Onesimus could earn money", "So Philemon could get a better slave", "So Philemon might have him back forever, not as a slave but a brother", "So Onesimus could receive training"],
+    "correctAnswerIndex": 2,
+    "book": "Philemon",
+    "difficulty": "Hard",
+    "verseReference": "Philemon 15-16",
+    "verseText": "For this perhaps is why he was parted from you for a while, that you might have him back forever, no longer as a slave but more than a slave, as a beloved brother..."
+  },
+  {
+    "text": "In what two spheres does Paul emphasize Onesimus is now Philemon's brother?",
+    "options": ["In age and experience", "In status and wealth", "Both in the flesh and in the Lord", "In the church and in the community"],
+    "correctAnswerIndex": 2,
+    "book": "Philemon",
+    "difficulty": "Hard",
+    "verseReference": "Philemon 16",
+    "verseText": "...specially to me, but how much more to you, both in the flesh and in the Lord."
+  },
+  {
+    "text": "On what basis does Paul ask Philemon to 'receive him as you would receive me'?",
+    "options": ["If Philemon fears Paul", "If Philemon wants to be repaid", "If Philemon considers Paul his partner", "If Philemon wants public approval"],
+    "correctAnswerIndex": 2,
+    "book": "Philemon",
+    "difficulty": "Medium",
+    "verseReference": "Philemon 17",
+    "verseText": "So if you consider me your partner, receive him as you would receive me."
+  },
+  {
+    "text": "When Paul offers to repay Onesimus' debt, what does he gently remind Philemon that Philemon owes Paul?",
+    "options": ["Financial support", "A place to stay", "His prayers", "Even his own self (likely referring to his conversion)", "Nothing"],
+    "correctAnswerIndex": 3,
+    "book": "Philemon",
+    "difficulty": "Hard",
+    "verseReference": "Philemon 19",
+    "verseText": "I, Paul, write this with my own hand: I will repay it—to say nothing of your owing me even your own self."
+  },
+  {
+    "text": "What benefit does Paul hope to receive from Philemon in the Lord?",
+    "options": ["Financial assistance", "A recommendation letter", "Refreshment for his heart", "News of church growth"],
+    "correctAnswerIndex": 2,
+    "book": "Philemon",
+    "difficulty": "Medium",
+    "verseReference": "Philemon 20",
+    "verseText": "Yes, brother, I want some benefit from you in the Lord. Refresh my heart in Christ."
+  },
+  {
+    "text": "How confident is Paul that Philemon will respond positively?",
+    "options": ["He is unsure and worried", "He doubts Philemon will agree", "He is confident in Philemon's obedience, expecting he'll do even more than asked", "He thinks Philemon will refuse"],
+    "correctAnswerIndex": 2,
+    "book": "Philemon",
+    "difficulty": "Medium",
+    "verseReference": "Philemon 21",
+    "verseText": "Confident of your obedience, I write to you, knowing that you will do even more than I say."
+  },
+  {
+    "text": "What additional request does Paul make of Philemon, indicating his hope for release from prison?",
+    "options": ["To send him food", "To pray for his release", "To prepare a guest room for him", "To write a letter to the authorities"],
+    "correctAnswerIndex": 2,
+    "book": "Philemon",
+    "difficulty": "Easy",
+    "verseReference": "Philemon 22",
+    "verseText": "At the same time, prepare a guest room for me, for I am hoping that through your prayers I will be graciously given to you."
+  },
+  {
+    "text": "Who does Paul mention sends greetings alongside him at the end of the letter?",
+    "options": ["Peter, James, and John", "Barnabas and Silas", "Epaphras, Mark, Aristarchus, Demas, and Luke", "Tychicus and Timothy"],
+    "correctAnswerIndex": 2,
+    "book": "Philemon",
+    "difficulty": "Medium",
+    "verseReference": "Philemon 23-24",
+    "verseText": "Epaphras, my fellow prisoner in Christ Jesus, sends greetings to you, and so do Mark, Aristarchus, Demas, and Luke, my fellow workers."
+  },
+  {
+    "text": "What relationship is suggested for Apphia in the greeting, often assumed due to the context of a house church?",
+    "options": ["Philemon's servant", "Philemon's sister (or possibly wife)", "A church leader from another city", "Onesimus' mother"],
+    "correctAnswerIndex": 1,
+    "book": "Philemon",
+    "difficulty": "Medium",
+    "verseReference": "Philemon 2",
+    "verseText": "and Apphia our sister..."
+  },
+  {
+    "text": "Who is referred to as 'our fellow soldier' in the greeting, possibly indicating a role in spiritual warfare or ministry leadership?",
+    "options": ["Timothy", "Onesimus", "Archippus", "Epaphras"],
+    "correctAnswerIndex": 2,
+    "book": "Philemon",
+    "difficulty": "Medium",
+    "verseReference": "Philemon 2",
+    "verseText": "and Archippus our fellow soldier..."
+  },
+  {
+    "text": "Where did the church associated with Philemon meet, indicating the common practice of early Christian gatherings?",
+    "options": ["In a synagogue", "In a public hall", "In Philemon's house", "In the Colossian marketplace"],
+    "correctAnswerIndex": 2,
+    "book": "Philemon",
+    "difficulty": "Easy",
+    "verseReference": "Philemon 2",
+    "verseText": "...and the church in your house:"
+  },
+  {
+    "text": "What two qualities in Philemon does Paul specifically mention he gives thanks for when praying?",
+    "options": ["His wealth and influence", "His knowledge and wisdom", "His love and faith toward the Lord Jesus and all the saints", "His leadership skills and speaking ability"],
+    "correctAnswerIndex": 2,
+    "book": "Philemon",
+    "difficulty": "Medium",
+    "verseReference": "Philemon 4-5",
+    "verseText": "I thank my God always when I remember you in my prayers, because I hear of your love and of the faith that you have toward the Lord Jesus and for all the saints,"
+  },
+  {
+    "text": "Paul prays that the 'sharing' or 'fellowship' of Philemon's faith may become effective. What outcome does he desire from this?",
+    "options": ["Increased financial giving", "Wider recognition", "The full knowledge of every good thing that is in us for Christ's sake", "More converts"],
+    "correctAnswerIndex": 2,
+    "book": "Philemon",
+    "difficulty": "Hard",
+    "verseReference": "Philemon 6",
+    "verseText": "and I pray that the sharing of your faith may become effective for the full knowledge of every good thing that is in us for the sake of Christ."
+  },
+  {
+    "text": "What positive impact did Philemon's love have on Paul and other believers?",
+    "options": ["It caused jealousy", "It brought much joy and comfort, refreshing the hearts of the saints", "It went largely unnoticed", "It led to increased persecution"],
+    "correctAnswerIndex": 1,
+    "book": "Philemon",
+    "difficulty": "Medium",
+    "verseReference": "Philemon 7",
+    "verseText": "For I have derived much joy and comfort from your love, my brother, because the hearts of the saints have been refreshed through you."
+  },
+  {
+    "text": "Paul mentions he could command Philemon to do what is required. What gives him this potential authority?",
+    "options": ["His Roman citizenship", "His advanced age", "His standing 'in Christ' (apostleship)", "His personal wealth"],
+    "correctAnswerIndex": 2,
+    "book": "Philemon",
+    "difficulty": "Medium",
+    "verseReference": "Philemon 8",
+    "verseText": "Accordingly, though I am bold enough in Christ to command you to do what is required,"
+  },
+  {
+    "text": "Instead of commanding, Paul appeals 'for love's sake'. What two personal circumstances does he highlight to strengthen this appeal?",
+    "options": ["His knowledge and wisdom", "His upcoming journey and needs", "His status as an old man and a prisoner for Christ", "His miracles and signs"],
+    "correctAnswerIndex": 2,
+    "book": "Philemon",
+    "difficulty": "Medium",
+    "verseReference": "Philemon 9",
+    "verseText": "yet for love's sake I prefer to appeal to you—I, Paul, an old man and now a prisoner also for Christ Jesus—"
+  },
+  {
+    "text": "How does Paul describe his relationship with Onesimus, emphasizing the spiritual transformation that occurred?",
+    "options": ["My fellow prisoner", "My servant", "My child, whose father I became in my imprisonment", "My distant relative"],
+    "correctAnswerIndex": 2,
+    "book": "Philemon",
+    "difficulty": "Medium",
+    "verseReference": "Philemon 10",
+    "verseText": "I appeal to you for my child, Onesimus, whose father I became in my imprisonment."
+  },
+  {
+    "text": "Paul wished he could have kept Onesimus with him. In what capacity would Onesimus have served Paul?",
+    "options": ["As a guard", "To serve Paul on Philemon's behalf during his imprisonment", "As a scribe", "As a messenger to other churches"],
+    "correctAnswerIndex": 1,
+    "book": "Philemon",
+    "difficulty": "Medium",
+    "verseReference": "Philemon 13",
+    "verseText": "I would have been glad to keep him with me, in order that he might serve me on your behalf during my imprisonment for the gospel,"
+  },
+  {
+    "text": "Why did Paul ultimately decide against keeping Onesimus without first contacting Philemon?",
+    "options": ["Onesimus refused to stay", "Paul found another helper", "He wanted Philemon's consent so his goodness would be voluntary, not forced", "Roman law forbade it"],
+    "correctAnswerIndex": 2,
+    "book": "Philemon",
+    "difficulty": "Medium",
+    "verseReference": "Philemon 14",
+    "verseText": "but I preferred to do nothing without your consent in order that your goodness might not be by compulsion but of your own accord."
+  },
+  {
+    "text": "Paul suggests a possible divine purpose behind Onesimus' temporary separation from Philemon. What was this potential purpose?",
+    "options": ["To punish Philemon", "So Onesimus could experience the world", "So Philemon might receive him back forever, no longer as a slave but as a beloved brother", "To test Philemon's patience"],
+    "correctAnswerIndex": 2,
+    "book": "Philemon",
+    "difficulty": "Hard",
+    "verseReference": "Philemon 15-16",
+    "verseText": "For this perhaps is why he was parted from you for a while, that you might have him back forever, no longer as a slave but more than a slave, as a beloved brother..."
+  },
+  {
+    "text": "Paul emphasizes the new relationship between Philemon and Onesimus exists in two realms. What are they?",
+    "options": ["Master and servant", "Teacher and student", "Both in the flesh (human relationship) and in the Lord (spiritual relationship)", "Employer and employee"],
+    "correctAnswerIndex": 2,
+    "book": "Philemon",
+    "difficulty": "Hard",
+    "verseReference": "Philemon 16",
+    "verseText": "...specially to me, but how much more to you, both in the flesh and in the Lord."
+  },
+  {
+    "text": "Paul urges Philemon to receive Onesimus as he would receive Paul himself. What condition does he attach to this request?",
+    "options": ["If Philemon receives financial compensation", "If Onesimus apologizes publicly", "If Philemon considers Paul his partner", "If the church elders approve"],
+    "correctAnswerIndex": 2,
+    "book": "Philemon",
+    "difficulty": "Medium",
+    "verseReference": "Philemon 17",
+    "verseText": "So if you consider me your partner, receive him as you would receive me."
+  },
+  {
+    "text": "When Paul offers to personally cover any debt Onesimus owes, what significant debt does he gently remind Philemon about?",
+    "options": ["A previous loan", "Hospitality Philemon provided", "Philemon's prayers", "That Philemon owes Paul his very self (likely referring to his conversion)"],
+    "correctAnswerIndex": 3,
+    "book": "Philemon",
+    "difficulty": "Hard",
+    "verseReference": "Philemon 19",
+    "verseText": "I, Paul, write this with my own hand: I will repay it—to say nothing of your owing me even your own self."
+  },
+  {
+    "text": "What specific benefit or outcome does Paul desire from Philemon's positive response to his appeal?",
+    "options": ["Public recognition", "A large donation", "That his (Paul's) heart may be refreshed in Christ", "A promotion for Onesimus"],
+    "correctAnswerIndex": 2,
+    "book": "Philemon",
+    "difficulty": "Medium",
+    "verseReference": "Philemon 20",
+    "verseText": "Yes, brother, I want some benefit from you in the Lord. Refresh my heart in Christ."
+  },
+  {
+    "text": "How does Paul express his expectation regarding Philemon's response?",
+    "options": ["He expresses deep uncertainty", "He fears Philemon will refuse", "He is confident Philemon will obey and even do more than asked", "He demands immediate compliance"],
+    "correctAnswerIndex": 2,
+    "book": "Philemon",
+    "difficulty": "Medium",
+    "verseReference": "Philemon 21",
+    "verseText": "Confident of your obedience, I write to you, knowing that you will do even more than I say."
+  },
+  {
+    "text": "What practical request does Paul make that indicates his hope of being released from prison soon?",
+    "options": ["To send warm clothing", "To pray for the guards", "To prepare a guest room for him", "To send news of the church"],
+    "correctAnswerIndex": 2,
+    "book": "Philemon",
+    "difficulty": "Easy",
+    "verseReference": "Philemon 22",
+    "verseText": "At the same time, prepare a guest room for me, for I am hoping that through your prayers I will be graciously given to you."
+  },
+  {
+    "text": "Who does Paul identify as his 'fellow prisoner in Christ Jesus' sending greetings?",
+    "options": ["Mark", "Luke", "Epaphras", "Timothy"],
+    "correctAnswerIndex": 2,
+    "book": "Philemon",
+    "difficulty": "Medium",
+    "verseReference": "Philemon 23",
+    "verseText": "Epaphras, my fellow prisoner in Christ Jesus, sends greetings to you,"
+  },
+  {
+    "text": "Which individuals, also mentioned in Colossians, does Paul list as his 'fellow workers' sending greetings?",
+    "options": ["Peter, James, John", "Barnabas, Silas, Titus", "Mark, Aristarchus, Demas, Luke", "Apollos, Priscilla, Aquila"],
+    "correctAnswerIndex": 2,
+    "book": "Philemon",
+    "difficulty": "Medium",
+    "verseReference": "Philemon 24",
+    "verseText": "and so do Mark, Aristarchus, Demas, and Luke, my fellow workers."
+  },
+  {
+    "text": "What is the final blessing Paul offers at the very end of the letter?",
+    "options": ["May you have peace and prosperity.", "May the Lord bless your household.", "The grace of the Lord Jesus Christ be with your spirit.", "May you be filled with wisdom."],
+    "correctAnswerIndex": 2,
+    "book": "Philemon",
+    "difficulty": "Easy",
+    "verseReference": "Philemon 25",
+    "verseText": "The grace of the Lord Jesus Christ be with your spirit."
+  },
+  {
+    "text": "What common Pauline greeting appears near the beginning of the letter?",
+    "options": ["'Greetings in the Lord'", "'Peace be with you'", "'Grace to you and peace from God our Father and the Lord Jesus Christ'", "'Mercy, peace, and love be multiplied to you'"],
+    "correctAnswerIndex": 2,
+    "book": "Philemon",
+    "difficulty": "Easy",
+    "verseReference": "Philemon 3",
+    "verseText": "Grace to you and peace from God our Father and the Lord Jesus Christ."
+  },
+  {
+    "text": "How does Paul refer to Philemon in the opening verse, indicating their relationship in ministry?",
+    "options": ["Our student", "Our benefactor", "Our beloved fellow worker", "Our church elder"],
+    "correctAnswerIndex": 2,
+    "book": "Philemon",
+    "difficulty": "Easy",
+    "verseReference": "Philemon 1",
+    "verseText": "To Philemon our beloved fellow worker"
+  },
+  {
+    "text": "The letter to Philemon provides a practical application of which core Christian principle?",
+    "options": ["End-times prophecy", "Dietary laws", "Forgiveness and reconciliation", "Rules for worship"],
+    "correctAnswerIndex": 2,
+    "book": "Philemon",
+    "difficulty": "Easy",
+    "verseReference": "Whole letter",
+    "verseText": "(The entire letter deals with the reconciliation between Philemon and Onesimus based on their shared faith in Christ)."
+  },
+  {
+    "text": "What is the significance of Paul stating, 'I, Paul, write this with my own hand: I will repay it'?",
+    "options": ["It shows Paul was literate", "It served as a legally binding personal guarantee", "It was merely a figure of speech", "It indicated Philemon couldn't read"],
+    "correctAnswerIndex": 1,
+    "book": "Philemon",
+    "difficulty": "Hard",
+    "verseReference": "Philemon 19",
+    "verseText": "I, Paul, write this with my own hand: I will repay it..."
+  },
+  {
+    "text": "Given the names mentioned (Archippus, Onesimus, Epaphras, Mark, etc.), Philemon likely lived in or near which city?",
+    "options": ["Jerusalem", "Rome", "Corinth", "Colossae"],
+    "correctAnswerIndex": 3,
+    "book": "Philemon",
+    "difficulty": "Hard",
+    "verseReference": "Philemon 2, 10, 23-24; cf. Colossians 4:9, 10, 12, 14, 17",
+    "verseText": "(Many of the same individuals are mentioned in the letter to the Colossians, suggesting geographical proximity)."
+  },
+  {
+    "text": "What does Paul's approach in this letter demonstrate about handling sensitive interpersonal conflicts within the Christian community?",
+    "options": ["The necessity of public confrontation", "The preference for appeal based on love and relationship over command", "The requirement for third-party arbitration", "The importance of ignoring minor issues"],
+    "correctAnswerIndex": 1,
+    "book": "Philemon",
+    "difficulty": "Medium",
+    "verseReference": "Philemon 8-9",
+    "verseText": "(Paul chooses appeal over command, emphasizing love and partnership)."
   }
 ]

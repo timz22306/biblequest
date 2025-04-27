@@ -88,5 +88,275 @@
     "difficulty": "Easy",
     "verseReference": "1 Peter 5:8",
     "verseText": "Be sober-minded; be watchful. Your adversary the devil prowls around like a roaring lion, seeking someone to devour."
+  },
+  {
+    "text": "To whom was 1 Peter originally written?",
+    "options": ["Believers in Jerusalem", "Roman citizens", "Elect exiles of the Dispersion in various regions of Asia Minor", "The church in Corinth"],
+    "correctAnswerIndex": 2,
+    "book": "1 Peter",
+    "difficulty": "Medium",
+    "verseReference": "1 Peter 1:1",
+    "verseText": "Peter, an apostle of Jesus Christ, To those who are elect exiles of the Dispersion in Pontus, Galatia, Cappadocia, Asia, and Bithynia,"
+  },
+  {
+    "text": "According to 1 Peter 1, believers have been born again to what?",
+    "options": ["A life of ease", "Political power", "A living hope through the resurrection of Jesus Christ", "Worldly wisdom"],
+    "correctAnswerIndex": 2,
+    "book": "1 Peter",
+    "difficulty": "Easy",
+    "verseReference": "1 Peter 1:3",
+    "verseText": "Blessed be the God and Father of our Lord Jesus Christ! According to his great mercy, he has caused us to be born again to a living hope through the resurrection of Jesus Christ from the dead,"
+  },
+  {
+    "text": "What is the purpose of trials mentioned in 1 Peter 1?",
+    "options": ["To punish believers", "To test the genuineness of faith, proving it more precious than gold", "To show God's anger", "To make life difficult"],
+    "correctAnswerIndex": 1,
+    "book": "1 Peter",
+    "difficulty": "Medium",
+    "verseReference": "1 Peter 1:6-7",
+    "verseText": "In this you rejoice, though now for a little while, if necessary, you have been grieved by various trials, so that the tested genuineness of your faith—more precious than gold that perishes though it is tested by fire—may be found to result in praise and glory and honor at the revelation of Jesus Christ."
+  },
+  {
+    "text": "Who inquired and searched carefully about the salvation believers now enjoy?",
+    "options": ["Angels", "Roman philosophers", "The prophets", "Kings of the earth"],
+    "correctAnswerIndex": 2,
+    "book": "1 Peter",
+    "difficulty": "Medium",
+    "verseReference": "1 Peter 1:10-11",
+    "verseText": "Concerning this salvation, the prophets who prophesied about the grace that was to be yours searched and inquired carefully, inquiring what person or time the Spirit of Christ in them was indicating when he predicted the sufferings of Christ and the subsequent glories."
+  },
+  {
+    "text": "With what were believers redeemed from their futile ways, according to 1 Peter 1?",
+    "options": ["Silver or gold", "Good works", "The precious blood of Christ", "Obedience to the Law"],
+    "correctAnswerIndex": 2,
+    "book": "1 Peter",
+    "difficulty": "Medium",
+    "verseReference": "1 Peter 1:18-19",
+    "verseText": "knowing that you were ransomed from the futile ways inherited from your forefathers, not with perishable things such as silver or gold, but with the precious blood of Christ, like that of a lamb without blemish or spot."
+  },
+  {
+    "text": "What are believers urged to put away in 1 Peter 2, before craving spiritual milk?",
+    "options": ["Worldly possessions", "Family ties", "All malice, deceit, hypocrisy, envy, and slander", "Their jobs"],
+    "correctAnswerIndex": 2,
+    "book": "1 Peter",
+    "difficulty": "Medium",
+    "verseReference": "1 Peter 2:1",
+    "verseText": "So put away all malice and all deceit and hypocrisy and envy and all slander."
+  },
+  {
+    "text": "Like newborn infants, what should believers crave?",
+    "options": ["Worldly recognition", "Physical food", "Pure spiritual milk", "Political power"],
+    "correctAnswerIndex": 2,
+    "book": "1 Peter",
+    "difficulty": "Easy",
+    "verseReference": "1 Peter 2:2",
+    "verseText": "Like newborn infants, long for the pure spiritual milk, that by it you may grow up into salvation—"
+  },
+  {
+    "text": "In 1 Peter 2, Jesus is referred to as the living stone, rejected by men but what in God's sight?",
+    "options": ["Insignificant", "A stumbling block only", "Chosen and precious", "Temporary"],
+    "correctAnswerIndex": 2,
+    "book": "1 Peter",
+    "difficulty": "Medium",
+    "verseReference": "1 Peter 2:4",
+    "verseText": "As you come to him, a living stone rejected by men but in the sight of God chosen and precious,"
+  },
+  {
+    "text": "What happens to those who reject Christ, the cornerstone, according to 1 Peter 2?",
+    "options": ["They are forgiven anyway", "They stumble because they disobey the word", "They build successfully without Him", "They become apostles"],
+    "correctAnswerIndex": 1,
+    "book": "1 Peter",
+    "difficulty": "Medium",
+    "verseReference": "1 Peter 2:7-8",
+    "verseText": "So the honor is for you who believe, but for those who do not believe, “The stone that the builders rejected has become the cornerstone,” and “A stone of stumbling, and a rock of offense.” They stumble because they disobey the word, as they were destined to do."
+  },
+  {
+    "text": "How should believers conduct themselves among the Gentiles (non-believers)?",
+    "options": ["Withdraw completely", "Adopt their ways", "Keep their conduct honorable, so Gentiles may glorify God", "Judge them harshly"],
+    "correctAnswerIndex": 2,
+    "book": "1 Peter",
+    "difficulty": "Medium",
+    "verseReference": "1 Peter 2:11-12",
+    "verseText": "Beloved, I urge you as sojourners and exiles to abstain from the passions of the flesh, which wage war against your soul. Keep your conduct among the Gentiles honorable, so that when they speak against you as evildoers, they may see your good deeds and glorify God on the day of visitation."
+  },
+  {
+    "text": "What specific instruction does Peter give to servants/slaves regarding their masters?",
+    "options": ["Rebel if the master is harsh", "Be subject with all respect, not only to the good but also to the unjust", "Leave immediately if treated unfairly", "Report them to authorities"],
+    "correctAnswerIndex": 1,
+    "book": "1 Peter",
+    "difficulty": "Medium",
+    "verseReference": "1 Peter 2:18",
+    "verseText": "Servants, be subject to your masters with all respect, not only to the good and gentle but also to the unjust."
+  },
+  {
+    "text": "What example did Christ leave for believers in His suffering?",
+    "options": ["He retaliated when reviled", "He made threats when He suffered", "He entrusted Himself to God who judges justly", "He avoided suffering"],
+    "correctAnswerIndex": 2,
+    "book": "1 Peter",
+    "difficulty": "Medium",
+    "verseReference": "1 Peter 2:21-23",
+    "verseText": "For to this you have been called, because Christ also suffered for you, leaving you an example, so that you might follow in his steps... When he was reviled, he did not revile in return; when he suffered, he did not threaten, but continued entrusting himself to him who judges justly."
+  },
+  {
+    "text": "What should be the imperishable beauty for wives, instead of external adornment?",
+    "options": ["Expensive clothing", "Jewelry", "The hidden person of the heart with the gentle and quiet spirit", "Makeup"],
+    "correctAnswerIndex": 2,
+    "book": "1 Peter",
+    "difficulty": "Medium",
+    "verseReference": "1 Peter 3:3-4",
+    "verseText": "Do not let your adorning be external—the braiding of hair and the putting on of gold jewelry, or the clothing you wear— but let your adorning be the hidden person of the heart with the imperishable beauty of a gentle and quiet spirit, which in God's sight is very precious."
+  },
+  {
+    "text": "How are husbands instructed to live with their wives in 1 Peter 3?",
+    "options": ["As masters", "In an understanding way, showing honor", "Ignoring their needs", "Dominating them"],
+    "correctAnswerIndex": 1,
+    "book": "1 Peter",
+    "difficulty": "Medium",
+    "verseReference": "1 Peter 3:7",
+    "verseText": "Likewise, husbands, live with your wives in an understanding way, showing honor to the woman as the weaker vessel, since they are heirs with you of the grace of life, so that your prayers may not be hindered."
+  },
+  {
+    "text": "What general instruction does Peter give to all believers regarding their interaction with one another in 1 Peter 3?",
+    "options": ["Be divided", "Have unity of mind, sympathy, brotherly love, a tender heart, and a humble mind", "Compete fiercely", "Be judgmental"],
+    "correctAnswerIndex": 1,
+    "book": "1 Peter",
+    "difficulty": "Easy",
+    "verseReference": "1 Peter 3:8",
+    "verseText": "Finally, all of you, have unity of mind, sympathy, brotherly love, a tender heart, and a humble mind."
+  },
+  {
+    "text": "Instead of repaying evil for evil, what response does Peter call for?",
+    "options": ["Seeking revenge", "Ignoring the evil", "Returning a blessing", "Complaining to authorities"],
+    "correctAnswerIndex": 2,
+    "book": "1 Peter",
+    "difficulty": "Easy",
+    "verseReference": "1 Peter 3:9",
+    "verseText": "Do not repay evil for evil or reviling for reviling, but on the contrary, bless, for to this you were called, that you may obtain a blessing."
+  },
+  {
+    "text": "1 Peter 3 mentions Christ preaching to spirits in prison. This likely refers to His proclamation after what event?",
+    "options": ["His birth", "His baptism", "His death and resurrection", "His ascension"],
+    "correctAnswerIndex": 2,
+    "book": "1 Peter",
+    "difficulty": "Hard",
+    "verseReference": "1 Peter 3:18-20",
+    "verseText": "For Christ also suffered once for sins... being put to death in the flesh but made alive in the spirit, in which he went and proclaimed to the spirits in prison, because they formerly did not obey..."
+  },
+  {
+    "text": "What does Peter say baptism now saves believers through?",
+    "options": ["The removal of dirt from the body", "The water itself", "The resurrection of Jesus Christ, as an appeal to God for a good conscience", "Membership in a church"],
+    "correctAnswerIndex": 2,
+    "book": "1 Peter",
+    "difficulty": "Hard",
+    "verseReference": "1 Peter 3:21",
+    "verseText": "Baptism, which corresponds to this, now saves you, not as a removal of dirt from the body but as an appeal to God for a good conscience, through the resurrection of Jesus Christ,"
+  },
+  {
+    "text": "According to 1 Peter 4, how should believers live the rest of their time in the flesh?",
+    "options": ["For human passions", "For the will of God", "Seeking wealth", "Avoiding responsibility"],
+    "correctAnswerIndex": 1,
+    "book": "1 Peter",
+    "difficulty": "Medium",
+    "verseReference": "1 Peter 4:2",
+    "verseText": "so as to live for the rest of the time in the flesh no longer for human passions but for the will of God."
+  },
+  {
+    "text": "What activity does Peter emphasize as particularly important because 'the end of all things is at hand'?",
+    "options": ["Building shelters", "Hoarding food", "Being self-controlled and sober-minded for prayer", "Political campaigning"],
+    "correctAnswerIndex": 2,
+    "book": "1 Peter",
+    "difficulty": "Medium",
+    "verseReference": "1 Peter 4:7",
+    "verseText": "The end of all things is at hand; therefore be self-controlled and sober-minded for the sake of your prayers."
+  },
+  {
+    "text": "Above all, what quality should believers maintain earnestly among themselves, because it covers a multitude of sins?",
+    "options": ["Strict judgment", "Love", "Wealth", "Knowledge"],
+    "correctAnswerIndex": 1,
+    "book": "1 Peter",
+    "difficulty": "Easy",
+    "verseReference": "1 Peter 4:8",
+    "verseText": "Above all, keep loving one another earnestly, since love covers a multitude of sins."
+  },
+  {
+    "text": "How should believers use the spiritual gifts they have received?",
+    "options": ["For personal gain", "To boast about them", "To serve one another, as good stewards of God's varied grace", "Hide them"],
+    "correctAnswerIndex": 2,
+    "book": "1 Peter",
+    "difficulty": "Easy",
+    "verseReference": "1 Peter 4:10",
+    "verseText": "As each has received a gift, use it to serve one another, as good stewards of God's varied grace:"
+  },
+  {
+    "text": "If believers suffer according to God's will, what should they do?",
+    "options": ["Curse God", "Give up their faith", "Entrust their souls to a faithful Creator while doing good", "Seek revenge"],
+    "correctAnswerIndex": 2,
+    "book": "1 Peter",
+    "difficulty": "Medium",
+    "verseReference": "1 Peter 4:19",
+    "verseText": "Therefore let those who suffer according to God's will entrust their souls to a faithful Creator while doing good."
+  },
+  {
+    "text": "What instructions does Peter give to elders regarding shepherding the flock?",
+    "options": ["Rule harshly", "Exercise oversight willingly, eagerly, and as examples, not for shameful gain", "Avoid responsibility", "Seek personal glory"],
+    "correctAnswerIndex": 1,
+    "book": "1 Peter",
+    "difficulty": "Medium",
+    "verseReference": "1 Peter 5:1-3",
+    "verseText": "shepherd the flock of God that is among you, exercising oversight, not under compulsion, but willingly, as God would have you; not for shameful gain, but eagerly; not domineering over those in your charge, but being examples to the flock."
+  },
+  {
+    "text": "What reward is promised to elders who shepherd faithfully when the Chief Shepherd appears?",
+    "options": ["Earthly riches", "Political power", "The unfading crown of glory", "A long life"],
+    "correctAnswerIndex": 2,
+    "book": "1 Peter",
+    "difficulty": "Medium",
+    "verseReference": "1 Peter 5:4",
+    "verseText": "And when the chief Shepherd appears, you will receive the unfading crown of glory."
+  },
+  {
+    "text": "How should younger men relate to the elders?",
+    "options": ["Ignore them", "Be subject to the elders", "Try to usurp their authority", "Criticize them"],
+    "correctAnswerIndex": 1,
+    "book": "1 Peter",
+    "difficulty": "Easy",
+    "verseReference": "1 Peter 5:5",
+    "verseText": "Likewise, you who are younger, be subject to the elders."
+  },
+  {
+    "text": "What attitude should all believers clothe themselves with toward one another?",
+    "options": ["Pride", "Arrogance", "Humility", "Indifference"],
+    "correctAnswerIndex": 2,
+    "book": "1 Peter",
+    "difficulty": "Easy",
+    "verseReference": "1 Peter 5:5",
+    "verseText": "Clothe yourselves, all of you, with humility toward one another, for “God opposes the proud but gives grace to the humble.”"
+  },
+  {
+    "text": "What should believers cast upon God, because He cares for them?",
+    "options": ["Their riches", "Their doubts", "All their anxieties", "Their achievements"],
+    "correctAnswerIndex": 2,
+    "book": "1 Peter",
+    "difficulty": "Easy",
+    "verseReference": "1 Peter 5:7",
+    "verseText": "casting all your anxieties on him, because he cares for you."
+  },
+  {
+    "text": "How are believers instructed to respond to the devil?",
+    "options": ["Ignore him", "Flee from him", "Resist him, firm in the faith", "Try to bargain with him"],
+    "correctAnswerIndex": 2,
+    "book": "1 Peter",
+    "difficulty": "Easy",
+    "verseReference": "1 Peter 5:9",
+    "verseText": "Resist him, firm in your faith, knowing that the same kinds of suffering are being experienced by your brotherhood throughout the world."
+  },
+  {
+    "text": "After believers have suffered a little while, what will the God of all grace do?",
+    "options": ["Abandon them", "Give them more suffering", "Himself restore, confirm, strengthen, and establish them", "Judge them"],
+    "correctAnswerIndex": 2,
+    "book": "1 Peter",
+    "difficulty": "Medium",
+    "verseReference": "1 Peter 5:10",
+    "verseText": "And after you have suffered a little while, the God of all grace, who has called you to his eternal glory in Christ, will himself restore, confirm, strengthen, and establish you."
   }
 ]

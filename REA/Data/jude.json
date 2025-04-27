@@ -1,6 +1,6 @@
 [
   {
-    "text": "Who identifies himself as the author of the Epistle of Jude?",
+    "text": "At the beginning of the letter, who identifies himself as the author?",
     "options": ["Judas Iscariot", "Jude, a servant of Jesus Christ and brother of James", "An unknown Jude", "Paul"],
     "correctAnswerIndex": 1,
     "book": "Jude",
@@ -9,7 +9,7 @@
     "verseText": "Jude, a servant of Jesus Christ and brother of James, To those who are called, beloved in God the Father and kept for Jesus Christ:"
   },
   {
-    "text": "What did Jude originally intend to write about before changing his topic?",
+    "text": "Regarding the purpose of his letter, what topic did Jude initially want to address before feeling compelled to change?",
     "options": ["The end times", "Church leadership", "Their common salvation", "How to pray"],
     "correctAnswerIndex": 2,
     "book": "Jude",
@@ -18,7 +18,7 @@
     "verseText": "Beloved, although I was very eager to write to you about our common salvation, I found it necessary to write appealing to you to contend for the faith..."
   },
   {
-    "text": "What did Jude find it necessary to urge his readers to do instead?",
+    "text": "Instead of his original topic, what did Jude find it necessary to urge his readers to do?",
     "options": ["Separate from the world", "Contend earnestly for the faith once for all delivered to the saints", "Focus on spiritual gifts", "Build a larger church"],
     "correctAnswerIndex": 1,
     "book": "Jude",
@@ -27,8 +27,8 @@
     "verseText": "...I found it necessary to write appealing to you to contend for the faith that was once for all delivered to the saints."
   },
   {
-    "text": "Why was it necessary for Jude to urge them to contend for the faith?",
-    "options": ["Because of Roman persecution", "Because certain people had crept in unnoticed, promoting ungodliness", "Because the apostles were dying", "Because of a famine"],
+    "text": "What was the primary reason Jude urged his readers to contend earnestly for the faith?",
+    "options": ["Because of Roman persecution", "Because certain ungodly people had crept in unnoticed", "Because the apostles were dying", "Because of a famine"],
     "correctAnswerIndex": 1,
     "book": "Jude",
     "difficulty": "Medium",
@@ -36,16 +36,34 @@
     "verseText": "For certain people have crept in unnoticed who long ago were designated for this condemnation, ungodly people, who pervert the grace of our God into sensuality and deny our only Master and Lord, Jesus Christ."
   },
   {
-    "text": "Jude uses several Old Testament examples to illustrate the judgment that falls on the ungodly and apostate. Which examples does he use?",
-    "options": ["David, Solomon, Hezekiah", "Israelites delivered from Egypt who later disbelieved, angels who sinned, Sodom and Gomorrah", "Abraham, Isaac, Jacob", "Moses, Aaron, Miriam"],
+    "text": "To illustrate the certainty of judgment on the ungodly, Jude reminds his readers of past events. Which group, despite being saved from Egypt, was later destroyed for unbelief?",
+    "options": ["The Philistines", "The generation of Israelites who disbelieved", "The Egyptians", "The Canaanites"],
     "correctAnswerIndex": 1,
     "book": "Jude",
-    "difficulty": "Hard",
-    "verseReference": "Jude 5-7",
-    "verseText": "Now I want to remind you... that Jesus, who saved a people out of the land of Egypt, afterward destroyed those who did not believe. And the angels who did not stay within their own position of authority... he has kept in eternal chains... just as Sodom and Gomorrah... serve as an example by undergoing a punishment of eternal fire."
+    "difficulty": "Medium",
+    "verseReference": "Jude 5",
+    "verseText": "Now I want to remind you, although you once fully knew it, that Jesus, who saved a people out of the land of Egypt, afterward destroyed those who did not believe."
   },
   {
-    "text": "Jude also compares the false teachers to which three rebellious Old Testament figures?",
+    "text": "As another example of judgment, Jude mentions beings who abandoned their proper domain. Who are these beings?",
+    "options": ["Fallen kings", "Disobedient prophets", "Angels who sinned", "Rebellious priests"],
+    "correctAnswerIndex": 2,
+    "book": "Jude",
+    "difficulty": "Medium",
+    "verseReference": "Jude 6",
+    "verseText": "And the angels who did not stay within their own position of authority, but left their proper dwelling, he has kept in eternal chains under gloomy darkness until the judgment of the great day—"
+  },
+  {
+    "text": "Which cities does Jude cite as undergoing the punishment of eternal fire for sexual immorality and unnatural desire?",
+    "options": ["Jerusalem and Jericho", "Babylon and Nineveh", "Tyre and Sidon", "Sodom and Gomorrah and the surrounding cities"],
+    "correctAnswerIndex": 3,
+    "book": "Jude",
+    "difficulty": "Easy",
+    "verseReference": "Jude 7",
+    "verseText": "just as Sodom and Gomorrah and the surrounding cities, which likewise indulged in sexual immorality and pursued unnatural desire, serve as an example by undergoing a punishment of eternal fire."
+  },
+  {
+    "text": "Jude compares the false teachers infiltrating the church to three specific rebellious figures from the Old Testament. Who are they?",
     "options": ["Saul, Absalom, Jeroboam", "Cain, Balaam, Korah", "Achan, Samson, Eli's sons", "Pharaoh, Nebuchadnezzar, Haman"],
     "correctAnswerIndex": 1,
     "book": "Jude",
@@ -54,8 +72,8 @@
     "verseText": "Woe to them! For they walked in the way of Cain and abandoned themselves for the sake of gain to Balaam's error and perished in Korah's rebellion."
   },
   {
-    "text": "What event involving the Archangel Michael and the devil does Jude reference (from non-biblical tradition)?",
-    "options": ["A battle over heaven", "A dispute about the body of Moses", "A debate about Job", "A wrestling match"],
+    "text": "Jude references an event from non-canonical tradition involving the Archangel Michael. What was the dispute about?",
+    "options": ["Control over the nations", "The body of Moses", "The interpretation of prophecy", "The throne of God"],
     "correctAnswerIndex": 1,
     "book": "Jude",
     "difficulty": "Hard",
@@ -63,8 +81,8 @@
     "verseText": "But when the archangel Michael, contending with the devil, was disputing about the body of Moses, he did not presume to pronounce a blasphemous judgment, but said, “The Lord rebuke you.”"
   },
   {
-    "text": "How does Jude instruct believers to build themselves up and keep themselves in God's love?",
-    "options": ["By arguing with false teachers", "By isolating themselves", "By building themselves up in their most holy faith and praying in the Holy Spirit", "By accumulating wealth"],
+    "text": "How does Jude instruct believers to respond spiritually amidst the challenges posed by false teachers?",
+    "options": ["By engaging in constant debate", "By isolating themselves completely", "By building themselves up in faith and praying in the Holy Spirit", "By seeking political power"],
     "correctAnswerIndex": 2,
     "book": "Jude",
     "difficulty": "Medium",
@@ -72,21 +90,381 @@
     "verseText": "But you, beloved, building yourselves up in your most holy faith and praying in the Holy Spirit, keep yourselves in the love of God, waiting for the mercy of our Lord Jesus Christ that leads to eternal life."
   },
   {
-    "text": "How should believers treat those who doubt or are caught up in the error Jude describes?",
-    "options": ["Condemn them immediately", "Have mercy on those who doubt; save others by snatching them out of the fire", "Ignore them", "Argue with them forcefully"],
+    "text": "What attitude and action does Jude recommend towards those who are doubting?",
+    "options": ["Immediate condemnation", "Have mercy", "Ignore them", "Publicly shame them"],
     "correctAnswerIndex": 1,
     "book": "Jude",
     "difficulty": "Medium",
-    "verseReference": "Jude 22-23",
-    "verseText": "And have mercy on those who doubt; save others by snatching them out of the fire; to others show mercy with fear, hating even the garment stained by the flesh."
+    "verseReference": "Jude 22",
+    "verseText": "And have mercy on those who doubt;"
   },
   {
-    "text": "The book of Jude ends with a powerful doxology (praise) to whom?",
-    "options": ["The angels", "The apostles", "God, who is able to keep believers from stumbling and present them blameless", "The church leaders"],
+    "text": "How should believers interact with those ensnared by the false teachings, according to Jude's instruction?",
+    "options": ["Engage them in endless arguments", "Save them by snatching them out of the fire", "Avoid them entirely", "Report them to authorities"],
+    "correctAnswerIndex": 1,
+    "book": "Jude",
+    "difficulty": "Medium",
+    "verseReference": "Jude 23",
+    "verseText": "save others by snatching them out of the fire; to others show mercy with fear, hating even the garment stained by the flesh."
+  },
+  {
+    "text": "The letter concludes with a powerful doxology (praise). To whom is this praise directed?",
+    "options": ["The Archangel Michael", "The apostles", "God, who is able to keep believers from stumbling", "The faithful church members"],
     "correctAnswerIndex": 2,
     "book": "Jude",
     "difficulty": "Easy",
     "verseReference": "Jude 24-25",
     "verseText": "Now to him who is able to keep you from stumbling and to present you blameless before the presence of his glory with great joy, to the only God, our Savior, through Jesus Christ our Lord, be glory, majesty, dominion, and authority, before all time and now and forever. Amen."
+  },
+  {
+    "text": "To whom is the Epistle of Jude addressed?",
+    "options": ["The Gentiles", "The Jewish leaders", "Those who are called, beloved in God the Father, and kept for Jesus Christ", "The Roman Emperor"],
+    "correctAnswerIndex": 2,
+    "book": "Jude",
+    "difficulty": "Easy",
+    "verseReference": "Jude 1",
+    "verseText": "Jude, a servant of Jesus Christ and brother of James, To those who are called, beloved in God the Father and kept for Jesus Christ:"
+  },
+  {
+    "text": "What relationship does the author Jude claim to James?",
+    "options": ["Son", "Father", "Brother", "Cousin"],
+    "correctAnswerIndex": 2,
+    "book": "Jude",
+    "difficulty": "Easy",
+    "verseReference": "Jude 1",
+    "verseText": "Jude, a servant of Jesus Christ and brother of James..."
+  },
+  {
+    "text": "What specific danger prompted Jude to write his letter?",
+    "options": ["Physical persecution", "A natural disaster", "The infiltration of ungodly false teachers", "A leadership vacuum"],
+    "correctAnswerIndex": 2,
+    "book": "Jude",
+    "difficulty": "Medium",
+    "verseReference": "Jude 4",
+    "verseText": "For certain people have crept in unnoticed... ungodly people, who pervert the grace of our God into sensuality and deny our only Master and Lord, Jesus Christ."
+  },
+  {
+    "text": "How are the false teachers described as entering the community?",
+    "options": ["Openly and honestly", "With letters of recommendation", "Having crept in unnoticed", "By force"],
+    "correctAnswerIndex": 2,
+    "book": "Jude",
+    "difficulty": "Medium",
+    "verseReference": "Jude 4",
+    "verseText": "For certain people have crept in unnoticed..."
+  },
+  {
+    "text": "What distortion of God's grace were the false teachers promoting?",
+    "options": ["That grace required strict law-keeping", "That grace was only for a select few", "Perverting grace into sensuality (license to sin)", "That grace could be earned by works"],
+    "correctAnswerIndex": 2,
+    "book": "Jude",
+    "difficulty": "Medium",
+    "verseReference": "Jude 4",
+    "verseText": "...ungodly people, who pervert the grace of our God into sensuality..."
+  },
+  {
+    "text": "Besides distorting grace, what else did the false teachers deny?",
+    "options": ["The existence of angels", "The need for prayer", "Their only Master and Lord, Jesus Christ", "The authority of the Old Testament"],
+    "correctAnswerIndex": 2,
+    "book": "Jude",
+    "difficulty": "Medium",
+    "verseReference": "Jude 4",
+    "verseText": "...and deny our only Master and Lord, Jesus Christ."
+  },
+  {
+    "text": "What is the ultimate destiny Jude mentions for the angels who sinned?",
+    "options": ["Restoration", "Annihilation", "Kept in eternal chains under gloomy darkness", "Given dominion over earth"],
+    "correctAnswerIndex": 2,
+    "book": "Jude",
+    "difficulty": "Hard",
+    "verseReference": "Jude 6",
+    "verseText": "...he has kept in eternal chains under gloomy darkness until the judgment of the great day—"
+  },
+  {
+    "text": "Jude describes the false teachers based on their actions and attitudes. What do they defile?",
+    "options": ["The temple", "The Scriptures", "The flesh", "Holy garments"],
+    "correctAnswerIndex": 2,
+    "book": "Jude",
+    "difficulty": "Medium",
+    "verseReference": "Jude 8",
+    "verseText": "Yet in like manner these people—relying on their dreams—defile the flesh, reject authority, and blaspheme the glorious ones."
+  },
+  {
+    "text": "What do the false teachers reject, according to Jude's description?",
+    "options": ["Material possessions", "Worldly pleasures", "Authority", "Fellowship"],
+    "correctAnswerIndex": 2,
+    "book": "Jude",
+    "difficulty": "Medium",
+    "verseReference": "Jude 8",
+    "verseText": "...reject authority, and blaspheme the glorious ones."
+  },
+  {
+    "text": "What behavior does Jude condemn when he mentions the false teachers 'blaspheme the glorious ones'?",
+    "options": ["Speaking evil of angelic beings", "Criticizing church leaders", "Disrespecting Roman officials", "Ignoring the poor"],
+    "correctAnswerIndex": 0,
+    "book": "Jude",
+    "difficulty": "Hard",
+    "verseReference": "Jude 8",
+    "verseText": "...and blaspheme the glorious ones."
+  },
+  {
+    "text": "In the dispute over Moses' body, what did Michael the archangel refrain from doing?",
+    "options": ["Engaging in the dispute", "Calling on God for help", "Pronouncing a blasphemous judgment against the devil", "Claiming the body"],
+    "correctAnswerIndex": 2,
+    "book": "Jude",
+    "difficulty": "Medium",
+    "verseReference": "Jude 9",
+    "verseText": "...he did not presume to pronounce a blasphemous judgment, but said, “The Lord rebuke you.”"
+  },
+  {
+    "text": "What did Michael say to the devil instead of pronouncing judgment himself?",
+    "options": ["'Get behind me, Satan!'", "'You have no authority here.'", "'The Lord rebuke you.'", "'I cast you out.'"],
+    "correctAnswerIndex": 2,
+    "book": "Jude",
+    "difficulty": "Easy",
+    "verseReference": "Jude 9",
+    "verseText": "...but said, “The Lord rebuke you.”"
+  },
+  {
+    "text": "How does Jude characterize the understanding of the false teachers regarding spiritual matters?",
+    "options": ["They have deep insight", "They blaspheme what they do not understand", "They rely solely on scripture", "They seek wisdom from God"],
+    "correctAnswerIndex": 1,
+    "book": "Jude",
+    "difficulty": "Medium",
+    "verseReference": "Jude 10",
+    "verseText": "But these people blaspheme all that they do not understand, and they are destroyed by all that they, like unreasoning animals, understand instinctively."
+  },
+  {
+    "text": "Jude compares the false teachers' instinctive behavior to what?",
+    "options": ["Wise serpents", "Innocent doves", "Unreasoning animals", "Busy ants"],
+    "correctAnswerIndex": 2,
+    "book": "Jude",
+    "difficulty": "Medium",
+    "verseReference": "Jude 10",
+    "verseText": "...and they are destroyed by all that they, like unreasoning animals, understand instinctively."
+  },
+  {
+    "text": "What motivated Balaam's error, which the false teachers followed?",
+    "options": ["Desire for power", "Seeking truth", "The sake of gain (money)", "National pride"],
+    "correctAnswerIndex": 2,
+    "book": "Jude",
+    "difficulty": "Medium",
+    "verseReference": "Jude 11",
+    "verseText": "...and abandoned themselves for the sake of gain to Balaam's error..."
+  },
+  {
+    "text": "What rebellion does Jude reference, in which the participants perished?",
+    "options": ["Absalom's rebellion", "Jeroboam's rebellion", "Korah's rebellion", "The Maccabean revolt"],
+    "correctAnswerIndex": 2,
+    "book": "Jude",
+    "difficulty": "Medium",
+    "verseReference": "Jude 11",
+    "verseText": "...and perished in Korah's rebellion."
+  },
+  {
+    "text": "Jude uses several metaphors to describe the false teachers. What are they called in the context of fellowship meals ('love feasts')?",
+    "options": ["Pillars of the community", "Hidden reefs", "Bright lights", "Generous hosts"],
+    "correctAnswerIndex": 1,
+    "book": "Jude",
+    "difficulty": "Hard",
+    "verseReference": "Jude 12",
+    "verseText": "These are hidden reefs at your love feasts, as they feast with you without fear, shepherds feeding themselves..."
+  },
+  {
+    "text": "As shepherds, how are the false teachers described?",
+    "options": ["Caring for the flock", "Guiding the sheep", "Feeding themselves", "Protecting the fold"],
+    "correctAnswerIndex": 2,
+    "book": "Jude",
+    "difficulty": "Medium",
+    "verseReference": "Jude 12",
+    "verseText": "...shepherds feeding themselves..."
+  },
+  {
+    "text": "Which natural phenomena are used metaphorically by Jude to describe the false teachers' lack of spiritual substance?",
+    "options": ["Life-giving rivers", "Fruitful trees in season", "Waterless clouds, fruitless trees", "Steady mountains"],
+    "correctAnswerIndex": 2,
+    "book": "Jude",
+    "difficulty": "Medium",
+    "verseReference": "Jude 12",
+    "verseText": "...waterless clouds, swept along by winds; fruitless trees in late autumn, twice dead, uprooted;"
+  },
+  {
+    "text": "How are the fruitless trees representing the false teachers further described?",
+    "options": ["Ready for harvest", "Bearing good fruit", "Twice dead, uprooted", "Providing shade"],
+    "correctAnswerIndex": 2,
+    "book": "Jude",
+    "difficulty": "Hard",
+    "verseReference": "Jude 12",
+    "verseText": "...fruitless trees in late autumn, twice dead, uprooted;"
+  },
+  {
+    "text": "What other chaotic natural images does Jude use for the false teachers?",
+    "options": ["Calm seas and gentle breezes", "Solid rocks and firm ground", "Wild waves of the sea, wandering stars", "Warm sunshine and clear skies"],
+    "correctAnswerIndex": 2,
+    "book": "Jude",
+    "difficulty": "Medium",
+    "verseReference": "Jude 13",
+    "verseText": "wild waves of the sea, casting up the foam of their own shame; wandering stars, for whom the gloom of utter darkness has been reserved forever."
+  },
+  {
+    "text": "What is reserved for the 'wandering stars' (false teachers)?",
+    "options": ["Eternal light", "A place of honor", "The gloom of utter darkness forever", "A chance for repentance"],
+    "correctAnswerIndex": 2,
+    "book": "Jude",
+    "difficulty": "Medium",
+    "verseReference": "Jude 13",
+    "verseText": "...wandering stars, for whom the gloom of utter darkness has been reserved forever."
+  },
+  {
+    "text": "Jude quotes a prophecy about the Lord's coming judgment. Who does he attribute this prophecy to?",
+    "options": ["Isaiah", "Moses", "Enoch, the seventh from Adam", "David"],
+    "correctAnswerIndex": 2,
+    "book": "Jude",
+    "difficulty": "Hard",
+    "verseReference": "Jude 14",
+    "verseText": "It was also about these that Enoch, the seventh from Adam, prophesied, saying, “Behold, the Lord comes with ten thousands of his holy ones,"
+  },
+  {
+    "text": "According to the prophecy cited by Jude, what will the Lord execute upon his return?",
+    "options": ["Rewards for all", "A new covenant", "Judgment on all", "A feast"],
+    "correctAnswerIndex": 2,
+    "book": "Jude",
+    "difficulty": "Medium",
+    "verseReference": "Jude 15",
+    "verseText": "to execute judgment on all and to convict all the ungodly of all their deeds of ungodliness that they have committed in such an ungodly way..."
+  },
+  {
+    "text": "What specific characteristics describe the ungodly people mentioned in Jude's warning?",
+    "options": ["Humble and quiet", "Content and thankful", "Grumblers, malcontents, following their own sinful desires", "Generous and kind"],
+    "correctAnswerIndex": 2,
+    "book": "Jude",
+    "difficulty": "Medium",
+    "verseReference": "Jude 16",
+    "verseText": "These are grumblers, malcontents, following their own sinful desires; they are loud-mouthed boasters, showing favoritism to gain advantage."
+  },
+  {
+    "text": "How are the false teachers described in terms of their speech?",
+    "options": ["Soft-spoken and wise", "Silent and reserved", "Loud-mouthed boasters", "Speaking only truth"],
+    "correctAnswerIndex": 2,
+    "book": "Jude",
+    "difficulty": "Medium",
+    "verseReference": "Jude 16",
+    "verseText": "...they are loud-mouthed boasters, showing favoritism to gain advantage."
+  },
+  {
+    "text": "Why do these false teachers show favoritism?",
+    "options": ["Out of genuine kindness", "To promote unity", "To gain advantage", "Because they value everyone equally"],
+    "correctAnswerIndex": 2,
+    "book": "Jude",
+    "difficulty": "Medium",
+    "verseReference": "Jude 16",
+    "verseText": "...showing favoritism to gain advantage."
+  },
+  {
+    "text": "Jude reminds his readers of predictions made by whom?",
+    "options": ["The Old Testament prophets", "The Roman philosophers", "The apostles of our Lord Jesus Christ", "The angels"],
+    "correctAnswerIndex": 2,
+    "book": "Jude",
+    "difficulty": "Easy",
+    "verseReference": "Jude 17",
+    "verseText": "But you must remember, beloved, the predictions of the apostles of our Lord Jesus Christ."
+  },
+  {
+    "text": "What did the apostles predict would happen in the last time?",
+    "options": ["Universal peace", "The rebuilding of the temple", "Scoffers will come, following their own ungodly passions", "All nations will turn to God"],
+    "correctAnswerIndex": 2,
+    "book": "Jude",
+    "difficulty": "Medium",
+    "verseReference": "Jude 18",
+    "verseText": "They said to you, “In the last time there will be scoffers, following their own ungodly passions.”"
+  },
+  {
+    "text": "How does Jude describe the people who cause divisions?",
+    "options": ["Spirit-filled leaders", "Wise counselors", "Worldly people, devoid of the Spirit", "Mature believers"],
+    "correctAnswerIndex": 2,
+    "book": "Jude",
+    "difficulty": "Medium",
+    "verseReference": "Jude 19",
+    "verseText": "It is these who cause divisions, worldly people, devoid of the Spirit."
+  },
+  {
+    "text": "What foundation should believers build themselves up on?",
+    "options": ["Their own good works", "Philosophical reasoning", "Their most holy faith", "Popular opinion"],
+    "correctAnswerIndex": 2,
+    "book": "Jude",
+    "difficulty": "Easy",
+    "verseReference": "Jude 20",
+    "verseText": "But you, beloved, building yourselves up in your most holy faith..."
+  },
+  {
+    "text": "How are believers encouraged to pray?",
+    "options": ["Silently", "Using prescribed formulas", "In the Holy Spirit", "Only in times of trouble"],
+    "correctAnswerIndex": 2,
+    "book": "Jude",
+    "difficulty": "Easy",
+    "verseReference": "Jude 20",
+    "verseText": "...and praying in the Holy Spirit,"
+  },
+  {
+    "text": "What are believers instructed to keep themselves in?",
+    "options": ["Isolation", "Constant activity", "The love of God", "Financial security"],
+    "correctAnswerIndex": 2,
+    "book": "Jude",
+    "difficulty": "Easy",
+    "verseReference": "Jude 21",
+    "verseText": "keep yourselves in the love of God..."
+  },
+  {
+    "text": "While keeping themselves in God's love, what should believers wait for?",
+    "options": ["Signs and wonders", "The end of persecution", "The mercy of our Lord Jesus Christ that leads to eternal life", "A new apostle"],
+    "correctAnswerIndex": 2,
+    "book": "Jude",
+    "difficulty": "Medium",
+    "verseReference": "Jude 21",
+    "verseText": "...waiting for the mercy of our Lord Jesus Christ that leads to eternal life."
+  },
+  {
+    "text": "When showing mercy to some, what attitude should accompany it?",
+    "options": ["Pride", "Indifference", "Fear (reverence/caution)", "Superiority"],
+    "correctAnswerIndex": 2,
+    "book": "Jude",
+    "difficulty": "Medium",
+    "verseReference": "Jude 23",
+    "verseText": "...to others show mercy with fear, hating even the garment stained by the flesh."
+  },
+  {
+    "text": "What specific defilement should believers hate even while showing mercy?",
+    "options": ["The person's background", "Their lack of knowledge", "Even the garment stained by the flesh", "Their previous associations"],
+    "correctAnswerIndex": 2,
+    "book": "Jude",
+    "difficulty": "Hard",
+    "verseReference": "Jude 23",
+    "verseText": "...hating even the garment stained by the flesh."
+  },
+  {
+    "text": "According to the final doxology, what is God able to do for believers?",
+    "options": ["Make them wealthy", "Prevent all hardship", "Keep them from stumbling", "Give them political power"],
+    "correctAnswerIndex": 2,
+    "book": "Jude",
+    "difficulty": "Easy",
+    "verseReference": "Jude 24",
+    "verseText": "Now to him who is able to keep you from stumbling..."
+  },
+  {
+    "text": "How will God present believers before His glory?",
+    "options": ["With fear and trembling", "Ashamed", "Blameless with great joy", "Humbly asking for entrance"],
+    "correctAnswerIndex": 2,
+    "book": "Jude",
+    "difficulty": "Medium",
+    "verseReference": "Jude 24",
+    "verseText": "...and to present you blameless before the presence of his glory with great joy,"
+  },
+  {
+    "text": "Through whom is glory, majesty, dominion, and authority ascribed to the only God?",
+    "options": ["The angels", "The prophets", "Jesus Christ our Lord", "The church"],
+    "correctAnswerIndex": 2,
+    "book": "Jude",
+    "difficulty": "Easy",
+    "verseReference": "Jude 25",
+    "verseText": "...to the only God, our Savior, through Jesus Christ our Lord, be glory, majesty, dominion, and authority, before all time and now and forever. Amen."
   }
 ]

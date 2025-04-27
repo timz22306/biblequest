@@ -1,6 +1,6 @@
 [
   {
-    "text": "Who is the author of the Epistle to the Ephesians?",
+    "text": "Who identifies himself as 'an apostle of Christ Jesus by the will of God' at the beginning of the letter?",
     "options": ["Timothy", "Paul", "Apollos", "Silas"],
     "correctAnswerIndex": 1,
     "book": "Ephesians",
@@ -9,8 +9,8 @@
     "verseText": "Paul, an apostle of Christ Jesus by the will of God, To the saints who are in Ephesus, and are faithful in Christ Jesus:"
   },
   {
-    "text": "A major theme in Ephesians is the concept of the Church as what?",
-    "options": ["A political entity", "A temporary gathering", "The body of Christ, uniting Jews and Gentiles", "A building made of stone"],
+    "text": "A central theme throughout Ephesians is the Church, described metaphorically as what entity united under Christ?",
+    "options": ["A political kingdom", "A philosophical school", "The body of Christ, uniting Jews and Gentiles", "A well-run business"],
     "correctAnswerIndex": 2,
     "book": "Ephesians",
     "difficulty": "Easy",
@@ -18,8 +18,8 @@
     "verseText": "And he put all things under his feet and gave him as head over all things to the church, which is his body... For he himself is our peace, who has made us both one and has broken down in his flesh the dividing wall of hostility... that he might create in himself one new man in place of the two... There is one body and one Spirit..."
   },
   {
-    "text": "Ephesians 2:8-9 states that salvation comes by grace through faith, and not as a result of what?",
-    "options": ["Predestination", "Works", "Knowledge", "Baptism"],
+    "text": "The letter famously states that salvation is by grace through faith. What does it explicitly say salvation is NOT a result of?",
+    "options": ["God's foreknowledge", "Works", "Intellectual understanding", "Water baptism"],
     "correctAnswerIndex": 1,
     "book": "Ephesians",
     "difficulty": "Easy",
@@ -27,8 +27,8 @@
     "verseText": "For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast."
   },
   {
-    "text": "In Ephesians 2:19-22, the Church is described as a household built on the foundation of whom/what?",
-    "options": ["Peter and the apostles", "The Law of Moses", "The apostles and prophets, with Christ Jesus himself as the cornerstone", "Good deeds"],
+    "text": "When describing believers as 'members of the household of God', what foundation is this household said to be built upon?",
+    "options": ["The teachings of Peter", "The Law given to Moses", "The apostles and prophets, with Christ Jesus himself as the cornerstone", "Human traditions"],
     "correctAnswerIndex": 2,
     "book": "Ephesians",
     "difficulty": "Medium",
@@ -36,8 +36,8 @@
     "verseText": "So then you are no longer strangers and aliens, but you are fellow citizens with the saints and members of the household of God, built on the foundation of the apostles and prophets, Christ Jesus himself being the cornerstone,"
   },
   {
-    "text": "What does Paul pray for the Ephesians in chapter 3, regarding God's love?",
-    "options": ["That they would understand its basic principles", "That they would have strength to comprehend its breadth, length, height, and depth", "That they would show it only to fellow believers", "That it would make them wealthy"],
+    "text": "In Paul's prayer for the believers, what does he ask that they might have strength to comprehend regarding Christ's love?",
+    "options": ["Its financial benefits", "Its breadth and length and height and depth", "Its exclusivity for Israel", "Its logical structure"],
     "correctAnswerIndex": 1,
     "book": "Ephesians",
     "difficulty": "Medium",
@@ -45,8 +45,8 @@
     "verseText": "so that Christ may dwell in your hearts through faith—that you, being rooted and grounded in love, may have strength to comprehend with all the saints what is the breadth and length and height and depth, and to know the love of Christ that surpasses knowledge, that you may be filled with all the fullness of God."
   },
   {
-    "text": "Ephesians 4 urges believers to 'walk in a manner worthy of the calling' and maintain what?",
-    "options": ["Their cultural traditions", "The unity of the Spirit in the bond of peace", "Separation from the world", "Strict adherence to rules"],
+    "text": "Believers are urged to 'walk in a manner worthy of the calling'. What attitude should characterize this walk, maintaining unity?",
+    "options": ["Pride and assertiveness", "Humility, gentleness, patience, bearing with one another in love", "Strict judgment of outsiders", "Isolation from others"],
     "correctAnswerIndex": 1,
     "book": "Ephesians",
     "difficulty": "Easy",
@@ -54,8 +54,8 @@
     "verseText": "I therefore, a prisoner for the Lord, urge you to walk in a manner worthy of the calling to which you have been called, with all humility and gentleness, with patience, bearing with one another in love, eager to maintain the unity of the Spirit in the bond of peace."
   },
   {
-    "text": "What roles or gifts does Ephesians 4:11 list as given by Christ for equipping the saints?",
-    "options": ["Healing, miracles, tongues", "Apostles, prophets, evangelists, shepherds (pastors), teachers", "Wisdom, knowledge, faith", "Administrators, helpers, leaders"],
+    "text": "What specific leadership roles does the letter list as gifts Christ gave 'to equip the saints for the work of ministry'?",
+    "options": ["Healers, miracle workers, speakers in tongues", "Apostles, prophets, evangelists, shepherds (pastors), teachers", "Scribes, Pharisees, Sadducees", "Deacons, elders, bishops"],
     "correctAnswerIndex": 1,
     "book": "Ephesians",
     "difficulty": "Medium",
@@ -63,8 +63,8 @@
     "verseText": "And he gave the apostles, the prophets, the evangelists, the shepherds and teachers, to equip the saints for the work of ministry, for building up the body of Christ,"
   },
   {
-    "text": "Ephesians 5 contains instructions for relationships within the household, including husbands and wives, comparing the husband's love for his wife to what?",
-    "options": ["A king's love for his subjects", "Christ's love for the church", "A master's love for his servant", "A father's love for his child"],
+    "text": "Within the household instructions, the love husbands should have for wives is compared to what profound relationship?",
+    "options": ["A general's love for his army", "Christ's love for the church", "A teacher's love for his students", "A farmer's love for his land"],
     "correctAnswerIndex": 1,
     "book": "Ephesians",
     "difficulty": "Medium",
@@ -72,8 +72,8 @@
     "verseText": "Husbands, love your wives, as Christ loved the church and gave himself up for her,"
   },
   {
-    "text": "What metaphor does Paul use in Ephesians 6 to describe the believer's defense against spiritual evil?",
-    "options": ["A fortified city", "A well-trained army", "The armor of God", "A sturdy ship"],
+    "text": "What extended metaphor does Paul employ in the final chapter to illustrate the believer's resources for standing against spiritual evil?",
+    "options": ["Building a fortress", "Training for a race", "Putting on the armor of God", "Navigating a ship"],
     "correctAnswerIndex": 2,
     "book": "Ephesians",
     "difficulty": "Easy",
@@ -81,12 +81,597 @@
     "verseText": "Put on the whole armor of God, that you may be able to stand against the schemes of the devil... Therefore take up the whole armor of God, that you may be able to withstand in the evil day, and having done all, to stand firm."
   },
   {
-    "text": "Which piece of the armor of God is identified as the Word of God?",
-    "options": ["The belt of truth", "The breastplate of righteousness", "The shield of faith", "The sword of the Spirit"],
-    "correctAnswerIndex": 3,
+    "text": "In the description of the spiritual armor, what specific piece is identified as 'the sword of the Spirit'?",
+    "options": ["The shield of faith", "The helmet of salvation", "The Word of God", "The belt of truth"],
+    "correctAnswerIndex": 2,
     "book": "Ephesians",
     "difficulty": "Easy",
     "verseReference": "Ephesians 6:17",
     "verseText": "and take the helmet of salvation, and the sword of the Spirit, which is the word of God,"
+  },
+  {
+    "text": "According to the opening chapter, where has God blessed believers with every spiritual blessing?",
+    "options": ["In Jerusalem", "In their local church", "In the heavenly places in Christ", "In their hearts"],
+    "correctAnswerIndex": 2,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 1:3",
+    "verseText": "Blessed be the God and Father of our Lord Jesus Christ, who has blessed us in Christ with every spiritual blessing in the heavenly places,"
+  },
+  {
+    "text": "Before the foundation of the world, what did God choose believers in Christ to be?",
+    "options": ["Wealthy and influential", "Free from all suffering", "Holy and blameless before him", "Rulers over nations"],
+    "correctAnswerIndex": 2,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 1:4",
+    "verseText": "even as he chose us in him before the foundation of the world, that we should be holy and blameless before him."
+  },
+  {
+    "text": "What status did God predestine believers for, through Jesus Christ?",
+    "options": ["Servitude", "Adoption as sons", "Judgment", "Poverty"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 1:5",
+    "verseText": "In love he predestined us for adoption as sons through Jesus Christ, according to the purpose of his will,"
+  },
+  {
+    "text": "What do believers have in Christ, through His blood?",
+    "options": ["Political power", "Perfect knowledge", "Redemption, the forgiveness of sins", "Physical healing"],
+    "correctAnswerIndex": 2,
+    "book": "Ephesians",
+    "difficulty": "Easy",
+    "verseReference": "Ephesians 1:7",
+    "verseText": "In him we have redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace,"
+  },
+  {
+    "text": "God made known to believers the 'mystery of his will'. What is the ultimate plan for the 'fullness of time'?",
+    "options": ["To destroy the earth", "To unite all things in Christ, things in heaven and things on earth", "To establish Israel as the world power", "To give believers earthly kingdoms"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Hard",
+    "verseReference": "Ephesians 1:9-10",
+    "verseText": "making known to us the mystery of his will, according to his purpose, which he set forth in Christ as a plan for the fullness of time, to unite all things in him, things in heaven and things on earth."
+  },
+  {
+    "text": "After believing in Christ (the word of truth), what were believers 'sealed' with?",
+    "options": ["A mark on their foreheads", "A special garment", "The promised Holy Spirit", "A certificate"],
+    "correctAnswerIndex": 2,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 1:13",
+    "verseText": "In him you also, when you heard the word of truth, the gospel of your salvation, and believed in him, were sealed with the promised Holy Spirit,"
+  },
+  {
+    "text": "What does the Holy Spirit serve as for the believers' inheritance?",
+    "options": ["A down payment or guarantee", "A substitute", "A reminder", "A reward"],
+    "correctAnswerIndex": 0,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 1:14",
+    "verseText": "who is the guarantee of our inheritance until we acquire possession of it, to the praise of his glory."
+  },
+  {
+    "text": "In Paul's first prayer for the Ephesians, what does he ask God to give them?",
+    "options": ["Material wealth", "Physical strength", "A Spirit of wisdom and revelation in the knowledge of Him", "Victory over enemies"],
+    "correctAnswerIndex": 2,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 1:17",
+    "verseText": "that the God of our Lord Jesus Christ, the Father of glory, may give you the Spirit of wisdom and of revelation in the knowledge of him,"
+  },
+  {
+    "text": "Paul prays that the 'eyes of their hearts' would be enlightened to know three things. Which is NOT one of them?",
+    "options": ["The hope to which God has called them", "The riches of His glorious inheritance in the saints", "The immeasurable greatness of His power toward believers", "The specific date of Christ's return"],
+    "correctAnswerIndex": 3,
+    "book": "Ephesians",
+    "difficulty": "Hard",
+    "verseReference": "Ephesians 1:18-19",
+    "verseText": "having the eyes of your hearts enlightened, that you may know what is the hope to which he has called you, what are the riches of his glorious inheritance in the saints, and what is the immeasurable greatness of his power toward us who believe..."
+  },
+  {
+    "text": "Where is Christ seated, according to the description of God's power?",
+    "options": ["On David's throne in Jerusalem", "At God's right hand in the heavenly places", "Within the believer's heart only", "On a cloud"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 1:20",
+    "verseText": "that he worked in Christ when he raised him from the dead and seated him at his right hand in the heavenly places,"
+  },
+  {
+    "text": "What position does Christ hold in relation to the church?",
+    "options": ["Founder", "Treasurer", "Head", "Secretary"],
+    "correctAnswerIndex": 2,
+    "book": "Ephesians",
+    "difficulty": "Easy",
+    "verseReference": "Ephesians 1:22",
+    "verseText": "And he put all things under his feet and gave him as head over all things to the church,"
+  },
+  {
+    "text": "Before salvation, what state were the Ephesians (and all people) in?",
+    "options": ["Spiritually seeking", "Neutral", "Dead in trespasses and sins", "Physically weak"],
+    "correctAnswerIndex": 2,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 2:1",
+    "verseText": "And you were dead in the trespasses and sins"
+  },
+  {
+    "text": "Who did people follow before coming to Christ, described as 'the prince of the power of the air'?",
+    "options": ["Moses", "Caesar", "The spirit that is now at work in the sons of disobedience", "Their own conscience"],
+    "correctAnswerIndex": 2,
+    "book": "Ephesians",
+    "difficulty": "Hard",
+    "verseReference": "Ephesians 2:2",
+    "verseText": "in which you once walked, following the course of this world, following the prince of the power of the air, the spirit that is now at work in the sons of disobedience—"
+  },
+  {
+    "text": "By nature, what were all people, including believers before conversion?",
+    "options": ["Basically good", "Children of wrath", "Angels in disguise", "Seeking God"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 2:3",
+    "verseText": "among whom we all once lived in the passions of our flesh, carrying out the desires of the body and the mind, and were by nature children of wrath, like the rest of mankind."
+  },
+  {
+    "text": "What motivated God to make believers alive together with Christ, even when they were dead in sins?",
+    "options": ["Their good works", "His rich mercy and great love", "Their prayers", "Their potential"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 2:4-5",
+    "verseText": "But God, being rich in mercy, because of the great love with which he loved us, even when we were dead in our trespasses, made us alive together with Christ—by grace you have been saved—"
+  },
+  {
+    "text": "Where has God seated believers together with Christ?",
+    "options": ["On earthly thrones", "In the synagogue", "In the heavenly places", "At the judgment seat"],
+    "correctAnswerIndex": 2,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 2:6",
+    "verseText": "and raised us up with him and seated us with him in the heavenly places in Christ Jesus,"
+  },
+  {
+    "text": "Why is salvation not a result of works?",
+    "options": ["Because works are evil", "So that no one may boast", "Because God doesn't see works", "Because faith is easier"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Easy",
+    "verseReference": "Ephesians 2:9",
+    "verseText": "not a result of works, so that no one may boast."
+  },
+  {
+    "text": "What does the letter call believers, created in Christ Jesus for good works?",
+    "options": ["God's servants", "God's masterpieces", "God's workmanship", "God's soldiers"],
+    "correctAnswerIndex": 2,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 2:10",
+    "verseText": "For we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them."
+  },
+  {
+    "text": "Before Christ, what was the condition of the Gentiles described as?",
+    "options": ["Privileged", "Separated from Christ, alienated from Israel, strangers to the covenants, without hope and without God", "Spiritually superior", "Physically stronger"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 2:12",
+    "verseText": "remember that you were at that time separated from Christ, alienated from the commonwealth of Israel and strangers to the covenants of promise, having no hope and without God in the world."
+  },
+  {
+    "text": "What did Christ abolish in His flesh to reconcile Jews and Gentiles?",
+    "options": ["The Roman government", "The dividing wall of hostility (the law of commandments expressed in ordinances)", "The temple sacrifices", "The need for prayer"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Hard",
+    "verseReference": "Ephesians 2:14-15",
+    "verseText": "For he himself is our peace, who has made us both one and has broken down in his flesh the dividing wall of hostility by abolishing the law of commandments expressed in ordinances..."
+  },
+  {
+    "text": "Through Christ, both Jews and Gentiles have access in one Spirit to whom?",
+    "options": ["Worldly power", "Secret knowledge", "The Father", "The apostles"],
+    "correctAnswerIndex": 2,
+    "book": "Ephesians",
+    "difficulty": "Easy",
+    "verseReference": "Ephesians 2:18",
+    "verseText": "For through him we both have access in one Spirit to the Father."
+  },
+  {
+    "text": "What is the role of Christ Jesus in the building described as the household of God?",
+    "options": ["A brick", "The cornerstone", "The roof", "A window"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Easy",
+    "verseReference": "Ephesians 2:20",
+    "verseText": "built on the foundation of the apostles and prophets, Christ Jesus himself being the cornerstone,"
+  },
+  {
+    "text": "What is the whole structure (the Church) growing into?",
+    "options": ["A political force", "A wealthy institution", "A holy temple in the Lord", "A social club"],
+    "correctAnswerIndex": 2,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 2:21",
+    "verseText": "in whom the whole structure, being joined together, grows into a holy temple in the Lord."
+  },
+  {
+    "text": "Believers are being built together into what?",
+    "options": ["An army", "A dwelling place for God by the Spirit", "A business", "A school"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 2:22",
+    "verseText": "In him you also are being built together into a dwelling place for God by the Spirit."
+  },
+  {
+    "text": "Paul describes himself as a prisoner for Christ Jesus on behalf of whom?",
+    "options": ["The Jews", "The Gentiles", "The apostles", "His family"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 3:1",
+    "verseText": "For this reason I, Paul, a prisoner for Christ Jesus on behalf of you Gentiles—"
+  },
+  {
+    "text": "What 'mystery' was made known to Paul by revelation?",
+    "options": ["The date of the end times", "That the Gentiles are fellow heirs and members of the same body", "The location of the Ark of the Covenant", "How to perform miracles"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 3:3-6",
+    "verseText": "how the mystery was made known to me by revelation... This mystery is that the Gentiles are fellow heirs, members of the same body, and partakers of the promise in Christ Jesus through the gospel."
+  },
+  {
+    "text": "Paul considers himself the 'very least of all the saints'. What grace was given to him?",
+    "options": ["To be the leader of the apostles", "To preach to the Gentiles the unsearchable riches of Christ", "To write more books than anyone else", "To live a long life"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 3:8",
+    "verseText": "To me, though I am the very least of all the saints, this grace was given, to preach to the Gentiles the unsearchable riches of Christ,"
+  },
+  {
+    "text": "Through the church, what is made known to the rulers and authorities in the heavenly places?",
+    "options": ["Humanity's failures", "The manifold wisdom of God", "The power of Rome", "The secrets of creation"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Hard",
+    "verseReference": "Ephesians 3:10",
+    "verseText": "so that through the church the manifold wisdom of God might now be made known to the rulers and authorities in the heavenly places."
+  },
+  {
+    "text": "What access do believers have through faith in Christ?",
+    "options": ["Access to wealth", "Boldness and access with confidence", "Access to political power", "Access to secret knowledge"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 3:12",
+    "verseText": "in whom we have boldness and access with confidence through our faith in him."
+  },
+  {
+    "text": "In Paul's second prayer, where does he ask that believers might be strengthened with power through His Spirit?",
+    "options": ["In their physical bodies", "In their inner being", "In their financial status", "In their social standing"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 3:16",
+    "verseText": "that according to the riches of his glory he may grant you to be strengthened with power through his Spirit in your inner being,"
+  },
+  {
+    "text": "What does Paul pray Christ will do through faith?",
+    "options": ["Judge their hearts", "Dwell in their hearts", "Test their hearts", "Cleanse their hearts"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Easy",
+    "verseReference": "Ephesians 3:17",
+    "verseText": "so that Christ may dwell in your hearts through faith..."
+  },
+  {
+    "text": "Paul prays believers would be rooted and grounded in what?",
+    "options": ["Knowledge", "Faith", "Love", "Hope"],
+    "correctAnswerIndex": 2,
+    "book": "Ephesians",
+    "difficulty": "Easy",
+    "verseReference": "Ephesians 3:17",
+    "verseText": "...that you, being rooted and grounded in love,"
+  },
+  {
+    "text": "What does Paul desire believers to be filled with?",
+    "options": ["Worldly wisdom", "All the fullness of God", "Material blessings", "Political power"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 3:19",
+    "verseText": "...that you may be filled with all the fullness of God."
+  },
+  {
+    "text": "How capable is God, according to the doxology at the end of chapter 3?",
+    "options": ["Able to do somewhat more than we ask", "Able to do exactly what we ask", "Able to do far more abundantly than all that we ask or think", "Limited by our faith"],
+    "correctAnswerIndex": 2,
+    "book": "Ephesians",
+    "difficulty": "Easy",
+    "verseReference": "Ephesians 3:20",
+    "verseText": "Now to him who is able to do far more abundantly than all that we ask or think, according to the power at work within us,"
+  },
+  {
+    "text": "Chapter 4 begins with an appeal to maintain the unity of the Spirit. How many 'ones' does Paul list to emphasize this unity (e.g., one body, one Spirit)?",
+    "options": ["Three", "Five", "Seven", "Ten"],
+    "correctAnswerIndex": 2,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 4:4-6",
+    "verseText": "There is one body and one Spirit—just as you were called to the one hope that belongs to your call— one Lord, one faith, one baptism, one God and Father of all, who is over all and through all and in all."
+  },
+  {
+    "text": "What is the purpose of the gifts (apostles, prophets, etc.) given by Christ?",
+    "options": ["To create a hierarchy", "To equip the saints for ministry and build up the body of Christ", "To entertain believers", "To gain political influence"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 4:12",
+    "verseText": "to equip the saints for the work of ministry, for building up the body of Christ,"
+  },
+  {
+    "text": "What should believers grow into, instead of being 'tossed to and fro by the waves'?",
+    "options": ["Wealth and status", "Political power", "Mature manhood, the measure of the stature of the fullness of Christ", "Isolation"],
+    "correctAnswerIndex": 2,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 4:13-14",
+    "verseText": "until we all attain to the unity of the faith and of the knowledge of the Son of God, to mature manhood, to the measure of the stature of the fullness of Christ, so that we may no longer be children, tossed to and fro by the waves..."
+  },
+  {
+    "text": "How should believers speak the truth?",
+    "options": ["Harshly", "In love", "Only when asked", "Quietly"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Easy",
+    "verseReference": "Ephesians 4:15",
+    "verseText": "Rather, speaking the truth in love, we are to grow up in every way into him who is the head, into Christ,"
+  },
+  {
+    "text": "What should believers 'put off' regarding their former manner of life?",
+    "options": ["Their family ties", "Their old self, which belongs to their former manner of life", "Their possessions", "Their nationality"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 4:22",
+    "verseText": "to put off your old self, which belongs to your former manner of life and is corrupt through deceitful desires,"
+  },
+  {
+    "text": "What should believers 'put on'?",
+    "options": ["Expensive clothing", "A display of piety", "The new self, created after the likeness of God", "A mask of happiness"],
+    "correctAnswerIndex": 2,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 4:24",
+    "verseText": "and to put on the new self, created after the likeness of God in true righteousness and holiness."
+  },
+  {
+    "text": "What specific sins are believers told to put away in chapter 4?",
+    "options": ["Singing and praying", "Falsehood, anger (unresolved), stealing, corrupting talk", "Working and eating", "Reading and studying"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 4:25-31",
+    "verseText": "Therefore, having put away falsehood... Be angry and do not sin... Let the thief no longer steal... Let no corrupting talk come out of your mouths... Let all bitterness and wrath and anger and clamor and slander be put away from you..."
+  },
+  {
+    "text": "Instead of corrupting talk, what kind of speech should come from believers' mouths?",
+    "options": ["Flattery", "Only that which is good for building up, as fits the occasion", "Silence", "Constant criticism"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 4:29",
+    "verseText": "Let no corrupting talk come out of your mouths, but only such as is good for building up, as fits the occasion, that it may give grace to those who hear."
+  },
+  {
+    "text": "What action towards the Holy Spirit are believers warned against?",
+    "options": ["Ignoring the Spirit", "Grieving the Holy Spirit", "Worshipping the Spirit", "Commanding the Spirit"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 4:30",
+    "verseText": "And do not grieve the Holy Spirit of God, by whom you were sealed for the day of redemption."
+  },
+  {
+    "text": "What positive attitudes and actions should replace bitterness, wrath, anger, etc.?",
+    "options": ["Indifference", "Being kind to one another, tenderhearted, forgiving one another", "Seeking revenge", "Publicly shaming others"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Easy",
+    "verseReference": "Ephesians 4:32",
+    "verseText": "Be kind to one another, tenderhearted, forgiving one another, as God in Christ forgave you."
+  },
+  {
+    "text": "Believers are urged to be imitators of God and walk in what?",
+    "options": ["Power", "Wisdom", "Love", "Judgment"],
+    "correctAnswerIndex": 2,
+    "book": "Ephesians",
+    "difficulty": "Easy",
+    "verseReference": "Ephesians 5:1-2",
+    "verseText": "Therefore be imitators of God, as beloved children. And walk in love, as Christ loved us and gave himself up for us..."
+  },
+  {
+    "text": "What kinds of behavior should not even be named among believers?",
+    "options": ["Prayer and fasting", "Sexual immorality, impurity, or covetousness", "Working hard and saving money", "Singing hymns and psalms"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 5:3",
+    "verseText": "But sexual immorality and all impurity or covetousness must not even be named among you, as is proper among saints."
+  },
+  {
+    "text": "Instead of foolish talk and crude joking, what should characterize believers' speech?",
+    "options": ["Silence", "Thanksgiving", "Constant seriousness", "Gossip"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 5:4",
+    "verseText": "Let there be no filthiness nor foolish talk nor crude joking, which are out of place, but instead let there be thanksgiving."
+  },
+  {
+    "text": "Believers were once darkness, but now they are what in the Lord?",
+    "options": ["Shadows", "Light", "Still darkness", "Neutral"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Easy",
+    "verseReference": "Ephesians 5:8",
+    "verseText": "for at one time you were darkness, but now you are light in the Lord. Walk as children of light"
+  },
+  {
+    "text": "What should believers try to discern?",
+    "options": ["Future events", "What is pleasing to the Lord", "Other people's motives", "How to get rich"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 5:10",
+    "verseText": "and try to discern what is pleasing to the Lord."
+  },
+  {
+    "text": "How should believers interact with the 'unfruitful works of darkness'?",
+    "options": ["Join in them", "Ignore them", "Take no part in them, but instead expose them", "Study them"],
+    "correctAnswerIndex": 2,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 5:11",
+    "verseText": "Take no part in the unfruitful works of darkness, but instead expose them."
+  },
+  {
+    "text": "Instead of getting drunk with wine, what should believers be filled with?",
+    "options": ["Food", "Knowledge", "The Spirit", "Ambition"],
+    "correctAnswerIndex": 2,
+    "book": "Ephesians",
+    "difficulty": "Easy",
+    "verseReference": "Ephesians 5:18",
+    "verseText": "And do not get drunk with wine, for that is debauchery, but be filled with the Spirit,"
+  },
+  {
+    "text": "Being filled with the Spirit leads to what kinds of expression?",
+    "options": ["Arguing and debating", "Addressing one another in psalms, hymns, and spiritual songs; singing and making melody; giving thanks", "Silence and isolation", "Judging others"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 5:19-20",
+    "verseText": "addressing one another in psalms and hymns and spiritual songs, singing and making melody to the Lord with your heart, giving thanks always and for everything to God the Father in the name of our Lord Jesus Christ,"
+  },
+  {
+    "text": "Out of reverence for Christ, what general instruction is given before the specific household codes?",
+    "options": ["Judge one another", "Submit to one another", "Compete with one another", "Ignore one another"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 5:21",
+    "verseText": "submitting to one another out of reverence for Christ."
+  },
+  {
+    "text": "How is the wife's submission to her husband qualified?",
+    "options": ["As to a master", "As to the Lord", "Only if he is perfect", "Reluctantly"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 5:22",
+    "verseText": "Wives, submit to your own husbands, as to the Lord."
+  },
+  {
+    "text": "How should husbands love their wives?",
+    "options": ["Conditionally", "As Christ loved the church", "Less than their work", "Only if they are submissive"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Easy",
+    "verseReference": "Ephesians 5:25",
+    "verseText": "Husbands, love your wives, as Christ loved the church and gave himself up for her,"
+  },
+  {
+    "text": "What instruction is given to children regarding their parents?",
+    "options": ["Ignore them", "Obey your parents in the Lord", "Teach your parents", "Leave home early"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Easy",
+    "verseReference": "Ephesians 6:1",
+    "verseText": "Children, obey your parents in the Lord, for this is right."
+  },
+  {
+    "text": "What instruction is given to fathers regarding their children?",
+    "options": ["Ignore them", "Do not provoke your children to anger, but bring them up in the discipline and instruction of the Lord", "Give them everything they want", "Send them away"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 6:4",
+    "verseText": "Fathers, do not provoke your children to anger, but bring them up in the discipline and instruction of the Lord."
+  },
+  {
+    "text": "What instruction is given to bondservants (slaves) regarding their masters?",
+    "options": ["Rebel against them", "Obey your earthly masters with fear and trembling, as you would Christ", "Work only when watched", "Steal from them"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 6:5",
+    "verseText": "Bondservants, obey your earthly masters with fear and trembling, with a sincere heart, as you would Christ,"
+  },
+  {
+    "text": "What instruction is given to masters regarding their bondservants (slaves)?",
+    "options": ["Treat them harshly", "Stop threatening them, knowing that both they and you have the same Master in heaven", "Sell them for profit", "Ignore their needs"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 6:9",
+    "verseText": "Masters, do the same to them, and stop your threatening, knowing that he who is both their Master and yours is in heaven, and that there is no partiality with him."
+  },
+  {
+    "text": "Where should believers find their strength?",
+    "options": ["In themselves", "In the Lord and in the strength of his might", "In their numbers", "In their wealth"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Easy",
+    "verseReference": "Ephesians 6:10",
+    "verseText": "Finally, be strong in the Lord and in the strength of his might."
+  },
+  {
+    "text": "Against whom is the believer's struggle, according to the description of spiritual warfare?",
+    "options": ["Flesh and blood", "The rulers, authorities, cosmic powers over this present darkness, spiritual forces of evil", "Political opponents", "Family members"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 6:12",
+    "verseText": "For we do not wrestle against flesh and blood, but against the rulers, against the authorities, against the cosmic powers over this present darkness, against the spiritual forces of evil in the heavenly places."
+  },
+  {
+    "text": "List the pieces of the Armor of God mentioned.",
+    "options": ["Sword, Shield, Spear, Chariot", "Belt of truth, Breastplate of righteousness, Shoes of the gospel of peace, Shield of faith, Helmet of salvation, Sword of the Spirit", "Robe, Staff, Sandals, Pouch", "Book, Scroll, Pen, Ink"],
+    "correctAnswerIndex": 1,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 6:14-17",
+    "verseText": "Stand therefore, having fastened on the belt of truth, and having put on the breastplate of righteousness, and, as shoes for your feet, having put on the readiness given by the gospel of peace. In all circumstances take up the shield of faith... and take the helmet of salvation, and the sword of the Spirit..."
+  },
+  {
+    "text": "What can quench all the flaming darts of the evil one?",
+    "options": ["The belt of truth", "The breastplate of righteousness", "The shield of faith", "The helmet of salvation"],
+    "correctAnswerIndex": 2,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 6:16",
+    "verseText": "In all circumstances take up the shield of faith, with which you can extinguish all the flaming darts of the evil one;"
+  },
+  {
+    "text": "Besides putting on the armor, what spiritual activity is essential for believers?",
+    "options": ["Sleeping", "Fasting constantly", "Praying at all times in the Spirit", "Arguing theology"],
+    "correctAnswerIndex": 2,
+    "book": "Ephesians",
+    "difficulty": "Easy",
+    "verseReference": "Ephesians 6:18",
+    "verseText": "praying at all times in the Spirit, with all prayer and supplication. To that end, keep alert with all perseverance, making supplication for all the saints,"
+  },
+  {
+    "text": "Who was Paul sending to the Ephesians to inform them about his circumstances and encourage them?",
+    "options": ["Timothy", "Titus", "Tychicus", "Onesimus"],
+    "correctAnswerIndex": 2,
+    "book": "Ephesians",
+    "difficulty": "Medium",
+    "verseReference": "Ephesians 6:21-22",
+    "verseText": "So that you also may know how I am and what I am doing, Tychicus the beloved brother and faithful minister in the Lord will tell you everything. I have sent him to you for this very purpose, that you may know how we are, and that he may encourage your hearts."
   }
 ]

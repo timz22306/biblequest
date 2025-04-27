@@ -1,6 +1,6 @@
 [
   {
-    "text": "Who wrote the Epistle to the Galatians?",
+    "text": "Who identifies himself at the start of the letter as 'an apostle—not from men nor through man'?",
     "options": ["Peter", "James", "Paul", "John"],
     "correctAnswerIndex": 2,
     "book": "Galatians",
@@ -9,8 +9,8 @@
     "verseText": "Paul, an apostle—not from men nor through man, but through Jesus Christ and God the Father, who raised him from the dead—"
   },
   {
-    "text": "What major issue prompted Paul to write to the Galatians?",
-    "options": ["Persecution from Rome", "Disputes about spiritual gifts", "False teachers ('Judaizers') insisting Gentile believers must follow the Mosaic Law (especially circumcision)", "Questions about the end times"],
+    "text": "What primary error was troubling the Galatian churches, causing Paul to write this urgent letter?",
+    "options": ["Widespread immorality", "Disputes about the resurrection", "False teachers insisting Gentile believers must follow the Mosaic Law to be saved", "Denial of Christ's divinity"],
     "correctAnswerIndex": 2,
     "book": "Galatians",
     "difficulty": "Easy",
@@ -18,7 +18,7 @@
     "verseText": "I am astonished that you are so quickly deserting him who called you in the grace of Christ and are turning to a different gospel— not that there is another one, but there are some who trouble you and want to distort the gospel of Christ... Look: I, Paul, say to you that if you accept circumcision, Christ will be of no advantage to you... You are severed from Christ, you who would be justified by the law; you have fallen away from grace."
   },
   {
-    "text": "In Galatians 2, Paul describes a confrontation he had with which apostle in Antioch?",
+    "text": "Paul recounts a significant public confrontation in Antioch. Which prominent apostle did he oppose 'to his face' for inconsistent behavior regarding Gentile believers?",
     "options": ["James", "John", "Peter (Cephas)", "Barnabas"],
     "correctAnswerIndex": 2,
     "book": "Galatians",
@@ -27,8 +27,8 @@
     "verseText": "But when Cephas came to Antioch, I opposed him to his face, because he stood condemned... But when I saw that their conduct was not in step with the truth of the gospel, I said to Cephas before them all, “If you, though a Jew, live like a Gentile and not like a Jew, how can you force the Gentiles to live like Jews?”"
   },
   {
-    "text": "Galatians 3:28 famously declares that in Christ Jesus, 'There is neither Jew nor Greek, there is neither slave nor free, there is no...' what?",
-    "options": ["Rich nor poor", "Male and female", "Young nor old", "Sick nor healthy"],
+    "text": "A famous verse declares the equality of believers in Christ, stating 'There is neither Jew nor Greek, there is neither slave nor free, there is no...' what third pair?",
+    "options": ["Rich nor poor", "Male and female", "Young nor old", "Educated nor uneducated"],
     "correctAnswerIndex": 1,
     "book": "Galatians",
     "difficulty": "Easy",
@@ -36,8 +36,8 @@
     "verseText": "There is neither Jew nor Greek, there is neither slave nor free, there is no male and female, for you are all one in Christ Jesus."
   },
   {
-    "text": "Paul argues strongly throughout Galatians that justification (being declared righteous) comes through what?",
-    "options": ["Following the Law of Moses", "Faith in Jesus Christ", "Good works and deeds", "Membership in the church"],
+    "text": "What is the central doctrine Paul passionately defends throughout Galatians as the means by which a person is declared righteous before God?",
+    "options": ["Strict adherence to the Mosaic Law", "Faith in Jesus Christ apart from works of the Law", "Performing acts of charity", "Receiving sacraments"],
     "correctAnswerIndex": 1,
     "book": "Galatians",
     "difficulty": "Easy",
@@ -45,8 +45,8 @@
     "verseText": "yet we know that a person is not justified by works of the law but through faith in Jesus Christ, so we also have believed in Christ Jesus, in order to be justified by faith in Christ and not by works of the law, because by works of the law no one will be justified."
   },
   {
-    "text": "In Galatians 4, Paul uses an allegory involving two women to contrast the covenants. Who are these two women?",
-    "options": ["Sarah and Rebekah", "Leah and Rachel", "Hagar and Sarah", "Mary and Elizabeth"],
+    "text": "To illustrate the difference between law and promise (slavery and freedom), Paul uses an allegory involving two Old Testament women. Who are they?",
+    "options": ["Eve and Mary", "Leah and Rachel", "Hagar and Sarah", "Ruth and Naomi"],
     "correctAnswerIndex": 2,
     "book": "Galatians",
     "difficulty": "Hard",
@@ -54,8 +54,8 @@
     "verseText": "For it is written that Abraham had two sons, one by a slave woman and one by a free woman. But the son of the slave was born according to the flesh, while the son of the free woman was born through promise. Now this may be interpreted allegorically: these women are two covenants. One is from Mount Sinai, bearing children for slavery; she is Hagar... But the Jerusalem above is free, and she is our mother."
   },
   {
-    "text": "What does Paul say is the purpose of the Law in Galatians 3:24?",
-    "options": ["To justify sinners", "To serve as a guardian (tutor/disciplinarian) until Christ came", "To provide eternal life", "To be followed perfectly by believers"],
+    "text": "Before faith in Christ came, what role did the Law serve, according to Paul's analogy?",
+    "options": ["A means of justification", "A guardian or tutor to lead us to Christ", "A way to earn God's favor", "A temporary measure with no real purpose"],
     "correctAnswerIndex": 1,
     "book": "Galatians",
     "difficulty": "Medium",
@@ -63,8 +63,8 @@
     "verseText": "So then, the law was our guardian until Christ came, in order that we might be justified by faith."
   },
   {
-    "text": "Galatians 5:1 states that Christ has set believers free for what?",
-    "options": ["Lawlessness", "Freedom", "Service to sin", "Political revolution"],
+    "text": "What is the foundational statement about Christian liberty made at the beginning of chapter 5?",
+    "options": ["Freedom means doing whatever you want", "For freedom Christ has set us free", "Freedom is achieved through law-keeping", "Freedom is only for Jewish believers"],
     "correctAnswerIndex": 1,
     "book": "Galatians",
     "difficulty": "Easy",
@@ -72,8 +72,8 @@
     "verseText": "For freedom Christ has set us free; stand firm therefore, and do not submit again to a yoke of slavery."
   },
   {
-    "text": "What list does Paul provide in Galatians 5:22-23 as evidence of the Spirit's work in a believer's life?",
-    "options": ["The works of the flesh", "The gifts of the Spirit", "The fruit of the Spirit", "The commandments"],
+    "text": "In contrast to the 'works of the flesh', what list of qualities does Paul provide as evidence of the Spirit's presence and work?",
+    "options": ["Spiritual disciplines", "The gifts of the Spirit (tongues, prophecy, etc.)", "The fruit of the Spirit (love, joy, peace, etc.)", "The Ten Commandments"],
     "correctAnswerIndex": 2,
     "book": "Galatians",
     "difficulty": "Easy",
@@ -81,12 +81,552 @@
     "verseText": "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law."
   },
   {
-    "text": "What principle does Paul state in Galatians 6:7 regarding sowing and reaping?",
-    "options": ["You reap only what others sow", "You reap more than you sow", "You reap what you sow", "Sowing and reaping don't apply to believers"],
+    "text": "What agricultural principle does Paul use to illustrate the consequences of one's actions, stating 'God is not mocked'?",
+    "options": ["Pruning leads to growth", "Different soils yield different results", "Whatever one sows, that will he also reap", "Rain falls on the just and the unjust"],
     "correctAnswerIndex": 2,
     "book": "Galatians",
     "difficulty": "Easy",
     "verseReference": "Galatians 6:7",
     "verseText": "Do not be deceived: God is not mocked, for whatever one sows, that will he also reap."
+  },
+  {
+    "text": "How does Paul assert the divine origin of his apostleship in the opening verse?",
+    "options": ["Appointed by the Jerusalem council", "Chosen by popular vote", "Through Jesus Christ and God the Father", "Self-appointed"],
+    "correctAnswerIndex": 2,
+    "book": "Galatians",
+    "difficulty": "Medium",
+    "verseReference": "Galatians 1:1",
+    "verseText": "Paul, an apostle—not from men nor through man, but through Jesus Christ and God the Father, who raised him from the dead—"
+  },
+  {
+    "text": "What is Paul's tone towards the Galatians at the beginning of the letter?",
+    "options": ["Praising and joyful", "Astonished and concerned", "Neutral and informative", "Angry and condemning"],
+    "correctAnswerIndex": 1,
+    "book": "Galatians",
+    "difficulty": "Medium",
+    "verseReference": "Galatians 1:6",
+    "verseText": "I am astonished that you are so quickly deserting him who called you in the grace of Christ and are turning to a different gospel—"
+  },
+  {
+    "text": "What does Paul call the teaching that troubled the Galatians?",
+    "options": ["A deeper truth", "A different gospel, which is no gospel at all", "An acceptable alternative", "A minor disagreement"],
+    "correctAnswerIndex": 1,
+    "book": "Galatians",
+    "difficulty": "Medium",
+    "verseReference": "Galatians 1:6-7",
+    "verseText": "...turning to a different gospel— not that there is another one, but there are some who trouble you and want to distort the gospel of Christ."
+  },
+  {
+    "text": "What strong condemnation does Paul pronounce on anyone (even himself or an angel) who preaches a contrary gospel?",
+    "options": ["Let them be debated", "Let them be ignored", "Let them be accursed (anathema)", "Let them be corrected gently"],
+    "correctAnswerIndex": 2,
+    "book": "Galatians",
+    "difficulty": "Medium",
+    "verseReference": "Galatians 1:8-9",
+    "verseText": "But even if we or an angel from heaven should preach to you a gospel contrary to the one we preached to you, let him be accursed. As we have said before, so now I say again: If anyone is preaching to you a gospel contrary to the one you received, let him be accursed."
+  },
+  {
+    "text": "How did Paul receive the gospel he preached?",
+    "options": ["From the other apostles in Jerusalem", "Through revelation of Jesus Christ", "By studying the Law", "From Gamaliel"],
+    "correctAnswerIndex": 1,
+    "book": "Galatians",
+    "difficulty": "Medium",
+    "verseReference": "Galatians 1:11-12",
+    "verseText": "For I would have you know, brothers, that the gospel that was preached by me is not man's gospel. For I did not receive it from any man, nor was I taught it, but I received it through a revelation of Jesus Christ."
+  },
+  {
+    "text": "What was Paul's background in Judaism before his conversion?",
+    "options": ["He was indifferent", "He was extremely zealous and persecuted the church", "He was a Sadducee", "He was unfamiliar with the Law"],
+    "correctAnswerIndex": 1,
+    "book": "Galatians",
+    "difficulty": "Medium",
+    "verseReference": "Galatians 1:13-14",
+    "verseText": "For you have heard of my former life in Judaism, how I persecuted the church of God violently and tried to destroy it. And I was advancing in Judaism beyond many of my own age among my people, so extremely zealous was I for the traditions of my fathers."
+  },
+  {
+    "text": "Immediately after God revealed His Son to Paul, where did Paul go?",
+    "options": ["Straight to Jerusalem to consult the apostles", "Into Arabia, then returned to Damascus", "To Rome", "To Athens"],
+    "correctAnswerIndex": 1,
+    "book": "Galatians",
+    "difficulty": "Hard",
+    "verseReference": "Galatians 1:16-17",
+    "verseText": "...I did not immediately consult with anyone; nor did I go up to Jerusalem to those who were apostles before me, but I went away into Arabia, and returned again to Damascus."
+  },
+  {
+    "text": "How long after his conversion did Paul go up to Jerusalem to visit Peter (Cephas)?",
+    "options": ["Immediately", "After one year", "After three years", "After fourteen years"],
+    "correctAnswerIndex": 2,
+    "book": "Galatians",
+    "difficulty": "Hard",
+    "verseReference": "Galatians 1:18",
+    "verseText": "Then after three years I went up to Jerusalem to visit Cephas and remained with him fifteen days."
+  },
+  {
+    "text": "Besides Peter, which other prominent leader did Paul see on that first visit to Jerusalem?",
+    "options": ["John", "Thomas", "James the Lord's brother", "Matthew"],
+    "correctAnswerIndex": 2,
+    "book": "Galatians",
+    "difficulty": "Medium",
+    "verseReference": "Galatians 1:19",
+    "verseText": "But I saw none of the other apostles except James the Lord's brother."
+  },
+  {
+    "text": "Fourteen years later, Paul went to Jerusalem again. Who accompanied him?",
+    "options": ["Only Peter", "Silas and Timothy", "Barnabas and Titus", "Luke and Mark"],
+    "correctAnswerIndex": 2,
+    "book": "Galatians",
+    "difficulty": "Medium",
+    "verseReference": "Galatians 2:1",
+    "verseText": "Then after fourteen years I went up again to Jerusalem with Barnabas, taking Titus along with me."
+  },
+  {
+    "text": "Why did Paul take Titus, a Greek, to Jerusalem on that visit?",
+    "options": ["To show him the temple", "As a test case regarding circumcision for Gentiles", "To be his scribe", "To introduce him to James"],
+    "correctAnswerIndex": 1,
+    "book": "Galatians",
+    "difficulty": "Hard",
+    "verseReference": "Galatians 2:3",
+    "verseText": "But even Titus, who was with me, was not forced to be circumcised, though he was a Greek."
+  },
+  {
+    "text": "What did the 'pillars' of the Jerusalem church (James, Peter, John) ask Paul and Barnabas to remember?",
+    "options": ["To preach only to Jews", "To collect money for the temple", "To remember the poor", "To observe the Sabbath"],
+    "correctAnswerIndex": 2,
+    "book": "Galatians",
+    "difficulty": "Medium",
+    "verseReference": "Galatians 2:9-10",
+    "verseText": "...James and Cephas and John, who seemed to be pillars, gave the right hand of fellowship to Barnabas and me... Only, they asked us to remember the poor, the very thing I was eager to do."
+  },
+  {
+    "text": "Why did Paul oppose Peter (Cephas) in Antioch?",
+    "options": ["Peter was teaching false doctrine", "Peter withdrew from eating with Gentiles due to fear of the circumcision party", "Peter claimed superiority over Paul", "Peter wanted to return to Jerusalem"],
+    "correctAnswerIndex": 1,
+    "book": "Galatians",
+    "difficulty": "Medium",
+    "verseReference": "Galatians 2:12",
+    "verseText": "For before certain men came from James, he was eating with the Gentiles; but when they came he drew back and separated himself, fearing the circumcision party."
+  },
+  {
+    "text": "Paul states that a person is not justified by what?",
+    "options": ["Faith alone", "Works of the law", "God's grace", "Believing in Christ"],
+    "correctAnswerIndex": 1,
+    "book": "Galatians",
+    "difficulty": "Easy",
+    "verseReference": "Galatians 2:16",
+    "verseText": "yet we know that a person is not justified by works of the law but through faith in Jesus Christ..."
+  },
+  {
+    "text": "If justification comes through the Law, what does Paul say about Christ's death?",
+    "options": ["It was necessary", "It was insufficient", "Then Christ died for no purpose", "It only applied to Jews"],
+    "correctAnswerIndex": 2,
+    "book": "Galatians",
+    "difficulty": "Medium",
+    "verseReference": "Galatians 2:21",
+    "verseText": "I do not nullify the grace of God, for if righteousness were through the law, then Christ died for no purpose."
+  },
+  {
+    "text": "How does Paul famously describe his new life in Christ?",
+    "options": ["'I am striving to reach perfection'", "'I have been crucified with Christ. It is no longer I who live, but Christ who lives in me'", "'I follow the Law perfectly'", "'I am free to do as I please'"],
+    "correctAnswerIndex": 1,
+    "book": "Galatians",
+    "difficulty": "Medium",
+    "verseReference": "Galatians 2:20",
+    "verseText": "I have been crucified with Christ. It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me."
+  },
+  {
+    "text": "Paul asks the 'foolish Galatians' if they received the Spirit by works of the law or by what?",
+    "options": ["Their own effort", "Hearing with faith", "Being circumcised", "Keeping the Sabbath"],
+    "correctAnswerIndex": 1,
+    "book": "Galatians",
+    "difficulty": "Easy",
+    "verseReference": "Galatians 3:2",
+    "verseText": "Let me ask you only this: Did you receive the Spirit by works of the law or by hearing with faith?"
+  },
+  {
+    "text": "Who does Paul use as the primary Old Testament example of justification by faith?",
+    "options": ["Moses", "David", "Abraham", "Adam"],
+    "correctAnswerIndex": 2,
+    "book": "Galatians",
+    "difficulty": "Easy",
+    "verseReference": "Galatians 3:6",
+    "verseText": "just as Abraham “believed God, and it was counted to him as righteousness”?"
+  },
+  {
+    "text": "Who are the true sons of Abraham, according to Paul?",
+    "options": ["Only his physical descendants", "Those who are of faith", "Those who keep the whole Law", "Those who live in Israel"],
+    "correctAnswerIndex": 1,
+    "book": "Galatians",
+    "difficulty": "Medium",
+    "verseReference": "Galatians 3:7",
+    "verseText": "Know then that it is those of faith who are the sons of Abraham."
+  },
+  {
+    "text": "What does the Law bring to those who rely on 'works of the law'?",
+    "options": ["Blessing", "Justification", "A curse", "Eternal life"],
+    "correctAnswerIndex": 2,
+    "book": "Galatians",
+    "difficulty": "Medium",
+    "verseReference": "Galatians 3:10",
+    "verseText": "For all who rely on works of the law are under a curse; for it is written, “Cursed be everyone who does not abide by all things written in the Book of the Law, and do them.”"
+  },
+  {
+    "text": "How did Christ redeem believers from the curse of the Law?",
+    "options": ["By abolishing the Law", "By becoming a curse for us", "By teaching a new Law", "By ignoring the Law"],
+    "correctAnswerIndex": 1,
+    "book": "Galatians",
+    "difficulty": "Medium",
+    "verseReference": "Galatians 3:13",
+    "verseText": "Christ redeemed us from the curse of the law by becoming a curse for us—for it is written, “Cursed is everyone who is hanged on a tree”—"
+  },
+  {
+    "text": "The promise was made to Abraham and to his offspring. Who does Paul identify as the singular 'offspring'?",
+    "options": ["Isaac", "The Jewish people", "Christ", "Believers"],
+    "correctAnswerIndex": 2,
+    "book": "Galatians",
+    "difficulty": "Hard",
+    "verseReference": "Galatians 3:16",
+    "verseText": "Now the promises were made to Abraham and to his offspring. It does not say, “And to offsprings,” referring to many, but referring to one, “And to your offspring,” who is Christ."
+  },
+  {
+    "text": "When was the Law given in relation to the promise made to Abraham?",
+    "options": ["Before the promise", "At the same time as the promise", "430 years after the promise", "It was part of the original promise"],
+    "correctAnswerIndex": 2,
+    "book": "Galatians",
+    "difficulty": "Hard",
+    "verseReference": "Galatians 3:17",
+    "verseText": "This is what I mean: the law, which came 430 years afterward, does not annul a covenant previously ratified by God, so as to make the promise void."
+  },
+  {
+    "text": "Why was the Law added, according to Paul?",
+    "options": ["To provide salvation", "Because of transgressions, until the offspring should come", "To make people proud", "As a permanent covenant"],
+    "correctAnswerIndex": 1,
+    "book": "Galatians",
+    "difficulty": "Medium",
+    "verseReference": "Galatians 3:19",
+    "verseText": "Why then the law? It was added because of transgressions, until the offspring should come to whom the promise had been made..."
+  },
+  {
+    "text": "Before faith came, how does Paul describe the state of people under the Law?",
+    "options": ["Free and justified", "Held captive under the law, imprisoned", "Perfectly obedient", "Ignorant of God"],
+    "correctAnswerIndex": 1,
+    "book": "Galatians",
+    "difficulty": "Medium",
+    "verseReference": "Galatians 3:23",
+    "verseText": "Now before faith came, we were held captive under the law, imprisoned until the coming faith would be revealed."
+  },
+  {
+    "text": "Through faith, what have all believers become?",
+    "options": ["Subject to the Law", "Sons of God, in Christ Jesus", "Perfect", "Judges"],
+    "correctAnswerIndex": 1,
+    "book": "Galatians",
+    "difficulty": "Easy",
+    "verseReference": "Galatians 3:26",
+    "verseText": "for in Christ Jesus you are all sons of God, through faith."
+  },
+  {
+    "text": "What happens to those who are baptized into Christ?",
+    "options": ["They become subject to the Law", "They have put on Christ", "They achieve perfection", "They receive earthly riches"],
+    "correctAnswerIndex": 1,
+    "book": "Galatians",
+    "difficulty": "Medium",
+    "verseReference": "Galatians 3:27",
+    "verseText": "For as many of you as were baptized into Christ have put on Christ."
+  },
+  {
+    "text": "If believers belong to Christ, whose offspring are they, and what are they heirs of?",
+    "options": ["Moses' offspring, heirs of the Law", "Adam's offspring, heirs of sin", "Abraham's offspring, heirs according to promise", "David's offspring, heirs of the kingdom"],
+    "correctAnswerIndex": 2,
+    "book": "Galatians",
+    "difficulty": "Medium",
+    "verseReference": "Galatians 3:29",
+    "verseText": "And if you are Christ's, then you are Abraham's offspring, heirs according to promise."
+  },
+  {
+    "text": "Paul compares an heir who is a child to what?",
+    "options": ["A king", "A free man", "A slave", "A priest"],
+    "correctAnswerIndex": 2,
+    "book": "Galatians",
+    "difficulty": "Medium",
+    "verseReference": "Galatians 4:1",
+    "verseText": "I mean that the heir, as long as he is a child, is no different from a slave, though he is the owner of everything,"
+  },
+  {
+    "text": "Before Christ, believers were enslaved to what?",
+    "options": ["Roman rule", "The elemental principles (or spirits) of the world", "Their own desires", "The apostles"],
+    "correctAnswerIndex": 1,
+    "book": "Galatians",
+    "difficulty": "Hard",
+    "verseReference": "Galatians 4:3",
+    "verseText": "In the same way we also, when we were children, were enslaved to the elementary principles of the world."
+  },
+  {
+    "text": "When did God send forth His Son?",
+    "options": ["At the beginning of creation", "When the fullness of time had come", "After Israel demanded a king", "During the Roman peace"],
+    "correctAnswerIndex": 1,
+    "book": "Galatians",
+    "difficulty": "Medium",
+    "verseReference": "Galatians 4:4",
+    "verseText": "But when the fullness of time had come, God sent forth his Son, born of woman, born under the law,"
+  },
+  {
+    "text": "Why was Jesus 'born under the law'?",
+    "options": ["To abolish the Law completely", "To redeem those who were under the law", "To show how impossible it was", "To add more laws"],
+    "correctAnswerIndex": 1,
+    "book": "Galatians",
+    "difficulty": "Medium",
+    "verseReference": "Galatians 4:5",
+    "verseText": "to redeem those who were under the law, so that we might receive adoption as sons."
+  },
+  {
+    "text": "Because believers are sons, what has God sent into their hearts?",
+    "options": ["Fear and doubt", "The Spirit of his Son, crying, 'Abba! Father!'", "A desire for riches", "A new law"],
+    "correctAnswerIndex": 1,
+    "book": "Galatians",
+    "difficulty": "Medium",
+    "verseReference": "Galatians 4:6",
+    "verseText": "And because you are sons, God has sent the Spirit of his Son into our hearts, crying, “Abba! Father!”"
+  },
+  {
+    "text": "Paul expresses concern that the Galatians were turning back to observing what?",
+    "options": ["Pagan rituals", "Days and months and seasons and years (likely Jewish festivals)", "Philosophical arguments", "Political activism"],
+    "correctAnswerIndex": 1,
+    "book": "Galatians",
+    "difficulty": "Medium",
+    "verseReference": "Galatians 4:10",
+    "verseText": "You observe days and months and seasons and years!"
+  },
+  {
+    "text": "In the Hagar/Sarah allegory, Hagar represents which covenant and location?",
+    "options": ["The New Covenant / Heavenly Jerusalem", "The covenant of promise / Canaan", "The covenant from Mount Sinai / Present Jerusalem", "The Noahic covenant / Ararat"],
+    "correctAnswerIndex": 2,
+    "book": "Galatians",
+    "difficulty": "Hard",
+    "verseReference": "Galatians 4:24-25",
+    "verseText": "Now this may be interpreted allegorically: these women are two covenants. One is from Mount Sinai, bearing children for slavery; she is Hagar. Now Hagar is Mount Sinai in Arabia; she corresponds to the present Jerusalem, for she is in slavery with her children."
+  },
+  {
+    "text": "In the Hagar/Sarah allegory, Sarah represents which covenant and reality?",
+    "options": ["The Law / Earthly Jerusalem", "Slavery / Mount Sinai", "The promise / The Jerusalem above (which is free)", "The Old Covenant / Babylon"],
+    "correctAnswerIndex": 2,
+    "book": "Galatians",
+    "difficulty": "Hard",
+    "verseReference": "Galatians 4:26, 28",
+    "verseText": "But the Jerusalem above is free, and she is our mother... Now you, brothers, like Isaac, are children of promise."
+  },
+  {
+    "text": "What warning does Paul give about accepting circumcision (as necessary for salvation)?",
+    "options": ["It is merely symbolic", "Christ will be of no advantage, and one is obligated to keep the whole law", "It guarantees salvation", "It is recommended but not required"],
+    "correctAnswerIndex": 1,
+    "book": "Galatians",
+    "difficulty": "Medium",
+    "verseReference": "Galatians 5:2-3",
+    "verseText": "Look: I, Paul, say to you that if you accept circumcision, Christ will be of no advantage to you. I testify again to every man who accepts circumcision that he is obligated to keep the whole law."
+  },
+  {
+    "text": "Through the Spirit, by faith, what do believers eagerly wait for?",
+    "options": ["Worldly success", "The end of the world", "The hope of righteousness", "Relief from suffering"],
+    "correctAnswerIndex": 2,
+    "book": "Galatians",
+    "difficulty": "Medium",
+    "verseReference": "Galatians 5:5",
+    "verseText": "For through the Spirit, by faith, we ourselves eagerly wait for the hope of righteousness."
+  },
+  {
+    "text": "In Christ Jesus, what counts for anything?",
+    "options": ["Circumcision or uncircumcision", "Wealth or poverty", "Faith working through love", "Keeping the Law"],
+    "correctAnswerIndex": 2,
+    "book": "Galatians",
+    "difficulty": "Medium",
+    "verseReference": "Galatians 5:6",
+    "verseText": "For in Christ Jesus neither circumcision nor uncircumcision counts for anything, but only faith working through love."
+  },
+  {
+    "text": "Christian freedom should not be used as an opportunity for what?",
+    "options": ["Serving one another", "The flesh (sinful nature)", "Spreading the gospel", "Resting"],
+    "correctAnswerIndex": 1,
+    "book": "Galatians",
+    "difficulty": "Easy",
+    "verseReference": "Galatians 5:13",
+    "verseText": "For you were called to freedom, brothers. Only do not use your freedom as an opportunity for the flesh, but through love serve one another."
+  },
+  {
+    "text": "How can believers avoid gratifying the desires of the flesh?",
+    "options": ["By isolating themselves", "By walking by the Spirit", "By making strict rules", "By focusing on intellectual pursuits"],
+    "correctAnswerIndex": 1,
+    "book": "Galatians",
+    "difficulty": "Easy",
+    "verseReference": "Galatians 5:16",
+    "verseText": "But I say, walk by the Spirit, and you will not gratify the desires of the flesh."
+  },
+  {
+    "text": "What is the relationship between the desires of the flesh and the desires of the Spirit?",
+    "options": ["They are in harmony", "They are opposed to each other", "The Spirit eliminates fleshly desires immediately", "The flesh is stronger"],
+    "correctAnswerIndex": 1,
+    "book": "Galatians",
+    "difficulty": "Medium",
+    "verseReference": "Galatians 5:17",
+    "verseText": "For the desires of the flesh are against the Spirit, and the desires of the Spirit are against the flesh, for these are opposed to each other, to keep you from doing the things you want to do."
+  },
+  {
+    "text": "Which of these is listed as a 'work of the flesh'?",
+    "options": ["Love", "Joy", "Idolatry", "Peace"],
+    "correctAnswerIndex": 2,
+    "book": "Galatians",
+    "difficulty": "Easy",
+    "verseReference": "Galatians 5:19-21",
+    "verseText": "Now the works of the flesh are evident: sexual immorality, impurity, sensuality, idolatry, sorcery, enmity, strife, jealousy, fits of anger, rivalries, dissensions, divisions, envy, drunkenness, orgies, and things like these."
+  },
+  {
+    "text": "Which of these is listed as part of the 'fruit of the Spirit'?",
+    "options": ["Strife", "Fits of anger", "Patience", "Envy"],
+    "correctAnswerIndex": 2,
+    "book": "Galatians",
+    "difficulty": "Easy",
+    "verseReference": "Galatians 5:22-23",
+    "verseText": "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control..."
+  },
+  {
+    "text": "What have those who belong to Christ Jesus done?",
+    "options": ["Achieved perfection", "Crucified the flesh with its passions and desires", "Become exempt from suffering", "Learned secret knowledge"],
+    "correctAnswerIndex": 1,
+    "book": "Galatians",
+    "difficulty": "Medium",
+    "verseReference": "Galatians 5:24",
+    "verseText": "And those who belong to Christ Jesus have crucified the flesh with its passions and desires."
+  },
+  {
+    "text": "If believers live by the Spirit, what else should they do?",
+    "options": ["Follow the Law", "Keep in step with the Spirit", "Judge others", "Boast about their gifts"],
+    "correctAnswerIndex": 1,
+    "book": "Galatians",
+    "difficulty": "Easy",
+    "verseReference": "Galatians 5:25",
+    "verseText": "If we live by the Spirit, let us also keep in step with the Spirit."
+  },
+  {
+    "text": "How should believers restore someone caught in a transgression?",
+    "options": ["Harshly and publicly", "Gently, looking to yourself", "By ignoring them", "By reporting them to authorities"],
+    "correctAnswerIndex": 1,
+    "book": "Galatians",
+    "difficulty": "Medium",
+    "verseReference": "Galatians 6:1",
+    "verseText": "Brothers, if anyone is caught in any transgression, you who are spiritual should restore him in a spirit of gentleness. Keep watch on yourself, lest you too be tempted."
+  },
+  {
+    "text": "What command fulfills the 'law of Christ'?",
+    "options": ["Offer sacrifices", "Bear one another's burdens", "Judge your neighbor", "Keep the Sabbath"],
+    "correctAnswerIndex": 1,
+    "book": "Galatians",
+    "difficulty": "Medium",
+    "verseReference": "Galatians 6:2",
+    "verseText": "Bear one another's burdens, and so fulfill the law of Christ."
+  },
+  {
+    "text": "What should each person test?",
+    "options": ["Their neighbor's faith", "Their own work", "The spirits", "The apostles' teaching"],
+    "correctAnswerIndex": 1,
+    "book": "Galatians",
+    "difficulty": "Medium",
+    "verseReference": "Galatians 6:4",
+    "verseText": "But let each one test his own work, and then his reason to boast will be in himself alone and not in his neighbor."
+  },
+  {
+    "text": "What responsibility does each person have?",
+    "options": ["To bear the burdens of the weak", "To bear his own load", "To judge others", "To teach everyone"],
+    "correctAnswerIndex": 1,
+    "book": "Galatians",
+    "difficulty": "Medium",
+    "verseReference": "Galatians 6:5",
+    "verseText": "For each will have to bear his own load."
+  },
+  {
+    "text": "What should the one who is taught the word share with the one who teaches?",
+    "options": ["Criticism", "Nothing", "All good things", "Only spiritual insights"],
+    "correctAnswerIndex": 2,
+    "book": "Galatians",
+    "difficulty": "Medium",
+    "verseReference": "Galatians 6:6",
+    "verseText": "Let the one who is taught the word share all good things with the one who teaches."
+  },
+  {
+    "text": "Sowing to the flesh will reap what?",
+    "options": ["Eternal life", "Corruption", "Righteousness", "Peace"],
+    "correctAnswerIndex": 1,
+    "book": "Galatians",
+    "difficulty": "Easy",
+    "verseReference": "Galatians 6:8",
+    "verseText": "For the one who sows to his own flesh will from the flesh reap corruption..."
+  },
+  {
+    "text": "Sowing to the Spirit will reap what?",
+    "options": ["Corruption", "Eternal life", "Worldly success", "Suffering"],
+    "correctAnswerIndex": 1,
+    "book": "Galatians",
+    "difficulty": "Easy",
+    "verseReference": "Galatians 6:8",
+    "verseText": "...but the one who sows to the Spirit will from the Spirit reap eternal life."
+  },
+  {
+    "text": "What encouragement does Paul give regarding doing good?",
+    "options": ["Do good only when it's easy", "Let us not grow weary of doing good, for in due season we will reap", "Expect immediate rewards for doing good", "Do good only to those who do good to you"],
+    "correctAnswerIndex": 1,
+    "book": "Galatians",
+    "difficulty": "Easy",
+    "verseReference": "Galatians 6:9",
+    "verseText": "And let us not grow weary of doing good, for in due season we will reap, if we do not give up."
+  },
+  {
+    "text": "To whom should believers especially do good?",
+    "options": ["Only to unbelievers", "Only to family members", "Especially to those who are of the household of faith", "Only to the poor"],
+    "correctAnswerIndex": 2,
+    "book": "Galatians",
+    "difficulty": "Medium",
+    "verseReference": "Galatians 6:10",
+    "verseText": "So then, as we have opportunity, let us do good to everyone, and especially to those who are of the household of faith."
+  },
+  {
+    "text": "What does Paul emphasize by mentioning he is writing the final section 'with large letters'?",
+    "options": ["His poor eyesight", "The importance of the message", "His anger", "The standard practice of the time"],
+    "correctAnswerIndex": 1,
+    "book": "Galatians",
+    "difficulty": "Medium",
+    "verseReference": "Galatians 6:11",
+    "verseText": "See with what large letters I am writing to you with my own hand."
+  },
+  {
+    "text": "What is the motivation of those forcing circumcision on the Galatians?",
+    "options": ["Love for the Galatians", "To make a good showing in the flesh and avoid persecution for the cross", "Obedience to God", "A desire for unity"],
+    "correctAnswerIndex": 1,
+    "book": "Galatians",
+    "difficulty": "Hard",
+    "verseReference": "Galatians 6:12",
+    "verseText": "It is those who want to make a good showing in the flesh who would force you to be circumcised, and only in order that they may not be persecuted for the cross of Christ."
+  },
+  {
+    "text": "What is the only thing Paul will boast in?",
+    "options": ["His apostleship", "His knowledge", "The cross of our Lord Jesus Christ", "His sufferings"],
+    "correctAnswerIndex": 2,
+    "book": "Galatians",
+    "difficulty": "Medium",
+    "verseReference": "Galatians 6:14",
+    "verseText": "But far be it from me to boast except in the cross of our Lord Jesus Christ, by which the world has been crucified to me, and I to the world."
+  },
+  {
+    "text": "What truly counts, instead of circumcision or uncircumcision?",
+    "options": ["Keeping festivals", "A new creation", "Following traditions", "Speaking in tongues"],
+    "correctAnswerIndex": 1,
+    "book": "Galatians",
+    "difficulty": "Medium",
+    "verseReference": "Galatians 6:15",
+    "verseText": "For neither circumcision counts for anything, nor uncircumcision, but a new creation."
+  },
+  {
+    "text": "What marks does Paul bear on his body?",
+    "options": ["Tattoos", "Marks of status", "The marks of Jesus (from persecution)", "Circumcision"],
+    "correctAnswerIndex": 2,
+    "book": "Galatians",
+    "difficulty": "Medium",
+    "verseReference": "Galatians 6:17",
+    "verseText": "From now on let no one cause me trouble, for I bear on my body the marks of Jesus."
   }
 ]

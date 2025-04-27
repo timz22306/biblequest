@@ -709,5 +709,113 @@
     "difficulty": "Medium",
     "verseReference": "1 Corinthians 16:8",
     "verseText": "But I will stay in Ephesus until Pentecost,"
+  },
+  {
+    "text": "Besides Paul and Apollos, which other figure did some Corinthians claim allegiance to, contributing to the divisions in the church?",
+    "options": ["Timothy", "Cephas (Peter)", "James", "Barnabas"],
+    "correctAnswerIndex": 1,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 1:12",
+    "verseText": "What I mean is that each one of you says, “I follow Paul,” or “I follow Apollos,” or “I follow Cephas,” or “I follow Christ.”"
+  },
+  {
+    "text": "Paul argues that God's wisdom, particularly the message of the cross, appears as what to those who are perishing?",
+    "options": ["Obvious truth", "A complex philosophy", "Foolishness", "A political threat"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 1:18",
+    "verseText": "For the word of the cross is folly to those who are perishing, but to us who are being saved it is the power of God."
+  },
+  {
+    "text": "When Paul refers to the church community as God's temple, what does he say dwells within them?",
+    "options": ["Their own wisdom", "The spirit of the world", "God's Spirit", "Angelic guardians"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 3:16",
+    "verseText": "Do you not know that you are God's temple and that God's Spirit dwells in you?"
+  },
+  {
+    "text": "Paul rebukes the Corinthians for taking disputes to secular courts, suggesting who should be capable of judging matters within the church?",
+    "options": ["Roman officials", "The apostles only", "The wise among the believers themselves", "Jewish elders"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 6:4-5",
+    "verseText": "So if you have such cases, why do you lay them before those who have no standing in the church? I say this to your shame. Can it be that there is no one among you wise enough to settle a dispute between the brothers,"
+  },
+  {
+    "text": "While advising on marriage, Paul suggests that remaining single can be advantageous for what primary reason?",
+    "options": ["Avoiding family conflicts", "Saving money", "Undivided devotion to the Lord", "Gaining respect"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 7:32-34",
+    "verseText": "I want you to be free from anxieties. The unmarried man is anxious about the things of the Lord, how to please the Lord. But the married man is anxious about worldly things, how to please his wife, and his interests are divided."
+  },
+  {
+    "text": "Paul acknowledges the Corinthians' knowledge that an idol is nothing, but warns that eating food offered to idols might involve fellowship with whom?",
+    "options": ["The poor", "Other believers", "Demons", "Roman soldiers"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Hard",
+    "verseReference": "1 Corinthians 10:20-21",
+    "verseText": "No, I imply that what pagans sacrifice they offer to demons and not to God. I do not want you to be participants with demons. You cannot drink the cup of the Lord and the cup of demons."
+  },
+  {
+    "text": "Paul recounts the words of Jesus during the institution of the Lord's Supper, stating that the cup represents what?",
+    "options": ["The forgiveness of sins", "The new covenant in His blood", "The unity of the church", "The coming kingdom"],
+    "correctAnswerIndex": 1,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 11:25",
+    "verseText": "In the same way also he took the cup, after supper, saying, “This cup is the new covenant in my blood. Do this, as often as you drink it, in remembrance of me.”"
+  },
+  {
+    "text": "Using the analogy of the body, Paul emphasizes that if one part suffers, what happens to the other parts?",
+    "options": ["They rejoice", "They become stronger", "They all suffer with it", "They ignore it"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 12:26",
+    "verseText": "If one member suffers, all suffer together; if one member is honored, all rejoice together."
+  },
+  {
+    "text": "The famous chapter on love states that love does not do what regarding wrongs suffered?",
+    "options": ["Forgive them", "Ignore them", "Keep a record of them", "Avenge them"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Easy",
+    "verseReference": "1 Corinthians 13:5",
+    "verseText": "It does not insist on its own way; it is not irritable or resentful [or: does not keep record of wrongs];"
+  },
+  {
+    "text": "Paul desires that the Corinthians pursue spiritual gifts, especially prophecy, because it results in what for the church?",
+    "options": ["Confusion", "Entertainment", "Edification, exhortation, and consolation", "Judgment on unbelievers"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 14:3",
+    "verseText": "On the other hand, the one who prophesies speaks to people for their upbuilding [edification] and encouragement [exhortation] and consolation."
+  },
+  {
+    "text": "Paul counters the denial of the resurrection by asking what would be the point of believers facing danger and hardship constantly?",
+    "options": ["To earn salvation", "To impress others", "If the dead are not raised, it's pointless ('Let us eat and drink, for tomorrow we die')", "To gain political power"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 15:32",
+    "verseText": "What do I gain if, humanly speaking, I fought with beasts at Ephesus? If the dead are not raised, “Let us eat and drink, for tomorrow we die.”"
+  },
+  {
+    "text": "Besides the household of Stephanas, which two individuals does Paul specifically mention as having refreshed his spirit and urges the Corinthians to acknowledge?",
+    "options": ["Apollos and Cephas", "Timothy and Titus", "Fortunatus and Achaicus", "Priscilla and Aquila"],
+    "correctAnswerIndex": 2,
+    "book": "1 Corinthians",
+    "difficulty": "Medium",
+    "verseReference": "1 Corinthians 16:17-18",
+    "verseText": "I rejoice at the coming of Stephanas and Fortunatus and Achaicus, because they have made up for your absence, for they refreshed my spirit as well as yours. Give recognition to such people."
   }
 ]

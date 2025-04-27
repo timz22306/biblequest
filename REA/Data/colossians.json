@@ -88,5 +88,374 @@
     "difficulty": "Medium",
     "verseReference": "Colossians 4:16",
     "verseText": "And when this letter has been read among you, have it also read in the church of the Laodiceans; and see that you also read the letter from Laodicea."
+  },
+  {
+    "text": "Who joins Paul in the opening greeting of Colossians?",
+    "options": ["Silas", "Titus", "Timothy", "Luke"],
+    "correctAnswerIndex": 2,
+    "book": "Colossians",
+    "difficulty": "Easy",
+    "verseReference": "Colossians 1:1",
+    "verseText": "Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother,"
+  },
+  {
+    "text": "Paul gives thanks for the Colossians' faith in Christ Jesus and what else, which they have for all the saints?",
+    "options": ["Their knowledge", "Their wealth", "The love", "Their suffering"],
+    "correctAnswerIndex": 2,
+    "book": "Colossians",
+    "difficulty": "Easy",
+    "verseReference": "Colossians 1:4",
+    "verseText": "since we heard of your faith in Christ Jesus and of the love that you have for all the saints,"
+  },
+  {
+    "text": "The Colossians' faith and love spring from the hope laid up for them where?",
+    "options": ["In the Temple", "In Jerusalem", "In heaven", "In Paul's teachings"],
+    "correctAnswerIndex": 2,
+    "book": "Colossians",
+    "difficulty": "Medium",
+    "verseReference": "Colossians 1:5",
+    "verseText": "because of the hope laid up for you in heaven. Of this you have heard before in the word of the truth, the gospel,"
+  },
+  {
+    "text": "Paul prays that the Colossians would be filled with the knowledge of God's will in all what?",
+    "options": ["Spiritual wisdom and understanding", "Power and might", "Joy and patience", "Wealth and prosperity"],
+    "correctAnswerIndex": 0,
+    "book": "Colossians",
+    "difficulty": "Medium",
+    "verseReference": "Colossians 1:9",
+    "verseText": "And so, from the day we heard, we have not ceased to pray for you, asking that you may be filled with the knowledge of his will in all spiritual wisdom and understanding,"
+  },
+  {
+    "text": "The goal of being filled with the knowledge of God's will is to walk in a manner worthy of the Lord, fully pleasing Him, and doing what?",
+    "options": ["Judging others", "Bearing fruit in every good work and increasing in knowledge", "Separating from the world", "Performing miracles"],
+    "correctAnswerIndex": 1,
+    "book": "Colossians",
+    "difficulty": "Medium",
+    "verseReference": "Colossians 1:10",
+    "verseText": "so as to walk in a manner worthy of the Lord, fully pleasing to him: bearing fruit in every good work and increasing in the knowledge of God;"
+  },
+  {
+    "text": "God has delivered believers from the domain of darkness and transferred them to what?",
+    "options": ["A state of uncertainty", "The kingdom of his beloved Son", "The Mosaic Law", "The authority of angels"],
+    "correctAnswerIndex": 1,
+    "book": "Colossians",
+    "difficulty": "Easy",
+    "verseReference": "Colossians 1:13",
+    "verseText": "He has delivered us from the domain of darkness and transferred us to the kingdom of his beloved Son,"
+  },
+  {
+    "text": "In Christ, believers have redemption, which specifically involves what?",
+    "options": ["Political freedom", "The forgiveness of sins", "Material blessings", "Perfect knowledge"],
+    "correctAnswerIndex": 1,
+    "book": "Colossians",
+    "difficulty": "Easy",
+    "verseReference": "Colossians 1:14",
+    "verseText": "in whom we have redemption, the forgiveness of sins."
+  },
+  {
+    "text": "Christ is described as the 'firstborn of all creation'. In context, this emphasizes His role as what?",
+    "options": ["The first created being", "Supreme and preeminent over all creation", "A created being like angels", "Subject to creation"],
+    "correctAnswerIndex": 1,
+    "book": "Colossians",
+    "difficulty": "Hard",
+    "verseReference": "Colossians 1:15-17",
+    "verseText": "He is the image of the invisible God, the firstborn of all creation. For by him all things were created... He is before all things, and in him all things hold together."
+  },
+  {
+    "text": "All things in heaven and on earth, visible and invisible, including thrones, dominions, rulers, and authorities, were created through whom and for whom?",
+    "options": ["Angels", "Humanity", "Christ", "Moses"],
+    "correctAnswerIndex": 2,
+    "book": "Colossians",
+    "difficulty": "Medium",
+    "verseReference": "Colossians 1:16",
+    "verseText": "For by him all things were created, in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities—all things were created through him and for him."
+  },
+  {
+    "text": "How do all things hold together, according to Colossians 1?",
+    "options": ["By natural laws alone", "By angelic power", "In Christ", "Through human effort"],
+    "correctAnswerIndex": 2,
+    "book": "Colossians",
+    "difficulty": "Medium",
+    "verseReference": "Colossians 1:17",
+    "verseText": "And he is before all things, and in him all things hold together."
+  },
+  {
+    "text": "Christ is the beginning and the firstborn from the dead so that He might be what in everything?",
+    "options": ["Second", "Equal", "Preeminent", "Hidden"],
+    "correctAnswerIndex": 2,
+    "book": "Colossians",
+    "difficulty": "Medium",
+    "verseReference": "Colossians 1:18",
+    "verseText": "He is the beginning, the firstborn from the dead, that in everything he might be preeminent."
+  },
+  {
+    "text": "What dwells bodily in Christ, according to Colossians?",
+    "options": ["A portion of God's power", "The spirit of prophecy", "The whole fullness of deity", "Human wisdom only"],
+    "correctAnswerIndex": 2,
+    "book": "Colossians",
+    "difficulty": "Medium",
+    "verseReference": "Colossians 1:19, 2:9",
+    "verseText": "For in him all the fullness of God was pleased to dwell... For in him the whole fullness of deity dwells bodily,"
+  },
+  {
+    "text": "God was pleased to reconcile all things to Himself through Christ, making peace by what means?",
+    "options": ["Negotiation with Satan", "The blood of His cross", "Ignoring sin", "Human effort"],
+    "correctAnswerIndex": 1,
+    "book": "Colossians",
+    "difficulty": "Medium",
+    "verseReference": "Colossians 1:20",
+    "verseText": "and through him to reconcile to himself all things, whether on earth or in heaven, making peace by the blood of his cross."
+  },
+  {
+    "text": "The Colossians, once alienated and hostile in mind, have now been reconciled in Christ's body of flesh through death in order to be presented how before God?",
+    "options": ["Fearful and ashamed", "Holy and blameless and above reproach", "Wealthy and influential", "Ignorant and weak"],
+    "correctAnswerIndex": 1,
+    "book": "Colossians",
+    "difficulty": "Medium",
+    "verseReference": "Colossians 1:21-22",
+    "verseText": "And you, who once were alienated and hostile in mind, doing evil deeds, he has now reconciled in his body of flesh by his death, in order to present you holy and blameless and above reproach before him,"
+  },
+  {
+    "text": "Paul rejoices in his sufferings for the Colossians, seeing it as filling up what is lacking in Christ's afflictions for the sake of what?",
+    "options": ["His own glory", "Christ's body, the church", "The nation of Israel", "The poor"],
+    "correctAnswerIndex": 1,
+    "book": "Colossians",
+    "difficulty": "Hard",
+    "verseReference": "Colossians 1:24",
+    "verseText": "Now I rejoice in my sufferings for your sake, and in my flesh I am filling up what is lacking in Christ's afflictions for the sake of his body, that is, the church,"
+  },
+  {
+    "text": "What is the 'mystery hidden for ages' that Paul was commissioned to reveal, especially to the Gentiles?",
+    "options": ["The date of the end times", "The location of the Ark", "Christ in you, the hope of glory", "The secret names of angels"],
+    "correctAnswerIndex": 2,
+    "book": "Colossians",
+    "difficulty": "Medium",
+    "verseReference": "Colossians 1:26-27",
+    "verseText": "the mystery hidden for ages and generations but now revealed to his saints. To them God chose to make known how great among the Gentiles are the riches of the glory of this mystery, which is Christ in you, the hope of glory."
+  },
+  {
+    "text": "What is the goal of Paul's proclamation and teaching, warning and instructing everyone?",
+    "options": ["To make them follow Jewish law", "To present everyone mature in Christ", "To establish his own authority", "To gather wealth for Jerusalem"],
+    "correctAnswerIndex": 1,
+    "book": "Colossians",
+    "difficulty": "Medium",
+    "verseReference": "Colossians 1:28",
+    "verseText": "Him we proclaim, warning everyone and teaching everyone with all wisdom, that we may present everyone mature in Christ."
+  },
+  {
+    "text": "Paul mentions struggling with all Christ's energy that works powerfully within him for the Colossians and for those in which nearby city?",
+    "options": ["Ephesus", "Philippi", "Laodicea", "Hierapolis"],
+    "correctAnswerIndex": 2,
+    "book": "Colossians",
+    "difficulty": "Medium",
+    "verseReference": "Colossians 2:1, 4:13",
+    "verseText": "For I want you to know how great a struggle I have for you and for those at Laodicea and for all who have not seen me face to face... For I bear him witness that he has worked hard for you and for those in Laodicea and in Hierapolis."
+  },
+  {
+    "text": "In Christ are hidden all the treasures of what?",
+    "options": ["Wealth and gold", "Worldly power", "Wisdom and knowledge", "Prophetic insight"],
+    "correctAnswerIndex": 2,
+    "book": "Colossians",
+    "difficulty": "Medium",
+    "verseReference": "Colossians 2:3",
+    "verseText": "in whom are hidden all the treasures of wisdom and knowledge."
+  },
+  {
+    "text": "Paul warns against plausible arguments used for what purpose?",
+    "options": ["To encourage faith", "To build up the church", "To delude the believers", "To explain scripture"],
+    "correctAnswerIndex": 2,
+    "book": "Colossians",
+    "difficulty": "Medium",
+    "verseReference": "Colossians 2:4",
+    "verseText": "I say this in order that no one may delude you with plausible arguments."
+  },
+  {
+    "text": "Believers are filled in Christ, who is the head of what?",
+    "options": ["The Roman government", "All rule and authority", "The physical world only", "The Jewish nation"],
+    "correctAnswerIndex": 1,
+    "book": "Colossians",
+    "difficulty": "Medium",
+    "verseReference": "Colossians 2:10",
+    "verseText": "and you have been filled in him, who is the head of all rule and authority."
+  },
+  {
+    "text": "What kind of circumcision have believers received in Christ, not made with hands?",
+    "options": ["A physical mark", "A circumcision of the heart (putting off the body of flesh)", "A legal status", "A temporary cleansing"],
+    "correctAnswerIndex": 1,
+    "book": "Colossians",
+    "difficulty": "Medium",
+    "verseReference": "Colossians 2:11",
+    "verseText": "In him also you were circumcised with a circumcision made without hands, by putting off the body of the flesh, by the circumcision of Christ,"
+  },
+  {
+    "text": "Having been buried with Christ in baptism, believers were also raised with Him through faith in what?",
+    "options": ["Their own efforts", "The power of God, who raised Him from the dead", "Angelic intervention", "The teachings of the apostles"],
+    "correctAnswerIndex": 1,
+    "book": "Colossians",
+    "difficulty": "Medium",
+    "verseReference": "Colossians 2:12",
+    "verseText": "having been buried with him in baptism, in which you were also raised with him through faith in the powerful working of God, who raised him from the dead."
+  },
+  {
+    "text": "God made believers alive together with Christ, having forgiven all their trespasses and cancelled what?",
+    "options": ["Their debts to Rome", "The record of debt that stood against us with its legal demands", "Their family obligations", "Their future sins"],
+    "correctAnswerIndex": 1,
+    "book": "Colossians",
+    "difficulty": "Medium",
+    "verseReference": "Colossians 2:13-14",
+    "verseText": "And you, who were dead in your trespasses and the uncircumcision of your flesh, God made alive together with him, having forgiven us all our trespasses, by canceling the record of debt that stood against us with its legal demands. This he set aside, nailing it to the cross."
+  },
+  {
+    "text": "How did God triumph over the rulers and authorities (spiritual powers)?",
+    "options": ["By negotiating with them", "By disarming them and putting them to open shame through the cross", "By ignoring them", "By giving them power over believers"],
+    "correctAnswerIndex": 1,
+    "book": "Colossians",
+    "difficulty": "Hard",
+    "verseReference": "Colossians 2:15",
+    "verseText": "He disarmed the rulers and authorities and put them to open shame, by triumphing over them in him [or it, the cross]."
+  },
+  {
+    "text": "Paul warns against letting anyone pass judgment regarding food, drink, festivals, new moons, or Sabbaths, because these are what?",
+    "options": ["Essential for salvation", "A shadow of things to come; the substance belongs to Christ", "Binding on all believers", "Ways to earn God's favor"],
+    "correctAnswerIndex": 1,
+    "book": "Colossians",
+    "difficulty": "Medium",
+    "verseReference": "Colossians 2:16-17",
+    "verseText": "Therefore let no one pass judgment on you in questions of food and drink, or with regard to a festival or a new moon or a Sabbath. These are a shadow of the things to come, but the substance belongs to Christ."
+  },
+  {
+    "text": "The false teachers promoted regulations like 'Do not handle, Do not taste, Do not touch'. Paul says these have an appearance of wisdom but lack value against what?",
+    "options": ["Roman law", "Indulgence of the flesh", "Philosophical arguments", "Angelic powers"],
+    "correctAnswerIndex": 1,
+    "book": "Colossians",
+    "difficulty": "Hard",
+    "verseReference": "Colossians 2:20-23",
+    "verseText": "If with Christ you died to the elemental spirits of the world, why, as if you were still alive in the world, do you submit to regulations— “Do not handle, Do not taste, Do not touch” ... These have indeed an appearance of wisdom in promoting self-made religion and asceticism and severity to the body, but they are of no value in stopping the indulgence of the flesh."
+  },
+  {
+    "text": "Since believers have died and their life is hidden with Christ in God, what will happen when Christ appears?",
+    "options": ["They will be judged", "They will also appear with Him in glory", "They will return to earthly life", "They will receive the Law"],
+    "correctAnswerIndex": 1,
+    "book": "Colossians",
+    "difficulty": "Medium",
+    "verseReference": "Colossians 3:3-4",
+    "verseText": "For you have died, and your life is hidden with Christ in God. When Christ who is your life appears, then you also will appear with him in glory."
+  },
+  {
+    "text": "What things are believers told to 'put to death' that belong to their earthly nature?",
+    "options": ["Spiritual gifts", "Love, joy, peace", "Sexual immorality, impurity, passion, evil desire, covetousness", "Reading, studying, praying"],
+    "correctAnswerIndex": 2,
+    "book": "Colossians",
+    "difficulty": "Easy",
+    "verseReference": "Colossians 3:5",
+    "verseText": "Put to death therefore what is earthly in you: sexual immorality, impurity, passion, evil desire, and covetousness, which is idolatry."
+  },
+  {
+    "text": "Besides putting off vices, believers should put on the new self, which is being renewed in knowledge according to whose image?",
+    "options": ["Adam's image", "Moses' image", "The image of its creator", "Their own image"],
+    "correctAnswerIndex": 2,
+    "book": "Colossians",
+    "difficulty": "Medium",
+    "verseReference": "Colossians 3:10",
+    "verseText": "and have put on the new self, which is being renewed in knowledge after the image of its creator."
+  },
+  {
+    "text": "In the new self, what distinctions are no longer relevant?",
+    "options": ["Rich and poor", "Male and female only", "Greek and Jew, circumcised and uncircumcised, barbarian, Scythian, slave, free", "Young and old"],
+    "correctAnswerIndex": 2,
+    "book": "Colossians",
+    "difficulty": "Medium",
+    "verseReference": "Colossians 3:11",
+    "verseText": "Here there is not Greek and Jew, circumcised and uncircumcised, barbarian, Scythian, slave, free; but Christ is all, and in all."
+  },
+  {
+    "text": "Above all the virtues believers should put on, what should bind everything together in perfect harmony?",
+    "options": ["Knowledge", "Faith", "Love", "Hope"],
+    "correctAnswerIndex": 2,
+    "book": "Colossians",
+    "difficulty": "Easy",
+    "verseReference": "Colossians 3:14",
+    "verseText": "And above all these put on love, which binds everything together in perfect harmony."
+  },
+  {
+    "text": "What should rule in the hearts of believers, to which they were called in one body?",
+    "options": ["Fear", "The peace of Christ", "Their own desires", "The Law"],
+    "correctAnswerIndex": 1,
+    "book": "Colossians",
+    "difficulty": "Easy",
+    "verseReference": "Colossians 3:15",
+    "verseText": "And let the peace of Christ rule in your hearts, to which indeed you were called in one body. And be thankful."
+  },
+  {
+    "text": "How should the word of Christ dwell in believers?",
+    "options": ["Sparsely", "Richly", "Only in the mind", "As a secret"],
+    "correctAnswerIndex": 1,
+    "book": "Colossians",
+    "difficulty": "Easy",
+    "verseReference": "Colossians 3:16",
+    "verseText": "Let the word of Christ dwell in you richly, teaching and admonishing one another in all wisdom, singing psalms and hymns and spiritual songs, with thankfulness in your hearts to God."
+  },
+  {
+    "text": "Whatever believers do, in word or deed, should be done in whose name?",
+    "options": ["Their own name", "The name of the Emperor", "The name of the Lord Jesus", "The name of Paul"],
+    "correctAnswerIndex": 2,
+    "book": "Colossians",
+    "difficulty": "Easy",
+    "verseReference": "Colossians 3:17",
+    "verseText": "And whatever you do, in word or deed, do everything in the name of the Lord Jesus, giving thanks to God the Father through him."
+  },
+  {
+    "text": "What specific instruction is given to wives regarding their husbands?",
+    "options": ["Rule over them", "Submit to them, as is fitting in the Lord", "Ignore them", "Teach them"],
+    "correctAnswerIndex": 1,
+    "book": "Colossians",
+    "difficulty": "Medium",
+    "verseReference": "Colossians 3:18",
+    "verseText": "Wives, submit to your husbands, as is fitting in the Lord."
+  },
+  {
+    "text": "What specific instruction is given to husbands regarding their wives?",
+    "options": ["Command them harshly", "Love them and do not be harsh with them", "Ignore them", "Treat them as servants"],
+    "correctAnswerIndex": 1,
+    "book": "Colossians",
+    "difficulty": "Medium",
+    "verseReference": "Colossians 3:19",
+    "verseText": "Husbands, love your wives, and do not be harsh with them."
+  },
+  {
+    "text": "What specific instruction is given to fathers regarding their children?",
+    "options": ["Ignore them", "Do not provoke them, lest they become discouraged", "Demand perfection", "Provide only material needs"],
+    "correctAnswerIndex": 1,
+    "book": "Colossians",
+    "difficulty": "Medium",
+    "verseReference": "Colossians 3:21",
+    "verseText": "Fathers, do not provoke your children, lest they become discouraged."
+  },
+  {
+    "text": "How are bondservants (slaves) instructed to work for their earthly masters?",
+    "options": ["Only when watched", "With sincerity of heart, fearing the Lord", "Reluctantly", "Seeking to undermine them"],
+    "correctAnswerIndex": 1,
+    "book": "Colossians",
+    "difficulty": "Medium",
+    "verseReference": "Colossians 3:22-23",
+    "verseText": "Bondservants, obey in everything those who are your earthly masters, not by way of eye-service, as people-pleasers, but with sincerity of heart, fearing the Lord. Whatever you do, work heartily, as for the Lord and not for men,"
+  },
+  {
+    "text": "Who is the 'beloved and faithful brother' Paul sent to inform the Colossians about his situation and to encourage them?",
+    "options": ["Epaphras", "Onesimus", "Tychicus", "Mark"],
+    "correctAnswerIndex": 2,
+    "book": "Colossians",
+    "difficulty": "Medium",
+    "verseReference": "Colossians 4:7-8",
+    "verseText": "Tychicus will tell you all about my activities. He is a beloved brother and faithful minister and fellow servant in the Lord. I have sent him to you for this very purpose, that you may know how we are and that he may encourage your hearts,"
+  },
+  {
+    "text": "Who accompanied Tychicus, described as 'one of you' (from Colossae)?",
+    "options": ["Luke", "Demas", "Onesimus", "Aristarchus"],
+    "correctAnswerIndex": 2,
+    "book": "Colossians",
+    "difficulty": "Medium",
+    "verseReference": "Colossians 4:9",
+    "verseText": "and with him Onesimus, our faithful and beloved brother, who is one of you. They will tell you of everything that has taken place here."
   }
 ]

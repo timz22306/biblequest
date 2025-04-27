@@ -88,5 +88,365 @@
     "difficulty": "Easy",
     "verseReference": "Hebrews 13:8",
     "verseText": "Jesus Christ is the same yesterday and today and forever."
+  },
+  {
+    "text": "In the opening of Hebrews, how did God speak 'in these last days' that contrasts with how He spoke in the past?",
+    "options": ["Through dreams", "Through angels", "Through His Son", "Through Urim and Thummim"],
+    "correctAnswerIndex": 2,
+    "book": "Hebrews",
+    "difficulty": "Easy",
+    "verseReference": "Hebrews 1:1-2",
+    "verseText": "Long ago, at many times and in many ways, God spoke to our fathers by the prophets, but in these last days he has spoken to us by his Son..."
+  },
+  {
+    "text": "What position did the Son take after making purification for sins?",
+    "options": ["He returned to earth", "He sat down at the right hand of the Majesty on high", "He entered the earthly temple", "He went into the wilderness"],
+    "correctAnswerIndex": 1,
+    "book": "Hebrews",
+    "difficulty": "Easy",
+    "verseReference": "Hebrews 1:3",
+    "verseText": "He is the radiance of the glory of God and the exact imprint of his nature... After making purification for sins, he sat down at the right hand of the Majesty on high,"
+  },
+  {
+    "text": "Hebrews 2 warns against neglecting what?",
+    "options": ["The Law", "Such a great salvation", "Temple rituals", "Paying tithes"],
+    "correctAnswerIndex": 1,
+    "book": "Hebrews",
+    "difficulty": "Medium",
+    "verseReference": "Hebrews 2:1-3",
+    "verseText": "Therefore we must pay much closer attention to what we have heard, lest we drift away from it... how shall we escape if we neglect such a great salvation?"
+  },
+  {
+    "text": "Why did Jesus have to be made like His brothers (human) in every respect?",
+    "options": ["To understand the Law better", "To become a merciful and faithful high priest", "To gain political power", "To learn obedience"],
+    "correctAnswerIndex": 1,
+    "book": "Hebrews",
+    "difficulty": "Medium",
+    "verseReference": "Hebrews 2:17",
+    "verseText": "Therefore he had to be made like his brothers in every respect, so that he might become a merciful and faithful high priest in the service of God, to make propitiation for the sins of the people."
+  },
+  {
+    "text": "Because Jesus Himself suffered when tempted, what is He able to do for those who are tempted?",
+    "options": ["Condemn them", "Ignore them", "Help them", "Give them more temptation"],
+    "correctAnswerIndex": 2,
+    "book": "Hebrews",
+    "difficulty": "Easy",
+    "verseReference": "Hebrews 2:18",
+    "verseText": "For because he himself has suffered when tempted, he is able to help those who are being tempted."
+  },
+  {
+    "text": "Hebrews 3 compares Jesus to which Old Testament figure, showing Jesus' superiority as the Son over the house compared to a servant in the house?",
+    "options": ["Abraham", "David", "Moses", "Elijah"],
+    "correctAnswerIndex": 2,
+    "book": "Hebrews",
+    "difficulty": "Medium",
+    "verseReference": "Hebrews 3:1-6",
+    "verseText": "Therefore, holy brothers... consider Jesus, the apostle and high priest of our confession... Jesus has been counted worthy of more glory than Moses—as much more glory as the builder of a house has more honor than the house itself... Now Moses was faithful in all God's house as a servant... but Christ is faithful over God's house as a son."
+  },
+  {
+    "text": "What warning does Hebrews 3 give, referencing the Israelites in the wilderness?",
+    "options": ["Not to build idols", "Not to harden their hearts and rebel", "Not to complain about food", "Not to fear giants"],
+    "correctAnswerIndex": 1,
+    "book": "Hebrews",
+    "difficulty": "Medium",
+    "verseReference": "Hebrews 3:7-8, 15",
+    "verseText": "Therefore, as the Holy Spirit says, “Today, if you hear his voice, do not harden your hearts as in the rebellion...” As it is said, “Today, if you hear his voice, do not harden your hearts as in the rebellion.”"
+  },
+  {
+    "text": "What 'rest' remains for the people of God, according to Hebrews 4?",
+    "options": ["The weekend", "Retirement", "A Sabbath rest (referring to salvation and eternal rest)", "Physical rest only"],
+    "correctAnswerIndex": 2,
+    "book": "Hebrews",
+    "difficulty": "Medium",
+    "verseReference": "Hebrews 4:9-10",
+    "verseText": "So then, there remains a Sabbath rest for the people of God, for whoever has entered God's rest has also rested from his works as God did from his."
+  },
+  {
+    "text": "Why can believers draw near to the throne of grace with confidence?",
+    "options": ["Because they are sinless", "Because Jesus, our High Priest, sympathizes with our weaknesses", "Because God ignores sin", "Because the throne is unguarded"],
+    "correctAnswerIndex": 1,
+    "book": "Hebrews",
+    "difficulty": "Easy",
+    "verseReference": "Hebrews 4:15-16",
+    "verseText": "For we do not have a high priest who is unable to sympathize with our weaknesses, but one who in every respect has been tempted as we are, yet without sin. Let us then with confidence draw near to the throne of grace, that we may receive mercy and find grace to help in time of need."
+  },
+  {
+    "text": "What qualification did Old Testament high priests need, which Jesus also demonstrated through His suffering?",
+    "options": ["Wealth", "Political connections", "Ability to sympathize with the ignorant and wayward", "Military skill"],
+    "correctAnswerIndex": 2,
+    "book": "Hebrews",
+    "difficulty": "Medium",
+    "verseReference": "Hebrews 5:1-2",
+    "verseText": "For every high priest chosen from among men is appointed to act on behalf of men in relation to God... He can deal gently with the ignorant and wayward, since he himself is beset with weakness."
+  },
+  {
+    "text": "How did Jesus learn obedience, according to Hebrews 5?",
+    "options": ["By reading the Law", "Through what He suffered", "From the angels", "From His disciples"],
+    "correctAnswerIndex": 1,
+    "book": "Hebrews",
+    "difficulty": "Medium",
+    "verseReference": "Hebrews 5:8",
+    "verseText": "Although he was a son, he learned obedience through what he suffered."
+  },
+  {
+    "text": "The author of Hebrews chastises the readers for being 'dull of hearing' and needing what, when they ought to be teachers?",
+    "options": ["More miracles", "Milk, not solid food", "Wealth", "Political freedom"],
+    "correctAnswerIndex": 1,
+    "book": "Hebrews",
+    "difficulty": "Medium",
+    "verseReference": "Hebrews 5:11-12",
+    "verseText": "About this we have much to say, and it is hard to explain, since you have become dull of hearing. For though by this time you ought to be teachers, you need someone to teach you again the basic principles of the oracles of God. You need milk, not solid food,"
+  },
+  {
+    "text": "Hebrews 6 warns that it is impossible to restore to repentance those who have once been enlightened, tasted the heavenly gift, shared in the Holy Spirit, tasted the goodness of God's word and the powers of the age to come, and then done what?",
+    "options": ["Committed a minor sin", "Fallen away", "Questioned a doctrine", "Disagreed with church leaders"],
+    "correctAnswerIndex": 1,
+    "book": "Hebrews",
+    "difficulty": "Hard",
+    "verseReference": "Hebrews 6:4-6",
+    "verseText": "For it is impossible, in the case of those who have once been enlightened, who have tasted the heavenly gift, and have shared in the Holy Spirit, and have tasted the goodness of the word of God and the powers of the age to come, and then have fallen away, to restore them again to repentance, since they are crucifying once again the Son of God to their own harm and holding him up to contempt."
+  },
+  {
+    "text": "What does God's promise and oath provide for the believer's hope?",
+    "options": ["Uncertainty", "A reason for doubt", "Strong encouragement and an anchor for the soul", "Temporary comfort"],
+    "correctAnswerIndex": 2,
+    "book": "Hebrews",
+    "difficulty": "Medium",
+    "verseReference": "Hebrews 6:18-19",
+    "verseText": "so that by two unchangeable things, in which it is impossible for God to lie, we who have fled for refuge might have strong encouragement to hold fast to the hope set before us. We have this as a sure and steadfast anchor of the soul..."
+  },
+  {
+    "text": "Why is the priesthood of Melchizedek superior to the Levitical priesthood, according to Hebrews 7?",
+    "options": ["Melchizedek offered better sacrifices", "Levi paid tithes to Melchizedek through Abraham", "Melchizedek was older", "The Levites were often corrupt"],
+    "correctAnswerIndex": 1,
+    "book": "Hebrews",
+    "difficulty": "Hard",
+    "verseReference": "Hebrews 7:4-10",
+    "verseText": "See how great this man was to whom Abraham the patriarch gave a tenth of the spoils!... One might even say that Levi himself, who receives tithes, paid tithes through Abraham, for he was still in the loins of his ancestor when Melchizedek met him."
+  },
+  {
+    "text": "What key difference between Christ's priesthood and the Levitical priesthood relates to permanence?",
+    "options": ["Levites served longer terms", "Christ is a priest forever, while Levitical priests died", "Levitical priesthood was more honored", "Christ's priesthood was temporary"],
+    "correctAnswerIndex": 1,
+    "book": "Hebrews",
+    "difficulty": "Medium",
+    "verseReference": "Hebrews 7:23-24",
+    "verseText": "The former priests were many in number, because they were prevented by death from continuing in office, but he holds his priesthood permanently, because he continues forever."
+  },
+  {
+    "text": "Because Christ lives forever to intercede, He is able to do what for those who draw near to God through Him?",
+    "options": ["Save them partially", "Save them temporarily", "Save them completely", "Offer them advice"],
+    "correctAnswerIndex": 2,
+    "book": "Hebrews",
+    "difficulty": "Medium",
+    "verseReference": "Hebrews 7:25",
+    "verseText": "Consequently, he is able to save to the uttermost those who draw near to God through him, since he always lives to make intercession for them."
+  },
+  {
+    "text": "What is the main deficiency of the Old Covenant that necessitated a New Covenant?",
+    "options": ["It was too complex", "It lacked a temple", "It could not perfect the conscience or truly take away sins; it had fault", "It was only for Jews"],
+    "correctAnswerIndex": 2,
+    "book": "Hebrews",
+    "difficulty": "Medium",
+    "verseReference": "Hebrews 8:7, 10:1-4",
+    "verseText": "For if that first covenant had been faultless, there would have been no occasion to look for a second... For the law... can never, by the same sacrifices that are continually offered every year, make perfect those who draw near... For it is impossible for the blood of bulls and goats to take away sins."
+  },
+  {
+    "text": "Where does the New Covenant promise that God's laws will be written?",
+    "options": ["On stone tablets", "On scrolls", "On their hearts and minds", "On temple walls"],
+    "correctAnswerIndex": 2,
+    "book": "Hebrews",
+    "difficulty": "Easy",
+    "verseReference": "Hebrews 8:10",
+    "verseText": "For this is the covenant that I will make with the house of Israel after those days, declares the Lord: I will put my laws into their minds, and write them on their hearts..."
+  },
+  {
+    "text": "What did the regulations of the first covenant's tabernacle primarily pertain to?",
+    "options": ["Eternal realities", "Food, drink, and various washings—external regulations", "Heart attitudes", "Global mission"],
+    "correctAnswerIndex": 1,
+    "book": "Hebrews",
+    "difficulty": "Medium",
+    "verseReference": "Hebrews 9:9-10",
+    "verseText": "(Which is symbolic for the present age.) According to this arrangement, gifts and sacrifices are offered that cannot perfect the conscience of the worshiper, but deal only with food and drink and various washings, regulations for the body imposed until the time of reformation."
+  },
+  {
+    "text": "How often did the high priest enter the Most Holy Place under the Old Covenant, and with what?",
+    "options": ["Daily, with grain offerings", "Weekly, with incense", "Once a year, with blood", "Whenever he wished, empty-handed"],
+    "correctAnswerIndex": 2,
+    "book": "Hebrews",
+    "difficulty": "Medium",
+    "verseReference": "Hebrews 9:7",
+    "verseText": "but into the second only the high priest goes, and he but once a year, and not without taking blood, which he offers for himself and for the unintentional sins of the people."
+  },
+  {
+    "text": "According to Hebrews 9:22, without the shedding of what is there no forgiveness of sins?",
+    "options": ["Tears", "Water", "Blood", "Sweat"],
+    "correctAnswerIndex": 2,
+    "book": "Hebrews",
+    "difficulty": "Easy",
+    "verseReference": "Hebrews 9:22",
+    "verseText": "Indeed, under the law almost everything is purified with blood, and without the shedding of blood there is no forgiveness of sins."
+  },
+  {
+    "text": "How many times did Christ have to offer Himself as a sacrifice for sins?",
+    "options": ["Many times", "Annually", "Once for all", "Continuously"],
+    "correctAnswerIndex": 2,
+    "book": "Hebrews",
+    "difficulty": "Easy",
+    "verseReference": "Hebrews 9:26, 28, 10:10",
+    "verseText": "But as it is, he has appeared once for all at the end of the ages to put away sin by the sacrifice of himself... so Christ, having been offered once to bear the sins of many... And by that will we have been sanctified through the offering of the body of Jesus Christ once for all."
+  },
+  {
+    "text": "What is Christ doing now at God's right hand after offering His sacrifice?",
+    "options": ["Resting permanently", "Waiting until His enemies are made His footstool", "Planning His return", "Judging angels"],
+    "correctAnswerIndex": 1,
+    "book": "Hebrews",
+    "difficulty": "Medium",
+    "verseReference": "Hebrews 10:12-13",
+    "verseText": "But when Christ had offered for all time a single sacrifice for sins, he sat down at the right hand of God, waiting from that time until his enemies should be made a footstool for his feet."
+  },
+  {
+    "text": "What should believers provoke one another to, according to Hebrews 10?",
+    "options": ["Anger and disputes", "Love and good works", "Competition", "Fear"],
+    "correctAnswerIndex": 1,
+    "book": "Hebrews",
+    "difficulty": "Easy",
+    "verseReference": "Hebrews 10:24",
+    "verseText": "And let us consider how to stir up one another to love and good works,"
+  },
+  {
+    "text": "Hebrews 10 warns believers not to neglect what practice?",
+    "options": ["Paying taxes", "Meeting together", "Fasting", "Political activism"],
+    "correctAnswerIndex": 1,
+    "book": "Hebrews",
+    "difficulty": "Easy",
+    "verseReference": "Hebrews 10:25",
+    "verseText": "not neglecting to meet together, as is the habit of some, but encouraging one another, and all the more as you see the Day drawing near."
+  },
+  {
+    "text": "What fearful thing awaits those who deliberately go on sinning after receiving the knowledge of the truth?",
+    "options": ["A second chance", "Temporary punishment", "A fearful expectation of judgment and fury of fire", "Loss of rewards only"],
+    "correctAnswerIndex": 2,
+    "book": "Hebrews",
+    "difficulty": "Hard",
+    "verseReference": "Hebrews 10:26-27",
+    "verseText": "For if we go on sinning deliberately after receiving the knowledge of the truth, there no longer remains a sacrifice for sins, but a fearful expectation of judgment, and a fury of fire that will consume the adversaries."
+  },
+  {
+    "text": "By faith, who offered a more acceptable sacrifice than Cain?",
+    "options": ["Noah", "Enoch", "Abel", "Abraham"],
+    "correctAnswerIndex": 2,
+    "book": "Hebrews",
+    "difficulty": "Easy",
+    "verseReference": "Hebrews 11:4",
+    "verseText": "By faith Abel offered to God a more acceptable sacrifice than Cain, through which he was commended as righteous..."
+  },
+  {
+    "text": "By faith, who constructed an ark for the saving of his household?",
+    "options": ["Abraham", "Moses", "Noah", "Jacob"],
+    "correctAnswerIndex": 2,
+    "book": "Hebrews",
+    "difficulty": "Easy",
+    "verseReference": "Hebrews 11:7",
+    "verseText": "By faith Noah, being warned by God concerning events as yet unseen, in reverent fear constructed an ark for the saving of his household."
+  },
+  {
+    "text": "By faith, Abraham looked forward to what?",
+    "options": ["A great kingdom on earth", "Wealth and fame", "The city that has foundations, whose designer and builder is God", "Returning to Ur"],
+    "correctAnswerIndex": 2,
+    "book": "Hebrews",
+    "difficulty": "Medium",
+    "verseReference": "Hebrews 11:10",
+    "verseText": "For he was looking forward to the city that has foundations, whose designer and builder is God."
+  },
+  {
+    "text": "By faith, who chose to be mistreated with the people of God rather than enjoy the fleeting pleasures of sin?",
+    "options": ["Joseph", "David", "Moses", "Daniel"],
+    "correctAnswerIndex": 2,
+    "book": "Hebrews",
+    "difficulty": "Medium",
+    "verseReference": "Hebrews 11:24-25",
+    "verseText": "By faith Moses, when he was grown up, refused to be called the son of Pharaoh's daughter, choosing rather to be mistreated with the people of God than to enjoy the fleeting pleasures of sin."
+  },
+  {
+    "text": "By faith, the walls of what city fell down after being encircled for seven days?",
+    "options": ["Jerusalem", "Babylon", "Jericho", "Ai"],
+    "correctAnswerIndex": 2,
+    "book": "Hebrews",
+    "difficulty": "Easy",
+    "verseReference": "Hebrews 11:30",
+    "verseText": "By faith the walls of Jericho fell down after they had been encircled for seven days."
+  },
+  {
+    "text": "Hebrews 11 mentions heroes of faith who experienced great victories, but also those who experienced what?",
+    "options": ["Doubt and failure", "Torture, mocking, imprisonment, and death", "Prosperity only", "Political power"],
+    "correctAnswerIndex": 1,
+    "book": "Hebrews",
+    "difficulty": "Medium",
+    "verseReference": "Hebrews 11:35-38",
+    "verseText": "Some were tortured... Others suffered mocking and flogging, and even chains and imprisonment. They were stoned, they were sawn in two, they were killed with the sword... destitute, afflicted, mistreated..."
+  },
+  {
+    "text": "What are believers encouraged to lay aside in the race set before them?",
+    "options": ["Their possessions", "Their families", "Every weight, and sin which clings so closely", "Their ambitions"],
+    "correctAnswerIndex": 2,
+    "book": "Hebrews",
+    "difficulty": "Easy",
+    "verseReference": "Hebrews 12:1",
+    "verseText": "Therefore, since we are surrounded by so great a cloud of witnesses, let us also lay aside every weight, and sin which clings so closely, and let us run with endurance the race that is set before us,"
+  },
+  {
+    "text": "Where should believers fix their eyes while running the race?",
+    "options": ["On the crowd", "On their own feet", "On Jesus, the founder and perfecter of our faith", "On the finish line"],
+    "correctAnswerIndex": 2,
+    "book": "Hebrews",
+    "difficulty": "Easy",
+    "verseReference": "Hebrews 12:2",
+    "verseText": "looking to Jesus, the founder and perfecter of our faith, who for the joy that was set before him endured the cross, despising the shame, and is seated at the right hand of the throne of God."
+  },
+  {
+    "text": "Hebrews 12 contrasts the terrifying experience of the Israelites at Mount Sinai with the believers' approach to what?",
+    "options": ["The earthly temple", "Mount Zion and the city of the living God, the heavenly Jerusalem", "A place of judgment", "A new law"],
+    "correctAnswerIndex": 1,
+    "book": "Hebrews",
+    "difficulty": "Medium",
+    "verseReference": "Hebrews 12:18, 22",
+    "verseText": "For you have not come to what may be touched, a blazing fire... But you have come to Mount Zion and to the city of the living God, the heavenly Jerusalem, and to innumerable angels in festal gathering,"
+  },
+  {
+    "text": "What practical exhortation is given regarding brotherly love in Hebrews 13?",
+    "options": ["It is optional", "Let it continue", "It applies only to leaders", "It should be limited"],
+    "correctAnswerIndex": 1,
+    "book": "Hebrews",
+    "difficulty": "Easy",
+    "verseReference": "Hebrews 13:1",
+    "verseText": "Let brotherly love continue."
+  },
+  {
+    "text": "What attitude should believers have towards money and possessions, according to Hebrews 13?",
+    "options": ["Strive for wealth", "Be content with what they have", "Hoard resources", "Despise material things"],
+    "correctAnswerIndex": 1,
+    "book": "Hebrews",
+    "difficulty": "Easy",
+    "verseReference": "Hebrews 13:5",
+    "verseText": "Keep your life free from love of money, and be content with what you have, for he has said, “I will never leave you nor forsake you.”"
+  },
+  {
+    "text": "Where did Jesus suffer (be crucified) in relation to the city gate, and what does this signify for believers?",
+    "options": ["Inside the gate, signifying acceptance", "Outside the gate, signifying rejection and bearing reproach", "On the temple mount", "In secret"],
+    "correctAnswerIndex": 1,
+    "book": "Hebrews",
+    "difficulty": "Medium",
+    "verseReference": "Hebrews 13:12-13",
+    "verseText": "So Jesus also suffered outside the gate in order to sanctify the people through his own blood. Therefore let us go to him outside the camp and bear the reproach he endured."
+  },
+  {
+    "text": "What kind of sacrifice is pleasing to God, mentioned in Hebrews 13 after discussing Christ's sacrifice?",
+    "options": ["Animal sacrifices", "Ignoring others", "Praise, doing good, and sharing", "Building temples"],
+    "correctAnswerIndex": 2,
+    "book": "Hebrews",
+    "difficulty": "Medium",
+    "verseReference": "Hebrews 13:15-16",
+    "verseText": "Through him then let us continually offer up a sacrifice of praise to God, that is, the fruit of lips that acknowledge his name. Do not neglect to do good and to share what you have, for such sacrifices are pleasing to God."
   }
 ]

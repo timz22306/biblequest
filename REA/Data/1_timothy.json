@@ -88,5 +88,347 @@
     "difficulty": "Easy",
     "verseReference": "1 Timothy 6:10",
     "verseText": "For the love of money is a root of all kinds of evils. It is through this craving that some have wandered away from the faith and pierced themselves with many pangs."
+  },
+  {
+    "text": "What is the ultimate goal or aim of Paul's instruction to Timothy regarding false teachers?",
+    "options": ["Public debate", "Excommunication", "Love that issues from a pure heart and a good conscience and a sincere faith", "Establishing stricter rules"],
+    "correctAnswerIndex": 2,
+    "book": "1 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "1 Timothy 1:5",
+    "verseText": "The aim of our charge is love that issues from a pure heart and a good conscience and a sincere faith."
+  },
+  {
+    "text": "Paul describes himself using strong terms to illustrate God's mercy. What does he call himself?",
+    "options": ["The least of the apostles", "A Pharisee of Pharisees", "The foremost (or chief) of sinners", "A servant of Christ"],
+    "correctAnswerIndex": 2,
+    "book": "1 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "1 Timothy 1:15-16",
+    "verseText": "The saying is trustworthy and deserving of full acceptance, that Christ Jesus came into the world to save sinners, of whom I am the foremost. But I received mercy for this reason, that in me, as the foremost, Jesus Christ might display his perfect patience..."
+  },
+  {
+    "text": "Paul encourages Timothy to 'wage the good warfare'. What resources does he mention Timothy should hold onto while doing this?",
+    "options": ["Wealth and influence", "Faith and a good conscience", "Popular opinion", "Political power"],
+    "correctAnswerIndex": 1,
+    "book": "1 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "1 Timothy 1:18-19",
+    "verseText": "This charge I entrust to you, Timothy, my child, in accordance with the prophecies previously made about you, that by them you may wage the good warfare, holding faith and a good conscience."
+  },
+  {
+    "text": "For whom does Paul specifically urge prayers, supplications, intercessions, and thanksgivings to be made, so believers may lead peaceful lives?",
+    "options": ["Only for other believers", "Only for Paul and his companions", "For kings and all who are in high positions", "Only for the poor and needy"],
+    "correctAnswerIndex": 2,
+    "book": "1 Timothy",
+    "difficulty": "Easy",
+    "verseReference": "1 Timothy 2:1-2",
+    "verseText": "First of all, then, I urge that supplications, prayers, intercessions, and thanksgivings be made for all people, for kings and all who are in high positions, that we may lead a peaceful and quiet life, godly and dignified in every way."
+  },
+  {
+    "text": "How many mediators does Paul state there are between God and men?",
+    "options": ["Many, including angels and saints", "Two: the Father and the Son", "One: the man Christ Jesus", "None are needed"],
+    "correctAnswerIndex": 2,
+    "book": "1 Timothy",
+    "difficulty": "Easy",
+    "verseReference": "1 Timothy 2:5",
+    "verseText": "For there is one God, and there is one mediator between God and men, the man Christ Jesus,"
+  },
+  {
+    "text": "Besides being above reproach and the husband of one wife, what specific teaching ability is required for an overseer?",
+    "options": ["Ability to debate philosophers", "Ability to speak multiple languages", "Able to teach", "Ability to write hymns"],
+    "correctAnswerIndex": 2,
+    "book": "1 Timothy",
+    "difficulty": "Easy",
+    "verseReference": "1 Timothy 3:2",
+    "verseText": "Therefore an overseer must be above reproach, the husband of one wife, sober-minded, self-controlled, respectable, hospitable, able to teach,"
+  },
+  {
+    "text": "What negative trait must an overseer NOT possess, relating to alcohol?",
+    "options": ["Not a drunkard", "Not a wine connoisseur", "Not a seller of wine", "Not opposed to drinking"],
+    "correctAnswerIndex": 0,
+    "book": "1 Timothy",
+    "difficulty": "Easy",
+    "verseReference": "1 Timothy 3:3",
+    "verseText": "not a drunkard, not violent but gentle, not quarrelsome, not a lover of money."
+  },
+  {
+    "text": "What area of life must an overseer manage well as evidence of ability to care for God's church?",
+    "options": ["His finances", "His own household", "His time", "His public image"],
+    "correctAnswerIndex": 1,
+    "book": "1 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "1 Timothy 3:4-5",
+    "verseText": "He must manage his own household well, with all dignity keeping his children submissive, for if someone does not know how to manage his own household, how will he care for God's church?"
+  },
+  {
+    "text": "Why should an overseer not be a recent convert?",
+    "options": ["He lacks enthusiasm", "He might become puffed up with conceit", "He doesn't know enough people", "He hasn't given enough money"],
+    "correctAnswerIndex": 1,
+    "book": "1 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "1 Timothy 3:6",
+    "verseText": "He must not be a recent convert, or he may become puffed up with conceit and fall into the condemnation of the devil."
+  },
+  {
+    "text": "What characteristic is specifically required for deacons regarding their speech?",
+    "options": ["Loud and commanding", "Eloquent and persuasive", "Not double-tongued (sincere)", "Silent unless spoken to"],
+    "correctAnswerIndex": 2,
+    "book": "1 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "1 Timothy 3:8",
+    "verseText": "Deacons likewise must be dignified, not double-tongued, not addicted to much wine, not greedy for dishonest gain."
+  },
+  {
+    "text": "Deacons must hold the mystery of the faith with what?",
+    "options": ["A questioning mind", "A clear conscience", "Strong opinions", "Secret knowledge"],
+    "correctAnswerIndex": 1,
+    "book": "1 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "1 Timothy 3:9",
+    "verseText": "They must hold the mystery of the faith with a clear conscience."
+  },
+  {
+    "text": "Paul refers to the church using a metaphor related to architecture. What does he call it?",
+    "options": ["The temple of the living God", "The household of God... the pillar and buttress of the truth", "A city on a hill", "The cornerstone rejected by builders"],
+    "correctAnswerIndex": 1,
+    "book": "1 Timothy",
+    "difficulty": "Hard",
+    "verseReference": "1 Timothy 3:15",
+    "verseText": "if I delay, you may know how one ought to behave in the household of God, which is the church of the living God, a pillar and buttress of the truth."
+  },
+  {
+    "text": "The 'mystery of godliness' described in 1 Timothy 3 involves several statements about Christ. Which of these is mentioned?",
+    "options": ["He performed many miracles", "He was seen by angels", "He wrote scripture", "He judged the nations"],
+    "correctAnswerIndex": 1,
+    "book": "1 Timothy",
+    "difficulty": "Hard",
+    "verseReference": "1 Timothy 3:16",
+    "verseText": "Great indeed, we confess, is the mystery of godliness: He was manifested in the flesh, vindicated by the Spirit, seen by angels, proclaimed among the nations, believed on in the world, taken up in glory."
+  },
+  {
+    "text": "Paul warns that in later times, some will depart from the faith by devoting themselves to what?",
+    "options": ["Political activism", "Philosophical speculation", "Deceitful spirits and teachings of demons", "Material wealth"],
+    "correctAnswerIndex": 2,
+    "book": "1 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "1 Timothy 4:1",
+    "verseText": "Now the Spirit expressly says that in later times some will depart from the faith by devoting themselves to deceitful spirits and teachings of demons,"
+  },
+  {
+    "text": "What does Paul say has value for 'all things', holding promise for both the present life and the life to come?",
+    "options": ["Bodily training", "Intellectual pursuits", "Godliness", "Financial security"],
+    "correctAnswerIndex": 2,
+    "book": "1 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "1 Timothy 4:8",
+    "verseText": "for while bodily training is of some value, godliness is of value in every way, as it holds promise for the present life and also for the life to come."
+  },
+  {
+    "text": "In what areas should Timothy set an example for the believers?",
+    "options": ["Wealth, power, and influence", "Speech, conduct, love, faith, and purity", "Age and experience", "Debating skill and knowledge"],
+    "correctAnswerIndex": 1,
+    "book": "1 Timothy",
+    "difficulty": "Easy",
+    "verseReference": "1 Timothy 4:12",
+    "verseText": "Let no one despise you for your youth, but set the believers an example in speech, in conduct, in love, in faith, in purity."
+  },
+  {
+    "text": "What spiritual disciplines does Paul urge Timothy to devote himself to until Paul arrives?",
+    "options": ["Fasting and solitude", "The public reading of Scripture, exhortation, and teaching", "Writing letters and organizing events", "Fundraising and building projects"],
+    "correctAnswerIndex": 1,
+    "book": "1 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "1 Timothy 4:13",
+    "verseText": "Until I come, devote yourself to the public reading of Scripture, to exhortation, to teaching."
+  },
+  {
+    "text": "Paul tells Timothy not to neglect something that was given him through prophecy. What is it?",
+    "options": ["His inheritance", "His Roman citizenship", "The gift he has", "His travel plans"],
+    "correctAnswerIndex": 2,
+    "book": "1 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "1 Timothy 4:14",
+    "verseText": "Do not neglect the gift you have, which was given you by prophecy when the council of elders laid their hands on you."
+  },
+  {
+    "text": "Whose salvation depends on Timothy keeping a close watch on himself and his teaching?",
+    "options": ["Only his own", "Only Paul's", "Both himself and his hearers", "The entire Roman Empire"],
+    "correctAnswerIndex": 2,
+    "book": "1 Timothy",
+    "difficulty": "Hard",
+    "verseReference": "1 Timothy 4:16",
+    "verseText": "Keep a close watch on yourself and on the teaching. Persist in this, for by so doing you will save both yourself and your hearers."
+  },
+  {
+    "text": "How should Timothy address an older man within the church?",
+    "options": ["With sharp rebuke", "As an inferior", "Encourage him as you would a father", "Ignore him"],
+    "correctAnswerIndex": 2,
+    "book": "1 Timothy",
+    "difficulty": "Easy",
+    "verseReference": "1 Timothy 5:1",
+    "verseText": "Do not rebuke an older man but encourage him as you would a father, younger men as brothers,"
+  },
+  {
+    "text": "What is the primary characteristic of a widow who should be 'enrolled' or officially supported by the church?",
+    "options": ["She must be wealthy", "She must have many children", "She must be 'truly a widow' (left all alone)", "She must be young and able to remarry"],
+    "correctAnswerIndex": 2,
+    "book": "1 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "1 Timothy 5:3, 5",
+    "verseText": "Honor widows who are truly widows... She who is truly a widow, left all alone, has set her hope on God and continues in supplications and prayers night and day,"
+  },
+  {
+    "text": "What responsibility do children and grandchildren have towards their widowed family members?",
+    "options": ["Send them to the church for support", "Learn to show godliness to their own household and make return to their parents", "Encourage them to remarry quickly", "None, it's the church's job"],
+    "correctAnswerIndex": 1,
+    "book": "1 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "1 Timothy 5:4",
+    "verseText": "But if a widow has children or grandchildren, let them first learn to show godliness to their own household and to make some return to their parents, for this is pleasing in the sight of God."
+  },
+  {
+    "text": "What minimum age is specified for a widow to be enrolled for church support?",
+    "options": ["Forty years old", "Fifty years old", "Sixty years old", "Seventy years old"],
+    "correctAnswerIndex": 2,
+    "book": "1 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "1 Timothy 5:9",
+    "verseText": "Let a widow be enrolled if she is not less than sixty years of age, having been the wife of one husband,"
+  },
+  {
+    "text": "Which elders are considered worthy of 'double honor'?",
+    "options": ["Those who are the wealthiest", "Those who have been elders the longest", "Those who rule well, especially those who labor in preaching and teaching", "Those who perform miracles"],
+    "correctAnswerIndex": 2,
+    "book": "1 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "1 Timothy 5:17",
+    "verseText": "Let the elders who rule well be considered worthy of double honor, especially those who labor in preaching and teaching."
+  },
+  {
+    "text": "How many witnesses are required before an accusation against an elder should be admitted?",
+    "options": ["One reliable witness", "Two or three witnesses", "The accuser's testimony is sufficient", "A written complaint signed by ten members"],
+    "correctAnswerIndex": 1,
+    "book": "1 Timothy",
+    "difficulty": "Easy",
+    "verseReference": "1 Timothy 5:19",
+    "verseText": "Do not admit a charge against an elder except on the evidence of two or three witnesses."
+  },
+  {
+    "text": "What practical health advice does Paul give Timothy?",
+    "options": ["Get more sleep", "Take up physical exercise", "Stop drinking only water and use a little wine for his stomach", "Avoid certain foods"],
+    "correctAnswerIndex": 2,
+    "book": "1 Timothy",
+    "difficulty": "Easy",
+    "verseReference": "1 Timothy 5:23",
+    "verseText": "(No longer drink only water, but use a little wine for the sake of your stomach and your frequent ailments.)"
+  },
+  {
+    "text": "What attitude should slaves have toward their believing masters?",
+    "options": ["Demand freedom immediately", "Show them even greater respect because they are brothers", "Treat them as equals in all matters", "Refuse to work for them"],
+    "correctAnswerIndex": 1,
+    "book": "1 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "1 Timothy 6:1-2",
+    "verseText": "Let all who are under a yoke as bondservants regard their own masters as worthy of all honor... Those who have believing masters must not be disrespectful on the ground that they are brothers; rather they must serve all the better since those who benefit by their good service are believers and beloved."
+  },
+  {
+    "text": "Paul warns against teachers who are 'puffed up with conceit' and have an 'unhealthy craving' for what?",
+    "options": ["Miraculous signs", "Political power", "Controversy and quarrels about words", "Historical research"],
+    "correctAnswerIndex": 2,
+    "book": "1 Timothy",
+    "difficulty": "Hard",
+    "verseReference": "1 Timothy 6:3-4",
+    "verseText": "If anyone teaches a different doctrine and does not agree with the sound words of our Lord Jesus Christ and the teaching that accords with godliness, he is puffed up with conceit and understands nothing. He has an unhealthy craving for controversy and for quarrels about words..."
+  },
+  {
+    "text": "What does Paul identify as 'great gain' when combined with godliness?",
+    "options": ["Knowledge", "Contentment", "Influence", "Good health"],
+    "correctAnswerIndex": 1,
+    "book": "1 Timothy",
+    "difficulty": "Easy",
+    "verseReference": "1 Timothy 6:6",
+    "verseText": "But godliness with contentment is great gain,"
+  },
+  {
+    "text": "What potential danger does Paul associate with the desire to be rich?",
+    "options": ["It leads to generosity", "It guarantees happiness", "It leads people into temptation, snares, and harmful desires", "It ensures respect from others"],
+    "correctAnswerIndex": 2,
+    "book": "1 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "1 Timothy 6:9",
+    "verseText": "But those who desire to be rich fall into temptation, into a snare, into many senseless and harmful desires that plunge people into ruin and destruction."
+  },
+  {
+    "text": "As a 'man of God', what qualities does Paul urge Timothy to flee from?",
+    "options": ["Humility and service", "The love of money and associated evils", "Study and teaching", "Prayer and fellowship"],
+    "correctAnswerIndex": 1,
+    "book": "1 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "1 Timothy 6:10-11",
+    "verseText": "For the love of money is a root of all kinds of evils... But as for you, O man of God, flee these things. Pursue righteousness, godliness, faith, love, steadfastness, gentleness."
+  },
+  {
+    "text": "What virtues does Paul instruct Timothy to pursue instead of harmful desires?",
+    "options": ["Power, fame, influence, success", "Knowledge, wisdom, understanding, skill", "Righteousness, godliness, faith, love, steadfastness, gentleness", "Comfort, ease, pleasure, security"],
+    "correctAnswerIndex": 2,
+    "book": "1 Timothy",
+    "difficulty": "Easy",
+    "verseReference": "1 Timothy 6:11",
+    "verseText": "But as for you, O man of God, flee these things. Pursue righteousness, godliness, faith, love, steadfastness, gentleness."
+  },
+  {
+    "text": "What command does Paul give Timothy concerning his faith?",
+    "options": ["Hide it from unbelievers", "Fight the good fight of the faith", "Question everything he believes", "Keep it a private matter"],
+    "correctAnswerIndex": 1,
+    "book": "1 Timothy",
+    "difficulty": "Easy",
+    "verseReference": "1 Timothy 6:12",
+    "verseText": "Fight the good fight of the faith. Take hold of the eternal life to which you were called and about which you made the good confession in the presence of many witnesses."
+  },
+  {
+    "text": "What specific instruction does Paul give regarding the wealthy in the church?",
+    "options": ["Tell them to sell everything immediately", "Charge them not to be haughty, nor to set their hopes on the uncertainty of riches", "Appoint them to leadership positions", "Ask them to fund Paul's ministry exclusively"],
+    "correctAnswerIndex": 1,
+    "book": "1 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "1 Timothy 6:17",
+    "verseText": "As for the rich in this present age, charge them not to be haughty, nor to set their hopes on the uncertainty of riches, but on God, who richly provides us with everything to enjoy."
+  },
+  {
+    "text": "Instead of trusting in riches, where should the wealthy place their hope?",
+    "options": ["In their business skills", "In their influential connections", "In God, who richly provides", "In their future inheritance"],
+    "correctAnswerIndex": 2,
+    "book": "1 Timothy",
+    "difficulty": "Easy",
+    "verseReference": "1 Timothy 6:17",
+    "verseText": "As for the rich in this present age, charge them not to be haughty, nor to set their hopes on the uncertainty of riches, but on God, who richly provides us with everything to enjoy."
+  },
+  {
+    "text": "What positive actions are the rich instructed to pursue?",
+    "options": ["Build larger houses", "Acquire more possessions", "To do good, be rich in good works, be generous and ready to share", "Seek political office"],
+    "correctAnswerIndex": 2,
+    "book": "1 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "1 Timothy 6:18",
+    "verseText": "They are to do good, to be rich in good works, to be generous and ready to share,"
+  },
+  {
+    "text": "What is Timothy ultimately charged to guard?",
+    "options": ["His personal reputation", "The church treasury", "The deposit entrusted to him (the gospel message)", "His collection of Paul's letters"],
+    "correctAnswerIndex": 2,
+    "book": "1 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "1 Timothy 6:20",
+    "verseText": "O Timothy, guard the deposit entrusted to you. Avoid the irreverent babble and contradictions of what is falsely called 'knowledge',"
+  },
+  {
+    "text": "What should Timothy avoid, which is described as 'irreverent babble' and 'falsely called knowledge'?",
+    "options": ["Scientific inquiry", "Philosophical debates", "Contradictions and empty talk associated with false teaching", "Reading secular literature"],
+    "correctAnswerIndex": 2,
+    "book": "1 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "1 Timothy 6:20",
+    "verseText": "O Timothy, guard the deposit entrusted to you. Avoid the irreverent babble and contradictions of what is falsely called 'knowledge',"
   }
 ]

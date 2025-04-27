@@ -88,5 +88,365 @@
     "difficulty": "Medium",
     "verseReference": "2 Timothy 4:10",
     "verseText": "For Demas, in love with this present world, has deserted me and gone to Thessalonica..."
+  },
+  {
+    "text": "What specific gift does Paul remind Timothy to 'fan into flame'?",
+    "options": ["Prophecy", "Healing", "The gift of God given through the laying on of hands", "Speaking in tongues"],
+    "correctAnswerIndex": 2,
+    "book": "2 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "2 Timothy 1:6",
+    "verseText": "For this reason I remind you to fan into flame the gift of God, which is in you through the laying on of my hands,"
+  },
+  {
+    "text": "According to Paul, what kind of spirit did God NOT give us?",
+    "options": ["A spirit of power", "A spirit of love", "A spirit of self-control", "A spirit of fear (timidity)"],
+    "correctAnswerIndex": 3,
+    "book": "2 Timothy",
+    "difficulty": "Easy",
+    "verseReference": "2 Timothy 1:7",
+    "verseText": "for God gave us a spirit not of fear but of power and love and self-control."
+  },
+  {
+    "text": "Paul asks Timothy to join him in what, according to the power of God?",
+    "options": ["Building a new church", "Suffering for the gospel", "Writing letters", "Traveling to Spain"],
+    "correctAnswerIndex": 1,
+    "book": "2 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "2 Timothy 1:8",
+    "verseText": "Therefore do not be ashamed of the testimony about our Lord, nor of me his prisoner, but share in suffering for the gospel by the power of God,"
+  },
+  {
+    "text": "Who does Paul mention as having refreshed him often and not being ashamed of his chains?",
+    "options": ["Tychicus", "Luke", "Onesiphorus", "Mark"],
+    "correctAnswerIndex": 2,
+    "book": "2 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "2 Timothy 1:16",
+    "verseText": "May the Lord grant mercy to the household of Onesiphorus, for he often refreshed me and was not ashamed of my chains,"
+  },
+  {
+    "text": "What should a 'good soldier of Christ Jesus' avoid getting entangled in?",
+    "options": ["Doctrinal debates", "Civilian pursuits", "Helping the poor", "Church leadership"],
+    "correctAnswerIndex": 1,
+    "book": "2 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "2 Timothy 2:4",
+    "verseText": "No soldier gets entangled in civilian pursuits, since his aim is to please the one who enlisted him."
+  },
+  {
+    "text": "What must an athlete do to receive the victor's crown, according to Paul's analogy?",
+    "options": ["Train harder than others", "Compete according to the rules", "Have the best equipment", "Intimidate opponents"],
+    "correctAnswerIndex": 1,
+    "book": "2 Timothy",
+    "difficulty": "Easy",
+    "verseReference": "2 Timothy 2:5",
+    "verseText": "An athlete is not crowned unless he competes according to the rules."
+  },
+  {
+    "text": "Paul tells Timothy to remind others to avoid quarreling about what, as it does no good?",
+    "options": ["Money", "Words", "Leadership roles", "Food laws"],
+    "correctAnswerIndex": 1,
+    "book": "2 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "2 Timothy 2:14",
+    "verseText": "Remind them of these things, and charge them before God not to quarrel about words, which does no good, but only ruins the hearers."
+  },
+  {
+    "text": "How should Timothy present himself to God?",
+    "options": ["As someone eloquent", "As someone popular", "As a worker approved, rightly handling the word of truth", "As someone wealthy"],
+    "correctAnswerIndex": 2,
+    "book": "2 Timothy",
+    "difficulty": "Easy",
+    "verseReference": "2 Timothy 2:15",
+    "verseText": "Do your best to present yourself to God as one approved, a worker who has no need to be ashamed, rightly handling the word of truth."
+  },
+  {
+    "text": "What does Paul say will spread like gangrene?",
+    "options": ["Love", "Faith", "Irreverent babble and false teaching", "Generosity"],
+    "correctAnswerIndex": 2,
+    "book": "2 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "2 Timothy 2:16-17",
+    "verseText": "But avoid irreverent babble, for it will lead people into more and more ungodliness, and their talk will spread like gangrene."
+  },
+  {
+    "text": "What inscription is on the 'firm foundation of God'?",
+    "options": ["'Love one another'", "'The Lord knows those who are his,' and, 'Let everyone who names the name of the Lord depart from iniquity.'", "'Jesus is Lord'", "'Repent and believe'"],
+    "correctAnswerIndex": 1,
+    "book": "2 Timothy",
+    "difficulty": "Hard",
+    "verseReference": "2 Timothy 2:19",
+    "verseText": "But God's firm foundation stands, bearing this seal: 'The Lord knows those who are his,' and, 'Let everyone who names the name of the Lord depart from iniquity.'"
+  },
+  {
+    "text": "In a large house, besides gold and silver vessels, what other kinds are there?",
+    "options": ["Bronze and iron", "Wood and clay (earthenware)", "Glass and crystal", "Plastic and steel"],
+    "correctAnswerIndex": 1,
+    "book": "2 Timothy",
+    "difficulty": "Easy",
+    "verseReference": "2 Timothy 2:20",
+    "verseText": "Now in a great house there are not only vessels of gold and silver but also of wood and clay, some for honorable use, some for dishonorable."
+  },
+  {
+    "text": "What should Timothy flee from?",
+    "options": ["Difficult tasks", "Persecution", "Youthful passions", "Public speaking"],
+    "correctAnswerIndex": 2,
+    "book": "2 Timothy",
+    "difficulty": "Easy",
+    "verseReference": "2 Timothy 2:22",
+    "verseText": "So flee youthful passions and pursue righteousness, faith, love, and peace, along with those who call on the Lord from a pure heart."
+  },
+  {
+    "text": "How should the Lord's servant correct opponents?",
+    "options": ["With harshness", "With public shaming", "With gentleness", "With complex arguments"],
+    "correctAnswerIndex": 2,
+    "book": "2 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "2 Timothy 2:24-25",
+    "verseText": "And the Lord's servant must not be quarrelsome but kind to everyone, able to teach, patiently enduring evil, correcting his opponents with gentleness."
+  },
+  {
+    "text": "Paul warns that in the last days, people will be lovers of what?",
+    "options": ["God and neighbor", "Truth and justice", "Self and money", "Peace and quiet"],
+    "correctAnswerIndex": 2,
+    "book": "2 Timothy",
+    "difficulty": "Easy",
+    "verseReference": "2 Timothy 3:1-2",
+    "verseText": "But understand this, that in the last days there will come times of difficulty. For people will be lovers of self, lovers of money..."
+  },
+  {
+    "text": "Paul lists characteristics of people in the last days. Which of these is NOT mentioned?",
+    "options": ["Proud, arrogant, abusive", "Disobedient to parents, ungrateful, unholy", "Lovers of pleasure rather than lovers of God", "Generous, kind, humble"],
+    "correctAnswerIndex": 3,
+    "book": "2 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "2 Timothy 3:2-5",
+    "verseText": "For people will be lovers of self, lovers of money, proud, arrogant, abusive, disobedient to their parents, ungrateful, unholy, heartless, unappeasable, slanderous, without self-control, brutal, not loving good, treacherous, reckless, swollen with conceit, lovers of pleasure rather than lovers of God, having the appearance of godliness, but denying its power."
+  },
+  {
+    "text": "Who does Paul compare the false teachers of Timothy's day to, who opposed Moses?",
+    "options": ["Pharaoh and his magicians", "Korah, Dathan, and Abiram", "Jannes and Jambres", "Balaam and Balak"],
+    "correctAnswerIndex": 2,
+    "book": "2 Timothy",
+    "difficulty": "Hard",
+    "verseReference": "2 Timothy 3:8",
+    "verseText": "Just as Jannes and Jambres opposed Moses, so these men also oppose the truth, men corrupted in mind and disqualified regarding the faith."
+  },
+  {
+    "text": "Paul reminds Timothy of the persecutions he endured in which locations?",
+    "options": ["Rome, Corinth, Ephesus", "Jerusalem, Caesarea, Malta", "Antioch, Iconium, Lystra", "Philippi, Thessalonica, Berea"],
+    "correctAnswerIndex": 2,
+    "book": "2 Timothy",
+    "difficulty": "Hard",
+    "verseReference": "2 Timothy 3:11",
+    "verseText": "my persecutions and sufferings that happened to me at Antioch, at Iconium, and at Lystra—which persecutions I endured; yet from them all the Lord rescued me."
+  },
+  {
+    "text": "What does Paul say will happen to all who desire to live a godly life in Christ Jesus?",
+    "options": ["They will become wealthy", "They will be persecuted", "They will be famous", "They will have an easy life"],
+    "correctAnswerIndex": 1,
+    "book": "2 Timothy",
+    "difficulty": "Easy",
+    "verseReference": "2 Timothy 3:12",
+    "verseText": "Indeed, all who desire to live a godly life in Christ Jesus will be persecuted,"
+  },
+  {
+    "text": "From whom did Timothy learn the sacred writings (Scriptures)?",
+    "options": ["Gamaliel", "Peter", "Paul", "His mother Eunice and grandmother Lois (from childhood)"],
+    "correctAnswerIndex": 3,
+    "book": "2 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "2 Timothy 1:5, 3:14-15",
+    "verseText": "I am reminded of your sincere faith, a faith that dwelt first in your grandmother Lois and your mother Eunice and now, I am sure, dwells in you as well... But as for you, continue in what you have learned and have firmly believed, knowing from whom you learned it and how from childhood you have been acquainted with the sacred writings..."
+  },
+  {
+    "text": "Besides teaching, reproof, and correction, what else is Scripture profitable for?",
+    "options": ["Historical accuracy", "Scientific knowledge", "Training in righteousness", "Political guidance"],
+    "correctAnswerIndex": 2,
+    "book": "2 Timothy",
+    "difficulty": "Easy",
+    "verseReference": "2 Timothy 3:16",
+    "verseText": "All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness,"
+  },
+  {
+    "text": "What is the ultimate purpose of Scripture, according to Paul's statement?",
+    "options": ["To win arguments", "To make one wise for salvation through faith", "That the man of God may be complete, equipped for every good work", "To predict the future"],
+    "correctAnswerIndex": 2,
+    "book": "2 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "2 Timothy 3:15, 17",
+    "verseText": "...and how from childhood you have been acquainted with the sacred writings, which are able to make you wise for salvation through faith in Christ Jesus... that the man of God may be complete, equipped for every good work."
+  },
+  {
+    "text": "Paul charges Timothy in the presence of God and Christ Jesus, who will judge whom?",
+    "options": ["Only the wicked", "Only the believers", "The living and the dead", "Only the angels"],
+    "correctAnswerIndex": 2,
+    "book": "2 Timothy",
+    "difficulty": "Easy",
+    "verseReference": "2 Timothy 4:1",
+    "verseText": "I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom:"
+  },
+  {
+    "text": "Paul warns that a time is coming when people will not endure what?",
+    "options": ["Hard work", "Persecution", "Sound teaching", "Financial hardship"],
+    "correctAnswerIndex": 2,
+    "book": "2 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "2 Timothy 4:3",
+    "verseText": "For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own passions,"
+  },
+  {
+    "text": "Instead of listening to the truth, what will people turn aside to?",
+    "options": ["Political activism", "Philosophical debates", "Myths", "Scientific theories"],
+    "correctAnswerIndex": 2,
+    "book": "2 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "2 Timothy 4:4",
+    "verseText": "and will turn away from listening to the truth and wander off into myths."
+  },
+  {
+    "text": "What qualities should Timothy exhibit in all circumstances?",
+    "options": ["Be aggressive, seek fame, build wealth", "Be always sober-minded, endure suffering, do the work of an evangelist, fulfill your ministry", "Be cautious, avoid conflict, stay hidden", "Be popular, please everyone, compromise doctrine"],
+    "correctAnswerIndex": 1,
+    "book": "2 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "2 Timothy 4:5",
+    "verseText": "As for you, always be sober-minded, endure suffering, do the work of an evangelist, fulfill your ministry."
+  },
+  {
+    "text": "What imagery does Paul use to describe his approaching death?",
+    "options": ["A ship reaching harbor", "A seed being planted", "Being poured out as a drink offering", "A soldier retiring"],
+    "correctAnswerIndex": 2,
+    "book": "2 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "2 Timothy 4:6",
+    "verseText": "For I am already being poured out as a drink offering, and the time of my departure has come."
+  },
+  {
+    "text": "What does Paul say is laid up for him, which the Lord will award him?",
+    "options": ["A place in history", "A golden statue", "The crown of righteousness", "Rest from his labors"],
+    "correctAnswerIndex": 2,
+    "book": "2 Timothy",
+    "difficulty": "Easy",
+    "verseReference": "2 Timothy 4:8",
+    "verseText": "Henceforth there is laid up for me the crown of righteousness, which the Lord, the righteous judge, will award to me on that day..."
+  },
+  {
+    "text": "Who else besides Paul will receive the crown of righteousness?",
+    "options": ["Only the apostles", "Only martyrs", "All who have loved his appearing", "Only Timothy"],
+    "correctAnswerIndex": 2,
+    "book": "2 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "2 Timothy 4:8",
+    "verseText": "...and not only to me but also to all who have loved his appearing."
+  },
+  {
+    "text": "Paul asks Timothy to come to him quickly. Who is the only one currently with Paul?",
+    "options": ["Mark", "Tychicus", "Demas", "Luke"],
+    "correctAnswerIndex": 3,
+    "book": "2 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "2 Timothy 4:11",
+    "verseText": "Luke alone is with me..."
+  },
+  {
+    "text": "Who does Paul ask Timothy to pick up and bring with him, because he is helpful in ministry?",
+    "options": ["Barnabas", "Silas", "Mark", "Apollos"],
+    "correctAnswerIndex": 2,
+    "book": "2 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "2 Timothy 4:11",
+    "verseText": "Get Mark and bring him with you, for he is very useful to me for ministry."
+  },
+  {
+    "text": "What items did Paul leave with Carpus at Troas that he wants Timothy to bring?",
+    "options": ["His sandals and staff", "Money and letters", "The cloak and the books, especially the parchments", "His tentmaking tools"],
+    "correctAnswerIndex": 2,
+    "book": "2 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "2 Timothy 4:13",
+    "verseText": "When you come, bring the cloak that I left with Carpus at Troas, also the books, and above all the parchments."
+  },
+  {
+    "text": "Who does Paul warn Timothy about, stating 'he strongly opposed our message'?",
+    "options": ["Demas the deserter", "Phygelus and Hermogenes", "Alexander the coppersmith", "Hymenaeus and Philetus"],
+    "correctAnswerIndex": 2,
+    "book": "2 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "2 Timothy 4:14-15",
+    "verseText": "Alexander the coppersmith did me great harm; the Lord will repay him according to his deeds. Beware of him yourself, for he strongly opposed our message."
+  },
+  {
+    "text": "What happened at Paul's first defense?",
+    "options": ["Many people supported him", "Timothy came to help", "No one stood by him; all deserted him", "The judge released him"],
+    "correctAnswerIndex": 2,
+    "book": "2 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "2 Timothy 4:16",
+    "verseText": "At my first defense no one came to stand by me, but all deserted me. May it not be charged against them!"
+  },
+  {
+    "text": "Despite being deserted, who stood by Paul and strengthened him during his defense?",
+    "options": ["Luke", "The Roman guard", "The Lord", "Onesiphorus"],
+    "correctAnswerIndex": 2,
+    "book": "2 Timothy",
+    "difficulty": "Easy",
+    "verseReference": "2 Timothy 4:17",
+    "verseText": "But the Lord stood by me and strengthened me, so that through me the message might be fully proclaimed and all the Gentiles might hear it."
+  },
+  {
+    "text": "Paul expresses confidence that the Lord will rescue him from what?",
+    "options": ["Prison", "Every evil deed", "Poverty", "His enemies"],
+    "correctAnswerIndex": 1,
+    "book": "2 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "2 Timothy 4:18",
+    "verseText": "The Lord will rescue me from every evil deed and bring me safely into his heavenly kingdom."
+  },
+  {
+    "text": "Who does Paul send greetings to at the end of the letter?",
+    "options": ["Peter and John", "The church in Jerusalem", "Prisca and Aquila, and the household of Onesiphorus", "The Emperor"],
+    "correctAnswerIndex": 2,
+    "book": "2 Timothy",
+    "difficulty": "Easy",
+    "verseReference": "2 Timothy 4:19",
+    "verseText": "Greet Prisca and Aquila, and the household of Onesiphorus."
+  },
+  {
+    "text": "Where did Paul leave Erastus, and where did he leave Trophimus sick?",
+    "options": ["Erastus in Ephesus, Trophimus in Crete", "Erastus in Corinth, Trophimus in Miletus", "Erastus in Rome, Trophimus in Jerusalem", "Erastus in Antioch, Trophimus in Cyprus"],
+    "correctAnswerIndex": 1,
+    "book": "2 Timothy",
+    "difficulty": "Hard",
+    "verseReference": "2 Timothy 4:20",
+    "verseText": "Erastus remained at Corinth, and I left Trophimus, who was ill, at Miletus."
+  },
+  {
+    "text": "Paul urges Timothy to try and come before what season?",
+    "options": ["Summer", "Spring", "Harvest", "Winter"],
+    "correctAnswerIndex": 3,
+    "book": "2 Timothy",
+    "difficulty": "Easy",
+    "verseReference": "2 Timothy 4:21",
+    "verseText": "Do your best to come before winter."
+  },
+  {
+    "text": "Besides Timothy, who else sends greetings in the closing remarks?",
+    "options": ["Only Luke", "Peter, James, and John", "Eubulus, Pudens, Linus, Claudia, and all the brothers", "Barnabas and Silas"],
+    "correctAnswerIndex": 2,
+    "book": "2 Timothy",
+    "difficulty": "Medium",
+    "verseReference": "2 Timothy 4:21",
+    "verseText": "Eubulus sends greetings to you, as do Pudens and Linus and Claudia and all the brothers."
+  },
+  {
+    "text": "What is Paul's final blessing for Timothy?",
+    "options": ["May you have a long life", "May you become a great leader", "The Lord be with your spirit. Grace be with you.", "May your church grow large"],
+    "correctAnswerIndex": 2,
+    "book": "2 Timothy",
+    "difficulty": "Easy",
+    "verseReference": "2 Timothy 4:22",
+    "verseText": "The Lord be with your spirit. Grace be with you."
   }
 ]

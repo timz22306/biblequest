@@ -1,7 +1,7 @@
 [
   {
-    "text": "Who identifies himself as the author of 3 John?",
-    "options": ["James", "The elder", "Paul", "Peter"],
+    "text": "How does the author identify himself in the opening of this personal letter?",
+    "options": ["James, a servant of God", "The elder", "Paul, an apostle", "Peter, an apostle"],
     "correctAnswerIndex": 1,
     "book": "3 John",
     "difficulty": "Easy",
@@ -9,7 +9,7 @@
     "verseText": "The elder to the beloved Gaius, whom I love in truth."
   },
   {
-    "text": "To whom is the letter of 3 John primarily addressed?",
+    "text": "Who is the specific individual addressed in this letter?",
     "options": ["Diotrephes", "Demetrius", "Gaius", "'The elect lady'"],
     "correctAnswerIndex": 2,
     "book": "3 John",
@@ -18,8 +18,8 @@
     "verseText": "The elder to the beloved Gaius, whom I love in truth."
   },
   {
-    "text": "What does John commend Gaius for?",
-    "options": ["His wealth", "His speaking ability", "His faithfulness and hospitality to fellow Christians, especially traveling missionaries", "His political influence"],
+    "text": "What specific actions of Gaius does the author commend, based on reports from other brothers?",
+    "options": ["His financial success", "His eloquent teaching", "His faithfulness in walking in the truth and showing hospitality to traveling Christians", "His leadership in local politics"],
     "correctAnswerIndex": 2,
     "book": "3 John",
     "difficulty": "Medium",
@@ -27,8 +27,8 @@
     "verseText": "For I rejoiced greatly when the brothers came and testified to your truth, as indeed you are walking in the truth... Beloved, it is a faithful thing you do in all your efforts for these brothers, strangers as they are, who testified to your love before the church."
   },
   {
-    "text": "What brings John 'no greater joy' than this?",
-    "options": ["Seeing churches grow large", "Hearing that his children are walking in the truth", "Receiving gifts", "Performing miracles"],
+    "text": "What experience brings the author the greatest joy?",
+    "options": ["Seeing churches grow numerically", "Hearing that his children are walking in the truth", "Receiving personal gifts", "Witnessing miraculous signs"],
     "correctAnswerIndex": 1,
     "book": "3 John",
     "difficulty": "Easy",
@@ -36,8 +36,8 @@
     "verseText": "I have no greater joy than to hear that my children are walking in the truth."
   },
   {
-    "text": "Who does John condemn in the letter for loving to be first and refusing to welcome the brothers?",
-    "options": ["Gaius", "Demetrius", "Diotrephes", "Paul"],
+    "text": "The author mentions writing to the church but encountering opposition from whom?",
+    "options": ["Gaius", "Demetrius", "Diotrephes", "The Roman authorities"],
     "correctAnswerIndex": 2,
     "book": "3 John",
     "difficulty": "Medium",
@@ -45,8 +45,17 @@
     "verseText": "I have written something to the church, but Diotrephes, who likes to put himself first, does not acknowledge our authority."
   },
   {
-    "text": "What specific actions did Diotrephes take against John and other believers?",
-    "options": ["He praised them publicly", "He sent them money", "He spoke wicked nonsense against John, refused to welcome brothers, and put others out of the church", "He started a rival church"],
+    "text": "What was Diotrephes' primary motivation, according to the author?",
+    "options": ["Love for the truth", "Concern for the poor", "Liking to put himself first", "Desire for unity"],
+    "correctAnswerIndex": 2,
+    "book": "3 John",
+    "difficulty": "Medium",
+    "verseReference": "3 John 9",
+    "verseText": "...Diotrephes, who likes to put himself first, does not acknowledge our authority."
+  },
+  {
+    "text": "Besides rejecting the author's authority and speaking against him, what other harmful actions did Diotrephes take?",
+    "options": ["He praised false teachers", "He sent financial aid to the wrong people", "He refused to welcome traveling brothers and excommunicated those who did", "He started teaching heresy himself"],
     "correctAnswerIndex": 2,
     "book": "3 John",
     "difficulty": "Medium",
@@ -54,8 +63,8 @@
     "verseText": "So if I come, I will bring up what he is doing, talking wicked nonsense against us. And not content with that, he refuses to welcome the brothers, and also stops those who want to and puts them out of the church."
   },
   {
-    "text": "What instruction does John give Gaius regarding good and evil?",
-    "options": ["Imitate both good and evil", "Do not imitate evil, but imitate good", "Focus only on good, ignore evil", "Define good and evil for yourself"],
+    "text": "What direct instruction does the author give Gaius regarding the imitation of behavior?",
+    "options": ["Imitate Diotrephes' leadership", "Do not imitate evil, but imitate good", "Imitate only the apostles", "Do not imitate anyone"],
     "correctAnswerIndex": 1,
     "book": "3 John",
     "difficulty": "Easy",
@@ -63,8 +72,17 @@
     "verseText": "Beloved, do not imitate evil but imitate good. Whoever does good is from God; whoever does evil has not seen God."
   },
   {
-    "text": "Who does John commend as having a good testimony from everyone and from the truth itself?",
-    "options": ["Diotrephes", "Gaius", "Demetrius", "Himself"],
+    "text": "According to the author, what is the spiritual state of one who does good versus one who does evil?",
+    "options": ["Both are trying their best", "The one doing good is from God; the one doing evil has not seen God", "Both are equally loved by God", "Good and evil are relative"],
+    "correctAnswerIndex": 1,
+    "book": "3 John",
+    "difficulty": "Medium",
+    "verseReference": "3 John 11",
+    "verseText": "Whoever does good is from God; whoever does evil has not seen God."
+  },
+  {
+    "text": "In contrast to Diotrephes, who does the author commend as having a universally good testimony?",
+    "options": ["A Roman official", "Gaius himself", "Demetrius", "An unnamed prophet"],
     "correctAnswerIndex": 2,
     "book": "3 John",
     "difficulty": "Medium",
@@ -72,8 +90,8 @@
     "verseText": "Demetrius has received a good testimony from everyone, and from the truth itself. We also add our testimony, and you know that our testimony is true."
   },
   {
-    "text": "Similar to 2 John, how does the author of 3 John express his desire for further communication?",
-    "options": ["He will send another letter soon", "He hopes to see Gaius soon and speak face to face", "He will send Timothy", "He expects Gaius to visit him"],
+    "text": "Similar to the conclusion of 2 John, how does the author prefer to communicate rather than writing?",
+    "options": ["By sending a representative", "By hoping to see the recipient soon and speak face to face", "By using a coded message", "By waiting for the recipient to visit"],
     "correctAnswerIndex": 1,
     "book": "3 John",
     "difficulty": "Easy",
@@ -81,12 +99,48 @@
     "verseText": "I had much to write to you, but I would rather not write with pen and ink. I hope to see you soon, and we will talk face to face."
   },
   {
-    "text": "3 John contrasts the behavior of Gaius (hospitality, supporting truth) with that of Diotrephes (pride, opposing apostolic authority), highlighting the importance of supporting whom?",
-    "options": ["Only local leaders", "Those who faithfully serve and travel for the sake of the Name", "Only those who agree on every detail", "Government officials"],
+    "text": "What blessing does the author offer Gaius before the final greetings?",
+    "options": ["Prosperity and health", "Wisdom and knowledge", "Peace", "Long life"],
+    "correctAnswerIndex": 2,
+    "book": "3 John",
+    "difficulty": "Easy",
+    "verseReference": "3 John 14",
+    "verseText": "Peace be to you."
+  },
+  {
+    "text": "Who sends greetings to Gaius at the end of the letter?",
+    "options": ["The church in Jerusalem", "Paul and Timothy", "The friends", "The angels"],
+    "correctAnswerIndex": 2,
+    "book": "3 John",
+    "difficulty": "Easy",
+    "verseReference": "3 John 14",
+    "verseText": "The friends greet you. Greet the friends, every one by name."
+  },
+  {
+    "text": "What specific type of Christian workers was Gaius supporting, whom Diotrephes rejected?",
+    "options": ["Local elders", "Traveling missionaries working 'for the sake of the Name'", "Widows and orphans", "Church builders"],
     "correctAnswerIndex": 1,
     "book": "3 John",
     "difficulty": "Medium",
     "verseReference": "3 John 5-8",
-    "verseText": "Beloved, it is a faithful thing you do in all your efforts for these brothers, strangers as they are... Therefore we ought to support people like these, that we may be fellow workers for the truth."
+    "verseText": "Beloved, it is a faithful thing you do in all your efforts for these brothers, strangers as they are... who went out for the sake of the Name, accepting nothing from the Gentiles. Therefore we ought to support people like these..."
+  },
+  {
+    "text": "Why was it important for believers like Gaius to support these traveling workers?",
+    "options": ["To gain favor with them", "So they wouldn't have to get secular jobs", "So that believers may be fellow workers for the truth", "To fulfill Old Testament law"],
+    "correctAnswerIndex": 2,
+    "book": "3 John",
+    "difficulty": "Medium",
+    "verseReference": "3 John 8",
+    "verseText": "Therefore we ought to support people like these, that we may be fellow workers for the truth."
+  },
+  {
+    "text": "What does the author pray for Gaius at the beginning of the letter?",
+    "options": ["That he would become famous", "That he may prosper in all things and be in health, as it goes well with his soul", "That he would defeat Diotrephes", "That he would write a letter back"],
+    "correctAnswerIndex": 1,
+    "book": "3 John",
+    "difficulty": "Medium",
+    "verseReference": "3 John 2",
+    "verseText": "Beloved, I pray that all may go well with you and that you may be in good health, as it goes well with your soul."
   }
 ]
