@@ -504,6 +504,15 @@
     "verseText": "“Why are not times of judgment kept by the Almighty, and why do those who know him never see his days?”"
   },
   {
+    "text": "In the vision of the two baskets of figs shown to Jeremiah, what did the good figs represent?",
+    "options": ["The wicked people remaining in Judah", "The exiles taken to Babylon whom God would restore", "The neighboring nations", "The false prophets"],
+    "correctAnswerIndex": 1,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 24:5-7",
+    "verseText": "Behold, like wild donkeys in the desert the poor go out to their toil, seeking game; the wasteland yields food for their children. They gather their fodder in the field, and they glean the vineyard of the wicked man. They lie all night naked, without clothing, and have no covering in the cold."
+  },
+  {
     "text": "Bildad's third speech (chapter 25) is notably short. What is its main theme?",
     "options": ["Job's specific sins", "The hope of resurrection", "Man's insignificance and impurity compared to God's majesty", "The power of Satan"],
     "correctAnswerIndex": 2,
@@ -1213,5 +1222,14 @@
     "difficulty": "Medium",
     "verseReference": "Book Overview",
     "verseText": "The book resists easy answers, ultimately pointing to trust in God's wisdom even when His ways are incomprehensible."
+  },
+  {
+    "text": "What emotion did Jeremiah express when contemplating the deception of false prophets?",
+    "options": ["Joy", "Indifference", "Anguish and a broken heart", "Confusion"],
+    "correctAnswerIndex": 2,
+    "book": "Job",
+    "difficulty": "Medium",
+    "verseReference": "Job 23:1-2",
+    "verseText": "Then Job answered and said: 'Today also my complaint is bitter; my hand is heavy on account of my groaning.'"
   }
 ]

@@ -5,8 +5,8 @@
     "correctAnswerIndex": 1,
     "book": "1 John",
     "difficulty": "Easy",
-    "verseReference": "1 John 1:1-3 (cf. Gospel of John)",
-    "verseText": "That which was from the beginning, which we have heard, which we have seen with our eyes, which we looked upon and have touched with our hands, concerning the word of life... that which we have seen and heard we proclaim also to you..."
+    "verseReference": "1 John 1:1-3",
+    "verseText": "That which was from the beginning, which we have heard, which we have seen with our eyes, which we looked upon and have touched with our hands, concerning the word of life— the life was made manifest, and we have seen it, and testify to it and proclaim to you the eternal life, which was with the Father and was made manifest to us— that which we have seen and heard we proclaim also to you, so that you too may have fellowship with us; and indeed our fellowship is with the Father and with his Son Jesus Christ. (ESV)"
   },
   {
     "text": "What is the stated purpose for John writing this letter, mentioned near the end?",
@@ -42,7 +42,7 @@
     "book": "1 John",
     "difficulty": "Easy",
     "verseReference": "1 John 2:7-8, 3:11, 4:7, 21",
-    "verseText": "Beloved, I am writing you no new commandment, but an old commandment that you had from the beginning... At the same time, it is a new commandment that I am writing to you... For this is the message that you have heard from the beginning, that we should love one another... Beloved, let us love one another... And this commandment we have from him: whoever loves God must also love his brother."
+    "verseText": "John emphasizes the commandment to love one another, calling it both old (2:7-8, 3:11) and new, and foundational to knowing God (4:7, 21). (ESV)"
   },
   {
     "text": "What does John explicitly warn believers not to love, stating that loving it is incompatible with loving the Father?",
@@ -69,7 +69,7 @@
     "book": "1 John",
     "difficulty": "Medium",
     "verseReference": "1 John 4:2-3",
-    "verseText": "By this you know the Spirit of God: every spirit that confesses that Jesus Christ has come in the flesh is from God, and every spirit that does not confess Jesus is not from God. This is the spirit of the antichrist..."
+    "verseText": "By this you know the Spirit of God: every spirit that confesses that Jesus Christ has come in the flesh is from God, and every spirit that does not confess Jesus is not from God. This is the spirit of the antichrist, which you heard was coming and now is in the world already. (ESV)"
   },
   {
     "text": "What fundamental characteristic of God is stated twice in the fourth chapter?",
@@ -96,7 +96,7 @@
     "book": "1 John",
     "difficulty": "Medium",
     "verseReference": "1 John 1:1-2",
-    "verseText": "That which was from the beginning... concerning the word of life— the life was made manifest, and we have seen it, and testify to it and proclaim to you the eternal life, which was with the Father and was made manifest to us—"
+    "verseText": "That which was from the beginning, which we have heard, which we have seen with our eyes, which we looked upon and have touched with our hands, concerning the word of life— the life was made manifest, and we have seen it, and testify to it and proclaim to you the eternal life, which was with the Father and was made manifest to us— (ESV)"
   },
   {
     "text": "Why does John proclaim what he has seen and heard?",
@@ -240,7 +240,7 @@
     "book": "1 John",
     "difficulty": "Medium",
     "verseReference": "1 John 2:13-14",
-    "verseText": "I am writing to you, fathers, because you know him who is from the beginning..."
+    "verseText": "I am writing to you, fathers, because you know him who is from the beginning. I am writing to you, young men, because you have overcome the evil one. I write to you, children, because you know the Father. I write to you, fathers, because you know him who is from the beginning. I write to you, young men, because you are strong, and the word of God abides in you, and you have overcome the evil one. (ESV)"
   },
   {
     "text": "Why does John write to the 'young men'?",
@@ -249,7 +249,7 @@
     "book": "1 John",
     "difficulty": "Medium",
     "verseReference": "1 John 2:13-14",
-    "verseText": "I am writing to you, young men, because you have overcome the evil one... because you are strong, and the word of God abides in you, and you have overcome the evil one."
+    "verseText": "I am writing to you, fathers, because you know him who is from the beginning. I am writing to you, young men, because you have overcome the evil one. I write to you, children, because you know the Father. I write to you, fathers, because you know him who is from the beginning. I write to you, young men, because you are strong, and the word of God abides in you, and you have overcome the evil one. (ESV)"
   },
   {
     "text": "What three aspects constitute 'all that is in the world' which believers should not love?",
@@ -267,7 +267,7 @@
     "book": "1 John",
     "difficulty": "Easy",
     "verseReference": "1 John 2:17",
-    "verseText": "And the world is passing away along with its desires..."
+    "verseText": "And the world is passing away along with its desires, but whoever does the will of God abides forever. (ESV)"
   },
   {
     "text": "Who endures forever, in contrast to the passing world?",
@@ -384,7 +384,7 @@
     "book": "1 John",
     "difficulty": "Medium",
     "verseReference": "1 John 3:2",
-    "verseText": "Beloved, we are God's children now, and what we will be has not yet appeared..."
+    "verseText": "Beloved, we are God's children now, and what we will be has not yet appeared; but we know that when he appears we shall be like him, because we shall see him as he is. (ESV)"
   },
   {
     "text": "What hope do believers have regarding Christ's appearance?",
@@ -474,7 +474,7 @@
     "book": "1 John",
     "difficulty": "Easy",
     "verseReference": "1 John 3:16",
-    "verseText": "By this we know love, that he laid down his life for us..."
+    "verseText": "By this we know love, that he laid down his life for us, and we ought to lay down our lives for the brothers. (ESV)"
   },
   {
     "text": "What practical action demonstrates the love of God abiding in a believer?",
@@ -672,7 +672,7 @@
     "book": "1 John",
     "difficulty": "Medium",
     "verseReference": "1 John 5:1",
-    "verseText": "Everyone who believes that Jesus is the Christ has been born of God..."
+    "verseText": "Everyone who believes that Jesus is the Christ has been born of God, and everyone who loves the Father loves whoever has been born of him. (ESV)"
   },
   {
     "text": "How do we know that we love the children of God?",
@@ -771,7 +771,7 @@
     "book": "1 John",
     "difficulty": "Medium",
     "verseReference": "1 John 5:20",
-    "verseText": "And we know that the Son of God has come and has given us understanding, so that we may know him who is true..."
+    "verseText": "And we know that the Son of God has come and has given us understanding, so that we may know him who is true; and we are in him who is true, in his Son Jesus Christ. He is the true God and eternal life. (ESV)"
   },
   {
     "text": "What is the final command John gives in the letter?",

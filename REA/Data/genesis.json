@@ -72,7 +72,7 @@
         "verseText": "And God said, 'Let there be light,' and there was light. And God saw that the light was good. And God separated the light from the darkness. (ESV)"
     },
     {
-        "text": "How many days did it take God to create everything according to Genesis?",
+        "text": "How many days did God take to create the heavens and the earth?",
         "options": ["6", "7", "5", "8"],
         "correctAnswerIndex": 0,
         "book": "Genesis",
@@ -294,7 +294,7 @@
         "book": "Genesis",
         "difficulty": "Easy",
         "verseReference": "Genesis 1:24-27",
-        "verseText": "And God said, 'Let the earth bring forth living creatures according to their kinds—livestock and creeping things and beasts of the earth according to their kinds.' And it was so... Then God said, 'Let us make man in our image, after our likeness.' (ESV)"
+        "verseText": "And God said, 'Let the earth bring forth living creatures according to their kinds—livestock and creeping things and beasts of the earth according to their kinds.' And it was so. And God made the beasts of the earth according to their kinds and the livestock according to their kinds, and everything that creeps on the ground according to its kind. And God saw that it was good. Then God said, 'Let us make man in our image, after our likeness. And let them have dominion over the fish of the sea and over the birds of the heavens and over the livestock and over all the earth and over every creeping thing that creeps on the earth.' So God created man in his own image, in the image of God he created him; male and female he created them. (ESV)"
     },
     {
         "text": "What sign did God give Cain to protect him after he killed Abel?",
@@ -321,7 +321,7 @@
         "book": "Genesis",
         "difficulty": "Medium",
         "verseReference": "Genesis 5:28-29",
-        "verseText": "Lamech lived 182 years and had a son. He called his name Noah, saying, 'Out of the ground that the LORD has cursed, this one shall bring us relief from our work and from the painful toil of our hands.' (ESV)"
+        "verseText": "When Lamech had lived 182 years, he fathered a son and called his name Noah, saying, 'Out of the ground that the LORD has cursed, this one shall bring us relief from our work and from the painful toil of our hands.' (ESV)"
     },
     {
         "text": "Who was the oldest man recorded in Genesis?",
@@ -519,7 +519,7 @@
         "book": "Genesis",
         "difficulty": "Medium",
         "verseReference": "Genesis 30:39-43",
-        "verseText": "The flocks bred in front of the sticks and so the flocks brought forth striped, speckled, and spotted. And Jacob separated the lambs... Thus the man increased greatly and had large flocks, female servants and male servants, and camels and donkeys. (ESV)"
+        "verseText": "and the flocks bred in front of the sticks and so the flocks brought forth striped, speckled, and spotted. And Jacob separated the lambs and set the faces of the flocks toward the striped and all the dark sheep in the flock of Laban. He put his own droves apart and did not put them with Laban's flock. Whenever the stronger of the flock were breeding, Jacob would lay the sticks in the watering troughs before the eyes of the flock, that they might breed among the sticks, but for the feebler of the flock he would not lay them there. So the feebler would be Laban's, and the stronger Jacob's. Thus the man increased greatly and had large flocks, female servants and male servants, and camels and donkeys. (ESV)"
     },
     {
         "text": "What did Joseph hide in Benjamin's sack to frame him?",
@@ -645,7 +645,7 @@
         "book": "Genesis",
         "difficulty": "Medium",
         "verseReference": "Genesis 24:2",
-        "verseText": "And Abraham said to his servant, the oldest of his household, who had charge of all that he had... (ESV)"
+        "verseText": "And Abraham said to his servant, the oldest of his household, who had charge of all that he had, 'Put your hand under my thigh,' (ESV)"
     },
     {
         "text": "What did Jacob do all night at Peniel?",
@@ -816,7 +816,7 @@
         "book": "Genesis",
         "difficulty": "Hard",
         "verseReference": "Genesis 24:15-16",
-        "verseText": "Before he had finished speaking, behold, Rebekah... came out with her water jar on her shoulder. (ESV)"
+        "verseText": "Before he had finished speaking, behold, Rebekah, who was born to Bethuel the son of Milcah, the wife of Nahor, Abraham's brother, came out with her water jar on her shoulder. The young woman was very attractive in appearance, a maiden whom no man had known. She went down to the spring and filled her jar and came up. (ESV)"
     },
     {
         "text": "Who was the King of Gerar who took Sarah into his harem?",
@@ -906,7 +906,7 @@
         "book": "Genesis",
         "difficulty": "Hard",
         "verseReference": "Genesis 16:1, 15",
-        "verseText": "Now Sarai, Abram's wife, had borne him no children. She had a female Egyptian servant whose name was Hagar... And Hagar bore Abram a son, and Abram called the name of his son, whom Hagar bore, Ishmael. (ESV)"
+        "verseText": "Now Sarai, Abram's wife, had borne him no children. She had a female Egyptian servant whose name was Hagar. And Hagar bore Abram a son, and Abram called the name of his son, whom Hagar bore, Ishmael. (ESV)"
     },
     {
         "text": "How long did the flood waters prevail upon the earth?",
@@ -933,7 +933,7 @@
         "book": "Genesis",
         "difficulty": "Easy",
         "verseReference": "Genesis 1:6-8",
-        "verseText": "And God said, 'Let there be an expanse in the midst of the waters, and let it separate the waters from the waters.' ... And God called the expanse Heaven. And there was evening and there was morning, the second day. (ESV)"
+        "verseText": "And God said, 'Let there be an expanse in the midst of the waters, and let it separate the waters from the waters.' And God made the expanse and separated the waters that were under the expanse from the waters that were above the expanse. And it was so. And God called the expanse Heaven. And there was evening and there was morning, the second day. (ESV)"
     },
     {
         "text": "What did God create on the third day?",
@@ -942,7 +942,7 @@
         "book": "Genesis",
         "difficulty": "Easy",
         "verseReference": "Genesis 1:9-13",
-        "verseText": "And God said, 'Let the waters under the heavens be gathered together into one place, and let the dry land appear.' ... And God said, 'Let the earth sprout vegetation, plants yielding seed, and fruit trees bearing fruit...' And there was evening and there was morning, the third day. (ESV)"
+        "verseText": "And God said, 'Let the waters under the heavens be gathered together into one place, and let the dry land appear.' And it was so. God called the dry land Earth, and the waters that were gathered together he called Seas. And God saw that it was good. And God said, 'Let the earth sprout vegetation, plants yielding seed, and fruit trees bearing fruit in which is their seed, each according to its kind, on the earth.' And it was so. The earth brought forth vegetation, plants yielding seed according to their own kinds, and trees bearing fruit in which is their seed, each according to its kind. And God saw that it was good. And there was evening and there was morning, the third day. (ESV)"
     },
     {
         "text": "What did God create on the fourth day?",
@@ -1113,7 +1113,7 @@
         "book": "Genesis",
         "difficulty": "Easy",
         "verseReference": "Genesis 27:15-23",
-        "verseText": "Then Rebekah took the best garments of Esau her older son... and put them on Jacob her younger son. And the skins of the young goats she put on his hands and on the smooth part of his neck... So he went in to his father and said, 'My father.' And he said, 'Here I am. Who are you, my son?' Jacob said to his father, 'I am Esau your firstborn...' (ESV)"
+        "verseText": "Then Rebekah took the best garments of Esau her older son, which were with her in the house, and put them on Jacob her younger son. And the skins of the young goats she put on his hands and on the smooth part of his neck. And she put the delicious food and the bread, which she had prepared, into the hand of her son Jacob. So he went in to his father and said, 'My father.' And he said, 'Here I am. Who are you, my son?' Jacob said to his father, 'I am Esau your firstborn. I have done as you told me; now sit up and eat of my game, that your soul may bless me.' But Isaac said to his son, 'How is it that you have found it so quickly, my son?' He answered, 'Because the LORD your God granted me success.' Then Isaac said to Jacob, 'Please come near, that I may feel you, my son, to know whether you are really my son Esau or not.' So Jacob went near to Isaac his father, who felt him and said, 'The voice is Jacob's voice, but the hands are the hands of Esau.' And he did not recognize him, because his hands were hairy like his brother Esau's hands. So he blessed him. (ESV)"
     },
     {
         "text": "Who was Jacob's first wife?",
@@ -1149,7 +1149,7 @@
         "book": "Genesis",
         "difficulty": "Easy",
         "verseReference": "Genesis 41:1-7, 25-31",
-        "verseText": "After two whole years, Pharaoh dreamed that he was standing by the Nile, and behold, there came up out of the Nile seven cows, attractive and plump... Then he fell asleep and dreamed a second time, and behold, seven ears of grain, plump and good, were growing on one stalk... Joseph said to Pharaoh, 'The dreams of Pharaoh are one; God has revealed to Pharaoh what he is about to do.' (ESV)"
+        "verseText": "After two whole years, Pharaoh dreamed that he was standing by the Nile, and behold, there came up out of the Nile seven cows, attractive and plump, and they fed in the reed grass. And behold, seven other cows, ugly and thin, came up out of the Nile after them, and stood by the other cows on the bank of the Nile. And the ugly, thin cows ate up the seven attractive, plump cows. And Pharaoh awoke. Then he fell asleep and dreamed a second time, and behold, seven ears of grain, plump and good, were growing on one stalk. And behold, after them sprouted seven ears, thin and blighted by the east wind. And the thin ears swallowed up the seven plump, full ears. And Pharaoh awoke, and behold, it was a dream. Joseph said to Pharaoh, 'The dreams of Pharaoh are one; God has revealed to Pharaoh what he is about to do. The seven good cows are seven years, and the seven good ears are seven years; the dreams are one. The seven lean and ugly cows that came up after them are seven years, and the seven empty ears blighted by the east wind are also seven years of famine. It is as I told Pharaoh; God has shown to Pharaoh what he is about to do. There will come seven years of great plenty throughout all the land of Egypt, but after them there will arise seven years of famine, and all the plenty will be forgotten in the land of Egypt. The famine will consume the land, and the plenty will be unknown in the land by reason of the famine that follows, for it will be very severe.' (ESV)"
     },
     {
         "text": "How many years of famine did Joseph predict?",
@@ -1203,7 +1203,7 @@
         "book": "Genesis",
         "difficulty": "Medium",
         "verseReference": "Genesis 2:10-14",
-        "verseText": "A river flowed out of Eden to water the garden, and there it divided and became four rivers. The name of the first is the Pishon... The name of the second river is the Gihon... And the name of the third river is the Tigris... And the fourth river is the Euphrates. (ESV)"
+        "verseText": "A river flowed out of Eden to water the garden, and there it divided and became four rivers. The name of the first is the Pishon. It is the one that flowed around the whole land of Havilah, where there is gold. And the gold of that land is good; bdellium and onyx stone are there. The name of the second river is the Gihon. It is the one that flowed around the whole land of Cush. And the name of the third river is the Tigris, which flows east of Assyria. And the fourth river is the Euphrates. (ESV)"
     },
     {
         "text": "What material did God use to clothe Adam and Eve after they sinned?",
@@ -1293,7 +1293,7 @@
         "book": "Genesis",
         "difficulty": "Medium",
         "verseReference": "Genesis 11:31; 12:1",
-        "verseText": "Terah took Abram his son and Lot the son of Haran... and they went forth together from Ur of the Chaldees to go into the land of Canaan... Now the LORD said to Abram, 'Go from your country and your kindred and your father's house to the land that I will show you.' (ESV)"
+        "verseText": "Terah took Abram his son and Lot the son of Haran, his grandson, and Sarai his daughter-in-law, his son Abram's wife, and they went forth together from Ur of the Chaldees to go into the land of Canaan, but when they came to Haran, they settled there. Now the LORD said to Abram, 'Go from your country and your kindred and your father's house to the land that I will show you.' (ESV)"
     },
     {
         "text": "Why did Abram and Lot separate?",
@@ -1365,7 +1365,7 @@
         "book": "Genesis",
         "difficulty": "Medium",
         "verseReference": "Genesis 19:1, 15",
-        "verseText": "The two angels came to Sodom in the evening... When morning dawned, the angels urged Lot, saying, 'Up! Take your wife and your two daughters who are here, lest you be swept away in the punishment of the city.' (ESV)"
+        "verseText": "The two angels came to Sodom in the evening, and Lot was sitting in the gate of Sodom. When Lot saw them, he rose to meet them and bowed himself with his face to the earth... As morning dawned, the angels urged Lot, saying, 'Up! Take your wife and your two daughters who are here, lest you be swept away in the punishment of the city.' (ESV)"
     },
     {
         "text": "What did God provide as a substitute sacrifice for Isaac?",
@@ -1383,7 +1383,7 @@
         "book": "Genesis",
         "difficulty": "Medium",
         "verseReference": "Genesis 23:16-18",
-        "verseText": "Abraham listened to Ephron, and Abraham weighed out for Ephron the silver that he had named in the hearing of the Hittites, four hundred shekels of silver... So the field of Ephron in Machpelah... became Abraham's property... (ESV)"
+        "verseText": "Abraham listened to Ephron, and Abraham weighed out for Ephron the silver that he had named in the hearing of the Hittites, four hundred shekels of silver, according to the weights current among the merchants. So the field of Ephron in Machpelah, which was to the east of Mamre, the field with the cave that was in it and all the trees that were in the field, throughout its whole area, was made over to Abraham as a possession in the presence of the Hittites, before all who went in at the gate of his city. (ESV)"
     },
     {
         "text": "What gifts did Abraham's servant give to Rebekah at the well?",
@@ -1419,7 +1419,7 @@
         "book": "Genesis",
         "difficulty": "Medium",
         "verseReference": "Genesis 27:43-28:2",
-        "verseText": "Now therefore, my son, obey my voice; arise, flee to Laban my brother in Haran... Then Isaac called Jacob and blessed him and directed him, 'You must not take a wife from the Canaanite women. Arise, go to Paddan-aram to the house of Bethuel your mother's father...' (ESV)"
+        "verseText": "Now therefore, my son, obey my voice; arise, flee to Laban my brother in Haran and stay with him a while, until your brother's fury turns away— until your brother's anger turns away from you, and he forgets what you have done to him. Then I will send and bring you from there. Why should I be bereft of you both in one day?' Then Rebekah said to Isaac, 'I loathe my life because of the Hittite women. If Jacob takes a wife from the Hittite women like these, from the women of the land, what good will my life be to me?' Then Isaac called Jacob and blessed him and directed him, 'You must not take a wife from the Canaanite women. Arise, go to Paddan-aram to the house of Bethuel your mother's father, and take as your wife from there one of the daughters of Laban your mother's brother.' (ESV)"
     },
     {
         "text": "What did Jacob name the place where he dreamed of the ladder?",
@@ -1455,7 +1455,7 @@
         "book": "Genesis",
         "difficulty": "Medium",
         "verseReference": "Genesis 32:7-21",
-        "verseText": "Then Jacob was greatly afraid and distressed. He divided the people who were with him, and the flocks and herds and camels, into two camps... And he prayed... Then he took from what he had with him a present for his brother Esau... (ESV)"
+        "verseText": "Then Jacob was greatly afraid and distressed. He divided the people who were with him, and the flocks and herds and camels, into two camps, thinking, 'If Esau comes to the one camp and attacks it, then the camp that is left will escape.' And Jacob said, 'O God of my father Abraham and God of my father Isaac, O LORD who said to me, \"Return to your country and to your kindred, that I may do you good,\" I am not worthy of the least of all the steadfast love and all the faithfulness that you have shown to your servant, for with only my staff I crossed this Jordan, and now I have become two camps. Please deliver me from the hand of my brother, from the hand of Esau, for I fear him, lest he come and attack me, the mothers with the children. But you said, \"I will surely do you good, and make your offspring as the sand of the sea, which cannot be numbered for multitude.\"' So he lodged there that night. Then he took from what he had with him a present for his brother Esau: two hundred female goats and twenty male goats, two hundred ewes and twenty rams, thirty milking camels and their calves, forty cows and ten bulls, twenty female donkeys and ten male donkeys. These he handed over to his servants, every drove by itself, and said to his servants, 'Pass on ahead of me and put a space between drove and drove.' He instructed the first, 'When Esau my brother meets you and asks you, \"To whom do you belong? Where are you going? And whose are these ahead of you?\" then you shall say, \"They belong to your servant Jacob. They are a present sent to my lord Esau. And behold, he is behind us.\"' He likewise instructed the second and the third and all who followed the droves, 'You shall say the same thing to Esau when you find him, and you shall say, \"Behold, your servant Jacob is behind us.\"' For he thought, 'I may appease him with the present that goes ahead of me, and afterward I will see his face. Perhaps he will accept me.' So the present passed on ahead of him, and he himself lodged that night in the camp. (ESV)"
     },
     {
         "text": "Who defiled Dinah, Jacob's daughter?",
@@ -1707,7 +1707,7 @@
         "book": "Genesis",
         "difficulty": "Hard",
         "verseReference": "Genesis 21:14",
-        "verseText": "So Abraham rose early in the morning and took bread and a skin of water and gave it to Hagar... and sent her away. And she departed and wandered in the wilderness of Beersheba. (ESV)"
+        "verseText": "So Abraham rose early in the morning and took bread and a skin of water and gave it to Hagar, putting it on her shoulder, along with the child, and sent her away. And she departed and wandered in the wilderness of Beersheba. (ESV)"
     },
     {
         "text": "What does 'Beersheba' mean, the place where Abraham made a treaty with Abimelech?",
@@ -1905,16 +1905,16 @@
         "book": "Genesis",
         "difficulty": "Hard",
         "verseReference": "Genesis 38:6, 27-30",
-        "verseText": "And Judah took a wife for Er his firstborn, and her name was Tamar... When the time of her labor came, there were twins in her womb... So his name was called Perez... Afterward his brother came out... So his name was called Zerah. (ESV)"
+        "verseText": "And Judah took a wife for Er his firstborn, and her name was Tamar. When the time of her labor came, there were twins in her womb. And when she was in labor, one put out a hand, and the midwife took and tied a scarlet thread on his hand, saying, 'This one came out first.' But as he drew back his hand, behold, his brother came out. And she said, 'What a breach you have made for yourself!' Therefore his name was called Perez. Afterward his brother came out with the scarlet thread on his hand. Therefore his name was called Zerah. (ESV)"
     },
     {
         "text": "What accusation did Potiphar's wife make against Joseph?",
-        "options": ["He tried to lie with her", "He stole from Potiphar", "He insulted her", "He plotted against Pharaoh"],
+        "options": ["He tried to lie with her", "He stole from Potiphar", "He blasphemed the gods", "He plotted against Pharaoh"],
         "correctAnswerIndex": 0,
         "book": "Genesis",
         "difficulty": "Hard",
         "verseReference": "Genesis 39:14, 17",
-        "verseText": "she called to the men of her household and said to them, 'See, he has brought among us a Hebrew to laugh at us. He came in to me to lie with me, and I cried out with a loud voice.' ... Then she told him the same story, saying, 'The Hebrew servant, whom you have brought among us, came in to me to laugh at me.' (ESV)"
+        "verseText": "she called to the men of her household and said to them, 'See, he has brought among us a Hebrew to laugh at us. He came in to me to lie with me, and I cried out with a loud voice.'... Then she told him the same story, saying, 'The Hebrew servant, whom you have brought among us, came in to me to laugh at me.' (ESV)"
     },
     {
         "text": "How long was Joseph in prison after interpreting the cupbearer's dream before being remembered?",
@@ -1923,7 +1923,7 @@
         "book": "Genesis",
         "difficulty": "Hard",
         "verseReference": "Genesis 40:23; 41:1",
-        "verseText": "Yet the chief cupbearer did not remember Joseph, but forgot him. After two whole years, Pharaoh dreamed... (ESV)"
+        "verseText": "Yet the chief cupbearer did not remember Joseph, but forgot him. After two whole years, Pharaoh dreamed that he was standing by the Nile, (ESV)"
     },
     {
         "text": "How old was Joseph when he stood before Pharaoh?",

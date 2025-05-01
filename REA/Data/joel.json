@@ -268,5 +268,14 @@
     "difficulty": "Medium",
     "verseReference": "Joel 3:19",
     "verseText": "“Egypt shall become a desolation and Edom a desolate wilderness, for the violence done to the people of Judah, because they have shed innocent blood in their land."
+  },
+  {
+    "text": "What remains unconquered when Joshua was old?",
+    "options": ["The coastal regions", "The northern mountains", "The eastern desert", "The southern valleys"],
+    "correctAnswerIndex": 0,
+    "book": "Joshua",
+    "difficulty": "Medium",
+    "verseReference": "Joshua 13:1-2",
+    "verseText": "Now Joshua was old and advanced in years, and the LORD said to him, 'You are old and advanced in years, and there remains yet very much land to possess. This is the land that yet remains: all the regions of the Philistines, and all those of the Geshurites.' (ESV)"
   }
 ]

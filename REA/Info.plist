@@ -3,6 +3,9 @@
 <plist version="1.0">
 <dict>
     <!-- ...existing entries... -->
+    <key>CFBundleDisplayName</key>
+    <string>BibleQquest</string>
+    <!-- ...existing entries... -->
     <!-- <key>UILaunchStoryboardName</key>
     <string>LaunchScreen</string> -->
     <!-- ...existing entries... -->

@@ -343,43 +343,43 @@
   },
   {
     "text": "What encouragement does Paul give to the rest of the church regarding their own behavior?",
-    "options": ["To become idle as well", "Not to grow weary in doing good", "To judge the idle harshly", "To separate from the idle completely"],
-    "correctAnswerIndex": 1,
+    "options": ["Focus only on personal holiness", "Wait for Christ's return", "Do not grow weary in doing good", "Exclude the idle"],
+    "correctAnswerIndex": 2,
     "book": "2 Thessalonians",
-    "difficulty": "Easy",
+    "difficulty": "Medium",
     "verseReference": "2 Thessalonians 3:13",
     "verseText": "As for you, brothers, do not grow weary in doing good."
   },
   {
-    "text": "Even when withdrawing from a disorderly brother, how should he be regarded?",
-    "options": ["As an enemy", "As a lost cause", "As a brother to be warned", "As someone inferior"],
+    "text": "How should believers treat a brother who persists in disobedience, according to Paul?",
+    "options": ["Treat him as an enemy", "Ignore him completely", "Warn him as a brother", "Accept his behavior"],
     "correctAnswerIndex": 2,
     "book": "2 Thessalonians",
-    "difficulty": "Easy",
+    "difficulty": "Medium",
     "verseReference": "2 Thessalonians 3:15",
     "verseText": "Do not regard him as an enemy, but warn him as a brother."
   },
   {
-    "text": "Who does Paul pray will give the Thessalonians peace at all times and in every way?",
-    "options": ["The Roman Emperor", "Themselves", "The Lord of peace himself", "The angels"],
-    "correctAnswerIndex": 2,
+    "text": "What blessing does Paul pray for the Thessalonians at the close of his letter?",
+    "options": ["Material prosperity", "Peace at all times in every way", "Victory over enemies", "Strong leadership"],
+    "correctAnswerIndex": 1,
     "book": "2 Thessalonians",
     "difficulty": "Easy",
     "verseReference": "2 Thessalonians 3:16",
     "verseText": "Now may the Lord of peace himself give you peace at all times in every way. The Lord be with you all."
   },
   {
-    "text": "How did Paul authenticate his letters, including this one?",
-    "options": ["With a secret code", "With a specific seal", "With his own handwritten greeting", "By mentioning Timothy"],
-    "correctAnswerIndex": 2,
+    "text": "How did Paul authenticate his letters to prevent forgery?",
+    "options": ["With a royal seal", "With a special signature written by his own hand", "Using a specific courier", "Including secret codes"],
+    "correctAnswerIndex": 1,
     "book": "2 Thessalonians",
     "difficulty": "Medium",
     "verseReference": "2 Thessalonians 3:17",
     "verseText": "I, Paul, write this greeting with my own hand. This is the sign of genuineness in every letter of mine; it is the way I write."
   },
   {
-    "text": "What is the final blessing Paul gives at the very end of 2 Thessalonians?",
-    "options": ["May you be wealthy", "May you defeat your enemies", "The grace of our Lord Jesus Christ be with you all", "May you live long lives"],
+    "text": "What final blessing does Paul pronounce in 2 Thessalonians?",
+    "options": ["Prosperity and health", "Wisdom and knowledge", "The grace of our Lord Jesus Christ", "Success in ministry"],
     "correctAnswerIndex": 2,
     "book": "2 Thessalonians",
     "difficulty": "Easy",
@@ -387,8 +387,8 @@
     "verseText": "The grace of our Lord Jesus Christ be with you all."
   },
   {
-    "text": "The initial greeting wishes the Thessalonians grace and what else from God the Father and the Lord Jesus Christ?",
-    "options": ["Prosperity", "Peace", "Power", "Knowledge"],
+    "text": "What greeting does Paul offer at the beginning of 2 Thessalonians?",
+    "options": ["Health and prosperity", "Grace and peace from God and Christ", "Greetings in the Lord", "Blessings from the apostles"],
     "correctAnswerIndex": 1,
     "book": "2 Thessalonians",
     "difficulty": "Easy",
@@ -396,8 +396,8 @@
     "verseText": "Grace to you and peace from God our Father and the Lord Jesus Christ."
   },
   {
-    "text": "Paul felt obligated to give thanks for the Thessalonians because their faith was growing abundantly and what else was increasing?",
-    "options": ["Their numbers", "Their wealth", "The love of every one of them for one another", "Their political influence"],
+    "text": "What did Paul affirm was happening in the Thessalonian church that caused him to give thanks?",
+    "options": ["Their increased wealth", "Their political influence", "Their faith was growing abundantly and their love for one another was increasing", "Their building projects"],
     "correctAnswerIndex": 2,
     "book": "2 Thessalonians",
     "difficulty": "Medium",
@@ -405,39 +405,30 @@
     "verseText": "We ought always to give thanks to God for you, brothers, as is right, because your faith is growing abundantly, and the love of every one of you for one another is increasing."
   },
   {
-    "text": "The coming of the lawless one is associated with 'wicked deception' for whom?",
-    "options": ["Believers", "Those who are perishing", "The angels", "The apostles"],
-    "correctAnswerIndex": 1,
+    "text": "Why do some refuse to believe the truth, according to 2 Thessalonians?",
+    "options": ["Intellectual challenges", "Lack of education", "They refused to love the truth", "Economic factors"],
+    "correctAnswerIndex": 2,
     "book": "2 Thessalonians",
     "difficulty": "Medium",
     "verseReference": "2 Thessalonians 2:10",
     "verseText": "and with all wicked deception for those who are perishing, because they refused to love the truth and so be saved."
   },
   {
-    "text": "The ultimate purpose of God sending a strong delusion upon those who reject the truth is that they may be what?",
-    "options": ["Saved anyway", "Given another chance", "Condemned", "Made ignorant"],
-    "correctAnswerIndex": 2,
+    "text": "What happens to those who do not believe the truth but took pleasure in unrighteousness?",
+    "options": ["They receive another chance", "They will be condemned", "They will be taught correctly", "Nothing happens to them"],
+    "correctAnswerIndex": 1,
     "book": "2 Thessalonians",
     "difficulty": "Medium",
     "verseReference": "2 Thessalonians 2:12",
     "verseText": "in order that all may be condemned who did not believe the truth but had pleasure in unrighteousness."
   },
   {
-    "text": "Paul prays that God and Christ will comfort the Thessalonians' hearts and establish them in what?",
-    "options": ["Worldly power", "Every good work and word", "Legalistic practices", "Isolation"],
-    "correctAnswerIndex": 1,
+    "text": "What does Paul pray that God would do in the hearts and works of believers?",
+    "options": ["Make them wealthy", "Give them political power", "Comfort them and establish them in every good work and word", "Make them famous"],
+    "correctAnswerIndex": 2,
     "book": "2 Thessalonians",
     "difficulty": "Medium",
     "verseReference": "2 Thessalonians 2:17",
     "verseText": "comfort your hearts and establish them in every good work and word."
-  },
-  {
-    "text": "The Lord is faithful and will establish the believers and guard them against whom?",
-    "options": ["Roman soldiers", "Poverty", "The evil one (Satan)", "False teachers only"],
-    "correctAnswerIndex": 2,
-    "book": "2 Thessalonians",
-    "difficulty": "Medium",
-    "verseReference": "2 Thessalonians 3:3",
-    "verseText": "But the Lord is faithful. He will establish you and guard you against the evil one."
   }
 ]

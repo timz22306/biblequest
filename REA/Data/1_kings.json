@@ -339,7 +339,7 @@
         "book": "1 Kings",
         "difficulty": "Medium",
         "verseReference": "1 Kings 2:17, 22",
-        "verseText": "He said, 'Please ask King Solomon—he will not refuse you—to give me Abishag the Shunammite as my wife.' ... King Solomon answered his mother, 'And why do you ask Abishag the Shunammite for Adonijah? Ask for him the kingdom also, for he is my older brother...' (ESV)"
+        "verseText": "He said, 'Please ask King Solomon—he will not refuse you—to give me Abishag the Shunammite as my wife.' ... King Solomon answered his mother, 'And why do you ask Abishag the Shunammite for Adonijah? Ask for him the kingdom also, for he is my older brother, and on his side are Abiathar the priest and Joab the son of Zeruiah.' (ESV)"
     },
     {
         "text": "Who carried out Solomon's order to execute Adonijah?",
@@ -429,7 +429,7 @@
         "book": "1 Kings",
         "difficulty": "Medium",
         "verseReference": "1 Kings 9:6-7",
-        "verseText": "But if you turn aside from following me, you or your children, and do not keep my commandments and my statutes that I have set before you, but go and serve other gods and worship them, then I will cut off Israel from the land that I have given them, and the house that I have consecrated for my name I will cast out of my sight... (ESV)"
+        "verseText": "But if you turn aside from following me, you or your children, and do not keep my commandments and my statutes that I have set before you, but go and serve other gods and worship them, then I will cut off Israel from the land that I have given them, and the house that I have consecrated for my name I will cast out of my sight, and Israel will become a proverb and a byword among all peoples. (ESV)"
     },
     {
         "text": "How much gold did the Queen of Sheba give to Solomon?",
@@ -465,7 +465,7 @@
         "book": "1 Kings",
         "difficulty": "Medium",
         "verseReference": "1 Kings 11:14, 23",
-        "verseText": "And the LORD raised up an adversary against Solomon, Hadad the Edomite... God also raised up as an adversary to him, Rezon the son of Eliada... (ESV)"
+        "verseText": "And the LORD raised up an adversary against Solomon, Hadad the Edomite; he was of the royal house in Edom... God also raised up as an adversary to him, Rezon the son of Eliada, who had fled from his master Hadadezer king of Zobah. (ESV)"
     },
     {
         "text": "Why did Jeroboam flee to Egypt?",
@@ -483,7 +483,7 @@
         "book": "1 Kings",
         "difficulty": "Medium",
         "verseReference": "1 Kings 12:10-11",
-        "verseText": "...Thus shall you say to them, 'My little finger is thicker than my father's waist. And now, whereas my father laid on you a heavy yoke, I will add to your yoke. My father disciplined you with whips, but I will discipline you with scorpions.' (ESV)"
+        "verseText": "And the young men who had grown up with him said to him, 'Thus shall you speak to this people who said to you, \"Your father made our yoke heavy, but you lighten it for us,\" thus shall you say to them, \"My little finger is thicker than my father's waist. And now, whereas my father laid on you a heavy yoke, I will add to your yoke. My father disciplined you with whips, but I will discipline you with scorpions.\"' (ESV)"
     },
     {
         "text": "Who was Adoniram (Adoram), whom Rehoboam sent to the northern tribes, and what happened to him?",
@@ -519,7 +519,7 @@
         "book": "1 Kings",
         "difficulty": "Medium",
         "verseReference": "1 Kings 13:21-24",
-        "verseText": "...'Thus says the LORD, \"Because you have disobeyed the word of the LORD... and have returned and have eaten bread and drunk water in the place of which he said to you, 'Eat no bread and drink no water,' your body shall not come to the tomb of your fathers.\"' ...a lion met him on the road and killed him. (ESV)"
+        "verseText": "and he cried to the man of God who came from Judah, 'Thus says the LORD, \"Because you have disobeyed the word of the LORD and have not kept the command that the LORD your God commanded you, but have come back and have eaten bread and drunk water in the place of which he said to you, ‘Eat no bread and drink no water,’ your body shall not come to the tomb of your fathers.\"' And after he had eaten bread and drunk, he saddled the donkey for the prophet whom he had brought back. And as he went away a lion met him on the road and killed him. And his body was thrown in the road, and the donkey stood beside it; the lion also stood beside the body. (ESV)"
     },
     {
         "text": "What judgment did Ahijah the prophet pronounce on Jeroboam's house because of his sin?",
@@ -635,8 +635,8 @@
         "correctAnswerIndex": 0,
         "book": "1 Kings",
         "difficulty": "Medium",
-        "verseReference": "1 Kings 20:42",
-        "verseText": "And he said to him, 'Thus says the LORD, \"Because you have let go out of your hand the man whom I had devoted to destruction, therefore your life shall be for his life, and your people for his people.\"' (ESV)"
+        "verseReference": "1 Kings 20:34, 42",
+        "verseText": "And Ben-hadad said to him, 'The cities that my father took from your father I will restore, and you may establish bazaars for yourself in Damascus, as my father did in Samaria.' And Ahab said, 'I will let you go on these terms.' So he made a covenant with him and let him go... And he said to him, 'Thus says the LORD, \"Because you have let go out of your hand the man whom I had devoted to destruction, therefore your life shall be for his life, and your people for his people.\"' (ESV)"
     },
     {
         "text": "What disguise did Ahab wear during the battle at Ramoth-gilead?",
@@ -699,7 +699,7 @@
         "book": "1 Kings",
         "difficulty": "Hard",
         "verseReference": "1 Kings 7:23, 2 Chron 4:6",
-        "verseText": "Then he made the sea of cast metal... (ESV) [Usage described in 2 Chron 4:6: 'The sea was for the priests to wash in.']"
+        "verseText": "Then he made the sea of cast metal. It was round, ten cubits from brim to brim, and five cubits high, and a line of thirty cubits measured its circumference. (ESV) [Usage described in 2 Chron 4:6: '...the sea was for the priests to wash in.']"
     },
     {
         "text": "What specific detail about the construction of the Temple indicated reverence and peace?",
@@ -735,7 +735,7 @@
         "book": "1 Kings",
         "difficulty": "Hard",
         "verseReference": "1 Kings 8:41-43",
-        "verseText": "Likewise, when a foreigner... comes and prays toward this house, hear in heaven your dwelling place and do according to all for which the foreigner calls to you, in order that all the peoples of the earth may know your name and fear you... (ESV)"
+        "verseText": "Likewise, when a foreigner, who is not of your people Israel, comes from a far country for your name's sake (for they shall hear of your great name and your mighty hand, and of your outstretched arm), when he comes and prays toward this house, hear in heaven your dwelling place and do according to all for which the foreigner calls to you, in order that all the peoples of the earth may know your name and fear you, as do your people Israel, and that they may know that this house that I have built is called by your name. (ESV)"
     },
     {
         "text": "What happened to the cities Solomon offered to Hiram, King of Tyre, in exchange for materials and gold?",
@@ -807,7 +807,7 @@
         "book": "1 Kings",
         "difficulty": "Hard",
         "verseReference": "1 Kings 15:18-20",
-        "verseText": "Then Asa took all the silver and the gold that were left in the treasures of the house of the LORD...and sent them to Ben-hadad... king of Syria... saying, '...Break your treaty with Baasha king of Israel, that he may withdraw from me.' And Ben-hadad listened to King Asa and sent the commanders of his armies against the cities of Israel... (ESV)"
+        "verseText": "Then Asa took all the silver and the gold that were left in the treasures of the house of the LORD and the treasures of the king's house, and gave them into the hands of his servants. And King Asa sent them to Ben-hadad the son of Tabrimmon, the son of Hezion, king of Syria, who lived in Damascus, saying, 'Let there be a treaty between me and you, as there was between my father and your father. Behold, I am sending to you a present of silver and gold. Go, break your treaty with Baasha king of Israel, that he may withdraw from me.' And Ben-hadad listened to King Asa and sent the commanders of his armies against the cities of Israel and conquered Ijon, Dan, Abel-beth-maacah, and all Chinneroth, with all the land of Naphtali. (ESV)"
     },
     {
         "text": "Who rebuilt Jericho during Ahab's reign, incurring the curse Joshua had pronounced centuries earlier?",
@@ -861,7 +861,7 @@
         "book": "1 Kings",
         "difficulty": "Hard",
         "verseReference": "1 Kings 22:19-22",
-        "verseText": "And Micaiah said, 'Therefore hear the word of the LORD: I saw the LORD sitting on his throne, and all the host of heaven standing beside him... And a spirit came forward and stood before the LORD, saying, \"I will entice him.\"... And he said, \"I will go out, and will be a lying spirit in the mouth of all his prophets.\"' (ESV)"
+        "verseText": "And Micaiah said, 'Therefore hear the word of the LORD: I saw the LORD sitting on his throne, and all the host of heaven standing beside him on his right hand and on his left; and the LORD said, \"Who will entice Ahab, that he may go up and fall at Ramoth-gilead?\" And one said one thing, and another said another. Then a spirit came forward and stood before the LORD, saying, \"I will entice him.\" And the LORD said to him, \"By what means?\" And he said, \"I will go out, and will be a lying spirit in the mouth of all his prophets.\" And he said, \"You are to entice him, and you shall succeed; go out and do so.\"' (ESV)"
     },
     {
         "text": "What did Zedekiah son of Chenaanah, a false prophet, do to Micaiah after Micaiah's true prophecy?",

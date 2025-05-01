@@ -87,7 +87,7 @@
         "book": "1 Samuel",
         "difficulty": "Easy",
         "verseReference": "1 Samuel 5:6",
-        "verseText": "The hand of the LORD was heavy against the people of Ashdod, and he terrified and afflicted them with tumors, both Ashdod and its territory. (ESV) [Also mentioned mice in 6:4-5]"
+        "verseText": "The hand of the LORD was heavy against the people of Ashdod, and he terrified and afflicted them with tumors, both Ashdod and its territory. (ESV)"
     },
     {
         "text": "How did the Philistines return the Ark of the Covenant?",
@@ -231,7 +231,7 @@
         "book": "1 Samuel",
         "difficulty": "Easy",
         "verseReference": "1 Samuel 20:35-40",
-        "verseText": "In the morning Jonathan went out into the field to the appointment with David, and with him a little boy... Jonathan called after the boy and said, 'Is not the arrow beyond you?'... So Jonathan’s boy gathered up the arrows and came to his master. (ESV) [Pre-arranged signal]"
+        "verseText": "In the morning Jonathan went out into the field to the appointment with David, and with him a little boy... Jonathan called after the boy and said, 'Is not the arrow beyond you?'... So Jonathan’s boy gathered up the arrows and came to his master. (ESV)"
     },
     {
         "text": "What did David receive from the priest Ahimelech at Nob?",
@@ -248,8 +248,8 @@
         "correctAnswerIndex": 0,
         "book": "1 Samuel",
         "difficulty": "Easy",
-        "verseReference": "1 Samuel 24, 1 Samuel 26",
-        "verseText": "[Chapter 24: David cuts Saul's robe in a cave. Chapter 26: David takes Saul's spear and water jug while he sleeps.] (ESV)"
+        "verseReference": "1 Samuel 24:6, 26:11",
+        "verseText": "He said to his men, 'The LORD forbid that I should do this thing to my lord, the LORD's anointed, to put out my hand against him, seeing he is the LORD's anointed.' (1 Sam 24:6) ... The LORD forbid that I should put out my hand against the LORD's anointed. But take now the spear that is at his head and the jar of water, and let us go. (1 Sam 26:11) (ESV)"
     },
     {
         "text": "Who was the wealthy, foolish man who insulted David and his men?",
@@ -339,7 +339,7 @@
         "book": "1 Samuel",
         "difficulty": "Medium",
         "verseReference": "1 Samuel 6:19",
-        "verseText": "And he struck some of the men of Beth-shemesh, because they looked upon the ark of the LORD. He struck seventy men of them, and the people mourned because the LORD had struck the people with a great blow. (ESV) [Note: Some manuscripts read '50,070 men']"
+        "verseText": "And he struck some of the men of Beth-shemesh, because they looked upon the ark of the LORD. He struck seventy men of them, and the people mourned because the LORD had struck the people with a great blow. (ESV)"
     },
     {
         "text": "Where was the Ark kept for twenty years after leaving Beth-shemesh?",
@@ -663,7 +663,7 @@
         "book": "1 Samuel",
         "difficulty": "Hard",
         "verseReference": "1 Samuel 2:35",
-        "verseText": "And I will raise up for myself a faithful priest, who shall do according to what is in my heart and in my mind. And I will build him a sure house, and he shall go in and out before my anointed forever. (ESV) [Historically linked to Zadok replacing Abiathar, theologically to Christ]"
+        "verseText": "And I will raise up for myself a faithful priest, who shall do according to what is in my heart and in my mind. And I will build him a sure house, and he shall go in and out before my anointed forever. (ESV)"
     },
     {
         "text": "What is the significance of the phrase 'the word of the LORD was rare in those days; there was no frequent vision'?",
@@ -681,7 +681,7 @@
         "book": "1 Samuel",
         "difficulty": "Hard",
         "verseReference": "1 Samuel 4:3",
-        "verseText": "And when the troops came to the camp, the elders of Israel said, 'Why has the LORD defeated us today before the Philistines? Let us bring the ark of the covenant of the LORD here from Shiloh, that it may come among us and save us from the power of our enemies.' (ESV) [Shows misplaced faith in the object]"
+        "verseText": "And when the troops came to the camp, the elders of Israel said, 'Why has the LORD defeated us today before the Philistines? Let us bring the ark of the covenant of the LORD here from Shiloh, that it may come among us and save us from the power of our enemies.' (ESV)"
     },
     {
         "text": "What is the likely significance of the golden mice sent back by the Philistines?",
@@ -707,8 +707,8 @@
         "correctAnswerIndex": 0,
         "book": "1 Samuel",
         "difficulty": "Hard",
-        "verseReference": "1 Sam 3:20 (Prophet), 7:6, 10 (Priest/Intercessor), 7:15 (Judge)",
-        "verseText": "And all Israel from Dan to Beersheba knew that Samuel was established as a prophet of the LORD. (3:20) ...And Samuel judged the people of Israel at Mizpah. (7:6) ...Samuel judged Israel all the days of his life. (7:15) [Implicit priestly actions like sacrifice/intercession] (ESV)"
+        "verseReference": "1 Sam 3:20, 7:6, 7:15",
+        "verseText": "And all Israel from Dan to Beersheba knew that Samuel was established as a prophet of the LORD. (3:20) ... And Samuel judged the people of Israel at Mizpah. (7:6) ... Samuel judged Israel all the days of his life. (7:15) (ESV)"
     },
     {
         "text": "What theological problem did Israel's request for a king 'like all the nations' present?",
@@ -762,7 +762,7 @@
         "book": "1 Samuel",
         "difficulty": "Hard",
         "verseReference": "1 Samuel 16:14",
-        "verseText": "Now the Spirit of the LORD departed from Saul, and a harmful spirit from the LORD tormented him. (ESV) [Theological interpretation varies, but linked to God's judgment]"
+        "verseText": "Now the Spirit of the LORD departed from Saul, and a harmful spirit from the LORD tormented him. (ESV)"
     },
     {
         "text": "What is the significance of the covenant made between David and Jonathan?",
@@ -780,7 +780,7 @@
         "book": "1 Samuel",
         "difficulty": "Hard",
         "verseReference": "1 Samuel 18:25, 27",
-        "verseText": "Then Saul said, 'Thus shall you say to David, \"The king desires no bride-price except a hundred foreskins of the Philistines, that he may be avenged of the king's enemies.\"'... David arose and went... and killed two hundred of the Philistines. And David brought their foreskins... And Saul gave him his daughter Michal for a wife. (ESV) [Saul hoped David would be killed]"
+        "verseText": "Then Saul said, 'Thus shall you say to David, \"The king desires no bride-price except a hundred foreskins of the Philistines, that he may be avenged of the king's enemies.\"' Now Saul thought to make David fall by the hand of the Philistines. (v25) ... David arose and went, along with his men, and killed two hundred of the Philistines. And David brought their foreskins, which were given in full number to the king, that he might become the king's son-in-law. And Saul gave him his daughter Michal for a wife. (v27) (ESV)"
     },
     {
         "text": "What does David's feigned madness in Gath reveal about his situation?",
@@ -879,7 +879,7 @@
         "book": "1 Samuel",
         "difficulty": "Hard",
         "verseReference": "2 Samuel 1:17, 23, 26",
-        "verseText": "And David lamented with this lamentation over Saul and Jonathan his son... 'Saul and Jonathan, beloved and lovely! In life and in death they were not divided...' 'I am distressed for you, my brother Jonathan; very pleasant have you been to me; your love to me was extraordinary...' (ESV) [Note: Lament is in 2 Samuel 1]"
+        "verseText": "And David lamented with this lamentation over Saul and Jonathan his son... (v17) 'Saul and Jonathan, beloved and lovely! In life and in death they were not divided; they were swifter than eagles; they were stronger than lions.' (v23) 'I am distressed for you, my brother Jonathan; very pleasant have you been to me; your love to me was extraordinary, surpassing the love of women.' (v26) (ESV)"
     },
     {
         "text": "What is the 'Song of the Bow'?",
@@ -887,8 +887,8 @@
         "correctAnswerIndex": 0,
         "book": "1 Samuel",
         "difficulty": "Hard",
-        "verseReference": "2 Samuel 1:18",
-        "verseText": "And he said it should be taught to the people of Judah; behold, it is written in the Book of Jashar. He said: [The lament follows] (ESV) [Note: Lament is in 2 Samuel 1, referred to as 'The Bow']"
+        "verseReference": "2 Samuel 1:18-19",
+        "verseText": "(He said it should be taught to the people of Judah; behold, it is written in the Book of Jashar.) He said: 'Your glory, O Israel, is slain on your high places! How the mighty have fallen!' (ESV)"
     },
     {
         "text": "What role does the 'Spirit of the LORD' play in 1 Samuel, particularly regarding Saul and David?",
@@ -914,7 +914,7 @@
         "correctAnswerIndex": 0,
         "book": "1 Samuel",
         "difficulty": "Hard",
-        "verseReference": "1 Sam 13 (Saul's sacrifice), 15 (Amalekites), 23:2-4 (David inquires), 24 (David spares Saul)",
-        "verseText": "[Multiple examples throughout the book contrasting Saul's fear/disobedience (e.g., 13:12, 15:24) with David's inquiry/trust (e.g., 23:2, 4, 30:8) and restraint (24:6, 26:9)] (ESV)"
+        "verseReference": "1 Sam 13:12, 15:24, 23:2, 24:6",
+        "verseText": "Saul: '...so I forced myself, and offered the burnt offering.' (13:12) Saul: 'I have sinned... because I feared the people and obeyed their voice.' (15:24) David: 'Therefore David inquired of the LORD, \"Shall I go and attack these Philistines?\" And the LORD said to David, \"Go and attack the Philistines and save Keilah.\"' (23:2) David: 'The LORD forbid that I should do this thing to my lord, the LORD's anointed, to put out my hand against him, seeing he is the LORD's anointed.' (24:6) (ESV)"
     }
 ]

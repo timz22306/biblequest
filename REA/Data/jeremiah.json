@@ -94,14 +94,18 @@
     "options": ["Egypt", "Assyria", "Babylon", "Philistia"],
     "correctAnswerIndex": 2,
     "book": "Jeremiah",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "verseReference": "Jeremiah 20:4",
+    "verseText": "For thus says the LORD: Behold, I will make you a terror to yourself and to all your friends. They shall fall by the sword of their enemies while you look on. And I will give all Judah into the hand of the king of Babylon. He shall carry them captive to Babylon, and shall strike them down with the sword."
   },
   {
     "text": "Jeremiah used the imagery of a marred linen loincloth hidden near the Euphrates River to symbolize what?",
     "options": ["The coming wealth of Judah", "The spoiled pride of Judah and Jerusalem", "The need for ritual purity", "The strength of the Babylonian army"],
     "correctAnswerIndex": 1,
     "book": "Jeremiah",
-    "difficulty": "Medium"
+    "difficulty": "Medium",
+    "verseReference": "Jeremiah 13:9-11",
+    "verseText": "Thus says the LORD: Even so will I spoil the pride of Judah and the great pride of Jerusalem. This evil people, who refuse to hear my words, who stubbornly follow their own heart and have gone after other gods to serve them and worship them, shall be like this loincloth, which is good for nothing. For as the loincloth clings to the waist of a man, so I made the whole house of Israel and the whole house of Judah cling to me, declares the LORD, that they might be for me a people, a name, a praise, and a glory, but they would not listen."
   },
   {
     "text": "What did God forbid Jeremiah from doing as a sign of the coming sorrow and desolation in Judah?",

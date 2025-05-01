@@ -276,7 +276,7 @@
         "book": "2 Samuel",
         "difficulty": "Medium",
         "verseReference": "2 Samuel 1:17-18",
-        "verseText": "And David lamented with this lamentation over Saul and Jonathan his son, and he said it should be taught to the people of Judah; behold, it is written in the Book of Jashar. He said: 'The Bow'. (ESV) [Text slightly adjusted for clarity, as 'The Bow' is the title given in some interpretations/translations]"
+        "verseText": "And David lamented with this lamentation over Saul and Jonathan his son, and he said it should be taught to the people of Judah; behold, it is written in the Book of Jashar. He said: 'The Bow'. (ESV)"
     },
     {
         "text": "Who was Joab's swift-footed brother killed by Abner?",
@@ -320,8 +320,8 @@
         "correctAnswerIndex": 0,
         "book": "2 Samuel",
         "difficulty": "Medium",
-        "verseReference": "2 Samuel 5:6-10 (Implied)",
-        "verseText": "[Historical context: Jerusalem was on the border between Benjamin and Judah, not strongly associated with any single tribe, making it a suitable neutral capital for a united kingdom.] (ESV)"
+        "verseReference": "2 Samuel 5:6-10",
+        "verseText": "And the king and his men went to Jerusalem against the Jebusites, the inhabitants of the land, who said to David, 'You will not come in here, but the blind and the lame will ward you off'—thinking, 'David cannot come in here.' Nevertheless, David took the stronghold of Zion, that is, the city of David. (ESV)"
     },
     {
         "text": "Whose house did the Ark of the Covenant stay in for three months after Uzzah's death?",
@@ -375,7 +375,7 @@
         "book": "2 Samuel",
         "difficulty": "Medium",
         "verseReference": "2 Samuel 12:1-4",
-        "verseText": "He said to him, 'There were two men in a certain city, the Tich and the poor. The rich man had very many flocks and herds, but the poor man hadnothing but one little ewe lamb... Now there came a traveler to the rich man, and he was unwilling to take one of his own flock... but he took the poor man's lamb...' (ESV)"
+        "verseText": "He said to him, 'There were two men in a certain city, the rich and the poor. The rich man had very many flocks and herds, but the poor man had nothing but one little ewe lamb... Now there came a traveler to the rich man, and he was unwilling to take one of his own flock... but he took the poor man's lamb...' (ESV)"
     },
     {
         "text": "Besides the death of the child, what long-term consequence did Nathan prophesy for David's sin?",
@@ -393,7 +393,7 @@
         "book": "2 Samuel",
         "difficulty": "Medium",
         "verseReference": "2 Samuel 13:3-5",
-        "verseText": "But Amnon had a friend, whose name was Jonadab, the son of Shimeah, David's brother. And Jonadab vas a very crafty man... Jonadab said to him, 'Lie down on your bed and preten to be ill. And when your father comes to see you, say to him, 'Let my sister Tamar come and give me bread to eat...'' (ESV)"
+        "verseText": "But Amnon had a friend, whose name was Jonadab, the son of Shimeah, David's brother. And Jonadab was a very crafty man... Jonadab said to him, 'Lie down on your bed and pretend to be ill. And when your father comes to see you, say to him, 'Let my sister Tamar come and give me bread to eat...'' (ESV)"
     },
     {
         "text": "How long did Absalom live in exile in Geshur after killing Amnon?",
@@ -590,7 +590,7 @@
         "correctAnswerIndex": 0,
         "book": "2 Samuel",
         "difficulty": "Medium",
-        "verseReference": "2 Samuel 22:1 / Psalm 18:1 (Title)",
+        "verseReference": "2 Samuel 22:1 / Psalm 18:1",
         "verseText": "And David spoke to the LORD the words of this song on the day when the LORD delivered him from the hand of all his enemies, and from the hand of Saul. (2 Sam 22:1) To the choirmaster. A Psalm of David, the servant of the LORD, who addressed the words of this song to the LORD on the day when the LORD rescued him from the hand of all his enemies, and from the hand of Saul. (Psalm 18 Title) (ESV)"
     },
     {
@@ -627,7 +627,7 @@
         "book": "2 Samuel",
         "difficulty": "Medium",
         "verseReference": "2 Samuel 24:13",
-        "verseText": "So Gad came to David and told him, and said to him, 'Shall three years of famine come to you in your land? Or will you flee three months before your foes while they pursue you? Or shall there be three days' pestilence in your land?' (ESV) [Note: 1 Chron 21:12 has 'seven years']"
+        "verseText": "So Gad came to David and told him, and said to him, 'Shall three years of famine come to you in your land? Or will you flee three months before your foes while they pursue you? Or shall there be three days' pestilence in your land?' (ESV)"
     },
     {
         "text": "Why did David insist on paying Araunah for the threshing floor and oxen?",
@@ -644,8 +644,8 @@
         "correctAnswerIndex": 0,
         "book": "2 Samuel",
         "difficulty": "Hard",
-        "verseReference": "2 Samuel 1:8-10 vs 1 Samuel 31:4-5",
-        "verseText": "[The Amalekite claims Saul asked him to deliver the killing blow after being wounded (2 Sam 1:9-10), whereas 1 Sam 31:4 states Saul fell on his own sword after his armor bearer refused.] (ESV)"
+        "verseReference": "2 Samuel 1:8-10",
+        "verseText": "And he answered me, 'I am an Amalekite.' He said to me, 'Stand beside me and kill me, for anguish has seized me, and yet my life still lingers.' So I stood beside him and killed him, because I was sure that he could not live after he had fallen. And I took the crown that was on his head and the armlet that was on his arm, and I have brought them here to my lord."
     },
     {
         "text": "Why was Hebron a significant location for David to be anointed king of Judah?",
@@ -653,8 +653,8 @@
         "correctAnswerIndex": 0,
         "book": "2 Samuel",
         "difficulty": "Hard",
-        "verseReference": "2 Samuel 2:1-4 (Context: Genesis 13:18, 23:19, Joshua 14:13-15)",
-        "verseText": "[Hebron's historical significance as an ancient patriarchal center and Caleb's inheritance made it a natural power base within Judah.] (ESV)"
+        "verseReference": "2 Samuel 2:1-4",
+        "verseText": "And the men of Judah came, and there they anointed David king over the house of Judah. (ESV)"
     },
     {
         "text": "What does the battle at the Pool of Gibeon, where twelve men from each side fought and killed each other, signify?",
@@ -698,8 +698,8 @@
         "correctAnswerIndex": 0,
         "book": "2 Samuel",
         "difficulty": "Hard",
-        "verseReference": "2 Samuel 5:8 (cf. 1 Chronicles 11:6)",
-        "verseText": "And David said on that day, 'Whoever strikes the Jebusites, let him get up the water shaft to attack 'the lame and the blind,' who are hated by David's soul.' (ESV) [1 Chron 11:6 credits Joab with leading the ascent]"
+        "verseReference": "2 Samuel 5:8",
+        "verseText": "And David said on that day, 'Whoever strikes the Jebusites, let him get up the water shaft to attack 'the lame and the blind,' who are hated by David's soul.' (ESV)"
     },
     {
         "text": "What theological error likely led to Uzzah's death when touching the Ark?",
@@ -707,8 +707,8 @@
         "correctAnswerIndex": 0,
         "book": "2 Samuel",
         "difficulty": "Hard",
-        "verseReference": "2 Samuel 6:3, 6-7 (cf. Numbers 4:15, 7:9)",
-        "verseText": "And they carried the ark of God on a new cart... (6:3) Uzzah put out his hand to the ark of God and took hold of it... And the anger of the LORD was kindled against Uzzah, and God struck him down there because of his error [or, irreverence]. (6:6-7) [Contrast with instructions for Levites to carry it on their shoulders using poles.] (ESV)"
+        "verseReference": "2 Samuel 6:3, 6-7",
+        "verseText": "And they carried the ark of God on a new cart... (6:3) Uzzah put out his hand to the ark of God and took hold of it... And the anger of the LORD was kindled against Uzzah, and God struck him down there because of his error [or, irreverence]. (6:6-7) (ESV)"
     },
     {
         "text": "What is the significance of Michal, Saul's daughter, having no child 'to the day of her death'?",
@@ -734,7 +734,7 @@
         "correctAnswerIndex": 0,
         "book": "2 Samuel",
         "difficulty": "Hard",
-        "verseReference": "2 Samuel 9:1, 7 (cf. 1 Samuel 20:14-17)",
+        "verseReference": "2 Samuel 9:1, 7",
         "verseText": "And David said, 'Is there still anyone left of the house of Saul, that I may show him kindness [hesed] for Jonathan's sake?'... And David said to him, 'Do not fear, for I will show you kindness [hesed] for the sake of your father Jonathan...' (ESV)"
     },
     {
@@ -806,7 +806,7 @@
         "correctAnswerIndex": 0,
         "book": "2 Samuel",
         "difficulty": "Hard",
-        "verseReference": "2 Samuel 16:1-4, cf. 19:24-30",
+        "verseReference": "2 Samuel 16:1-4",
         "verseText": "[Ziba claims Mephibosheth stayed in Jerusalem hoping the kingdom would revert to Saul's house (16:3). Mephibosheth later claims Ziba slandered him and prevented him from joining David (19:26-27). David's final decision (19:29) seems to split the difference, leaving the truth uncertain.] (ESV)"
     },
     {
@@ -833,7 +833,7 @@
         "correctAnswerIndex": 0,
         "book": "2 Samuel",
         "difficulty": "Hard",
-        "verseReference": "2 Samuel 19:40-43, 20:1-2",
+        "verseReference": "2 Samuel 19:40-43",
         "verseText": "[The dispute over who had more right to the king and Sheba's subsequent rebellion highlight the underlying tribal tensions that would later divide Israel and Judah.] (ESV)"
     },
     {
@@ -842,7 +842,7 @@
         "correctAnswerIndex": 0,
         "book": "2 Samuel",
         "difficulty": "Hard",
-        "verseReference": "2 Samuel 21:1-2 (cf. Joshua 9)",
+        "verseReference": "2 Samuel 21:1-2",
         "verseText": "And the LORD said, 'There is bloodguilt on Saul and on his house, because he put the Gibeonites to death.' So the king called the Gibeonites... (Now the Gibeonites were not of the people of Israel but of the remnant of the Amorites; although the people of Israel had sworn to spare them, Saul had sought to strike them down in his zeal...) (ESV)"
     },
     {
@@ -869,8 +869,8 @@
         "correctAnswerIndex": 0,
         "book": "2 Samuel",
         "difficulty": "Hard",
-        "verseReference": "2 Samuel 24:1 (cf. 1 Chronicles 21:1, James 1:13)",
-        "verseText": "Again the anger of the LORD was kindled against Israel, and he incited David against them, saying, 'Go, number Israel and Judah.' (ESV) [The parallel passage in 1 Chron 21:1 says 'Satan stood up against Israel and incited David'. This highlights complex theological perspectives on God's sovereignty, permission, and secondary causes.]"
+        "verseReference": "2 Samuel 24:1",
+        "verseText": "Again the anger of the LORD was kindled against Israel, and he incited David against them, saying, 'Go, number Israel and Judah.' (ESV)"
     },
     {
         "text": "Why might numbering the people have been considered a sin?",
@@ -878,8 +878,8 @@
         "correctAnswerIndex": 0,
         "book": "2 Samuel",
         "difficulty": "Hard",
-        "verseReference": "2 Samuel 24:3, 10 (cf. Exodus 30:12)",
-        "verseText": "But Joab said to the king, 'May the LORD your God add to the people a hundred times as many... but why does my lord the king delight in this thing?' (24:3) David's heart struck him after he had numbered the people. And David said to the LORD, 'I have sinned greatly...' (24:10) [Exodus 30:12 links census-taking with atonement money to avoid plague.] (ESV)"
+        "verseReference": "2 Samuel 24:3, 10",
+        "verseText": "But Joab said to the king, 'May the LORD your God add to the people a hundred times as many... but why does my lord the king delight in this thing?' (24:3) David's heart struck him after he had numbered the people. And David said to the LORD, 'I have sinned greatly...' (24:10) (ESV)"
     },
     {
         "text": "What is the significance of David choosing the plague ('let us fall into the hand of the LORD, for his mercy is great')?",
@@ -896,8 +896,8 @@
         "correctAnswerIndex": 0,
         "book": "2 Samuel",
         "difficulty": "Hard",
-        "verseReference": "2 Samuel 24:25 (cf. 1 Chronicles 22:1, 2 Chronicles 3:1)",
-        "verseText": "And David built there an altar to the LORD... So the LORD responded to the plea for the land, and the plague was averted from Israel. [This location becomes the site where Solomon builds the Temple, linking atonement and worship.] (ESV)"
+        "verseReference": "2 Samuel 24:25",
+        "verseText": "And David built there an altar to the LORD... So the LORD responded to the plea for the land, and the plague was averted from Israel. (ESV)"
     },
     {
         "text": "How does the book of 2 Samuel portray the complexities of leadership, faith, and human failure?",

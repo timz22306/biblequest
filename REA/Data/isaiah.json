@@ -72,6 +72,15 @@
     "verseText": "but they who wait for the LORD shall renew their strength; they shall mount up with wings like eagles; they shall run and not be weary; they shall walk and not faint."
   },
   {
+    "text": "What does Isaiah 40 compare the nations to before God?",
+    "options": ["Mighty armies", "Great mountains", "A drop from a bucket, dust on the scales", "Roaring lions"],
+    "correctAnswerIndex": 2,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 40:15",
+    "verseText": "Behold, the nations are like a drop from a bucket, and are accounted as the dust on the scales; behold, he takes up the coastlands like fine dust."
+  },
+  {
     "text": "Isaiah 53 describes a suffering servant. What does it say he bore?",
     "options": ["A royal crown", "Our griefs and sorrows", "A golden scepter", "The sins of the Gentiles only"],
     "correctAnswerIndex": 1,
@@ -223,6 +232,15 @@
     "difficulty": "Medium",
     "verseReference": "Isaiah 42:2",
     "verseText": "He will not cry aloud or lift up his voice, or make it heard in the street;"
+  },
+  {
+    "text": "Who does God say He formed Israel to be (Isaiah 43:21)?",
+    "options": ["A nation of warriors", "A people to declare His praise", "Merchants and traders", "Builders of cities"],
+    "correctAnswerIndex": 1,
+    "book": "Isaiah",
+    "difficulty": "Medium",
+    "verseReference": "Isaiah 43:21",
+    "verseText": "the people whom I formed for myself that they might declare my praise."
   },
   {
     "text": "What does Isaiah 61:1 say the Spirit of the Lord GOD is upon the speaker to do?",

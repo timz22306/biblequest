@@ -898,5 +898,14 @@
         "difficulty": "Hard",
         "verseReference": "2 Kings 25:26 (Context Jer 42-43)",
         "verseText": "Then all the people, both small and great, and the captains of the forces arose and went to Egypt, for they were afraid of the Chaldeans. [Jeremiah 43 details their disregard for Jeremiah's warning not to go to Egypt]"
+    },
+    {
+        "text": "Why might numbering the people have been considered a sin?",
+        "options": ["It potentially reflected pride, reliance on military strength instead of God, or violated a prohibition against census-taking without specific divine command or atonement (Ex 30:12)", "It was inherently evil", "David used inaccurate methods", "The people objected"],
+        "correctAnswerIndex": 0,
+        "book": "2 Kings",
+        "difficulty": "Hard",
+        "verseReference": "2 Samuel 24:3, 10",
+        "verseText": "But Joab said to the king, 'May the LORD your God add to the people a hundred times as many as they are, while the eyes of my lord the king still see it, but why does my lord the king delight in this thing?' But David's heart struck him after he had numbered the people. And David said to the LORD, 'I have sinned greatly in what I have done. But now, O LORD, please take away the iniquity of your servant, for I have done very foolishly.'"
     }
 ]

@@ -5,8 +5,8 @@
     "correctAnswerIndex": 1,
     "book": "Hosea",
     "difficulty": "Easy",
-    "verseReference": "Hosea 1:1 (Context)",
-    "verseText": "(Prophecy directed towards Ephraim/Israel, contrasting with Judah mentioned in the dating)"
+    "verseReference": "Hosea 1:1",
+    "verseText": "The word of the LORD that came to Hosea, the son of Beeri, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel."
   },
   {
     "text": "What unusual command did God give Hosea at the beginning of his ministry?",
@@ -14,8 +14,8 @@
     "correctAnswerIndex": 1,
     "book": "Hosea",
     "difficulty": "Easy",
-    "verseReference": "Hosea 1:2",
-    "verseText": "When the LORD first spoke through Hosea, the LORD said to Hosea, “Go, take to yourself a wife of whoredom and have children of whoredom, for the land commits great whoredom by forsaking the LORD.”"
+    "verseReference": "Hosea 1:2, 2:1-5",
+    "verseText": "When the LORD first spoke through Hosea, the LORD said to Hosea, \"Go, take to yourself a wife of whoredom and have children of whoredom, for the land commits great whoredom by forsaking the LORD.\" And the LORD said, \"Call her name Not My People, for you are not my people, and I am not your God. Yet the number of the children of Israel shall be like the sand of the sea, which cannot be measured or numbered. And in the place where it was said to them, 'You are not my people,' it shall be said to them, 'Children of the living God.' And the children of Judah and the children of Israel shall be gathered together, and they shall appoint for themselves one head. And they shall go up from the land, for great shall be the day of Jezreel. Say to your brothers, 'You are my people,' and to your sisters, 'You have received mercy.' Plead with your mother, plead—for she is not my wife, and I am not her husband—that she put away her whoring from her face, and her adultery from between her breasts; lest I strip her naked and make her as in the day she was born, and make her like a wilderness, and make her like a parched land, and kill her with thirst. Upon her children also I will have no mercy, because they are children of whoredom. For their mother has played the whore; she who conceived them has acted shamefully.\""
   },
   {
     "text": "Who was the woman Hosea married?",
@@ -60,7 +60,7 @@
     "book": "Hosea",
     "difficulty": "Medium",
     "verseReference": "Hosea 3:1-2",
-    "verseText": "And the LORD said to me, “Go again, love a woman who is loved by another man and is an adulteress, even as the LORD loves rescheduling the children of Israel, though they turn to other gods... So I bought her for fifteen shekels of silver..."
+    "verseText": "And the LORD said to me, \"Go again, love a woman who is loved by another man and is an adulteress, even as the LORD loves the children of Israel, though they turn to other gods and love cakes of raisins.\" So I bought her for fifteen shekels of silver and a homer and a lethech of barley."
   },
   {
     "text": "What accusation does God bring against Israel in Hosea 4:6?",
@@ -105,7 +105,7 @@
     "book": "Hosea",
     "difficulty": "Medium",
     "verseReference": "Hosea 5:13, 7:11, 12:1",
-    "verseText": "When Ephraim saw his sickness, and Judah his wound, then Ephraim went to Assyria... Ephraim is like a dove, silly and without sense, calling to Egypt, going to Assyria... Ephraim feeds on the wind and pursues the east wind all day long; they multiply lies and violence; they make a covenant with Assyria, and oil is carried to Egypt."
+    "verseText": "When Ephraim saw his sickness, and Judah his wound, then Ephraim went to Assyria, and sent to the great king. But he is not able to cure you or heal your wound. Ephraim is like a dove, silly and without sense, calling to Egypt, going to Assyria. Ephraim feeds on the wind and pursues the east wind all day long; they multiply falsehood and violence; they make a covenant with Assyria, and oil is carried to Egypt."
   },
   {
     "text": "What does God compare Ephraim (Israel) to when describing their tendency to seek help from foreign powers?",
@@ -141,7 +141,7 @@
     "book": "Hosea",
     "difficulty": "Hard",
     "verseReference": "Hosea 1:10-11",
-    "verseText": "Yet the number of the children of Israel shall be like the sand of the sea, which cannot be measured or numbered. And in the place where it was said to them, “You are not my people,” it shall be said to them, “Sons of the living God.”"
+    "verseText": "Yet the number of the children of Israel shall be like the sand of the sea, which cannot be measured or numbered. And in the place where it was said to them, 'You are not my people,' it shall be said to them, 'Children of the living God.' And the children of Judah and the children of Israel shall be gathered together, and they shall appoint for themselves one head. And they shall go up from the land, for great shall be the day of Jezreel."
   },
   {
     "text": "How does God describe the fleeting nature of Israel's and Judah's loyalty in Hosea 6?",
@@ -204,7 +204,7 @@
     "book": "Hosea",
     "difficulty": "Medium",
     "verseReference": "Hosea 6:8, 9:15, 12:11",
-    "verseText": "Gilead is a city of evildoers, tracked with blood... all their princes are rebels. ... Is there iniquity in Gilead? They shall surely come to nothing. In Gilgal they sacrifice bulls; their altars also are like stone heaps on the furrows of the field."
+    "verseText": "Gilead is a city of evildoers, tracked with blood. Every evil of theirs is in Gilgal; there I began to hate them. Because of the wickedness of their deeds I will drive them out of my house. I will love them no more; all their princes are rebels. If there is iniquity in Gilead, they shall surely come to nothing. In Gilgal they sacrifice bulls; their altars also are like stone heaps on the furrows of the field."
   },
   {
     "text": "What does Hosea urge Israel to return to God with in chapter 14?",
@@ -276,7 +276,7 @@
     "book": "Hosea",
     "difficulty": "Hard",
     "verseReference": "Hosea 12:3-4",
-    "verseText": "In the womb he took his brother by the heel, and in his manhood he strove with God. He strove with the angel and prevailed; he wept and sought his favor. He met God at Bethel, and there God spoke with us—"
+    "verseText": "In the womb he took his brother by the heel, and in his manhood he strove with God. He strove with the angel and prevailed; he wept and sought his favor. He met God at Bethel, and there God spoke with us."
   },
   {
     "text": "What is the ultimate fate Hosea prophesies for Samaria due to its rebellion?",
