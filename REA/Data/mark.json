@@ -6,7 +6,7 @@
     "book": "Mark",
     "difficulty": "Easy",
     "verseReference": "Mark 1:1-9",
-    "verseText": "The beginning of the gospel of Jesus Christ, the Son of God. As it is written in Isaiah the prophet... John appeared, baptizing in the wilderness... In those days Jesus came from Nazareth of Galilee and was baptized by John in the Jordan."
+    "verseText": "The beginning of the gospel of Jesus Christ, the Son of God. As it is written in Isaiah the prophet, 'Behold, I send my messenger before your face, who will prepare your way, the voice of one crying in the wilderness: Prepare the way of the Lord, make his paths straight.' John appeared, baptizing in the wilderness and proclaiming a baptism of repentance for the forgiveness of sins. And all the country of Judea and all Jerusalem were going out to him and were being baptized by him in the river Jordan, confessing their sins. (ESV)"
   },
   {
     "text": "Mark's Gospel is often characterized by its emphasis on Jesus'...",
@@ -15,7 +15,7 @@
     "book": "Mark",
     "difficulty": "Easy",
     "verseReference": "Mark 1:21-28, 10:45",
-    "verseText": "(Mark presents a fast-paced narrative focusing on Jesus' powerful works and miracles, highlighting His role as the suffering servant who came 'not to be served but to serve')."
+    "verseText": "And they went into Capernaum, and immediately on the Sabbath he entered the synagogue and was teaching. And they were astonished at his teaching, for he taught them as one who had authority, and not as the scribes. And immediately there was in their synagogue a man with an unclean spirit. And he cried out, 'What have you to do with us, Jesus of Nazareth? Have you come to destroy us? I know who you are—the Holy One of God.' (Mark 1:21-24) For even the Son of Man came not to be served but to serve, and to give his life as a ransom for many. (Mark 10:45) (ESV)"
   },
   {
     "text": "What word does Mark frequently use to convey a sense of immediacy and action?",
@@ -24,7 +24,7 @@
     "book": "Mark",
     "difficulty": "Medium",
     "verseReference": "Mark 1:10, 12, 18, 20, 21 etc.",
-    "verseText": "(The Greek word 'euthus', often translated 'immediately' or 'straightway', appears over 40 times in Mark, contributing to its rapid pace)."
+    "verseText": "And when he came up out of the water, immediately he saw the heavens being torn open and the Spirit descending on him like a dove. (Mark 1:10) The Spirit immediately drove him out into the wilderness. (Mark 1:12) And immediately they left their nets and followed him. (Mark 1:18) (ESV)"
   },
   {
     "text": "In Mark 2, Jesus heals a paralytic man after his friends do what?",
@@ -64,12 +64,12 @@
   },
   {
     "text": "The 'Messianic Secret' is a theme in Mark where Jesus often tells people or demons...",
-    "options": ["To tell everyone about his miracles", "Not to reveal his identity as the Messiah", "To follow him immediately", "To pay for their healing"],
+    "options": ["To tell everyone about him", "To keep silent about his identity", "To perform miracles themselves", "To follow him immediately"],
     "correctAnswerIndex": 1,
     "book": "Mark",
     "difficulty": "Medium",
-    "verseReference": "Mark 1:34, 1:44, 3:12, 5:43, 7:36, 8:30",
-    "verseText": "(Jesus repeatedly commands silence regarding his identity or miracles, possibly to avoid misunderstanding of his messianic role before the cross)."
+    "verseReference": "Mark 1:44, 3:12, 5:43, 7:36, 8:30",
+    "verseText": "And Jesus sternly charged him and sent him away at once, and said to him, 'See that you say nothing to anyone, but go, show yourself to the priest and offer for your cleansing what Moses commanded, for a proof to them.' (Mark 1:44) And he strictly ordered them not to make him known. (Mark 3:12) (ESV)"
   },
   {
     "text": "How does the earliest and most reliable ending of Mark's Gospel conclude (Mark 16:8)?",
@@ -78,7 +78,7 @@
     "book": "Mark",
     "difficulty": "Hard",
     "verseReference": "Mark 16:8",
-    "verseText": "And they went out and fled from the tomb, for trembling and astonishment had seized them, and they said nothing to anyone, for they were afraid. [Early manuscripts end here; verses 9-20 are widely considered a later addition]."
+    "verseText": "And they went out and fled from the tomb, for trembling and astonishment had seized them, and they said nothing to anyone, for they were afraid. (ESV)"
   },
   {
     "text": "Mark is traditionally thought to have been a companion of which apostle, possibly basing his Gospel on this apostle's accounts?",
@@ -86,8 +86,8 @@
     "correctAnswerIndex": 1,
     "book": "Mark",
     "difficulty": "Medium",
-    "verseReference": "N/A (Church Tradition, cf. 1 Peter 5:13)",
-    "verseText": "(Early church tradition strongly associates Mark with the Apostle Peter, suggesting Peter's preaching formed the basis of Mark's Gospel)."
+    "verseReference": "Historical tradition",
+    "verseText": "(According to early church fathers like Papias and Irenaeus, Mark recorded the teachings of the apostle Peter, acting as his interpreter.)"
   },
   {
     "text": "What happened immediately after Jesus' baptism, according to Mark 1?",
@@ -96,7 +96,7 @@
     "book": "Mark",
     "difficulty": "Medium",
     "verseReference": "Mark 1:12",
-    "verseText": "The Spirit immediately drove him out into the wilderness."
+    "verseText": "The Spirit immediately drove him out into the wilderness. (ESV)"
   },
   {
     "text": "Who were the first four disciples Jesus called in Mark 1?",
