@@ -112,14 +112,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		AE3DB3AB2DA192BC0032901D /* BibleQuest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BibleQuest.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		AE3DB3AB2DA192BC0032901D /* Biblitz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Biblitz.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AE3DB3AE2DA192BC0032901D /* REAApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = REAApp.swift; sourceTree = "<group>"; };
 		AE3DB3B22DA192BF0032901D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AE3DB3B42DA192BF0032901D /* REA.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = REA.entitlements; sourceTree = "<group>"; };
 		AE3DB3B62DA192BF0032901D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		AE3DB3BC2DA192C00032901D /* BibleQuestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BibleQuestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		AE3DB3BC2DA192C00032901D /* BiblitzTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BiblitzTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AE3DB3C02DA192C00032901D /* REATests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = REATests.swift; sourceTree = "<group>"; };
-		AE3DB3C62DA192C00032901D /* BibleQuestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BibleQuestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		AE3DB3C62DA192C00032901D /* BiblitzUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BiblitzUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AE3DB3CA2DA192C00032901D /* REAUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = REAUITests.swift; sourceTree = "<group>"; };
 		AE3DB3CC2DA192C00032901D /* REAUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = REAUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		AE3DB3DC2DA193E30032901D /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
@@ -242,9 +242,9 @@
 		AE3DB3AC2DA192BC0032901D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				AE3DB3AB2DA192BC0032901D /* BibleQuest.app */,
-				AE3DB3BC2DA192C00032901D /* BibleQuestTests.xctest */,
-				AE3DB3C62DA192C00032901D /* BibleQuestUITests.xctest */,
+				AE3DB3AB2DA192BC0032901D /* Biblitz.app */,
+				AE3DB3BC2DA192C00032901D /* BiblitzTests.xctest */,
+				AE3DB3C62DA192C00032901D /* BiblitzUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -400,9 +400,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		AE3DB3AA2DA192BC0032901D /* BibleQuest */ = {
+		AE3DB3AA2DA192BC0032901D /* Biblitz */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = AE3DB3D02DA192C00032901D /* Build configuration list for PBXNativeTarget "BibleQuest" */;
+			buildConfigurationList = AE3DB3D02DA192C00032901D /* Build configuration list for PBXNativeTarget "Biblitz" */;
 			buildPhases = (
 				AE3DB3A72DA192BC0032901D /* Sources */,
 				AE3DB3A82DA192BC0032901D /* Frameworks */,
@@ -412,14 +412,14 @@
 			);
 			dependencies = (
 			);
-			name = BibleQuest;
+			name = Biblitz;
 			productName = REA;
-			productReference = AE3DB3AB2DA192BC0032901D /* BibleQuest.app */;
+			productReference = AE3DB3AB2DA192BC0032901D /* Biblitz.app */;
 			productType = "com.apple.product-type.application";
 		};
-		AE3DB3BB2DA192C00032901D /* BibleQuestTests */ = {
+		AE3DB3BB2DA192C00032901D /* BiblitzTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = AE3DB3D32DA192C00032901D /* Build configuration list for PBXNativeTarget "BibleQuestTests" */;
+			buildConfigurationList = AE3DB3D32DA192C00032901D /* Build configuration list for PBXNativeTarget "BiblitzTests" */;
 			buildPhases = (
 				AE3DB3B82DA192C00032901D /* Sources */,
 				AE3DB3B92DA192C00032901D /* Frameworks */,
@@ -430,14 +430,14 @@
 			dependencies = (
 				AE3DB3BE2DA192C00032901D /* PBXTargetDependency */,
 			);
-			name = BibleQuestTests;
+			name = BiblitzTests;
 			productName = REATests;
-			productReference = AE3DB3BC2DA192C00032901D /* BibleQuestTests.xctest */;
+			productReference = AE3DB3BC2DA192C00032901D /* BiblitzTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		AE3DB3C52DA192C00032901D /* BibleQuestUITests */ = {
+		AE3DB3C52DA192C00032901D /* BiblitzUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = AE3DB3D62DA192C00032901D /* Build configuration list for PBXNativeTarget "BibleQuestUITests" */;
+			buildConfigurationList = AE3DB3D62DA192C00032901D /* Build configuration list for PBXNativeTarget "BiblitzUITests" */;
 			buildPhases = (
 				AE3DB3C22DA192C00032901D /* Sources */,
 				AE3DB3C32DA192C00032901D /* Frameworks */,
@@ -448,9 +448,9 @@
 			dependencies = (
 				AE3DB3C82DA192C00032901D /* PBXTargetDependency */,
 			);
-			name = BibleQuestUITests;
+			name = BiblitzUITests;
 			productName = REAUITests;
-			productReference = AE3DB3C62DA192C00032901D /* BibleQuestUITests.xctest */;
+			productReference = AE3DB3C62DA192C00032901D /* BiblitzUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -476,7 +476,7 @@
 					};
 				};
 			};
-			buildConfigurationList = AE3DB3A62DA192BC0032901D /* Build configuration list for PBXProject "BibleQuest" */;
+			buildConfigurationList = AE3DB3A62DA192BC0032901D /* Build configuration list for PBXProject "Biblitz" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -489,9 +489,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				AE3DB3AA2DA192BC0032901D /* BibleQuest */,
-				AE3DB3BB2DA192C00032901D /* BibleQuestTests */,
-				AE3DB3C52DA192C00032901D /* BibleQuestUITests */,
+				AE3DB3AA2DA192BC0032901D /* Biblitz */,
+				AE3DB3BB2DA192C00032901D /* BiblitzTests */,
+				AE3DB3C52DA192C00032901D /* BiblitzUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -632,12 +632,12 @@
 /* Begin PBXTargetDependency section */
 		AE3DB3BE2DA192C00032901D /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = AE3DB3AA2DA192BC0032901D /* BibleQuest */;
+			target = AE3DB3AA2DA192BC0032901D /* Biblitz */;
 			targetProxy = AE3DB3BD2DA192C00032901D /* PBXContainerItemProxy */;
 		};
 		AE3DB3C82DA192C00032901D /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = AE3DB3AA2DA192BC0032901D /* BibleQuest */;
+			target = AE3DB3AA2DA192BC0032901D /* Biblitz */;
 			targetProxy = AE3DB3C72DA192C00032901D /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -857,7 +857,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BibleQuest.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/BibleQuest";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Biblitz.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Biblitz";
 			};
 			name = Debug;
 		};
@@ -879,7 +879,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BibleQuest.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/BibleQuest";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Biblitz.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Biblitz";
 			};
 			name = Release;
 		};
@@ -928,7 +928,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		AE3DB3A62DA192BC0032901D /* Build configuration list for PBXProject "BibleQuest" */ = {
+		AE3DB3A62DA192BC0032901D /* Build configuration list for PBXProject "Biblitz" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				AE3DB3CE2DA192C00032901D /* Debug */,
@@ -937,7 +937,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		AE3DB3D02DA192C00032901D /* Build configuration list for PBXNativeTarget "BibleQuest" */ = {
+		AE3DB3D02DA192C00032901D /* Build configuration list for PBXNativeTarget "Biblitz" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				AE3DB3D12DA192C00032901D /* Debug */,
@@ -946,7 +946,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		AE3DB3D32DA192C00032901D /* Build configuration list for PBXNativeTarget "BibleQuestTests" */ = {
+		AE3DB3D32DA192C00032901D /* Build configuration list for PBXNativeTarget "BiblitzTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				AE3DB3D42DA192C00032901D /* Debug */,
@@ -955,7 +955,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		AE3DB3D62DA192C00032901D /* Build configuration list for PBXNativeTarget "BibleQuestUITests" */ = {
+		AE3DB3D62DA192C00032901D /* Build configuration list for PBXNativeTarget "BiblitzUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				AE3DB3D72DA192C00032901D /* Debug */,
