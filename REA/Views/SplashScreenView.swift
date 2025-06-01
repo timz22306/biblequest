@@ -25,7 +25,7 @@ struct LaunchScreenView: View {
                     .glowingEffect(color: AppColors.accent, radius: 15, speed: 2.0) // Added glowing effect
                 
                 // Title
-                Text("BibleQuest")
+                Text("Biblitz")
                     .font(.custom("Avenir-Heavy", size: 36))
                     .foregroundColor(.black)
                     .padding(.top, 20)
