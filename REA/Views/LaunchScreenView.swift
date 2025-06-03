@@ -25,7 +25,7 @@ struct LaunchScreenView: View {
                     // .glowingEffect(color: AppColors.accent, radius: 15, speed: 2.0) // Added glowing effect
 
                 // Title
-                Text("BibleQuest")
+                Text("Biblitz")
                     // .font(.custom("SnellRoundhand-Bold", size: 36)) // Updated to a more artistic font
                     .font(.custom("Noteworthy-Bold", size: 36)) // Updated to a more artistic font
                     .foregroundColor(.primary) // Adjusts color based on theme
