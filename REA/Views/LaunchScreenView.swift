@@ -32,7 +32,7 @@ struct LaunchScreenView: View {
                     .padding(.top, 20)
                 
                 // Tagline
-                Text("He leads me beside quiet waters,\nHe restores my soul")
+                Text("“For the word of God is alive and active. Sharper than any double-edged sword…”\n— Hebrews 4:12")
                     .multilineTextAlignment(.center)
                     .lineLimit(2)
                     // .font(.custom("Avenir-Medium", size: 16))
